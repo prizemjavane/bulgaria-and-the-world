@@ -1,0 +1,82 @@
+@reference "../../../styles.css";
+
+.item-dates         { @apply mt-3 flex flex-wrap items-baseline gap-x-6 gap-y-1 text-base; }
+.item-dates-compact { @apply flex flex-wrap items-baseline gap-x-4 gap-y-1 text-sm mb-4; }
+
+.item-date-range    { @apply font-semibold text-slate-700 text-xl; }
+.item-dates-compact .item-date-range { @apply text-lg; }
+
+.star-sign-badge {
+  @apply inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-sm
+         bg-violet-50 text-violet-600 border border-violet-100 font-medium;
+}
+
+.item-description         { @apply mt-3 text-base text-slate-600; }
+.item-description-compact { @apply text-base text-slate-600 leading-relaxed; }
+
+.source-card {
+  @apply px-3 py-2.5 rounded-lg bg-slate-50/70 border border-slate-100;
+}
+.source-card-quoted {
+  @apply bg-white border-slate-200;
+}
+
+.source-link-row {
+  @apply relative flex items-center gap-2 min-w-0;
+}
+.source-card-quoted .source-link-row {
+  @apply mt-2;
+}
+
+.source-icon {
+  @apply flex-none flex items-center justify-center w-6 h-6 rounded-md bg-slate-200/60 text-slate-400;
+}
+.source-icon-youtube {
+  @apply bg-red-50 text-red-500;
+}
+
+.source-link {
+  @apply text-sm text-slate-600 no-underline truncate
+         hover:text-blue-600 transition-colors;
+}
+.source-external {
+  @apply flex-none text-slate-300;
+}
+
+.source-tooltip {
+  @apply invisible opacity-0 absolute left-0 bottom-full mb-2 z-10
+         px-3 py-2 rounded-lg bg-slate-800 text-white shadow-lg
+         max-w-sm w-max pointer-events-none;
+  transition: opacity 0s, visibility 0s;
+}
+.source-tooltip::after {
+  content: '';
+  @apply absolute top-full left-4 border-4 border-transparent;
+  border-top-color: theme(colors.slate.800);
+}
+.source-link-row:hover .source-tooltip {
+  @apply visible opacity-100;
+}
+.source-tooltip-name {
+  @apply text-sm font-medium leading-snug;
+}
+.source-tooltip-url {
+  @apply mt-1 text-sm text-slate-400 break-all leading-snug;
+}
+
+.blockquote-quote    { @apply pl-4 border-l-2 border-blue-300 text-base text-slate-700 italic; }
+.blockquote-original { @apply pl-4 mt-1 border-l-2 border-slate-200 text-slate-400 italic; }
+
+.card-footer         { @apply mt-5 pt-4 border-t border-slate-100 flex items-center justify-between gap-4; }
+.card-footer-compact { @apply mt-5 pt-4 border-t border-slate-100 flex flex-col items-start gap-3; }
+.card-id { @apply flex items-center gap-1.5; }
+.card-id-text { @apply font-mono text-xs text-slate-400 select-all break-all; }
+.card-copy-btn {
+  @apply inline-flex items-center justify-center w-6 h-6 rounded text-slate-300
+         cursor-pointer transition-colors hover:text-slate-500 hover:bg-slate-100;
+}
+.card-improve-btn {
+  @apply inline-flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium rounded-lg
+         text-slate-500 no-underline border border-slate-200 transition-colors cursor-pointer
+         hover:text-slate-700 hover:border-slate-400 hover:bg-slate-50;
+}

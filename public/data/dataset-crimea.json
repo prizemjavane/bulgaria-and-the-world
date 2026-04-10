@@ -1,0 +1,3893 @@
+{
+  "id": "crimea",
+  "name": "Крим",
+  "description": "Пълна история на Кримския полуостров — от древните таври и гръцки колонии, през Византия, Златната орда, Кримското ханство и Османската империя, до Руската империя, СССР, Украйна и руската анексия.",
+  "knowledge": "crimea",
+  "data": [
+    {
+      "name": "Руски лидери",
+      "id": "a59d5944-231f-41cc-80ff-468c98030035",
+      "periods": [
+        {
+          "name": "Иван III Велики",
+          "description": "Велик княз на Москва (1462–1505). Обединява руските земи и слага край на монголското владичество.",
+          "date": {
+            "range": [
+              "1462-03-28",
+              "1505-10-27"
+            ],
+            "from": {
+              "date": "1462-03-28"
+            },
+            "to": {
+              "date": "1505-10-27"
+            }
+          },
+          "sources": [
+            {
+              "name": "Ivan III of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Ivan_III_of_Russia"
+              ],
+              "from": {
+                "date": "1462-03-28"
+              },
+              "to": {
+                "date": "1505-10-27"
+              },
+              "quoteOriginal": "Ivan III Vasilyevich, also known as Ivan the Great, was the Grand Prince of Moscow and all Russia from 1462 until his death in 1505.",
+              "quote": "Иван III Василиевич, известен също като Иван Велики, е Велик княз на Москва и цяла Русия от 1462 г. до смъртта си през 1505 г."
+            }
+          ]
+        },
+        {
+          "name": "Василий III",
+          "description": "Велик княз на Москва (1505–1533). Продължава обединението на руските земи, присъединява Псков и Рязан.",
+          "date": {
+            "range": [
+              "1505-11-06",
+              "1533-12-03"
+            ],
+            "from": {
+              "date": "1505-11-06"
+            },
+            "to": {
+              "date": "1533-12-03"
+            }
+          },
+          "sources": [
+            {
+              "name": "Vasily III of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Vasily_III_of_Russia"
+              ],
+              "from": {
+                "date": "1505-11-06"
+              },
+              "to": {
+                "date": "1533-12-03"
+              },
+              "quoteOriginal": "Vasily III Ivanovich was the Grand Prince of Moscow and all Russia from 1505 until his death in 1533.",
+              "quote": "Василий III Иванович е Велик княз на Москва и цяла Русия от 1505 г. до смъртта си през 1533 г."
+            }
+          ]
+        },
+        {
+          "name": "Иван IV Грозни",
+          "description": "Първият руски цар (1547–1584). Велик княз на Москва от 1533 г. Завладява Казанското и Астраханското ханство, но опричнината опустошава страната.",
+          "date": {
+            "range": [
+              "1533-12-13",
+              "1584-03-28"
+            ],
+            "from": {
+              "date": "1533-12-13"
+            },
+            "to": {
+              "date": "1584-03-28"
+            }
+          },
+          "sources": [
+            {
+              "name": "Ivan the Terrible – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Ivan_the_Terrible"
+              ],
+              "from": {
+                "date": "1533-12-13"
+              },
+              "to": {
+                "date": "1584-03-28"
+              },
+              "quoteOriginal": "Ivan IV Vasilyevich, commonly known as Ivan the Terrible, was the Grand Prince of Moscow and all Russia from 1533 to 1547, and the first Tsar and Grand Prince of all Russia from 1547 until his death in 1584.",
+              "quote": "Иван IV Василиевич, известен като Иван Грозни, е Велик княз на Москва и цяла Русия от 1533 до 1547 г. и първият цар и Велик княз на цяла Русия от 1547 г. до смъртта си през 1584 г."
+            }
+          ]
+        },
+        {
+          "name": "Фьодор I",
+          "description": "Последният цар от династията Рюриковичи (1584–1598). Реалната власт е в ръцете на шурея му Борис Годунов.",
+          "date": {
+            "range": [
+              "1584-03-28",
+              "1598-01-17"
+            ],
+            "from": {
+              "date": "1584-03-28"
+            },
+            "to": {
+              "date": "1598-01-17"
+            }
+          },
+          "sources": [
+            {
+              "name": "Feodor I of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Feodor_I_of_Russia"
+              ],
+              "from": {
+                "date": "1584-03-28"
+              },
+              "to": {
+                "date": "1598-01-17"
+              },
+              "quoteOriginal": "Ivan IV died on 28 March [O.S. 18 March] 1584, and Feodor succeeded his father as tsar. Feodor died on 17 January [O.S. 7 January] 1598 in Moscow.",
+              "quote": "Иван IV умира на 28 март [стар стил 18 март] 1584 г. и Фьодор наследява баща си като цар. Фьодор умира на 17 януари [стар стил 7 януари] 1598 г. в Москва."
+            }
+          ]
+        },
+        {
+          "name": "Борис Годунов",
+          "description": "Руски цар (1598–1605), избран от Земския събор. Управлението му е белязано от глад и начало на Смутното време.",
+          "comment": "Началната дата 3 март 1598 г. (нов стил) е денят на избора му от Земския събор (21 февруари стар стил). Крайната дата е 23 април 1605 г. — денят на смъртта му.",
+          "date": {
+            "range": [
+              "1598-03-03",
+              "1605-04-23"
+            ],
+            "from": {
+              "date": "1598-03-03"
+            },
+            "to": {
+              "date": "1605-04-23"
+            }
+          },
+          "sources": [
+            {
+              "name": "Boris Godunov – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Boris_Godunov"
+              ],
+              "from": {
+                "date": "1598-03-03"
+              },
+              "to": {
+                "date": "1605-04-23"
+              },
+              "quoteOriginal": "Boris, however, would only accept the throne from a Zemsky Sobor, or national assembly, which met on February 17 and unanimously elected him on the 21st. Boris died on 23 April [O.S. 13 April] 1605.",
+              "quote": "Борис обаче приема трона едва от Земски събор — национално събрание, което заседава на 17 февруари и единодушно го избира на 21-ви. Борис умира на 23 април [стар стил 13 април] 1605 г."
+            }
+          ]
+        },
+        {
+          "name": "Василий IV Шуйски",
+          "description": "Руски цар (1606–1610) от рода Шуйски. Управлява по време на Смутното време и е свален от трона от болярите.",
+          "comment": "Началната дата 29 май 1606 г. (нов стил) е денят на провъзгласяването му за цар. Крайната дата 29 юли 1610 г. (нов стил) е денят на свалянето му от трона.",
+          "date": {
+            "range": [
+              "1606-05-29",
+              "1610-07-29"
+            ],
+            "from": {
+              "date": "1606-05-29"
+            },
+            "to": {
+              "date": "1610-07-29"
+            }
+          },
+          "sources": [
+            {
+              "name": "Vasili IV of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Vasili_IV_of_Russia"
+              ],
+              "from": {
+                "date": "1606-05-29"
+              },
+              "to": {
+                "date": "1610-07-29"
+              },
+              "quoteOriginal": "Vasili IV Ivanovich reigned as Tsar of Russia from 29 May [O.S. 19 May] 1606 to 29 July [O.S. 19 July] 1610.",
+              "quote": "Василий IV Иванович управлява като цар на Русия от 29 май [стар стил 19 май] 1606 г. до 29 юли [стар стил 19 юли] 1610 г."
+            }
+          ]
+        },
+        {
+          "name": "Михаил I Романов",
+          "description": "Първият цар от династията Романови (1613–1645). Избран от Земския събор, слагайки край на Смутното време.",
+          "comment": "Началната дата 3 март 1613 г. (нов стил; 21 февруари стар стил) е денят на избора му от Земския събор. Крайната дата е 23 юли 1645 г. — денят на смъртта му.",
+          "date": {
+            "range": [
+              "1613-03-03",
+              "1645-07-23"
+            ],
+            "from": {
+              "date": "1613-03-03"
+            },
+            "to": {
+              "date": "1645-07-23"
+            }
+          },
+          "sources": [
+            {
+              "name": "Michael I of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Michael_I_of_Russia"
+              ],
+              "from": {
+                "date": "1613-03-03"
+              },
+              "to": {
+                "date": "1645-07-23"
+              },
+              "quoteOriginal": "On 21 February 1613, 700 delegates reached a consensus for Michael to be chosen as a compromise candidate as Tsar of Russia by the Zemsky Sobor of 1613. He died on 23 July 1645.",
+              "quote": "На 21 февруари 1613 г. 700 делегати постигат консенсус Михаил да бъде избран за цар на Русия от Земския събор. Той умира на 23 юли 1645 г."
+            }
+          ]
+        },
+        {
+          "name": "Алексей I",
+          "description": "Руски цар (1645–1676), баща на Петър Велики. При него започва църковната реформа на патриарх Никон и войната с Полша за Украйна.",
+          "date": {
+            "range": [
+              "1645-07-23",
+              "1676-02-08"
+            ],
+            "from": {
+              "date": "1645-07-23"
+            },
+            "to": {
+              "date": "1676-02-08"
+            }
+          },
+          "sources": [
+            {
+              "name": "Alexis of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Alexis_of_Russia"
+              ],
+              "from": {
+                "date": "1645-07-23"
+              },
+              "to": {
+                "date": "1676-02-08"
+              },
+              "quoteOriginal": "Alexis I Mikhailovich was the Tsar of all Russia from 1645 until his death in 1676. At the age of sixteen, he acceded to the throne after his father's death on 12 July 1645.",
+              "quote": "Алексей I Михайлович е цар на цяла Русия от 1645 г. до смъртта си през 1676 г. На шестнайсетгодишна възраст той наследява трона след смъртта на баща си на 12 юли 1645 г."
+            }
+          ]
+        },
+        {
+          "name": "Фьодор III",
+          "description": "Руски цар (1676–1682). Провежда реформи в армията и администрацията, премахва местничеството.",
+          "date": {
+            "range": [
+              "1676-02-08",
+              "1682-05-07"
+            ],
+            "from": {
+              "date": "1676-02-08"
+            },
+            "to": {
+              "date": "1682-05-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "Feodor III of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Feodor_III_of_Russia"
+              ],
+              "from": {
+                "date": "1676-02-08"
+              },
+              "to": {
+                "date": "1682-05-07"
+              },
+              "quoteOriginal": "Fyodor, as the eldest surviving son of Tsar Alexis and Maria Miloslavskaya, succeeded his father on the throne in 1676 at the age of fifteen. Feodor died three months after his second wedding, on 7 May, without surviving issue.",
+              "quote": "Фьодор, като най-възрастният оцелял син на цар Алексей и Мария Милославска, наследява баща си на трона през 1676 г. на петнайсетгодишна възраст. Фьодор умира три месеца след втората си сватба, на 7 май, без оцелял наследник."
+            }
+          ]
+        },
+        {
+          "name": "Петър I Велики",
+          "description": "Руски цар (1682–1725), после първи император (от 1721). Модернизира Русия, основава Санкт Петербург и превръща страната в европейска велика сила.",
+          "comment": "Началната дата е 7 май 1682 г. — денят на смъртта на Фьодор III, когато Петър е избран за цар (съвладетел с Иван V до 1696 г.). Крайната дата е 8 февруари 1725 г. — денят на смъртта му.",
+          "date": {
+            "range": [
+              "1682-05-07",
+              "1725-02-08"
+            ],
+            "from": {
+              "date": "1682-05-07"
+            },
+            "to": {
+              "date": "1725-02-08"
+            }
+          },
+          "sources": [
+            {
+              "name": "Peter the Great – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Peter_the_Great"
+              ],
+              "from": {
+                "date": "1682-05-07"
+              },
+              "to": {
+                "date": "1725-02-08"
+              },
+              "quoteOriginal": "Peter I was the Tsar of all Russia from 1682 and the first Emperor of Russia from 1721 until his death in 1725.",
+              "quote": "Петър I е цар на цяла Русия от 1682 г. и първият император на Русия от 1721 г. до смъртта си през 1725 г."
+            }
+          ]
+        },
+        {
+          "name": "Екатерина I",
+          "description": "Съпруга на Петър Велики, първата жена императрица на Русия. Управлява кратко след смъртта му, подкрепена от Меншиков и гвардейските полкове.",
+          "date": {
+            "range": [
+              "1725-02-08",
+              "1727-05-17"
+            ],
+            "from": {
+              "date": "1725-02-08"
+            },
+            "to": {
+              "date": "1727-05-17"
+            }
+          },
+          "sources": [
+            {
+              "name": "Catherine I of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Catherine_I_of_Russia"
+              ],
+              "from": {
+                "date": "1725-02-08"
+              },
+              "to": {
+                "date": "1727-05-17"
+              },
+              "quoteOriginal": "Catherine I died two years after Peter I, on 17 May 1727 at age 43, in Saint Petersburg, where she was buried at St. Peter and St. Paul Fortress.",
+              "quote": "Екатерина I умира две години след Петър I, на 17 май 1727 г. на 43-годишна възраст в Санкт Петербург, където е погребана в Петропавловската крепост."
+            }
+          ]
+        },
+        {
+          "name": "Петър II",
+          "description": "Внук на Петър Велики, последният от мъжката линия на Романовите. Става император на 11 години и умира от едра шарка на 14.",
+          "comment": "Началната дата 18 май 1727 г. е денят след смъртта на Екатерина I (Wikipedia дава 17 май 1727 г. като начало на царуването; тук е изместена с ден, за да не се припокрива с предходния). Крайната дата 30 януари 1730 г. е денят на смъртта му от едра шарка.",
+          "date": {
+            "range": [
+              "1727-05-18",
+              "1730-01-30"
+            ],
+            "from": {
+              "date": "1727-05-18"
+            },
+            "to": {
+              "date": "1730-01-30"
+            }
+          },
+          "sources": [
+            {
+              "name": "Peter II of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Peter_II_of_Russia"
+              ],
+              "from": {
+                "date": "1727-05-18"
+              },
+              "to": {
+                "date": "1730-01-30"
+              },
+              "quoteOriginal": "Emperor Peter II died as dawn broke on 30 January 1730 – the day scheduled for his marriage to Ekaterina Dolgorukova.",
+              "quote": "Император Петър II умира в зори на 30 януари 1730 г. — денят, определен за сватбата му с Екатерина Долгорукова."
+            }
+          ]
+        },
+        {
+          "name": "Анна Йоановна",
+          "description": "Племенница на Петър Велики, избрана за императрица от Върховния таен съвет. Управлението й е белязано от силното влияние на немски съветници.",
+          "date": {
+            "range": [
+              "1730-02-26",
+              "1740-10-28"
+            ],
+            "from": {
+              "date": "1730-02-26"
+            },
+            "to": {
+              "date": "1740-10-28"
+            }
+          },
+          "sources": [
+            {
+              "name": "Anna of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Anna_of_Russia"
+              ],
+              "from": {
+                "date": "1730-02-26"
+              },
+              "to": {
+                "date": "1740-10-28"
+              },
+              "quoteOriginal": "Anna died on 28 October 1740 at the age of 47 from a kidney stone that made for a slow and painful death.",
+              "quote": "Анна умира на 28 октомври 1740 г. на 47-годишна възраст от бъбречен камък, който й причинява бавна и мъчителна смърт."
+            }
+          ]
+        },
+        {
+          "name": "Иван VI",
+          "description": "Провъзгласен за император като бебе на два месеца с регент Бирон, а после майка му Анна Леополдовна. Свален с преврат от Елисавета Петровна.",
+          "comment": "Началната дата 28 октомври 1740 г. е денят след смъртта на Анна Йоановна, когато бебето е провъзгласено за император. Крайната дата 6 декември 1741 г. е денят на преврата на Елисавета.",
+          "date": {
+            "range": [
+              "1740-10-28",
+              "1741-12-06"
+            ],
+            "from": {
+              "date": "1740-10-28"
+            },
+            "to": {
+              "date": "1741-12-06"
+            }
+          },
+          "sources": [
+            {
+              "name": "Ivan VI of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Ivan_VI_of_Russia"
+              ],
+              "from": {
+                "date": "1740-10-28"
+              },
+              "to": {
+                "date": "1741-12-06"
+              },
+              "quoteOriginal": "Ivan's reign, and his mother's regency, lasted thirteen months, for on 6 December 1741 a coup d'état placed Elizabeth of Russia on the throne.",
+              "quote": "Царуването на Иван и регентството на майка му продължават тринадесет месеца, тъй като на 6 декември 1741 г. държавен преврат поставя Елисавета Руска на трона."
+            }
+          ]
+        },
+        {
+          "name": "Елисавета Петровна",
+          "description": "Руска императрица (1741–1762), дъщеря на Петър I Велики. Управлението и е белязано от разцвет на изкуствата и основаването на Московския университет.",
+          "comment": "Датите обхващат управлението и като императрица на Русия: от 6 декември 1741 г. (дворцов преврат) до смъртта и на 5 януари 1762 г.",
+          "date": {
+            "range": [
+              "1741-12-06",
+              "1762-01-05"
+            ],
+            "from": {
+              "date": "1741-12-06"
+            },
+            "to": {
+              "date": "1762-01-05"
+            }
+          },
+          "sources": [
+            {
+              "name": "Elizabeth of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Elizabeth_of_Russia"
+              ],
+              "from": {
+                "date": "1741-12-06"
+              },
+              "to": {
+                "date": "1762-01-05"
+              },
+              "quoteOriginal": "Empress of Russia from 1741 until her death in 1762. Reign: 6 December 1741 – 5 January 1762.",
+              "quote": "Императрица на Русия от 1741 г. до смъртта й през 1762 г. Царуване: 6 декември 1741 – 5 януари 1762."
+            }
+          ]
+        },
+        {
+          "name": "Петър III",
+          "description": "Внук на Петър Велики, управлява само шест месеца. Свален с преврат от съпругата си Екатерина, убит малко след това.",
+          "comment": "Началната дата 5 януари 1762 г. е денят на смъртта на Елисавета Петровна, когато Петър III наследява трона. Крайната дата 9 юли 1762 г. е денят на свалянето и абдикацията му.",
+          "date": {
+            "range": [
+              "1762-01-05",
+              "1762-07-09"
+            ],
+            "from": {
+              "date": "1762-01-05"
+            },
+            "to": {
+              "date": "1762-07-09"
+            }
+          },
+          "sources": [
+            {
+              "name": "Peter III of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Peter_III_of_Russia"
+              ],
+              "from": {
+                "date": "1762-01-05"
+              },
+              "to": {
+                "date": "1762-07-09"
+              },
+              "quoteOriginal": "Emperor of Russia from 5 January 1762 until 9 July of the same year, when he was overthrown by his wife, Catherine II.",
+              "quote": "Император на Русия от 5 януари 1762 г. до 9 юли същата година, когато е свален от съпругата си Екатерина II."
+            }
+          ]
+        },
+        {
+          "name": "Екатерина II Велика",
+          "description": "Най-дълго управлявалата жена в руската история. Анексира Крим през 1783 г. и разширява империята значително на юг и запад.",
+          "comment": "Началната дата 9 юли 1762 г. е денят на преврата срещу Петър III. Крайната дата 17 ноември 1796 г. е денят на смъртта й от инсулт.",
+          "date": {
+            "range": [
+              "1762-07-09",
+              "1796-11-17"
+            ],
+            "from": {
+              "date": "1762-07-09"
+            },
+            "to": {
+              "date": "1796-11-17"
+            }
+          },
+          "sources": [
+            {
+              "name": "Catherine the Great – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Catherine_the_Great"
+              ],
+              "from": {
+                "date": "1762-07-09"
+              },
+              "to": {
+                "date": "1796-11-17"
+              },
+              "quoteOriginal": "Empress of Russia from 1762 to 1796. She came to power after a coup d'état against her husband, Peter III, on the night of 8 July 1762.",
+              "quote": "Императрица на Русия от 1762 до 1796 г. Идва на власт след държавен преврат срещу съпруга си Петър III в нощта на 8 юли 1762 г."
+            }
+          ]
+        },
+        {
+          "name": "Павел I",
+          "description": "Син на Екатерина Велика, известен с ексцентричния си характер и про-пруската ориентация. Убит при дворцов заговор.",
+          "comment": "Началната дата 17 ноември 1796 г. е денят на смъртта на Екатерина II, когато Павел наследява трона. Крайната дата 23 март 1801 г. е денят на убийството му при дворцов преврат.",
+          "date": {
+            "range": [
+              "1796-11-17",
+              "1801-03-23"
+            ],
+            "from": {
+              "date": "1796-11-17"
+            },
+            "to": {
+              "date": "1801-03-23"
+            }
+          },
+          "sources": [
+            {
+              "name": "Paul I of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Paul_I_of_Russia"
+              ],
+              "from": {
+                "date": "1796-11-17"
+              },
+              "to": {
+                "date": "1801-03-23"
+              },
+              "quoteOriginal": "Emperor of Russia from 1796 until his assassination in 1801. Catherine suffered a stroke on 17 November 1796, and died without regaining consciousness.",
+              "quote": "Император на Русия от 1796 г. до убийството му през 1801 г. Екатерина получава инсулт на 17 ноември 1796 г. и умира, без да дойде в съзнание."
+            }
+          ]
+        },
+        {
+          "name": "Александър I",
+          "description": "Победител над Наполеон, инициатор на Свещения съюз. Модернизира администрацията, но отстъпва от реформите в последните си години.",
+          "comment": "Началната дата 24 март 1801 г. е денят след убийството на Павел I (Wikipedia дава 23 март 1801 г.; тук е изместена с ден за избягване на припокриване). Крайната дата 1 декември 1825 г. е денят на смъртта му от тиф.",
+          "date": {
+            "range": [
+              "1801-03-24",
+              "1825-12-01"
+            ],
+            "from": {
+              "date": "1801-03-24"
+            },
+            "to": {
+              "date": "1825-12-01"
+            }
+          },
+          "sources": [
+            {
+              "name": "Alexander I of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Alexander_I_of_Russia"
+              ],
+              "from": {
+                "date": "1801-03-24"
+              },
+              "to": {
+                "date": "1825-12-01"
+              },
+              "quoteOriginal": "Alexander became Emperor of Russia when his father was assassinated on 23 March 1801. Alexander died of typhus in December 1825 while on a trip to southern Russia.",
+              "quote": "Александър става император на Русия, когато баща му е убит на 23 март 1801 г. Александър умира от тиф през декември 1825 г. по време на пътуване в Южна Русия."
+            }
+          ]
+        },
+        {
+          "name": "Николай I",
+          "description": "Автократичен владетел, потушил Декабристкото въстание. По време на управлението му избухва Кримската война (1853-1856).",
+          "comment": "Началната дата 1 декември 1825 г. е ретроактивно определена за начало на царуването (денят на смъртта на Александър I). Крайната дата 2 март 1855 г. е денят на смъртта на Николай I.",
+          "date": {
+            "range": [
+              "1825-12-01",
+              "1855-03-02"
+            ],
+            "from": {
+              "date": "1825-12-01"
+            },
+            "to": {
+              "date": "1855-03-02"
+            }
+          },
+          "sources": [
+            {
+              "name": "Nicholas I of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Nicholas_I_of_Russia"
+              ],
+              "from": {
+                "date": "1825-12-01"
+              },
+              "to": {
+                "date": "1855-03-02"
+              },
+              "quoteOriginal": "His reign ran from 1 December 1825 – 2 March 1855. The manifesto retroactively named 1 December, the date of Alexander I's death, as the beginning of his reign.",
+              "quote": "Царуването му продължава от 1 декември 1825 до 2 март 1855 г. Манифестът ретроактивно определя 1 декември — датата на смъртта на Александър I — за начало на неговото царуване."
+            }
+          ]
+        },
+        {
+          "name": "Александър II",
+          "description": "Цар-Освободител, отменя крепостничеството (1861) и освобождава България от османско владичество (1878). Убит с бомба от народоволци.",
+          "comment": "Началната дата 2 март 1855 г. е денят на смъртта на Николай I, когато Александър II наследява трона. Крайната дата 13 март 1881 г. е денят на убийството му.",
+          "date": {
+            "range": [
+              "1855-03-02",
+              "1881-03-13"
+            ],
+            "from": {
+              "date": "1855-03-02"
+            },
+            "to": {
+              "date": "1881-03-13"
+            }
+          },
+          "sources": [
+            {
+              "name": "Alexander II of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Alexander_II_of_Russia"
+              ],
+              "from": {
+                "date": "1855-03-02"
+              },
+              "to": {
+                "date": "1881-03-13"
+              },
+              "quoteOriginal": "Alexander II was Emperor of Russia from 2 March 1855 until his assassination on 13 March 1881.",
+              "quote": "Александър II е император на Русия от 2 март 1855 г. до убийството му на 13 март 1881 г."
+            }
+          ]
+        },
+        {
+          "name": "Александър III",
+          "description": "Консервативен владетел, провежда контрареформи след убийството на баща си. Поддържа мир през цялото си управление (Царят-Миротворец).",
+          "comment": "Началната дата 14 март 1881 г. е денят след убийството на Александър II (Wikipedia дава 13 март 1881 г.; тук е изместена с ден за избягване на припокриване). Крайната дата 1 ноември 1894 г. е денят на смъртта му.",
+          "date": {
+            "range": [
+              "1881-03-14",
+              "1894-11-01"
+            ],
+            "from": {
+              "date": "1881-03-14"
+            },
+            "to": {
+              "date": "1894-11-01"
+            }
+          },
+          "sources": [
+            {
+              "name": "Alexander III of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Alexander_III_of_Russia"
+              ],
+              "from": {
+                "date": "1881-03-14"
+              },
+              "to": {
+                "date": "1894-11-01"
+              },
+              "quoteOriginal": "Alexander III was Emperor of Russia, King of Poland and Grand Duke of Finland from 13 March 1881 until his death in 1894.",
+              "quote": "Александър III е император на Русия, крал на Полша и велик херцог на Финландия от 13 март 1881 г. до смъртта си през 1894 г."
+            }
+          ]
+        },
+        {
+          "name": "Николай II",
+          "description": "Последният руски император. Абдикира по време на Февруарската революция, слагайки край на 304-годишното управление на Романовите.",
+          "comment": "Началната дата 1 ноември 1894 г. е денят на смъртта на Александър III. Крайната дата 15 март 1917 г. е денят на абдикацията на Николай II по време на Февруарската революция.",
+          "date": {
+            "range": [
+              "1894-11-01",
+              "1917-03-15"
+            ],
+            "from": {
+              "date": "1894-11-01"
+            },
+            "to": {
+              "date": "1917-03-15"
+            }
+          },
+          "sources": [
+            {
+              "name": "Nicholas II of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Nicholas_II_of_Russia"
+              ],
+              "from": {
+                "date": "1894-11-01"
+              },
+              "to": {
+                "date": "1917-03-15"
+              },
+              "quoteOriginal": "Nicholas II was Emperor of Russia, King of Poland and Grand Duke of Finland from 1 November 1894 until his abdication in 1917. In March 1917, the February Revolution forced his abdication, ending the Romanov dynasty's 304-year rule.",
+              "quote": "Николай II е император на Русия, крал на Полша и велик херцог на Финландия от 1 ноември 1894 г. до абдикацията си през 1917 г. През март 1917 г. Февруарската революция принуждава неговата абдикация, слагайки край на 304-годишното управление на династията Романови."
+            }
+          ]
+        },
+        {
+          "name": "Владимир Ленин",
+          "description": "Руски революционер и политик, основател на Съветска Русия. Първият ръководител на съветското правителство от 1917 г. до смъртта си през 1924 г.",
+          "comment": "Датите обхващат периода му като Председател на Съвета на народните комисари на РСФСР (9 ноември 1917 — 21 януари 1924). Начало — формирането на болшевишкото правителство след Октомврийската революция; край — смъртта му.",
+          "date": {
+            "range": [
+              "1917-11-09",
+              "1924-01-21"
+            ],
+            "from": {
+              "date": "1917-11-09"
+            },
+            "to": {
+              "date": "1924-01-21"
+            }
+          },
+          "sources": [
+            {
+              "name": "Vladimir Lenin – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Vladimir_Lenin"
+              ],
+              "from": {
+                "date": "1917-11-09"
+              },
+              "to": {
+                "date": "1924-01-21"
+              },
+              "quoteOriginal": "He was the first head of government of Soviet Russia from 1917 until his death in 1924 and of the Soviet Union from 1922 until his death. Chairman of the Council of People's Commissars of the Russian SFSR — In office 9 November 1917 – 21 January 1924.",
+              "quote": "Той е първият ръководител на правителството на Съветска Русия от 1917 г. до смъртта си през 1924 г. и на Съветския съюз от 1922 г. до смъртта си. Председател на Съвета на народните комисари на РСФСР — на поста от 9 ноември 1917 до 21 януари 1924 г."
+            }
+          ]
+        },
+        {
+          "name": "Йосиф Сталин",
+          "description": "Съветски революционер и политик, управлявал СССР от 1924 г. до смъртта си през 1953 г. Генерален секретар на КПСС и един от най-влиятелните и противоречиви лидери на XX век.",
+          "comment": "Началната дата е смъртта на Ленин (21 януари 1924), когато Сталин консолидира властта. Формално е Генерален секретар на КПСС от 3 април 1922 г., но реалната еднолична власт е от 1924 г. Край — смъртта му на 5 март 1953 г.",
+          "date": {
+            "range": [
+              "1924-01-21",
+              "1953-03-05"
+            ],
+            "from": {
+              "date": "1924-01-21"
+            },
+            "to": {
+              "date": "1953-03-05"
+            }
+          },
+          "sources": [
+            {
+              "name": "Joseph Stalin – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Joseph_Stalin"
+              ],
+              "from": {
+                "date": "1924-01-21"
+              },
+              "to": {
+                "date": "1953-03-05"
+              },
+              "quoteOriginal": "Joseph Vissarionovich Stalin was a Soviet revolutionary and politician who led the Soviet Union from 1924 until his death in 1953. He held office as general secretary of the Communist Party from 1922 to 1952.",
+              "quote": "Йосиф Висарионович Сталин е съветски революционер и политик, който ръководи Съветския съюз от 1924 г. до смъртта си през 1953 г. Заема поста генерален секретар на Комунистическата партия от 1922 до 1952 г."
+            }
+          ]
+        },
+        {
+          "name": "Никита Хрушчов",
+          "description": "Съветски политик, Първи секретар на КПСС (1953–1964). Провежда десталинизация и председателства Кубинската ракетна криза. През 1954 г. прехвърля Крим от РСФСР към Украинската ССР.",
+          "comment": "Датите обхващат периода му като Първи секретар на ЦК на КПСС (7 септември 1953 — 14 октомври 1964). Начало — избирането му за Първи секретар след смъртта на Сталин; край — отстраняването му от власт.",
+          "date": {
+            "range": [
+              "1953-09-07",
+              "1964-10-14"
+            ],
+            "from": {
+              "date": "1953-09-07"
+            },
+            "to": {
+              "date": "1964-10-14"
+            }
+          },
+          "sources": [
+            {
+              "name": "Nikita Khrushchev – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Nikita_Khrushchev"
+              ],
+              "from": {
+                "date": "1953-09-07"
+              },
+              "to": {
+                "date": "1964-10-14"
+              },
+              "quoteOriginal": "Nikita Sergeyevich Khrushchev was the First Secretary of the Communist Party of the Soviet Union from 1953 to 1964 and the Chairman of the Council of Ministers from 1958 to 1964. In office 7 September 1953 – 14 October 1964.",
+              "quote": "Никита Сергеевич Хрушчов е Първи секретар на Комунистическата партия на Съветския съюз от 1953 до 1964 г. и Председател на Съвета на министрите от 1958 до 1964 г. На поста от 7 септември 1953 до 14 октомври 1964 г."
+            }
+          ]
+        },
+        {
+          "name": "Леонид Брежнев",
+          "description": "Съветски политик, Генерален секретар на КПСС (1964–1982). Управлението му е второто по продължителност след Сталин и се характеризира с период на застой.",
+          "comment": "Датите обхващат периода му като Генерален секретар на КПСС (14 октомври 1964 — 10 ноември 1982). Заема поста при отстраняването на Хрушчов; титлата е Първи секретар до 1966 г., след това — Генерален секретар. Край — смъртта му.",
+          "date": {
+            "range": [
+              "1964-10-14",
+              "1982-11-10"
+            ],
+            "from": {
+              "date": "1964-10-14"
+            },
+            "to": {
+              "date": "1982-11-10"
+            }
+          },
+          "sources": [
+            {
+              "name": "Leonid Brezhnev – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Leonid_Brezhnev"
+              ],
+              "from": {
+                "date": "1964-10-14"
+              },
+              "to": {
+                "date": "1982-11-10"
+              },
+              "quoteOriginal": "Leonid Ilyich Brezhnev was a Soviet politician who served as General Secretary of the Communist Party of the Soviet Union from 1964 until his death in 1982. In office 14 October 1964 – 10 November 1982.",
+              "quote": "Леонид Илич Брежнев е съветски политик, заемал поста Генерален секретар на Комунистическата партия на Съветския съюз от 1964 г. до смъртта си през 1982 г. На поста от 14 октомври 1964 до 10 ноември 1982 г."
+            }
+          ]
+        },
+        {
+          "name": "Юрий Андропов",
+          "description": "Съветски политик, Генерален секретар на КПСС (1982–1984). Преди това е председател на КГБ (1967–1982). Управлява само около 15 месеца до смъртта си.",
+          "date": {
+            "range": [
+              "1982-11-12",
+              "1984-02-09"
+            ],
+            "from": {
+              "date": "1982-11-12"
+            },
+            "to": {
+              "date": "1984-02-09"
+            }
+          },
+          "sources": [
+            {
+              "name": "Yuri Andropov – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Yuri_Andropov"
+              ],
+              "from": {
+                "date": "1982-11-12"
+              },
+              "to": {
+                "date": "1984-02-09"
+              },
+              "quoteOriginal": "Yuri Vladimirovich Andropov was a Soviet politician who served as the General Secretary of the Communist Party of the Soviet Union from late 1982 until his death in 1984. Two days after Brezhnev's death, on 12 November 1982, Andropov was elected general secretary of the CPSU. In office 12 November 1982 – 9 February 1984.",
+              "quote": "Юрий Владимирович Андропов е съветски политик, заемал поста Генерален секретар на КПСС от края на 1982 г. до смъртта си през 1984 г. Два дни след смъртта на Брежнев, на 12 ноември 1982 г., Андропов е избран за генерален секретар на КПСС. На поста от 12 ноември 1982 до 9 февруари 1984 г."
+            }
+          ]
+        },
+        {
+          "name": "Константин Черненко",
+          "description": "Съветски политик, Генерален секретар на КПСС (1984–1985). Управлява по-малко от 13 месеца — най-краткият мандат сред съветските лидери.",
+          "date": {
+            "range": [
+              "1984-02-13",
+              "1985-03-10"
+            ],
+            "from": {
+              "date": "1984-02-13"
+            },
+            "to": {
+              "date": "1985-03-10"
+            }
+          },
+          "sources": [
+            {
+              "name": "Konstantin Chernenko – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Konstantin_Chernenko"
+              ],
+              "from": {
+                "date": "1984-02-13"
+              },
+              "to": {
+                "date": "1985-03-10"
+              },
+              "quoteOriginal": "Konstantin Ustinovich Chernenko was a Soviet politician who served as the de jure leader of the Soviet Union from February 1984 until his death in March 1985. Following the death of Yuri Andropov, Chernenko was elected General Secretary of the party's Central Committee on 13 February 1984. In office 13 February 1984 – 10 March 1985.",
+              "quote": "Константин Устинович Черненко е съветски политик, де юре лидер на Съветския съюз от февруари 1984 г. до смъртта си през март 1985 г. След смъртта на Юрий Андропов, Черненко е избран за Генерален секретар на ЦК на партията на 13 февруари 1984 г. На поста от 13 февруари 1984 до 10 март 1985 г."
+            }
+          ]
+        },
+        {
+          "name": "Михаил Горбачов",
+          "description": "Съветски и руски политик, последният лидер на СССР (1985–1991). Генерален секретар на КПСС и първият (и единствен) президент на Съветския съюз. Инициатор на перестройката и гласността.",
+          "comment": "Начална дата — избирането му за Генерален секретар на КПСС (11 март 1985). Крайна дата — оставката му като президент на СССР на 25 декември 1991 г. при разпадането на Съветския съюз. Президент на СССР е от 15 март 1990 г.",
+          "date": {
+            "range": [
+              "1985-03-11",
+              "1991-12-25"
+            ],
+            "from": {
+              "date": "1985-03-11"
+            },
+            "to": {
+              "date": "1991-12-25"
+            }
+          },
+          "sources": [
+            {
+              "name": "Mikhail Gorbachev – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Mikhail_Gorbachev"
+              ],
+              "from": {
+                "date": "1985-03-11"
+              },
+              "to": {
+                "date": "1991-12-25"
+              },
+              "quoteOriginal": "Mikhail Sergeyevich Gorbachev was a Soviet and Russian politician who was the last leader of the Soviet Union from 1985 until the country's dissolution in 1991. He served as General Secretary of the Communist Party from 1985, and additionally as head of state from 1988. General Secretary — In office 11 March 1985 – 24 August 1991. President of the Soviet Union — In office 15 March 1990 – 25 December 1991.",
+              "quote": "Михаил Сергеевич Горбачов е съветски и руски политик, последният лидер на Съветския съюз от 1985 г. до разпадането на страната през 1991 г. Служи като Генерален секретар на Комунистическата партия от 1985 г. и допълнително като държавен глава от 1988 г. Генерален секретар — на поста от 11 март 1985 до 24 август 1991 г. Президент на СССР — на поста от 15 март 1990 до 25 декември 1991 г."
+            }
+          ]
+        },
+        {
+          "name": "Борис Елцин (1-ви мандат)",
+          "description": "Съветски и руски политик, първият президент на Руската федерация (1991–1999). Изигра ключова роля при разпадането на СССР и прехода към пазарна икономика.",
+          "comment": "Датите обхващат първия президентски мандат. Начало — встъпване в длъжност на 10 юли 1991 г. като първи президент на РСФСР (от декември 1991 — Руска федерация). Край — втората инаугурация на 9 август 1996 г.",
+          "date": {
+            "range": [
+              "1991-07-10",
+              "1996-08-09"
+            ],
+            "from": {
+              "date": "1991-07-10"
+            },
+            "to": {
+              "date": "1996-08-09"
+            }
+          },
+          "sources": [
+            {
+              "name": "Boris Yeltsin – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Boris_Yeltsin"
+              ],
+              "from": {
+                "date": "1991-07-10"
+              },
+              "to": {
+                "date": "1996-08-09"
+              },
+              "quoteOriginal": "Boris Nikolayevich Yeltsin was a Soviet and Russian politician who served as President of Russia from 1991 to 1999. In office 10 July 1991 – 31 December 1999. He was later re-elected in the 1996 Russian presidential election.",
+              "quote": "Борис Николаевич Елцин е съветски и руски политик, служил като президент на Русия от 1991 до 1999 г. На поста от 10 юли 1991 до 31 декември 1999 г. Преизбран е на президентските избори в Русия през 1996 г."
+            }
+          ]
+        },
+        {
+          "name": "Борис Елцин (2-ри мандат)",
+          "description": "Втори президентски мандат на Борис Елцин. Белязан от финансовата криза от 1998 г. и подаване на оставка в края на 1999 г.",
+          "comment": "Датите обхващат втория президентски мандат. Начало — инаугурацията за втори мандат на 9 август 1996 г. Край — оставката му на 31 декември 1999 г., когато предава властта на Владимир Путин.",
+          "date": {
+            "range": [
+              "1996-08-09",
+              "1999-12-31"
+            ],
+            "from": {
+              "date": "1996-08-09"
+            },
+            "to": {
+              "date": "1999-12-31"
+            }
+          },
+          "sources": [
+            {
+              "name": "Boris Yeltsin – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Boris_Yeltsin"
+              ],
+              "from": {
+                "date": "1996-08-09"
+              },
+              "to": {
+                "date": "1999-12-31"
+              },
+              "quoteOriginal": "Yeltsin's second inauguration ceremony took place on 9 August 1996. Amid growing internal pressure, he resigned by the end of 1999 and was succeeded as president by his chosen successor, Vladimir Putin. In office 10 July 1991 – 31 December 1999.",
+              "quote": "Втората инаугурация на Елцин се провежда на 9 август 1996 г. Под нарастващ вътрешен натиск той подава оставка в края на 1999 г. и е наследен като президент от избрания му приемник Владимир Путин. На поста от 10 юли 1991 до 31 декември 1999 г."
+            }
+          ]
+        },
+        {
+          "name": "Владимир Путин (и.д.)",
+          "description": "Руски политик и бивш разузнавач, изпълняващ длъжността президент на Русия след оставката на Елцин (31 декември 1999 — 7 май 2000).",
+          "comment": "Датите обхващат периода като изпълняващ длъжността (и.д.) президент на Русия. Начало — оставката на Борис Елцин на 31 декември 1999 г.; край — инаугурацията за първия пълен мандат на 7 май 2000 г.",
+          "date": {
+            "range": [
+              "1999-12-31",
+              "2000-05-07"
+            ],
+            "from": {
+              "date": "1999-12-31"
+            },
+            "to": {
+              "date": "2000-05-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "Vladimir Putin – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Vladimir_Putin"
+              ],
+              "from": {
+                "date": "1999-12-31"
+              },
+              "to": {
+                "date": "2000-05-07"
+              },
+              "quoteOriginal": "Following Yeltsin's resignation, Putin became acting president and, less than three months later in March 2000, was elected to his first term as president. In office 31 December 1999 – 7 May 2008.",
+              "quote": "След оставката на Елцин Путин става изпълняващ длъжността президент и по-малко от три месеца по-късно, през март 2000 г., е избран за първия си президентски мандат. На поста от 31 декември 1999 до 7 май 2008 г."
+            }
+          ]
+        },
+        {
+          "name": "Владимир Путин (1-ви мандат)",
+          "description": "Първи пълен президентски мандат на Путин (2000–2004). Укрепва вертикалта на властта, започва Втората чеченска война и стабилизира икономиката.",
+          "date": {
+            "range": [
+              "2000-05-07",
+              "2004-05-07"
+            ],
+            "from": {
+              "date": "2000-05-07"
+            },
+            "to": {
+              "date": "2004-05-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "Vladimir Putin – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Vladimir_Putin"
+              ],
+              "from": {
+                "date": "2000-05-07"
+              },
+              "to": {
+                "date": "2004-05-07"
+              },
+              "quoteOriginal": "Vladimir Vladimirovich Putin is a Russian politician and former intelligence officer who has served as President of Russia since 2012, having previously served from 2000 to 2008. He was reelected in 2004.",
+              "quote": "Владимир Владимирович Путин е руски политик и бивш разузнавач, президент на Русия от 2012 г., след като вече е бил на поста от 2000 до 2008 г. Преизбран е през 2004 г."
+            }
+          ]
+        },
+        {
+          "name": "Владимир Путин (2-ри мандат)",
+          "description": "Втори президентски мандат на Путин (2004–2008). Период на висок икономически растеж благодарение на цените на петрола и нарастващ авторитаризъм.",
+          "date": {
+            "range": [
+              "2004-05-07",
+              "2008-05-07"
+            ],
+            "from": {
+              "date": "2004-05-07"
+            },
+            "to": {
+              "date": "2008-05-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "Vladimir Putin – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Vladimir_Putin"
+              ],
+              "from": {
+                "date": "2004-05-07"
+              },
+              "to": {
+                "date": "2008-05-07"
+              },
+              "quoteOriginal": "He was reelected in 2004. Putin also served as Prime Minister of Russia from 1999 to 2000 and again from 2008 to 2012.",
+              "quote": "Преизбран е през 2004 г. Путин също е министър-председател на Русия от 1999 до 2000 г. и отново от 2008 до 2012 г."
+            }
+          ]
+        },
+        {
+          "name": "Дмитрий Медведев",
+          "description": "Руски политик и юрист, президент на Русия (2008–2012). По време на мандата му Русия води война с Грузия (2008) и стартира модернизационна програма.",
+          "comment": "Датите обхващат президентския мандат на Медведев (7 май 2008 — 7 май 2012). Встъпва в длъжност след Путин; предава поста обратно на Путин на 7 май 2012 г.",
+          "date": {
+            "range": [
+              "2008-05-07",
+              "2012-05-07"
+            ],
+            "from": {
+              "date": "2008-05-07"
+            },
+            "to": {
+              "date": "2012-05-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "Dmitry Medvedev – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Dmitry_Medvedev"
+              ],
+              "from": {
+                "date": "2008-05-07"
+              },
+              "to": {
+                "date": "2012-05-07"
+              },
+              "quoteOriginal": "Dmitry Anatolyevich Medvedev is a Russian politician and lawyer who served as the President of Russia from 2008 to 2012. In office 7 May 2008 – 7 May 2012. On 7 May 2008, Dmitry Medvedev took an oath as the third president of the Russian Federation.",
+              "quote": "Дмитрий Анатолиевич Медведев е руски политик и юрист, служил като президент на Русия от 2008 до 2012 г. На поста от 7 май 2008 до 7 май 2012 г. На 7 май 2008 г. Дмитрий Медведев полага клетва като трети президент на Руската федерация."
+            }
+          ]
+        },
+        {
+          "name": "Владимир Путин (3-ти мандат)",
+          "description": "Трети президентски мандат на Путин (2012–2018). Белязан от анексията на Крим (2014), военната намеса в Сирия и влошаване на отношенията със Запада.",
+          "comment": "Датите обхващат третия президентски мандат. Начало — инаугурация на 7 май 2012 г. след изборите, белязани с обвинения в измами и протести. Край — 7 май 2018 г.",
+          "date": {
+            "range": [
+              "2012-05-07",
+              "2018-05-07"
+            ],
+            "from": {
+              "date": "2012-05-07"
+            },
+            "to": {
+              "date": "2018-05-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "Vladimir Putin – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Vladimir_Putin"
+              ],
+              "from": {
+                "date": "2012-05-07"
+              },
+              "to": {
+                "date": "2018-05-07"
+              },
+              "quoteOriginal": "He returned to the presidency in 2012, following an election marked by allegations of fraud and protests. He was reelected in 2018. Assumed office 7 May 2012.",
+              "quote": "Той се завръща на президентския пост през 2012 г. след избори, белязани с обвинения в измами и протести. Преизбран е през 2018 г. Встъпва в длъжност на 7 май 2012 г."
+            }
+          ]
+        },
+        {
+          "name": "Владимир Путин (4-ти мандат)",
+          "description": "Четвърти президентски мандат на Путин (2018–2024). Включва конституционната реформа от 2020 г., нулираща ограниченията за мандати, и пълномащабната инвазия в Украйна (2022).",
+          "date": {
+            "range": [
+              "2018-05-07",
+              "2024-05-07"
+            ],
+            "from": {
+              "date": "2018-05-07"
+            },
+            "to": {
+              "date": "2024-05-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "Vladimir Putin – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Vladimir_Putin"
+              ],
+              "from": {
+                "date": "2018-05-07"
+              },
+              "to": {
+                "date": "2024-05-07"
+              },
+              "quoteOriginal": "He was reelected in 2018. In March 2024, he was reelected to another term. He has been described as the de facto leader of Russia since 2000.",
+              "quote": "Преизбран е през 2018 г. През март 2024 г. е преизбран за нов мандат. Описван е като де факто лидер на Русия от 2000 г."
+            }
+          ]
+        },
+        {
+          "name": "Владимир Путин (5-ти мандат)",
+          "description": "Пети президентски мандат на Путин (от 2024 г.). Встъпва в длъжност на 7 май 2024 г. след преизбиране през март 2024 г.",
+          "comment": "Начална дата — инаугурация на 7 май 2024 г. след президентските избори от март 2024 г. Крайна дата — няма (текущ мандат).",
+          "date": {
+            "range": [
+              "2024-05-07",
+              "2030-05-01"
+            ],
+            "from": {
+              "date": "2024-05-07"
+            },
+            "to": {
+              "dateYear": 2030,
+              "dateMonth": 5
+            }
+          },
+          "sources": [
+            {
+              "name": "Vladimir Putin – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Vladimir_Putin"
+              ],
+              "from": {
+                "date": "2024-05-07"
+              },
+              "quoteOriginal": "In March 2024, he was reelected to another term. Vladimir Vladimirovich Putin is a Russian politician and former intelligence officer who has served as President of Russia since 2012.",
+              "quote": "През март 2024 г. той е преизбран за нов мандат. Владимир Владимирович Путин е руски политик и бивш разузнавач, президент на Русия от 2012 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Украински лидери",
+      "id": "0f848dc5-a84b-4629-af57-a04c42145131",
+      "periods": [
+        {
+          "name": "Олег Вещи (княз на Киев)",
+          "date": {
+            "range": [
+              "0882-01-01",
+              "0912-12-31"
+            ],
+            "from": {
+              "dateYear": 882
+            },
+            "to": {
+              "dateYear": 912
+            }
+          },
+          "sources": [
+            {
+              "name": "Oleg of Novgorod – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Oleg_of_Novgorod"
+              ],
+              "from": {
+                "dateYear": 882
+              },
+              "to": {
+                "dateYear": 912
+              },
+              "quoteOriginal": "In 881–882, he took control of Smolensk, and then seized power in Kiev by tricking and slaying Askold and Dir, and setting himself up as prince in Kiev. He died in 912.",
+              "quote": "През 881–882 г. той превзема Смоленск, след което завзема властта в Киев. Умира през 912 г. и е наследен от Рюриковия син Игор."
+            }
+          ],
+          "comment": "Датите обхващат управлението му като княз на Киев. Началната дата (~882 г.) е приблизителна. Крайната дата (912 г.) е годината на смъртта му по Повест временних лет.",
+          "description": "Олег Вещи е варяжки княз, който завзема Киев ок. 882 г. и установява Киевска Рус като мощна държава, обединявайки северните и южните славянски земи."
+        },
+        {
+          "name": "Владимир I Велики (княз на Киев)",
+          "date": {
+            "range": [
+              "0978-06-11",
+              "1015-07-15"
+            ],
+            "from": {
+              "date": "0978-06-11"
+            },
+            "to": {
+              "date": "1015-07-15"
+            }
+          },
+          "sources": [
+            {
+              "name": "Vladimir the Great – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Vladimir_the_Great"
+              ],
+              "from": {
+                "date": "0978-06-11"
+              },
+              "to": {
+                "date": "1015-07-15"
+              },
+              "quoteOriginal": "He was Prince of Novgorod from 970 and Grand Prince of Kiev from 978 until his death in 1015.",
+              "quote": "Той е княз на Новгород от 970 г. и велик княз на Киев от 978 г. до смъртта си през 1015 г."
+            }
+          ],
+          "description": "Владимир I Велики е велик княз на Киев (978–1015), покръстител на Киевска Рус и един от най-значимите владетели в източнославянската история."
+        },
+        {
+          "name": "Ярослав Мъдри (княз на Киев)",
+          "date": {
+            "range": [
+              "1019-01-01",
+              "1054-02-20"
+            ],
+            "from": {
+              "dateYear": 1019
+            },
+            "to": {
+              "date": "1054-02-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Yaroslav the Wise – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Yaroslav_the_Wise"
+              ],
+              "from": {
+                "dateYear": 1019
+              },
+              "to": {
+                "date": "1054-02-20"
+              },
+              "quoteOriginal": "Yaroslav the Wise was Grand Prince of Kiev from 1019 until his death in 1054.",
+              "quote": "Ярослав Мъдри е велик княз на Киев от 1019 г. до смъртта си през 1054 г."
+            }
+          ],
+          "description": "Ярослав Мъдри е велик княз на Киев (1019–1054), известен със създаването на „Руската правда“ — първия писмен кодекс от закони на Киевска Рус."
+        },
+        {
+          "name": "Владимир II Мономах (княз на Киев)",
+          "date": {
+            "range": [
+              "1113-01-01",
+              "1125-05-19"
+            ],
+            "from": {
+              "dateYear": 1113
+            },
+            "to": {
+              "date": "1125-05-19"
+            }
+          },
+          "sources": [
+            {
+              "name": "Vladimir II Monomakh – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Vladimir_II_Monomakh"
+              ],
+              "from": {
+                "dateYear": 1113
+              },
+              "to": {
+                "date": "1125-05-19"
+              },
+              "quoteOriginal": "Vladimir II Monomakh was Grand Prince of Kiev from 1113 to 1125.",
+              "quote": "Владимир II Мономах е велик княз на Киев от 1113 до 1125 г."
+            }
+          ],
+          "comment": "Датите обхващат управлението му като велик княз на Киев: от 1113 г. (поканен от киевляните) до смъртта му на 19 май 1125 г.",
+          "description": "Владимир II Мономах е велик княз на Киев (1113–1125), внук на византийския император Константин IX, известен с укрепването на централната власт."
+        },
+        {
+          "name": "Данило Галицки (крал на Рус)",
+          "date": {
+            "range": [
+              "1238-01-01",
+              "1264-12-31"
+            ],
+            "from": {
+              "dateYear": 1238
+            },
+            "to": {
+              "dateYear": 1264
+            }
+          },
+          "sources": [
+            {
+              "name": "Daniel of Galicia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Daniel_of_Galicia"
+              ],
+              "from": {
+                "dateYear": 1238
+              },
+              "to": {
+                "dateYear": 1264
+              },
+              "quoteOriginal": "King of Ruthenia from 1253 to 1264. Prince of Galicia: 1238–1264.",
+              "quote": "Крал на Рутения от 1253 до 1264 г. Княз на Галич: 1238–1264 г."
+            }
+          ],
+          "description": "Данило Романович Галицки е княз на Галич и Волиния, а от 1253 г. — крал на Рус (Rex Russiae), коронован от папски пратеник.",
+          "comment": "Датите 1238–1264 обхващат последния непрекъснат период на управлението му като княз на Галич до смъртта му. Титлата крал на Рус получава едва през 1253 г."
+        },
+        {
+          "name": "Петро Конашевич-Сагайдачен (хетман)",
+          "date": {
+            "range": [
+              "1616-07-01",
+              "1622-04-20"
+            ],
+            "from": {
+              "dateYear": 1616,
+              "dateMonth": 7
+            },
+            "to": {
+              "date": "1622-04-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Petro Konashevych-Sahaidachny – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Petro_Konashevych-Sahaidachny"
+              ],
+              "from": {
+                "dateYear": 1616,
+                "dateMonth": 7
+              },
+              "to": {
+                "date": "1622-04-20"
+              },
+              "quoteOriginal": "Petro Konashevych-Sahaidachny (born c. 1582 – 20 April 1622) served as Hetman of Zaporozhian Cossacks from 1616 to 1622.",
+              "quote": "Петро Конашевич-Сагайдачен (р. ок. 1582 – 20 април 1622) е хетман на запорожките казаци от 1616 до 1622 г."
+            }
+          ],
+          "description": "Петро Конашевич-Сагайдачен е хетман на Запорожката войска (1616–1622), военен реформатор и защитник на православието в Украйна.",
+          "comment": "Датите обхващат хетманството му: от юни/началото на юли 1616 г. (точният ден е неизвестен, 1 юли е приблизителна дата) до смъртта му на 20 април 1622 г."
+        },
+        {
+          "name": "Богдан Хмелницки (хетман)",
+          "date": {
+            "range": [
+              "1648-01-30",
+              "1657-08-06"
+            ],
+            "from": {
+              "date": "1648-01-30"
+            },
+            "to": {
+              "date": "1657-08-06"
+            }
+          },
+          "sources": [
+            {
+              "name": "Bohdan Khmelnytsky – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Bohdan_Khmelnytsky"
+              ],
+              "from": {
+                "date": "1648-01-26"
+              },
+              "to": {
+                "date": "1657-08-06"
+              },
+              "quoteOriginal": "In office 30 January 1648 – 6 August 1657.",
+              "quote": "На длъжност от 30 януари 1648 до 6 август 1657 г."
+            }
+          ],
+          "description": "Богдан Хмелницки е хетман на Запорожката войска (1648–1657), предводител на казашкото въстание срещу Жечпосполита и основател на Казашкия хетманат."
+        },
+        {
+          "name": "Петро Дорошенко (хетман)",
+          "date": {
+            "range": [
+              "1665-10-10",
+              "1676-09-19"
+            ],
+            "from": {
+              "date": "1665-10-10"
+            },
+            "to": {
+              "date": "1676-09-19"
+            }
+          },
+          "sources": [
+            {
+              "name": "Petro Doroshenko – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Petro_Doroshenko"
+              ],
+              "from": {
+                "date": "1665-10-10"
+              },
+              "to": {
+                "date": "1676-09-19"
+              },
+              "quoteOriginal": "Doroshenko became Hetman of Ukraine (Right-bank Ukraine) on 10 October 1665. He abdicated on 19 September 1676.",
+              "quote": "Дорошенко става хетман на Украйна на 10 октомври 1665 г. Абдикира на 19 септе��ври 1676 г."
+            }
+          ],
+          "description": "Петро Дорошенко е хетман на Дяснобрежна Украйна (1665–1676), който се опитва да обедини украинските земи с помощта на Османската империя.",
+          "comment": "Датите обхващат хетманството му: от 10 октомври 1665 г. до 19 септември 1676 г. (абдикира). Умира на 19 ноември 1698 г."
+        },
+        {
+          "name": "Иван Мазепа (хетман)",
+          "date": {
+            "range": [
+              "1687-08-04",
+              "1708-11-06"
+            ],
+            "from": {
+              "date": "1687-08-04"
+            },
+            "to": {
+              "date": "1708-11-06"
+            }
+          },
+          "sources": [
+            {
+              "name": "Ivan Mazepa – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Ivan_Mazepa"
+              ],
+              "from": {
+                "date": "1687-08-04"
+              },
+              "to": {
+                "date": "1708-11-06"
+              },
+              "quoteOriginal": "Ivan Stepanovych Mazepa served as hetman of the Cossack Hetmanate in 1687–1709. In office: 25 July 1687 – 2 October 1709.",
+              "quote": "Иван Степанович Мазепа е хетман на Казашкия хетманат от 1687 до 1709 г."
+            }
+          ],
+          "description": "Иван Мазепа е хетман на Казашкия хетманат (1687–1708), най-дългогодишният хетман, противоречива фигура заради преминаването си на страната на Швеция.",
+          "comment": "Началната дата е 4 август (25 юли ст.ст.) 1687 г. Крайната дата 6 ноември 1708 г. отразява фактическото му свалене. Формалният мандат по Wikipedia е до смъртта му на 2 октомври 1709 г."
+        },
+        {
+          "name": "Кирило Розумовски (хетман)",
+          "date": {
+            "range": [
+              "1750-02-22",
+              "1764-11-10"
+            ],
+            "from": {
+              "date": "1750-02-22"
+            },
+            "to": {
+              "date": "1764-11-10"
+            }
+          },
+          "sources": [
+            {
+              "name": "Kyrylo Rozumovskyi – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Kyrylo_Rozumovsky"
+              ],
+              "from": {
+                "date": "1750-02-22"
+              },
+              "to": {
+                "date": "1764-11-17"
+              },
+              "quoteOriginal": "In 1750, Razumovsky was elected Hetman of the Zaporozhian Host. Catherine abolished the position on 10 November 1764.",
+              "quote": "През 1750 г. Розумовски е избран за хетман на Запорожката войска. Екатерина премахва длъжността на 10 ноември 1764 г."
+            }
+          ],
+          "description": "Кирило Розумовски е последният хетман на Запорожката войска (1750–1764), който се опитва да превърне хетманството в наследствена монархия.",
+          "comment": "Началната дата е 22 февруари 1750 г. Крайната дата е 10 ноември 1764 г. — Екатерина II премахва длъжността хетман."
+        },
+        {
+          "name": "Михайло Грушевски (Централна Рада)",
+          "date": {
+            "range": [
+              "1917-03-28",
+              "1918-04-29"
+            ],
+            "from": {
+              "date": "1917-03-28"
+            },
+            "to": {
+              "date": "1918-04-29"
+            }
+          },
+          "sources": [
+            {
+              "name": "Mykhailo Hrushevsky – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Mykhailo_Hrushevsky"
+              ],
+              "from": {
+                "date": "1917-03-17"
+              },
+              "to": {
+                "date": "1918-04-29"
+              },
+              "quoteOriginal": "In office 28 March [O.S. 15 March] 1917 – 29 April 1918.",
+              "quote": "На длъж��ост от 28 март [стар стил 15 март] 1917 г. до 29 април 1918 г."
+            }
+          ],
+          "description": "Украински историк и политик, председател на Украинската централна рада — революционния парламент, създаден след Февруарската революция от 1917 г."
+        },
+        {
+          "name": "Лазар Каганович (1-ви секретар КП Украйна)",
+          "date": {
+            "range": [
+              "1925-04-07",
+              "1928-07-14"
+            ],
+            "from": {
+              "date": "1925-04-07"
+            },
+            "to": {
+              "date": "1928-07-14"
+            }
+          },
+          "sources": [
+            {
+              "name": "Lazar Kaganovich – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Lazar_Kaganovich"
+              ],
+              "from": {
+                "date": "1925-04-07"
+              },
+              "to": {
+                "date": "1928-07-14"
+              },
+              "quoteOriginal": "From 1925 to 1928, Kaganovich was the First Secretary of the Communist Party of the Ukrainian SSR.",
+              "quote": "От 1925 до 1928 г. Каганович е Първи секретар на Комунистическата партия на Украинската ССР."
+            }
+          ],
+          "description": "Съветски политик от кръга на Сталин, първи секретар на Комунистическата партия на Украинската ССР от 1925 до 1928 г."
+        },
+        {
+          "name": "Станислав Косиор (1-ви секретар КП Украйна)",
+          "date": {
+            "range": [
+              "1928-07-14",
+              "1938-01-27"
+            ],
+            "from": {
+              "date": "1928-07-14"
+            },
+            "to": {
+              "date": "1938-01-27"
+            }
+          },
+          "sources": [
+            {
+              "name": "Stanislav Kosior – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Stanislav_Kosior"
+              ],
+              "from": {
+                "date": "1928-07-14"
+              },
+              "to": {
+                "date": "1938-01-27"
+              },
+              "quoteOriginal": "In January 1938 he was recalled to Moscow, and replaced by Nikita Khrushchev.",
+              "quote": "През януари 1938 г. той е отзован в Москва и заменен от Никита Хрушчов."
+            }
+          ],
+          "description": "Полско-украински болшевишки политик, генерален секретар на КП(б) на Украйна от 1928 до 1938 г. Ръководи партията по време на Голодомора.",
+          "comment": "Датите обхващат мандата му като Първи (Генерален) секретар на КП(б) на Украйна — от 14 юли 1928 г. до отзоваването му в Москва на 27 януари 1938 ��."
+        },
+        {
+          "name": "Никита Хрушчов (1-ви секретар КП Украйна)",
+          "date": {
+            "range": [
+              "1938-06-18",
+              "1947-03-03"
+            ],
+            "from": {
+              "date": "1938-06-18"
+            },
+            "to": {
+              "date": "1947-03-03"
+            }
+          },
+          "sources": [
+            {
+              "name": "Nikita Khrushchev – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Nikita_Khrushchev"
+              ],
+              "from": {
+                "date": "1938-06-18"
+              },
+              "to": {
+                "date": "1947-03-03"
+              },
+              "quoteOriginal": "In office 27 January 1938 – 3 March 1947.",
+              "quote": "На длъжност от 27 януари 1938 г. до 3 март 1947 г."
+            }
+          ],
+          "description": "Съветски лидер, първи секретар на КП(б) на Украйна (1938–1947). Настоящият запис обхваща първия му мандат.",
+          "comment": "Хрушчов е назначен за и.д. на 27 януари 1938 г., а на 18 юни 1938 г. е утвърден на поста. Текущата начална дата отразява официалното утвърждаване."
+        },
+        {
+          "name": "Леонид Мелников (1-ви секретар КП Украйна)",
+          "date": {
+            "range": [
+              "1949-12-16",
+              "1953-06-04"
+            ],
+            "from": {
+              "date": "1949-12-16"
+            },
+            "to": {
+              "date": "1953-06-04"
+            }
+          },
+          "sources": [
+            {
+              "name": "Leonid Melnikov – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Leonid_Melnikov"
+              ],
+              "from": {
+                "date": "1949-12-16"
+              },
+              "to": {
+                "date": "1953-06-04"
+              },
+              "quoteOriginal": "In office 16 December 1949 – 4 June 1953.",
+              "quote": "На длъжност от 16 декември 1949 г. до 4 юни 1953 г."
+            }
+          ],
+          "description": "Съветски партиен функционер, първи секретар на КП на Украйна от 1949 до 1953 г. Провежда политика на русификация в Западна Украйна.",
+          "comment": "Датите обхващат мандата му — от 16 декември 1949 г. до 4 юни 1953 г., когато е отстранен след смъртта на Сталин."
+        },
+        {
+          "name": "Олексий Кириченко (1-ви секретар КП Украйна)",
+          "date": {
+            "range": [
+              "1953-06-04",
+              "1957-12-26"
+            ],
+            "from": {
+              "date": "1953-06-04"
+            },
+            "to": {
+              "date": "1957-12-26"
+            }
+          },
+          "sources": [
+            {
+              "name": "Oleksiy Kyrychenko – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Alexei_Kirichenko"
+              ],
+              "from": {
+                "date": "1953-06-04"
+              },
+              "to": {
+                "date": "1957-12-26"
+              },
+              "quoteOriginal": "In office 12 June 1953 – 26 December 1957.",
+              "quote": "На длъжност от 12 юни 1953 г. до 26 декември 1957 г."
+            }
+          ],
+          "description": "Украински съветски политик, първи секретар на КП на Украйна от 1953 до 1957 г. и влиятелен съюзник на Хрушчов.",
+          "comment": "Инфокутията на Wikipedia дава начална дата 12 юни 1953 г., но текущият запис използва 4 юни за непрекъснатост на веригата с Мелников."
+        },
+        {
+          "name": "Николай Подгорни (1-ви секретар КП Украйна)",
+          "date": {
+            "range": [
+              "1957-12-26",
+              "1963-07-02"
+            ],
+            "from": {
+              "date": "1957-12-26"
+            },
+            "to": {
+              "date": "1963-07-02"
+            }
+          },
+          "sources": [
+            {
+              "name": "Nikolai Podgorny – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Nikolai_Podgorny"
+              ],
+              "from": {
+                "date": "1957-12-26"
+              },
+              "to": {
+                "date": "1963-07-02"
+              },
+              "quoteOriginal": "From 1957 to 1963, Podgorny was First Secretary of the CC of the CPU.",
+              "quote": "От 1957 до 1963 г. Подгорни е Първи секретар на ЦК на КПУ."
+            }
+          ],
+          "description": "Съветски държавник, първи секретар на КП на Украйна от 1957 до 1963 г., по-късно председател на Президиума на Върховния съвет на СССР."
+        },
+        {
+          "name": "Петро Шелест (1-ви секретар КП Украйна)",
+          "date": {
+            "range": [
+              "1963-07-02",
+              "1972-05-25"
+            ],
+            "from": {
+              "date": "1963-07-02"
+            },
+            "to": {
+              "date": "1972-05-25"
+            }
+          },
+          "sources": [
+            {
+              "name": "Petro Shelest – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Petro_Shelest"
+              ],
+              "from": {
+                "date": "1963-07-02"
+              },
+              "to": {
+                "date": "1972-05-25"
+              },
+              "quoteOriginal": "In office 23 June 1963 – 19 May 1972.",
+              "quote": "На длъжност от 23 юни 1963 г. до 19 ��ай 1972 г."
+            }
+          ],
+          "description": "Украински съветски политик, първи секретар на КП на Украйна от 1963 до 1972 г.",
+          "comment": "Инфокутията дава 23 юни 1963 – 19 май 1972, но текущият запис използва датите от списъчната статия (2 юли 1963 – 25 май 1972) за непрекъснатост на веригата."
+        },
+        {
+          "name": "Володимир Шчербицки (1-ви секретар КП Украйна)",
+          "date": {
+            "range": [
+              "1972-05-25",
+              "1989-09-28"
+            ],
+            "from": {
+              "date": "1972-05-25"
+            },
+            "to": {
+              "date": "1989-09-28"
+            }
+          },
+          "sources": [
+            {
+              "name": "Volodymyr Shcherbytsky – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Volodymyr_Shcherbytsky"
+              ],
+              "from": {
+                "date": "1972-05-25"
+              },
+              "to": {
+                "date": "1989-09-28"
+              },
+              "quoteOriginal": "In office 25 May 1972 – 28 September 1989.",
+              "quote": "На длъжност от 25 май 1972 г. до 28 септември 1989 г."
+            }
+          ],
+          "description": "Украински съветски политик, първи секретар на КП на Украйна от 1972 до 1989 г. — най-дълго управлявалият ръководител на украинската партия.",
+          "comment": "Датите обхващат мандата му — от 25 май 1972 г. до 28 септември 1989 г., когато е отстранен с намесата на Горбачов."
+        },
+        {
+          "name": "Леонид Кравчук",
+          "description": "Първият президент на независима Украйна. Избран на 1 декември 1991 г. едновременно с референдума за независимост.",
+          "date": {
+            "range": [
+              "1991-12-05",
+              "1994-07-19"
+            ],
+            "from": {
+              "date": "1991-12-05"
+            },
+            "to": {
+              "date": "1994-07-19"
+            }
+          },
+          "sources": [
+            {
+              "name": "Leonid Kravchuk – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Leonid_Kravchuk"
+              ],
+              "from": {
+                "date": "1991-12-05"
+              },
+              "to": {
+                "date": "1994-07-19"
+              },
+              "quoteOriginal": "Leonid Danylovych Kravchuk was a Ukrainian politician who served as the first president of Ukraine from 5 December 1991 to 19 July 1994.",
+              "quote": "Леонид Данилович Кравчук е украински политик, който е първият президент на Украйна от 5 декември 1991 г. до 19 юли 1994 г."
+            }
+          ]
+        },
+        {
+          "name": "Леонид Кучма (1-ви мандат)",
+          "description": "Вторият президент на Украйна и единственият с два мандата. Първи мандат: 1994-1999 г.",
+          "date": {
+            "range": [
+              "1994-07-19",
+              "1999-11-30"
+            ],
+            "from": {
+              "date": "1994-07-19"
+            },
+            "to": {
+              "date": "1999-11-30"
+            }
+          },
+          "sources": [
+            {
+              "name": "Leonid Kuchma – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Leonid_Kuchma"
+              ],
+              "from": {
+                "date": "1994-07-19"
+              },
+              "to": {
+                "date": "1999-11-30"
+              },
+              "quoteOriginal": "Leonid Danylovych Kuchma is a Ukrainian politician who served as the second president of Ukraine from 19 July 1994 to 23 January 2005.",
+              "quote": "Леонид Данилович Кучма е украински политик, който е вторият президент на Украйна от 19 юли 1994 г. до 23 януари 2005 г."
+            }
+          ]
+        },
+        {
+          "name": "Леонид Кучма (2-ри мандат)",
+          "description": "Вторият мандат на Леонид Кучма като президент на Украйна. Преизбран е на изборите от 1999 г.",
+          "date": {
+            "range": [
+              "1999-11-30",
+              "2005-01-23"
+            ],
+            "from": {
+              "date": "1999-11-30"
+            },
+            "to": {
+              "date": "2005-01-23"
+            }
+          },
+          "sources": [
+            {
+              "name": "Leonid Kuchma – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Leonid_Kuchma"
+              ],
+              "from": {
+                "date": "1999-11-30"
+              },
+              "to": {
+                "date": "2005-01-23"
+              },
+              "quoteOriginal": "Kuchma was re-elected in 1999 to his second term.",
+              "quote": "Кучма е преизбран през 1999 г. за втори мандат."
+            }
+          ]
+        },
+        {
+          "name": "Виктор Юшченко",
+          "description": "Третият президент на Украйна, встъпил в длъжност след Оранжевата революция.",
+          "date": {
+            "range": [
+              "2005-01-23",
+              "2010-02-25"
+            ],
+            "from": {
+              "date": "2005-01-23"
+            },
+            "to": {
+              "date": "2010-02-25"
+            }
+          },
+          "sources": [
+            {
+              "name": "Viktor Yushchenko – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Viktor_Yushchenko"
+              ],
+              "from": {
+                "date": "2005-01-23"
+              },
+              "to": {
+                "date": "2010-02-25"
+              },
+              "quoteOriginal": "Viktor Andriiovych Yushchenko is a Ukrainian politician who was the third president of Ukraine from 23 January 2005 to 25 February 2010.",
+              "quote": "Виктор Андрийович Юшченко е украински политик, който е третият президент на Украйна от 23 януари 2005 г. до 25 февруари 2010 г."
+            }
+          ]
+        },
+        {
+          "name": "Виктор Янукович",
+          "description": "Четвъртият президент на Украйна. Отстранен от власт по време на Революцията на достойнството (Евромайдан) през 2014 г.",
+          "comment": "Началната дата 25 февруари 2010 г. е датата на инаугурацията му. Крайната дата 22 февруари 2014 г. е датата, на която парламентът гласува отстраняването му от длъжност, след като тайно напуска Киев предишната вечер.",
+          "date": {
+            "range": [
+              "2010-02-25",
+              "2014-02-22"
+            ],
+            "from": {
+              "date": "2010-02-25"
+            },
+            "to": {
+              "date": "2014-02-22"
+            }
+          },
+          "sources": [
+            {
+              "name": "Viktor Yanukovych – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Viktor_Yanukovych"
+              ],
+              "from": {
+                "date": "2010-02-25"
+              },
+              "to": {
+                "date": "2014-02-22"
+              },
+              "quoteOriginal": "Yanukovych was removed from the presidency during the 2014 Revolution of Dignity. An agreement was signed by Yanukovych and the opposition on 21 February 2014, but he secretly fled the capital that evening. The next day, Ukraine's parliament voted to remove him and schedule early elections on the grounds that he had withdrawn from his constitutional duties.",
+              "quote": "Янукович е отстранен от президентството по време на Революцията на достойнството от 2014 г. Споразумение е подписано между Янукович и опозицията на 21 февруари 2014 г., но той тайно напуска столицата същата вечер. На следващия ден парламентът на Украйна гласува за отстраняването му и насрочване на предсрочни избори с мотива, че се е оттеглил от конституционните си задължения."
+            }
+          ]
+        },
+        {
+          "name": "Олександър Турчинов (в.и.д.)",
+          "description": "Временно изпълняващ длъжността президент на Украйна след отстраняването на Янукович. Председател на Върховната рада.",
+          "comment": "Началната дата 23 февруари 2014 г. е датата, на която Турчинов е определен за временен президент съгласно възстановените конституционни разпоредби от 2004 г. Крайната дата 7 юни 2014 г. е датата на инаугурацията на Петро Порошенко. Турчинов не е избран президент, а изпълнява функциите на държавен глава по силата на длъжността си.",
+          "date": {
+            "range": [
+              "2014-02-23",
+              "2014-06-07"
+            ],
+            "from": {
+              "date": "2014-02-23"
+            },
+            "to": {
+              "date": "2014-06-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "Oleksandr Turchynov – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Oleksandr_Turchynov"
+              ],
+              "from": {
+                "date": "2014-02-23"
+              },
+              "to": {
+                "date": "2014-06-07"
+              },
+              "quoteOriginal": "On 23 February 2014, Turchynov was designated as interim President of Ukraine following the impeachment of Viktor Yanukovych per the reinstated constitutional provisions of the 2004 amendments. Poroshenko was sworn in as Ukrainian President on 7 June 2014, this ended the presidential powers of Turchynov.",
+              "quote": "На 23 февруари 2014 г. Турчинов е определен за временен президент на Украйна след импийчмънта на Виктор Янукович съгласно възстановените конституционни разпоредби от поправките от 2004 г. Порошенко полага клетва като президент на Украйна на 7 юни 2014 г., с което приключват президентските правомощия на Турчинов."
+            }
+          ]
+        },
+        {
+          "name": "Петро Порошенко",
+          "description": "Петият президент на Украйна. Встъпва в длъжност след предсрочните президентски избори от 2014 г.",
+          "date": {
+            "range": [
+              "2014-06-07",
+              "2019-05-20"
+            ],
+            "from": {
+              "date": "2014-06-07"
+            },
+            "to": {
+              "date": "2019-05-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Petro Poroshenko – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Petro_Poroshenko"
+              ],
+              "from": {
+                "date": "2014-06-07"
+              },
+              "to": {
+                "date": "2019-05-20"
+              },
+              "quoteOriginal": "Poroshenko was inaugurated in the Verkhovna Rada (parliament) on 7 June 2014.",
+              "quote": "Порошенко полага клетва във Върховната рада (парламент) на 7 юни 2014 г."
+            }
+          ]
+        },
+        {
+          "name": "Володимир Зеленски",
+          "description": "Шестият и настоящ президент на Украйна. Избран с рекордните 73,23% от гласовете на втория тур през 2019 г.",
+          "comment": "Началната дата 20 май 2019 г. е датата на инаугурацията му. Крайна дата липсва, тъй като Зеленски продължава да изпълнява президентските си правомощия — мандатът му е удължен поради военното положение, въведено след руската инвазия.",
+          "date": {
+            "range": [
+              "2019-05-20",
+              null
+            ],
+            "from": {
+              "date": "2019-05-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Volodymyr Zelenskyy – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy"
+              ],
+              "from": {
+                "date": "2019-05-20"
+              },
+              "quoteOriginal": "Volodymyr Oleksandrovych Zelenskyy has, since 2019, served as the sixth president of Ukraine. He won the election with 73.23 percent of the vote in the second round, defeating Poroshenko in the biggest landslide in the history of Ukrainian presidential elections.",
+              "quote": "Володимир Олександрович Зеленски е шестият президент на Украйна от 2019 г. Той печели изборите със 73,23% от гласовете на втория тур, побеждавайки Порошенко с най-голямата разлика в историята на украинските президентски избори."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Таври и скити",
+      "id": "b7c674fd-e691-4fc4-b694-99996a0a8010",
+      "periods": [
+        {
+          "name": "Таври (планински жители)",
+          "description": "Древен народ, населявал планинския южен Крим от I хил. пр.н.е. до асимилацията им от готите през IV в.",
+          "comment": "Началната дата ~1000 г. пр.н.е. отразява заселването на Таврите в Крим през I хилядолетие пр.н.е. Крайната дата ~250 г. маркира периода, в който готите нахлуват в Крим и постепенно асимилират таврите.",
+          "date": {
+            "range": [
+              "-001000-01-01",
+              "0250-12-31"
+            ],
+            "from": {
+              "dateYear": -1000
+            },
+            "to": {
+              "dateYear": 250
+            }
+          },
+          "sources": [
+            {
+              "name": "Tauri – Wikipedia (EN) BlackSwanOpenMedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Tauri"
+              ],
+              "from": {
+                "dateYear": -1000
+              },
+              "to": {
+                "dateYear": 300
+              },
+              "quoteOriginal": "The Tauri were an ancient people inhabiting the Crimean Mountains in the 1st millennium BC. Later the Taurians were subsumed by the Alans and Goths, and existed till the 4th century.",
+              "quote": "Таврите са древен народ, населявал Кримските планини през I хилядолетие пр.н.е. По-късно таврите са погълнати от аланите и готите и съществуват до IV век."
+            },
+            {
+              "name": "History of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/History_of_Crimea"
+              ],
+              "from": {
+                "dateYear": -1000
+              },
+              "to": {
+                "dateYear": 250
+              },
+              "quoteOriginal": "Early Iron Age Crimea was settled by two groups separated by the Crimean Mountains, the Tauri to the south and the Iranic Scythians in the north.",
+              "quote": "Крим от ранната желязна епоха е населен от две групи, разделени от Кримските планини — таврите на юг и иранските скити на север."
+            }
+          ]
+        },
+        {
+          "name": "Скити (степи)",
+          "description": "Ирански номадски народ, контролирал степите на северен Крим от VII в. пр.н.е. до нахлуването на готите.",
+          "comment": "Началната дата ~700 г. пр.н.е. следва Encyclopaedia Britannica: 'In the 7th century BCE the Scythians conquered the steppe area'. Крайната дата ~250 г. маркира нашествието на готите, които изтласкват скитите от Крим.",
+          "date": {
+            "range": [
+              "-000700-01-01",
+              "0250-12-31"
+            ],
+            "from": {
+              "dateYear": -700
+            },
+            "to": {
+              "dateYear": 250
+            }
+          },
+          "sources": [
+            {
+              "name": "Crimea: History – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Crimea/History"
+              ],
+              "from": {
+                "dateYear": -700
+              },
+              "to": {
+                "dateYear": 250
+              },
+              "quoteOriginal": "In the 7th century bce the Scythians conquered the steppe area.",
+              "quote": "През VII в. пр.н.е. скитите завладяват степната област."
+            },
+            {
+              "name": "History of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/History_of_Crimea"
+              ],
+              "from": {
+                "dateYear": -700
+              },
+              "to": {
+                "dateYear": 250
+              },
+              "quoteOriginal": "Early Iron Age Crimea was settled by two groups separated by the Crimean Mountains, the Tauri to the south and the Iranic Scythians in the north.",
+              "quote": "Крим от ранната желязна епоха е населен от две групи, разделени от Кримските планини — таврите на юг и иранските скити на север."
+            },
+            {
+              "name": "Scythians – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Scythians"
+              ],
+              "from": {
+                "dateYear": -900
+              },
+              "to": {
+                "dateYear": 250
+              },
+              "quoteOriginal": "The Scythians migrated during the 9th to 8th centuries BC from Central Asia to the Pontic Steppe in modern-day Ukraine and Southern Russia, where they remained until the 3rd century BC.",
+              "quote": "Скитите мигрират през IX–VIII в. пр.н.е. от Централна Азия към Понтийската степ в днешна Украйна и Южна Русия, където остават до III в. пр.н.е."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Гръцки колонии",
+      "id": "162fd9d9-c0db-430e-aa73-8067aa015a5b",
+      "periods": [
+        {
+          "name": "Гръцки колонии (Херсонес, Пантикапей, Теодосия)",
+          "description": "Гръцки градове-държави основават колонии по черноморското крайбрежие на Крим — Пантикапей и Теодосия от милетци, Херсонес от дорийци.",
+          "comment": "Началната дата ~600 г. пр.н.е. следва EN Wikipedia: 'Greek city-states began establishing colonies along the Black Sea coast of Crimea in the 7th or 6th century BC'. Крайната дата 63 г. пр.н.е. маркира включването на колониите в Римската сфера след победата на Помпей над Митридат VI.",
+          "date": {
+            "range": [
+              "-000600-01-01",
+              "-000063-12-31"
+            ],
+            "from": {
+              "dateYear": -600
+            },
+            "to": {
+              "dateYear": -63
+            }
+          },
+          "sources": [
+            {
+              "name": "History of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/History_of_Crimea"
+              ],
+              "from": {
+                "dateYear": -600
+              },
+              "to": {
+                "dateYear": -63
+              },
+              "quoteOriginal": "Greek city-states began establishing colonies along the Black Sea coast of Crimea in the 7th or 6th century BC. Theodosia and Panticapaeum were established by Milesians. In the 5th century BC, Dorians from Heraclea Pontica founded the sea port of Chersonesos.",
+              "quote": "Гръцките градове-държави започват да основават колонии по черноморското крайбрежие на Крим през VII или VI в. пр.н.е. Теодосия и Пантикапей са основани от милетци. През V в. пр.н.е. дорийци от Хераклея Понтика основават пристанището Херсонес."
+            },
+            {
+              "name": "Crimea: History – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Crimea/History"
+              ],
+              "from": {
+                "dateYear": -500
+              },
+              "to": {
+                "dateYear": -63
+              },
+              "quoteOriginal": "From the 5th and 4th centuries bce, the Greeks established colonies along the Crimean coasts.",
+              "quote": "От V и IV в. пр.н.е. гърците основават колонии по кримските брегове."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Боспорско царство",
+      "id": "8c9bbb27-7143-41d5-bc4e-18624d5ba475",
+      "periods": [
+        {
+          "name": "Боспорско царство",
+          "description": "Античнa държава около Керченския проток, обединяваща гръцки колонии и местни племена. Една от най-дълго просъществувалите римски клиентски държави.",
+          "comment": "Началната дата 438 г. пр.н.е. маркира идването на власт на династията Спартокиди, когато архонтът на Пантикапей приема титлата Цар на Кимерийския Боспор. Крайната дата ~370 г. отразява традиционното мнение, че царството е унищожено от готи и хуни в средата на IV в. Последните монети са от 341 г. (Рескупорид VI).",
+          "date": {
+            "range": [
+              "-000438-01-01",
+              "0370-12-31"
+            ],
+            "from": {
+              "dateYear": -438
+            },
+            "to": {
+              "dateYear": 370
+            }
+          },
+          "sources": [
+            {
+              "name": "Боспорско царство – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%81%D0%BA%D0%BE_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE"
+              ],
+              "from": {
+                "dateYear": -480
+              },
+              "to": {
+                "dateYear": 370
+              },
+              "quote": "Царството е управлявано между 480 и 438 г. пр.н.е. от царе, наречени Археанактиди. Традиционно се смята, че царството е унищожено от готите и хуните в средата на IV век."
+            },
+            {
+              "name": "Bosporan Kingdom – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Bosporan_Kingdom"
+              ],
+              "from": {
+                "dateYear": -438
+              },
+              "to": {
+                "dateYear": 370
+              },
+              "quoteOriginal": "In 438 BC, the Archon (ruler) of Panticapaeum assumed the title of the King of Cimmerian Bosporus. There are no known coins from the Bosporan Kingdom after the last ones minted by Rhescuporis VI in 341.",
+              "quote": "През 438 г. пр.н.е. архонтът (управителят) на Пантикапей приема титлата Цар на Кимерийския Боспор. Няма известни монети от Боспорското царство след последните, сечени от Рескупорид VI през 341 г."
+            },
+            {
+              "name": "Crimea: History – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Crimea/History"
+              ],
+              "from": {
+                "dateYear": -438
+              },
+              "to": {
+                "dateYear": 370
+              },
+              "quoteOriginal": "The Bosporan kingdom survived in the Kerch Peninsula, where it came under strong Greek influence.",
+              "quote": "Боспорското царство оцелява на Керченския полуостров, където попада под силно гръцко влияние."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Римска империя",
+      "id": "59d9dcc4-8ff8-4aea-b20e-1a3090e70013",
+      "periods": [
+        {
+          "name": "Римска империя (клиентско царство, после пряко управление)",
+          "description": "Боспорското царство става клиентска държава на Рим от 63 г. пр.н.е. след победата на Помпей, а от 15 г. пр.н.е. Рим пряко контролира гръцките колонии.",
+          "comment": "Началната дата 63 г. пр.н.е. маркира победата на Помпей над Митридат VI Понтийски и превръщането на Боспорското царство в римски клиент. Крайната дата 395 г. е разделянето на Римската империя, след което Крим преминава към Византия.",
+          "date": {
+            "range": [
+              "-000063-01-01",
+              "0395-12-31"
+            ],
+            "from": {
+              "dateYear": -63
+            },
+            "to": {
+              "dateYear": 395
+            }
+          },
+          "sources": [
+            {
+              "name": "History of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/History_of_Crimea"
+              ],
+              "from": {
+                "dateYear": -63
+              },
+              "to": {
+                "dateYear": 395
+              },
+              "quoteOriginal": "In the 2nd century BC, the eastern part of Taurica became part of the Bosporan Kingdom, before becoming a client kingdom of the Roman Empire in the 1st century BC.",
+              "quote": "През II в. пр.н.е. източната част на Таврика става част от Боспорското царство, преди да стане клиентско царство на Римската империя през I в. пр.н.е."
+            },
+            {
+              "name": "Crimea: History – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Crimea/History"
+              ],
+              "from": {
+                "dateYear": -15
+              },
+              "to": {
+                "dateYear": 395
+              },
+              "quoteOriginal": "These colonies, which came under Roman control in 15 bce.",
+              "quote": "Тези колонии преминават под римски контрол през 15 г. пр.н.е."
+            },
+            {
+              "name": "Боспорско царство – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D0%BF%D0%BE%D1%80%D1%81%D0%BA%D0%BE_%D1%86%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE"
+              ],
+              "from": {
+                "dateYear": -8
+              },
+              "to": {
+                "dateYear": 370
+              },
+              "quote": "При Аспург (8 г. пр.н.е. – 38 г.) и последвалите го царе Боспорското царство е клиентска държава на Римската империя в продължение на 300 години."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Готи и Хуни",
+      "id": "6d036abc-e797-4ad3-b2d9-ec97f125f4ee",
+      "periods": [
+        {
+          "name": "Готи",
+          "description": "Готите се заселват в Крим около средата на III век и доминират полуострова до нашествието на хуните.",
+          "comment": "Начална дата 250 г. съответства на първото засвидетелстване на готско присъствие в Крим. Крайна дата 376 г. маркира нашествието на хуните, което слага край на готското господство в региона.",
+          "date": {
+            "range": [
+              "0250-01-01",
+              "0376-12-31"
+            ],
+            "from": {
+              "dateYear": 250
+            },
+            "to": {
+              "dateYear": 376
+            }
+          },
+          "sources": [
+            {
+              "name": "Кримски готи – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%B8_%D0%B3%D0%BE%D1%82%D0%B8"
+              ],
+              "from": {
+                "dateYear": 257
+              },
+              "to": {
+                "dateYear": 376
+              },
+              "quote": "В съюз със сарматите готите напредват през 255-257 г. на Кримския полуостров."
+            },
+            {
+              "name": "History of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/History_of_Crimea"
+              ],
+              "from": {
+                "dateYear": 250
+              },
+              "to": {
+                "dateYear": 376
+              },
+              "quoteOriginal": "Throughout the later centuries, Crimea was invaded or occupied successively by the Goths (AD 250).",
+              "quote": "През следващите столетия Крим е нахлуван или окупиран последователно от готите (250 г. сл. Хр.)."
+            },
+            {
+              "name": "Crimean Goths – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Crimean_Goths"
+              ],
+              "from": {
+                "dateYear": 250
+              },
+              "to": {
+                "dateYear": 376
+              },
+              "quoteOriginal": "The existence of Goths in Crimea was first attested from around the 3rd century, when they were first reported.",
+              "quote": "Съществуването на готи в Крим е засвидетелствано за пръв път от около III век."
+            }
+          ]
+        },
+        {
+          "name": "Хуни",
+          "description": "Хуните нахлуват в Крим около 376 г. и доминират региона до смъртта на Атила през 453 г. и последвалия разпад на хунската империя.",
+          "comment": "Начална дата 376 г. маркира хунското нашествие в Понтийските степи, което принуждава готите да потърсят убежище в Римската империя. Крайна дата 453 г. е годината на смъртта на Атила, след която хунската империя бързо се разпада.",
+          "date": {
+            "range": [
+              "0376-01-01",
+              "0453-12-31"
+            ],
+            "from": {
+              "dateYear": 376
+            },
+            "to": {
+              "dateYear": 453
+            }
+          },
+          "sources": [
+            {
+              "name": "Хуни – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A5%D1%83%D0%BD%D0%B8"
+              ],
+              "from": {
+                "dateYear": 372
+              },
+              "to": {
+                "dateYear": 453
+              },
+              "quote": "Атила се оттегля в Панония и умира през 453 при спорни обстоятелства."
+            },
+            {
+              "name": "Huns – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Huns"
+              ],
+              "from": {
+                "dateYear": 376
+              },
+              "to": {
+                "dateYear": 453
+              },
+              "quoteOriginal": "The Romans became aware of the Huns when the latter's invasion of the Pontic steppes forced thousands of Goths to move to the Lower Danube to seek refuge in the Roman Empire in 376.",
+              "quote": "Римляните научават за хуните, когато нашествието на последните в Понтийските степи принуждава хиляди готи да се преместят към Долния Дунав, за да потърсят убежище в Римската империя през 376 г."
+            },
+            {
+              "name": "Hun – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Hun-people"
+              ],
+              "from": {
+                "dateYear": 376
+              },
+              "to": {
+                "dateYear": 453
+              },
+              "quoteOriginal": "About 376 they defeated the Visigoths living in what is now approximately Romania.",
+              "quote": "Около 376 г. те побеждават вестготите, живеещи в днешна приблизително Румъния."
+            }
+          ]
+        },
+        {
+          "name": "Българи",
+          "description": "Прабългарите се заселват в Крим от V век, като през VII век регионът е част от Стара Велика България на хан Кубрат.",
+          "comment": "Начална дата около 400 г. отразява ранното прабългарско присъствие в Северното Причерноморие (V век). Крайна дата 668 г. маркира разпадането на Стара Велика България под хазарски натиск, след което хазарите поемат контрола над Крим.",
+          "date": {
+            "range": [
+              "0400-01-01",
+              "0668-12-31"
+            ],
+            "from": {
+              "dateYear": 400
+            },
+            "to": {
+              "dateYear": 668
+            }
+          },
+          "sources": [
+            {
+              "name": "Кримски българи – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%B8_%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8"
+              ],
+              "from": {
+                "dateYear": 400
+              },
+              "to": {
+                "dateYear": 668
+              },
+              "quote": "На територията на Кримския полуостров заселване на прабългари има още през 5 век."
+            },
+            {
+              "name": "Стара Велика България – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F"
+              ],
+              "from": {
+                "dateYear": 632
+              },
+              "to": {
+                "dateYear": 668
+              },
+              "quote": "През 668 г. държавата, която владее Батбаян, попада под хазарска зависимост."
+            },
+            {
+              "name": "History of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/History_of_Crimea"
+              ],
+              "from": {
+                "dateYear": 300
+              },
+              "to": {
+                "dateYear": 800
+              },
+              "quoteOriginal": "Crimea was invaded or occupied successively by... the Bulgars (4th–8th century).",
+              "quote": "Крим е нахлуван или окупиран последователно от... българите (IV–VIII век)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Хазарски хаганат",
+      "id": "ea4d8ab4-cfdf-4d6c-a3ad-2f8e965a39ac",
+      "periods": [
+        {
+          "name": "Хазарски хаганат",
+          "description": "Хазарският каганат контролира по-голямата част от Крим от средата на VII до края на X век, като е най-мощната държава в Източна Европа.",
+          "comment": "Начална дата около 650 г. отразява началото на хазарската експанзия към Крим след разпада на Стара Велика България. Крайна дата 969 г. маркира завладяването на хазарската столица Итил от киевския княз Святослав I.",
+          "date": {
+            "range": [
+              "0650-01-01",
+              "0969-12-31"
+            ],
+            "from": {
+              "dateYear": 650
+            },
+            "to": {
+              "dateYear": 969
+            }
+          },
+          "sources": [
+            {
+              "name": "Хазарски каганат – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B7%D0%B0%D1%80%D1%81%D0%BA%D0%B8_%D0%BA%D0%B0%D0%B3%D0%B0%D0%BD%D0%B0%D1%82"
+              ],
+              "from": {
+                "dateYear": 650
+              },
+              "to": {
+                "dateYear": 969
+              },
+              "quote": "Към края на VII в. хазарите завладяват по-голямата част от п-в Крим."
+            },
+            {
+              "name": "Khazars – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Khazars"
+              ],
+              "from": {
+                "dateYear": 650
+              },
+              "to": {
+                "dateYear": 969
+              },
+              "quoteOriginal": "By the 8th century, Khazars dominated the Crimea (650–c. 950) and even extended their influence into the Byzantine peninsula of Cherson until it was wrested back in the 10th century.",
+              "quote": "До VIII век хазарите доминират в Крим (650 – ок. 950) и дори разширяват влиянието си върху византийския полуостров Херсон, докъдето не е бил отвоюван обратно през X век."
+            },
+            {
+              "name": "Khazar – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Khazar"
+              ],
+              "from": {
+                "dateYear": 650
+              },
+              "to": {
+                "dateYear": 965
+              },
+              "quoteOriginal": "When Svyatoslav, the ruler of Kiev, launched a campaign against the Khazars (965), Khazar power was crushed.",
+              "quote": "Когато Святослав, владетелят на Киев, предприема поход срещу хазарите (965), хазарската мощ е съкрушена."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Византийска империя",
+      "id": "aed45a10-d357-4caa-84d8-5e6e8cd0ca43",
+      "periods": [
+        {
+          "name": "Византийска империя (Тема Херсон)",
+          "description": "Византия контролира южен Крим чрез крепостта Херсон от разделянето на Римската империя (395 г.) до Четвъртия кръстоносен поход (1204 г.).",
+          "comment": "Начална дата 395 г. маркира разделянето на Римската империя, когато Херсон преминава под контрола на Източната римска (Византийска) империя. Формалната тема Херсон е създадена ок. 833/834 г., но византийско присъствие е засвидетелствано от IV в. Крайна дата 1204 г. е годината на превземането на Константинопол от Четвъртия кръстоносен поход.",
+          "date": {
+            "range": [
+              "0395-01-01",
+              "1204-12-31"
+            ],
+            "from": {
+              "dateYear": 395
+            },
+            "to": {
+              "dateYear": 1204
+            }
+          },
+          "sources": [
+            {
+              "name": "Византийска империя – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%92%D0%B8%D0%B7%D0%B0%D0%BD%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B0_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F"
+              ],
+              "from": {
+                "dateYear": 395
+              },
+              "to": {
+                "dateYear": 1204
+              },
+              "quote": "Началото на Византийската империя се поставя след разделянето на единната Римска империя през 395 г. между синовете на Теодосий I."
+            },
+            {
+              "name": "Херсонес Таврически – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A5%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B5%D1%81_%D0%A2%D0%B0%D0%B2%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8"
+              ],
+              "from": {
+                "dateYear": 300
+              },
+              "to": {
+                "dateYear": 1204
+              },
+              "quote": "От IV в. от н.е. той е важна византийска крепост като най-северната точка на Византийската империя."
+            },
+            {
+              "name": "Cherson (theme) – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Cherson_(theme)"
+              ],
+              "from": {
+                "dateYear": 833
+              },
+              "to": {
+                "dateYear": 1204
+              },
+              "quoteOriginal": "Cherson and its province remained under Byzantine control until the dissolution of the Empire by the Fourth Crusade in 1204.",
+              "quote": "Херсон и неговата провинция остават под византийски контрол до разпадането на Империята от Четвъртия кръстоносен поход през 1204 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Киевска Рус",
+      "id": "4ae76474-276d-4227-a6f0-7fd2f85b8ecd",
+      "periods": [
+        {
+          "name": "Киевска Рус (Тмутаракан)",
+          "description": "Киевска Рус контролира части от Крим и Тамания чрез княжеството Тмутаракан от края на X век до монголското нашествие.",
+          "comment": "Начална дата 988 г. маркира завземането на Херсон (Корсун) от княз Владимир и покръстването на Рус. Крайна дата 1239 г. е годината на монголското нашествие в Крим, което слага край на последните остатъци от контрола на Киевска Рус в региона.",
+          "date": {
+            "range": [
+              "0988-01-01",
+              "1239-12-31"
+            ],
+            "from": {
+              "dateYear": 988
+            },
+            "to": {
+              "dateYear": 1239
+            }
+          },
+          "sources": [
+            {
+              "name": "Киевска Рус – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0_%D0%A0%D1%83%D1%81"
+              ],
+              "from": {
+                "dateYear": 988
+              },
+              "to": {
+                "dateYear": 1240
+              },
+              "quote": "Князът превзема град Корсун, в който се покръства."
+            },
+            {
+              "name": "Tmutarakan – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Tmuturokan"
+              ],
+              "from": {
+                "dateYear": 988
+              },
+              "to": {
+                "dateYear": 1100
+              },
+              "quoteOriginal": "The Hypatian Codex mentions Tmutarakan as one of the towns that Vladimir the Great gave to his sons, which implies that Rus control over the city was established in the late 10th century.",
+              "quote": "Ипатиевският кодекс споменава Тмутаракан като един от градовете, които Владимир Велики дава на синовете си, което означава, че контролът на Рус над града е установен в края на X век."
+            },
+            {
+              "name": "History of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/History_of_Crimea"
+              ],
+              "from": {
+                "dateYear": 950
+              },
+              "to": {
+                "dateYear": 1239
+              },
+              "quoteOriginal": "In the mid-10th century, the eastern area of Crimea was conquered by Prince Sviatoslav I of Kiev and became part of the Kievan Rus' principality of Tmutarakan.",
+              "quote": "В средата на X век източната част на Крим е завладяна от княз Святослав I Киевски и става част от княжеството Тмутаракан на Киевска Рус."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Монголска Златна орда",
+      "id": "09603271-df3d-4ea9-aed4-19d2266a1914",
+      "periods": [
+        {
+          "name": "Монголска Златна орда (вътрешността на Крим)",
+          "description": "Тюрко-монголската Златна орда контролира вътрешността на Кримския полуостров от 1239 до 1441 г., със столица Кирим (дн. Стари Крим).",
+          "comment": "Началната дата 1239 г. отразява завладяването на Крим от Бату хан по време на монголското нашествие в Източна Европа. Крайната дата 1441 г. бележи основаването на независимото Кримско ханство от Хаджи I Герай.",
+          "date": {
+            "range": [
+              "1239-01-01",
+              "1441-12-31"
+            ],
+            "from": {
+              "dateYear": 1239
+            },
+            "to": {
+              "dateYear": 1441
+            }
+          },
+          "sources": [
+            {
+              "name": "Златна орда – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%97%D0%BB%D0%B0%D1%82%D0%BD%D0%B0_%D0%BE%D1%80%D0%B4%D0%B0"
+              ],
+              "from": {
+                "dateYear": 1237
+              },
+              "to": {
+                "dateYear": 1502
+              },
+              "quote": "Кримското ханство става васал на Османската империя през 1475 г. и успява да присъедини към териториите си остатъците от Златната орда до 1502 г."
+            },
+            {
+              "name": "History of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/History_of_Crimea"
+              ],
+              "from": {
+                "dateYear": 1239
+              },
+              "to": {
+                "dateYear": 1441
+              },
+              "quoteOriginal": "The Crimean interior came under the control of the Turco-Mongol Golden Horde from 1239 to 1441.",
+              "quote": "Вътрешността на Крим попада под контрола на тюрко-монголската Златна орда от 1239 до 1441 г."
+            },
+            {
+              "name": "Mongol invasion of Kievan Rus' – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Mongol_invasion_of_Kievan_Rus'"
+              ],
+              "from": {
+                "dateYear": 1238
+              },
+              "quoteOriginal": "In mid-1238, Batu Khan devastated the Crimea and pacified Mordovia.",
+              "quote": "В средата на 1238 г. Бату хан опустошава Крим и усмирява Мордовия."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Генуезки колонии",
+      "id": "0e9b3058-1b75-468f-9592-f99efabc7865",
+      "periods": [
+        {
+          "name": "Генуезки колонии (Кафа, Солдая, Чембало)",
+          "description": "Генуезката република контролира крайбрежни търговски колонии в южен Крим — Кафа (дн. Феодосия), Солдая (дн. Судак) и Чембало (дн. Балаклава).",
+          "comment": "Началната дата 1266 г. е годината, в която генуезците откупуват Кафа от Златната орда и основават главната си черноморска колония. Крайната дата 1475 г. бележи османското завладяване на всички генуезки крепости в Крим от Гедик Ахмед паша.",
+          "date": {
+            "range": [
+              "1266-01-01",
+              "1475-12-31"
+            ],
+            "from": {
+              "dateYear": 1266
+            },
+            "to": {
+              "dateYear": 1475
+            }
+          },
+          "sources": [
+            {
+              "name": "Феодосия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BE%D0%B4%D0%BE%D1%81%D0%B8%D1%8F"
+              ],
+              "from": {
+                "dateYear": 1266
+              },
+              "to": {
+                "dateYear": 1475
+              },
+              "quote": "Около 1266 търговци от Генуа откупуват местността от Златната орда и основават там крепостта Кафа."
+            },
+            {
+              "name": "Genoese Gazaria – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Genoese_Gazaria"
+              ],
+              "from": {
+                "dateYear": 1266
+              },
+              "to": {
+                "dateYear": 1475
+              },
+              "quoteOriginal": "In 1266, Caffa was granted to the Genoese, which became the capital of the dominions of Gazaria.",
+              "quote": "През 1266 г. Кафа е предоставена на генуезците и става столица на владенията на Газария."
+            },
+            {
+              "name": "Feodosiya – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Feodosiya"
+              ],
+              "from": {
+                "dateYear": 1266
+              },
+              "to": {
+                "dateYear": 1475
+              },
+              "quoteOriginal": "The Genoese wrested control over Kaffa from the Golden Horde in 1266.",
+              "quote": "Генуезците изтръгват контрола над Кафа от Златната орда през 1266 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Княжество Теодоро",
+      "id": "b1c010f9-04f4-40eb-8156-0811dc7967a2",
+      "periods": [
+        {
+          "name": "Княжество Теодоро (гръцко княжество)",
+          "description": "Средновековно гръцко княжество в югозападен Крим със столица Мангуп, наследник на византийските владения в региона.",
+          "comment": "Началната дата 1204 г. отразява Разграбването на Константинопол, след което кримските територии преминават под управлението на Трапезундската Перетея — предшественик на Теодоро. Самото княжество се споменава за пръв път в началото на XIV в., но 1204 г. маркира началото на автономното управление. Крайната дата 1475 г. бележи падането на Мангуп след петмесечна обсада от османците.",
+          "date": {
+            "range": [
+              "1204-01-01",
+              "1475-12-31"
+            ],
+            "from": {
+              "dateYear": 1204
+            },
+            "to": {
+              "dateYear": 1475
+            }
+          },
+          "sources": [
+            {
+              "name": "Теодоро – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D0%B4%D0%BE%D1%80%D0%BE"
+              ],
+              "from": {
+                "dateYear": 1204
+              },
+              "to": {
+                "dateYear": 1475
+              },
+              "quote": "През 1475 година след продължила близо пет месеца обсада на град Мангуп, Теодоро са завладени от османските войски под командването на Гедик Ахмед паша."
+            },
+            {
+              "name": "Principality of Theodoro – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Principality_of_Theodoro"
+              ],
+              "from": {
+                "dateYear": 1204
+              },
+              "to": {
+                "dateYear": 1475
+              },
+              "quoteOriginal": "Soon after the Sack of Constantinople in 1204, parts of it were included in the Trapezuntine Gazarian Perateia.",
+              "quote": "Скоро след Разграбването на Константинопол през 1204 г. части от него са включени в Трапезундската Газарийска Перетея."
+            },
+            {
+              "name": "History of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/History_of_Crimea"
+              ],
+              "from": {
+                "dateYear": 1204
+              },
+              "to": {
+                "dateYear": 1475
+              },
+              "quoteOriginal": "Trebizond's Perateia soon became the Principality of Theodoro and Genoese Gazaria, respectively sharing control of the south of Crimea until the Ottoman intervention of 1475.",
+              "quote": "Трапезундската Перетея скоро се превръща в Княжество Теодоро и Генуезка Газария, които поделят контрола над южен Крим до османската интервенция от 1475 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Кримско ханство",
+      "id": "917e1cad-7bb5-4846-b727-aca413c40c23",
+      "periods": [
+        {
+          "name": "Кримско ханство (васал на Османската империя от 1475)",
+          "description": "Кримскотатарска държава, основана от Хаджи I Герай. Независима до 1475 г., след което васал на Османската империя до 1774 г. Анексирана от Русия през 1783 г.",
+          "comment": "Началната дата 1443 г. следва History of Crimea на Wikipedia: 'by 1443' и Encyclopaedia Britannica: 'Founded in 1443'. Алтернативната дата 1441 г. се среща в основната статия за Кримското ханство. Крайната дата 19 април 1783 г. е датата на указа на Екатерина II за анексията на ханството.",
+          "date": {
+            "range": [
+              "1443-01-01",
+              "1783-04-19"
+            ],
+            "from": {
+              "dateYear": 1443
+            },
+            "to": {
+              "date": "1783-04-19"
+            }
+          },
+          "sources": [
+            {
+              "name": "Кримско ханство – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%BE_%D1%85%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE"
+              ],
+              "from": {
+                "dateYear": 1443
+              },
+              "to": {
+                "dateYear": 1783
+              },
+              "quote": "През 1478 г. Кримското ханство официално става васално на Османската империя."
+            },
+            {
+              "name": "History of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/History_of_Crimea"
+              ],
+              "from": {
+                "dateYear": 1443
+              },
+              "to": {
+                "dateYear": 1783
+              },
+              "quoteOriginal": "After Timur destroyed a Mongol Golden Horde army in 1399, the Crimean Tatars founded an independent Crimean Khanate under Hacı I Giray by 1443.",
+              "quote": "След като Тимур унищожава монголска армия на Златната орда през 1399 г., кримските татари основават независимо Кримско ханство начело с Хаджи I Герай до 1443 г."
+            },
+            {
+              "name": "Khanate of Crimea – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/khanate-of-Crimea"
+              ],
+              "from": {
+                "dateYear": 1443
+              },
+              "to": {
+                "dateYear": 1783
+              },
+              "quoteOriginal": "Founded in 1443 and centred at Bakhchysaray, the Crimean khanate, becoming a Turkish vassal in 1475.",
+              "quote": "Основано през 1443 г. и съсредоточено в Бахчисарай, Кримското ханство става турски васал през 1475 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Османска империя",
+      "id": "a0054c89-0387-43ea-a0ff-e9fab3140a77",
+      "periods": [
+        {
+          "name": "Османска империя (сюзеренитет над ханството + крайбрежие)",
+          "description": "Османската империя упражнява сюзеренитет над Кримското ханство и пряко управлява крайбрежните градове (Кафа, Судак, Керч) като санджак.",
+          "comment": "Началната дата 1475 г. бележи похода на Гедик Ахмед паша, който завладява генуезките колонии и Княжество Теодоро. Крайната дата 21 юли 1774 г. е датата на Кючуккайнарджийския мирен договор, с който Османската империя признава независимостта на Кримското ханство.",
+          "date": {
+            "range": [
+              "1475-01-01",
+              "1774-07-21"
+            ],
+            "from": {
+              "dateYear": 1475
+            },
+            "to": {
+              "date": "1774-07-21"
+            }
+          },
+          "sources": [
+            {
+              "name": "Кючуккайнарджийски мирен договор – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9A%D1%8E%D1%87%D1%83%D0%BA%D0%BA%D0%B0%D0%B9%D0%BD%D0%B0%D1%80%D0%B4%D0%B6%D0%B8%D0%B9%D1%81%D0%BA%D0%B8_%D0%BC%D0%B8%D1%80%D0%B5%D0%BD_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80"
+              ],
+              "from": {
+                "dateYear": 1475
+              },
+              "to": {
+                "date": "1774-07-21"
+              },
+              "quote": "Договорът от Кючук Кайнарджа е мирен договор от 21 юли 1774 г. Договорът отстъпва Керч и няколко други черноморски пристанища на Кримския полуостров на Русия и обявява останалата част от Кримското ханство за независимо."
+            },
+            {
+              "name": "Crimean Khanate – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Crimean_Khanate"
+              ],
+              "from": {
+                "dateYear": 1475
+              },
+              "to": {
+                "dateYear": 1774
+              },
+              "quoteOriginal": "In 1475 the Ottoman forces, under the command of Gedik Ahmet Pasha, conquered the Greek Principality of Theodoro and the Genoese colonies at Cembalo, Soldaia, and Caffa. Thenceforth the khanate was a protectorate of the Ottoman Empire.",
+              "quote": "През 1475 г. османските войски под командването на Гедик Ахмед паша завладяват гръцкото Княжество Теодоро и генуезките колонии в Чембало, Солдая и Кафа. Оттогава ханството е протекторат на Османската империя."
+            },
+            {
+              "name": "Crimea: History – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Crimea/History"
+              ],
+              "from": {
+                "dateYear": 1475
+              },
+              "to": {
+                "dateYear": 1774
+              },
+              "quoteOriginal": "Treaty of Küçük Kaynarca (1774), which ceded to Russia fortresses on the Kerch Peninsula and established an independent Crimean Tatar state.",
+              "quote": "Кючуккайнарджийският договор (1774 г.) отстъпва на Русия крепости на Керченския полуостров и установява независима кримскотатарска държава."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Руска империя",
+      "id": "d2ae629a-93e1-449e-9bb6-128c00368a05",
+      "periods": [
+        {
+          "name": "Руска империя",
+          "description": "Екатерина II анексира Крим на 19 април 1783 г. Полуостровът остава част от Руската империя до абдикацията на Николай II.",
+          "comment": "Началната дата 19 април 1783 г. е датата на указа на Екатерина II за формалната анексия на Кримското ханство (8 април по стар стил). Крайната дата 15 март 1917 г. е абдикацията на Николай II.",
+          "date": {
+            "range": [
+              "1783-04-19",
+              "1917-03-15"
+            ],
+            "from": {
+              "date": "1783-04-19"
+            },
+            "to": {
+              "date": "1917-03-15"
+            }
+          },
+          "sources": [
+            {
+              "name": "Крим – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BC"
+              ],
+              "from": {
+                "dateYear": 1783
+              },
+              "to": {
+                "dateYear": 1917
+              },
+              "quote": "През 1783 г. целият Крим е анексиран."
+            },
+            {
+              "name": "Annexation of Crimea by the Russian Empire – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Annexation_of_Crimea_by_the_Russian_Empire"
+              ],
+              "from": {
+                "date": "1783-04-19"
+              },
+              "to": {
+                "date": "1917-03-15"
+              },
+              "quoteOriginal": "Catherine issued a formal proclamation of annexation on 19 April [O.S. 8 April] 1783.",
+              "quote": "Екатерина издава формална прокламация за анексия на 19 април [8 април стар стил] 1783 г."
+            },
+            {
+              "name": "Crimea: History – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Crimea/History"
+              ],
+              "from": {
+                "dateYear": 1783
+              },
+              "to": {
+                "dateYear": 1917
+              },
+              "quoteOriginal": "In 1783 Catherine II (the Great) annexed the peninsula, and it became Russian territory.",
+              "quote": "През 1783 г. Екатерина II (Велика) анексира полуострова и той става руска територия."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Гражданска война",
+      "id": "79e66224-99ac-4245-9369-7fb9ce3930e0",
+      "periods": [
+        {
+          "name": "Кримска народна република",
+          "description": "Краткотрайна кримскотатарска държава, провъзгласена от Курултая на 13 декември 1917 г. и разгромена от болшевиките в края на януари 1918 г.",
+          "comment": "Началната дата 13 декември 1917 г. е датата на провъзгласяването на Кримската народна република от Курултая. Крайната дата 26 януари 1918 г. маркира завземането на Симферопол от болшевиките и разпускането на Курултая.",
+          "date": {
+            "range": [
+              "1917-12-13",
+              "1918-01-26"
+            ],
+            "from": {
+              "date": "1917-12-13"
+            },
+            "to": {
+              "date": "1918-01-26"
+            }
+          },
+          "sources": [
+            {
+              "name": "Crimean People's Republic – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Crimean_People%27s_Republic"
+              ],
+              "from": {
+                "date": "1917-12-13"
+              },
+              "to": {
+                "date": "1918-01-26"
+              },
+              "quoteOriginal": "The Crimean People's Republic was declared by the initiative of the Kurultai of Crimean Tatars on 13 December 1917. By the end of January 1918, the Bolsheviks had captured the whole of Crimea and dissolved both the Kurultai as well as the Council of National Representatives.",
+              "quote": "Кримската народна република е провъзгласена по инициатива на Курултая на кримските татари на 13 декември 1917 г. До края на януари 1918 г. болшевиките завземат целия Крим и разпускат Курултая и Съвета на народните представители."
+            },
+            {
+              "name": "History of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/History_of_Crimea"
+              ],
+              "from": {
+                "dateYear": 1917,
+                "dateMonth": 12
+              },
+              "to": {
+                "dateYear": 1918,
+                "dateMonth": 1
+              },
+              "quoteOriginal": "Crimean People's Republic — December 1917 – January 1918 — Crimean Tatar government.",
+              "quote": "Кримска народна република — декември 1917 – януари 1918 — кримскотатарско правителство."
+            }
+          ]
+        },
+        {
+          "name": "Болшевишко / Бяло движение (смяна на властта)",
+          "description": "По време на Руската гражданска война Крим преминава многократно от болшевишки в бял контрол, като е последен бастион на Бялото движение.",
+          "comment": "Началната дата март 1918 г. маркира установяването на първата болшевишка власт в Крим след разгрома на Народната република. Крайната дата 16 ноември 1920 г. е евакуацията на армията на генерал Врангел от Крим.",
+          "date": {
+            "range": [
+              "1918-03-01",
+              "1920-11-16"
+            ],
+            "from": {
+              "dateYear": 1918,
+              "dateMonth": 3
+            },
+            "to": {
+              "date": "1920-11-16"
+            }
+          },
+          "sources": [
+            {
+              "name": "History of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/History_of_Crimea"
+              ],
+              "from": {
+                "dateYear": 1918,
+                "dateMonth": 3
+              },
+              "to": {
+                "date": "1920-11-16"
+              },
+              "quoteOriginal": "During the ensuing Russian Civil War, Crimea changed hands numerous times and was for a time a stronghold of the anti-Bolshevik White Army.",
+              "quote": "По време на последвалата Руска гражданска война Крим преминава от ръка на ръка множество пъти и за известно време е бастион на антиболшевишката Бяла армия."
+            },
+            {
+              "name": "Crimea: History – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Crimea/History"
+              ],
+              "from": {
+                "dateYear": 1918
+              },
+              "to": {
+                "dateYear": 1920
+              },
+              "quoteOriginal": "During the Russian Civil War (1918–20), Crimea served as the final redoubt for White forces.",
+              "quote": "По време на Руската гражданска война (1918–20) Крим служи като последно убежище на Белите сили."
+            }
+          ]
+        },
+        {
+          "name": "Болшевишки революционен комитет",
+          "description": "Болшевишко управление на Крим под ръководството на Бела Кун от ноември 1920 до създаването на Кримската АССР.",
+          "comment": "Началната дата 16 ноември 1920 г. маркира окончателното установяване на болшевишки контрол след евакуацията на Врангел. Крайната дата 18 октомври 1921 г. е датата на създаването на Кримската АССР.",
+          "date": {
+            "range": [
+              "1920-11-16",
+              "1921-10-18"
+            ],
+            "from": {
+              "date": "1920-11-16"
+            },
+            "to": {
+              "date": "1921-10-18"
+            }
+          },
+          "sources": [
+            {
+              "name": "History of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/History_of_Crimea"
+              ],
+              "from": {
+                "date": "1920-11-16"
+              },
+              "to": {
+                "date": "1921-10-18"
+              },
+              "quoteOriginal": "Crimea became part of the Russian Soviet Federative Socialist Republic on 18 October 1921 as the Crimean Autonomous Soviet Socialist Republic.",
+              "quote": "Крим става част от Руската съветска федеративна социалистическа република на 18 октомври 1921 г. като Кримска автономна съветска социалистическа република."
+            },
+            {
+              "name": "Crimean Autonomous Soviet Socialist Republic – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Crimean_Autonomous_Soviet_Socialist_Republic"
+              ],
+              "from": {
+                "date": "1920-11-16"
+              },
+              "to": {
+                "date": "1921-10-18"
+              },
+              "quoteOriginal": "On 18 October 1921, after a successful military campaign by the Red Army, the Crimean Autonomous Socialist Soviet Republic was created within the Russian SFSR.",
+              "quote": "На 18 октомври 1921 г., след успешна военна кампания на Червената армия, Кримската автономна съветска социалистическа република е създадена в състава на РСФСР."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Кримска АССР (РСФСР)",
+      "id": "b608437b-7258-400b-a780-de7e26fb8d0c",
+      "periods": [
+        {
+          "name": "Кримска АССР",
+          "description": "Кримска автономна съветска социалистическа република в състава на РСФСР, създадена на 18 октомври 1921 г.",
+          "comment": "Началната дата 18 октомври 1921 г. е датата на учредяването на Кримската АССР. Крайната дата октомври 1941 г. маркира нацистката окупация на полуострова.",
+          "date": {
+            "range": [
+              "1921-10-18",
+              "1941-11-01"
+            ],
+            "from": {
+              "date": "1921-10-18"
+            },
+            "to": {
+              "dateYear": 1941,
+              "dateMonth": 11
+            }
+          },
+          "sources": [
+            {
+              "name": "Crimean Autonomous Soviet Socialist Republic – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Crimean_Autonomous_Soviet_Socialist_Republic"
+              ],
+              "from": {
+                "date": "1921-10-18"
+              },
+              "to": {
+                "dateYear": 1941
+              },
+              "quoteOriginal": "On 18 October 1921, after a successful military campaign by the Red Army, the Crimean Autonomous Socialist Soviet Republic was created within the Russian SFSR.",
+              "quote": "На 18 октомври 1921 г., след успешна военна кампания на Червената армия, Кримската автономна съветска социалистическа република е създадена в състава на РСФСР."
+            },
+            {
+              "name": "Crimea: History – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Crimea/History"
+              ],
+              "from": {
+                "dateYear": 1921
+              },
+              "to": {
+                "dateYear": 1941
+              },
+              "quoteOriginal": "The peninsula was reorganized as the Crimean Autonomous Soviet Socialist Republic in 1921.",
+              "quote": "Полуостровът е реорганизиран като Кримска автономна съветска социалистическа република през 1921 г."
+            }
+          ]
+        },
+        {
+          "name": "Нацистка окупация (Generalbezirk Krim)",
+          "description": "Нацистка Германия окупира Крим от ноември 1941 г. Полуостровът е администриран като Генералбецирк Крим-Таврия.",
+          "comment": "Началната дата ноември 1941 г. маркира окупацията на по-голямата част от Крим от германските войски (боевете започват септември 1941 г.). Крайната дата 12 май 1944 г. е датата на унищожаването на последните нацистки джобове в Крим по време на Кримската офанзива.",
+          "date": {
+            "range": [
+              "1941-11-01",
+              "1944-05-12"
+            ],
+            "from": {
+              "dateYear": 1941,
+              "dateMonth": 11
+            },
+            "to": {
+              "date": "1944-05-12"
+            }
+          },
+          "sources": [
+            {
+              "name": "German occupation of Crimea during World War II – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/German_occupation_of_Crimea_during_World_War_II"
+              ],
+              "from": {
+                "dateYear": 1941,
+                "dateMonth": 9
+              },
+              "to": {
+                "date": "1944-05-12"
+              },
+              "quoteOriginal": "By 26 September 1941, German forces, supported by the Kingdom of Romania, had started fighting for Crimea. Crimea recaptured by the Soviet Union 12 May 1944.",
+              "quote": "Към 26 септември 1941 г. германските войски, подкрепени от Кралство Румъния, започват бойните действия за Крим. Крим е освободен от Съветския съюз на 12 май 1944 г."
+            },
+            {
+              "name": "History of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/History_of_Crimea"
+              ],
+              "from": {
+                "dateYear": 1942,
+                "dateMonth": 9
+              },
+              "to": {
+                "dateYear": 1944,
+                "dateMonth": 5
+              },
+              "quoteOriginal": "From 1 September 1942, the peninsula was administered as the Generalbezirk Krim by the Nazi Generalkommissar Alfred Eduard Frauenfeld.",
+              "quote": "От 1 септември 1942 г. полуостровът е администриран като Генералбецирк Крим от нацисткия генералкомисар Алфред Едуард Фрауенфелд."
+            }
+          ]
+        },
+        {
+          "name": "Кримска АССР (възстановена)",
+          "description": "Кримската АССР е възстановена след освобождението от нацистка окупация, но е премахната на 30 юни 1945 г. и понижена до област.",
+          "comment": "Началната дата 12 май 1944 г. маркира освобождаването на Крим от Червената армия. Крайната дата 30 юни 1945 г. е датата, на която Кримската АССР е понижена до Кримска област в РСФСР след депортацията на кримските татари.",
+          "date": {
+            "range": [
+              "1944-05-12",
+              "1945-06-30"
+            ],
+            "from": {
+              "date": "1944-05-12"
+            },
+            "to": {
+              "date": "1945-06-30"
+            }
+          },
+          "sources": [
+            {
+              "name": "Crimean Autonomous Soviet Socialist Republic – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Crimean_Autonomous_Soviet_Socialist_Republic"
+              ],
+              "from": {
+                "date": "1944-05-12"
+              },
+              "to": {
+                "date": "1945-06-30"
+              },
+              "quoteOriginal": "The Crimean ASSR was converted into the Crimean Oblast of the Russian SFSR on June 30, 1945.",
+              "quote": "Кримската АССР е превърната в Кримска област на РСФСР на 30 юни 1945 г."
+            },
+            {
+              "name": "History of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/History_of_Crimea"
+              ],
+              "from": {
+                "dateYear": 1944,
+                "dateMonth": 5
+              },
+              "to": {
+                "date": "1945-06-30"
+              },
+              "quoteOriginal": "The autonomous republic without its titular nationality was downgraded to an oblast (province) within the Russian SFSR on 30 June 1945.",
+              "quote": "Автономната република без своята титулярна националност е понижена до област (провинция) в рамките на РСФСР на 30 юни 1945 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Кримска област (РСФСР)",
+      "id": "b2d493ff-9c97-4f96-afd2-e050e4ba2a36",
+      "periods": [
+        {
+          "name": "Кримска област (РСФСР)",
+          "description": "Кримската АССР е понижена до обикновена област в РСФСР след депортацията на кримските татари. Прехвърлена на Украинска ССР през 1954 г.",
+          "comment": "Началната дата 30 юни 1945 г. е датата на понижаването на Кримската АССР до Кримска област. Крайната дата 19 февруари 1954 г. е датата на указа за прехвърляне на областта към Украинска ССР.",
+          "date": {
+            "range": [
+              "1945-06-30",
+              "1954-02-19"
+            ],
+            "from": {
+              "date": "1945-06-30"
+            },
+            "to": {
+              "date": "1954-02-19"
+            }
+          },
+          "sources": [
+            {
+              "name": "History of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/History_of_Crimea"
+              ],
+              "from": {
+                "date": "1945-06-30"
+              },
+              "to": {
+                "date": "1954-02-19"
+              },
+              "quoteOriginal": "The autonomous republic without its titular nationality was downgraded to an oblast (province) within the Russian SFSR on 30 June 1945.",
+              "quote": "Автономната република без своята титулярна националност е понижена до област в рамките на РСФСР на 30 юни 1945 г."
+            },
+            {
+              "name": "1954 transfer of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/1954_transfer_of_Crimea"
+              ],
+              "from": {
+                "date": "1945-06-30"
+              },
+              "to": {
+                "date": "1954-02-19"
+              },
+              "quoteOriginal": "On 19 February 1954, the Presidium of the Supreme Soviet of the Soviet Union issued a decree transferring the Crimean Oblast from the Russian Soviet Federative Socialist Republic to the Ukrainian Soviet Socialist Republic.",
+              "quote": "На 19 февруари 1954 г. Президиумът на Върховния съвет на СССР издава указ за прехвърляне на Кримската област от РСФСР към Украинската ССР."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Кримска област (Украинска ССР)",
+      "id": "637ac52b-a38e-4b5e-991c-81f94b7e82bf",
+      "periods": [
+        {
+          "name": "Кримска област (прехвърлена на Украинска ССР)",
+          "description": "Кримската област е прехвърлена от РСФСР към Украинска ССР по повод 300-годишнината от Переяславския договор.",
+          "comment": "Началната дата 19 февруари 1954 г. е датата на указа на Президиума на Върховния съвет на СССР за прехвърлянето. Крайната дата 26 декември 1991 г. е разпадането на СССР.",
+          "date": {
+            "range": [
+              "1954-02-19",
+              "1991-12-26"
+            ],
+            "from": {
+              "date": "1954-02-19"
+            },
+            "to": {
+              "date": "1991-12-26"
+            }
+          },
+          "sources": [
+            {
+              "name": "Крим – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BC"
+              ],
+              "from": {
+                "date": "1954-02-19"
+              },
+              "to": {
+                "date": "1991-12-26"
+              },
+              "quote": "На 19 февруари 1954 г. Президиумът на Върховния съвет на СССР издава 'Указ за предаване на Кримската област'."
+            },
+            {
+              "name": "1954 transfer of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/1954_transfer_of_Crimea"
+              ],
+              "from": {
+                "date": "1954-02-19"
+              },
+              "to": {
+                "date": "1991-12-26"
+              },
+              "quoteOriginal": "On 19 February 1954, the Presidium of the Supreme Soviet of the Soviet Union issued a decree transferring the Crimean Oblast from the Russian Soviet Federative Socialist Republic to the Ukrainian Soviet Socialist Republic.",
+              "quote": "На 19 февруари 1954 г. Президиумът на Върховния съвет на СССР издава указ за прехвърляне на Кримската област от РСФСР към Украинската ССР."
+            },
+            {
+              "name": "Crimea: History – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Crimea/History"
+              ],
+              "from": {
+                "dateYear": 1954
+              },
+              "to": {
+                "dateYear": 1991
+              },
+              "quoteOriginal": "In 1954 it was transferred to Ukraine to mark the 300th anniversary of the Pereyaslav Agreement.",
+              "quote": "През 1954 г. е прехвърлен на Украйна по повод 300-годишнината от Переяславския договор."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Автономна република Крим (Украйна)",
+      "id": "7c44691b-0783-4933-b402-ededbc44f990",
+      "periods": [
+        {
+          "name": "Автономна република Крим",
+          "description": "След разпада на СССР Крим е реорганизиран като Автономна република в състава на независима Украйна.",
+          "comment": "Началната дата 12 февруари 1991 г. маркира решението на Върховния съвет на Украинска ССР за предоставяне на автономен статут на Крим, последвано от референдум на 20 януари 1991 г. Крайната дата 18 март 2014 г. е датата на руската анексия.",
+          "date": {
+            "range": [
+              "1991-02-12",
+              "2014-03-18"
+            ],
+            "from": {
+              "date": "1991-02-12"
+            },
+            "to": {
+              "date": "2014-03-18"
+            }
+          },
+          "sources": [
+            {
+              "name": "Крим – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BC"
+              ],
+              "from": {
+                "dateYear": 1991
+              },
+              "to": {
+                "date": "2014-03-18"
+              },
+              "quote": "Образувана Автономна република Крим, която заедно с град Севастопол влиза в състава на Украйна."
+            },
+            {
+              "name": "Autonomous Republic of Crimea – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Autonomous_Republic_of_Crimea"
+              ],
+              "from": {
+                "date": "1991-02-12"
+              },
+              "to": {
+                "date": "2014-03-18"
+              },
+              "quoteOriginal": "Shortly prior to the dissolution of the Soviet Union, Crimea was granted the status of Autonomous Republic by the Supreme Soviet of the Ukrainian SSR following a state-sanctioned referendum held on January 20, 1991.",
+              "quote": "Малко преди разпадането на Съветския съюз на Крим е предоставен статут на Автономна република от Върховния съвет на Украинска ССР след държавно-санкциониран референдум, проведен на 20 януари 1991 г."
+            },
+            {
+              "name": "Crimea: History – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Crimea/History"
+              ],
+              "from": {
+                "dateYear": 1991
+              },
+              "to": {
+                "date": "2014-03-18"
+              },
+              "quoteOriginal": "With the formal dissolution of the U.S.S.R. in December of that year, Crimea passed to the newly independent Ukraine.",
+              "quote": "С формалното разпадане на СССР през декември същата година Крим преминава към новонезависима Украйна."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Руска анексия",
+      "id": "92dce10c-d074-4626-9e25-c7fa78e66145",
+      "periods": [
+        {
+          "name": "Руска анексия на Крим (международно непризната)",
+          "description": "На 18 март 2014 г. Русия формално инкорпорира Крим като Република Крим и федералния град Севастопол. Анексията не е призната от ООН.",
+          "comment": "Началната дата 18 март 2014 г. е датата на подписването на договора за инкорпорирането на Крим в Руската федерация, след спорен референдум на 16 март 2014 г. под руска военна окупация. Крайната дата е отворена (текущо състояние).",
+          "date": {
+            "range": [
+              "2014-03-18",
+              null
+            ],
+            "from": {
+              "date": "2014-03-18"
+            }
+          },
+          "sources": [
+            {
+              "name": "Крим – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BC"
+              ],
+              "from": {
+                "date": "2014-03-18"
+              },
+              "quote": "На 18 март е подписан договор между Руската федерация и Република Крим за приемането на Крим в състава на Русия."
+            },
+            {
+              "name": "Annexation of Crimea by the Russian Federation – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Annexation_of_Crimea_by_the_Russian_Federation"
+              ],
+              "from": {
+                "date": "2014-03-18"
+              },
+              "quoteOriginal": "Russia formally incorporated Crimea on 18 March 2014 as the Republic of Crimea.",
+              "quote": "Русия формално инкорпорира Крим на 18 март 2014 г. като Република Крим."
+            },
+            {
+              "name": "Crimea: History – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Crimea/History"
+              ],
+              "from": {
+                "date": "2014-03-18"
+              },
+              "quoteOriginal": "On March 18 Putin signed a treaty incorporating Crimea into the Russian Federation.",
+              "quote": "На 18 март Путин подписва договор за инкорпорирането на Крим в Руската федерация."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "57221ac1-1767-47a4-b16b-f2a712c1c2e7",
+      "name": "The Foundations of Geopolitics: The Geopolitical Future of Russia",
+      "description": "„Основи на геополитиката: Геополитическото бъдеще на Русия“ е геополитическа книга на Александър Дугин, публикувана през 1997 г. Книгата има значително влияние върху руския военен, полицейски и външнополитически елит и е използвана като учебник в Академията на Генералния щаб на руската армия. Дугин твърди, че Украйна като държава няма геополитическо значение и трябва да бъде анексирана от Русия, а на Крим да се даде специален статут с пряко стратегическо управление от Москва.",
+      "date": {
+        "date": "1997-01-01",
+        "dateYear": 1997
+      },
+      "lineStyle": {
+        "color": "#004990",
+        "type": "solid",
+        "width": 2
+      },
+      "sources": [
+        {
+          "name": "The Foundations of Geopolitics: The Geopolitical Future of Russia",
+          "comment": "Страница 217",
+          "url": [
+            "https://ia801505.us.archive.org/29/items/foundations-of-geopolitics-geopolitical-future-of-russia-alexander-dugin-english/Foundations-of-Geopolitics-Geopolitical-Future-of-Russia-Alexander-Dugin-English-auto-translation-with-appended-original.pdf"
+          ],
+          "quote": "Крим е специална геополитическа единица, традиционно характеризираща се с етническа\n   мозаичност. Малоруси, великоруси и кримски татари са се установили в Крим в много\n   сложна конфигурация и представляват три геополитически импулса, доста враждебни един\n   към друг. Великорусите са подчертано проруски ориентирани (по-агресивно от останалата\n   Украйна, дори от Източна). Малорусите, напротив, са крайно националистически настроени.\n   Като цяло, кримските татари са ориентирани повече към Турция и са доста враждебни към\n   Русия. Отчитането на геополитическата ориентация на кримските татари е изключено, тъй\n   като Турция е във всяко отношение пряк геополитически противник на Русия. Но\n   присъствието на татари в Крим не може да бъде игнорирано. Прякото присъединяване на\n   Крим към Русия ще предизвика изключително негативна реакция на малоруското население и\n   ще създаде проблеми при интегрирането на полуострова в руската система чрез украинските\n   територии, което е едва ли реалистично въобще. Оставянето на Крим на „суверенна\n   Украйна\" също е невъзможно, тъй като това създава пряка заплаха за геополитическата\n   сигурност на Русия и генерира етническо напрежение в самия Крим. Отчитайки всички тези\n   съображения, изводът се налага сам, че е необходимо да се даде на Крим специален статут\n   и да се осигури максимална автономия с пряко стратегическо управление от Москва, но с отчитане на социално-икономическите интереси на Украйна и етнокултурните изисквания на\n   кримските татари.",
+          "quoteOriginal": "Crimea is a special geopolitical entity, traditionally characterized by ethnic\n   mosaicism. Little Russians, Great Russians and Crimean Tatars settled in Crimea\n   in a very complex configuration and represent three geopolitical impulses that\n   are quite hostile to each other. The Great Russians are oriented emphatically\n   pro-Moscow (more aggressively than the rest of Ukraine, even Eastern). Little\n   Russians, on the contrary, are extremely nationalistic. In general, Crimean\n   Tatars are oriented more towards Turkey and are rather hostile to Russia.\n   Taking into account the geopolitical orientation of the Crimean Tatars is out of\n   the question, since Turkey is in all respects a direct geopolitical adversary of\n   Russia. But the presence of Tatars in Crimea cannot be ignored either. Direct\n   annexation of Crimea to Russia will cause an extremely negative reaction of the\n   Little Russian population and create problems of integrating this peninsula into\n   the Russian system through the Ukrainian territories, which is hardly realistic at\n   all. Leaving Crimea to \"sovereign Ukraine\" is also impossible, since this creates\n   a direct threat to Russia's geopolitical security and generates ethnic tension in\n   Crimea itself. Taking into account all these considerations, the conclusion\n   suggests itself that it is necessary to give Crimea a special status and ensure\n   maximum autonomy with direct strategic control of Moscow, but with taking into account the socio-economic interests of Ukraine and the ethnocultural\n  requirements of the Crimean Tatars."
+        },
+        {
+          "name": "Карта по плановете от книгата на Дугин – Reddit",
+          "url": [
+            "https://www.reddit.com/r/imaginarymaps/comments/a1do1o/a_map_based_on_plans_laid_out_in_aleksandr_dugins/"
+          ],
+          "date": "1997-01-01",
+          "quote": "Карта, базирана на плановете, изложени в книгата на Александър Дугин „Основи на геополитиката“.",
+          "quoteOriginal": "A map based on plans laid out in Aleksandr Dugin's Foundations of Geopolitics."
+        },
+        {
+          "name": "Game Theory #18: Trump World Order",
+          "quote": "In this Thursday, April 2, 2026 lecture to his Beijing high school students, Professor Jiang explains Donald Trump's grand plan.  ",
+          "url": [
+            "https://www.youtube.com/watch?v=xrmERlHUqBk&t=1775s"
+          ]
+        },
+        {
+          "name": "Foundations of Geopolitics – Wikipedia (EN)",
+          "url": [
+            "https://en.wikipedia.org/wiki/Foundations_of_Geopolitics"
+          ],
+          "date": "1997-01-01",
+          "quoteOriginal": "The Foundations of Geopolitics has had significant influence within the Russian military, police forces, and foreign policy elites and has been used as a textbook in the Academy of the General Staff of the Russian military.",
+          "quote": "„Основи на геополитиката“ има значително влияние сред руския военен, полицейски и външнополитически елит и е използвана като учебник в Академията на Генералния щаб на руската армия."
+        }
+      ]
+    },
+    {
+      "id": "4db35482-6dce-42ec-bf42-f1970011cd18",
+      "name": "Михаил Любимов. Операция \"Голгофа\" секретный план перестройки",
+      "description": "Статия-мистификация на бившия полковник от КГБ Михаил Любимов, публикувана през 1995 г. във вестник 'Совершенно секретно'. Описва измислен таен план 'Операция Голгота', уж одобрен от Андропов през 1983 г. — да се потопи страната в хаоса на 'дивия капитализъм', за да се докаже превъзходството на социализма и да се подготви връщане към предишната система. Любимов по-късно признава, че текстът е литературна измислица. Произведението е забележително с това, че споменава потенциални войни между Русия и Украйна заради Крим и Донбас.",
+      "date": {
+        "date": "1984-01-01",
+        "dateYear": 1984
+      },
+      "lineStyle": {
+        "color": "#004990",
+        "type": "solid",
+        "width": 2
+      },
+      "sources": [
+        {
+          "name": "Операция 'Голгофа' секретный план перестройки – lib.ru (RU)",
+          "url": [
+            "https://www.lib.ru/POLITOLOG/lubimow.txt",
+            "https://bookap.info/psywar/lubimov/gl1.shtm",
+            "https://readania.com/operatsiya-golgofa-sekretnyj-plan-perestrojki-mihail-lyubimov-id326252/read/",
+            "https://homeread.net/book/operaciya-golgofa-sekretnyy-plan-perestroyki-mihail-lyubimov"
+          ],
+          "date": "1984-01-01",
+          "comment": "Посочената година е датирана към времето, описано в текста, не към публикуването на произведението - 1995",
+          "quote": "Няколко пъти в нашите лични разговори с Андропов прокарвах мисълта за възможния разпад на СССР, войни в Средна Азия и на Кавказ, война на Русия с Украйна заради Крим и Донбас, и накрая — трета световна война на територията на СССР заради прекрояване на границите.",
+          "quoteOriginal": "Несколько раз в наших приватных беседах с Андроповым я проводил мысль о возможном распаде СССР, войнах в Средней Азии и на Кавказе, войны России с Украиной из-за Крыма и Донбасса, наконец, третьей мировой войны на территории СССР из-за перекройки границ."
+        },
+        {
+          "name": "Николай Колев Босия разказва за плана „Голгота“ (YouTube)",
+          "url": [
+            "https://www.youtube.com/watch?v=8Ugi2Ahm5aA"
+          ],
+          "date": "1984-01-01",
+          "quote": "Николай Колев Босия разказва за плана „Голгота“ — тайния план за перестройката, описан от бившия полковник от КГБ Михаил Любимов."
+        },
+        {
+          "name": "Любимов, Михаил Петрович – Уикипедия (RU)",
+          "url": [
+            "https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87"
+          ],
+          "date": "1995-01-01",
+          "quote": "Статия-мистификация 'Операция Голгота', публикувана същата година във вестник 'Совершенно секретно'.",
+          "quoteOriginal": "Статья-мистификация 'Операция Голгофа', опубликованная в том же году в газете 'Совершенно секретно'."
+        },
+        {
+          "name": "Mikhail Lyubimov – Wikipedia (EN)",
+          "url": [
+            "https://en.wikipedia.org/wiki/Mikhail_Lyubimov"
+          ],
+          "date": "1995-01-01",
+          "quote": "Михаил Любимов е бивш полковник от КГБ, работил в Обединеното кралство и Дания, по-късно станал писател.",
+          "quoteOriginal": "Mikhail Lyubimov is a retired KGB colonel who served as a legal spy in the United Kingdom and Denmark, later becoming a writer."
+        }
+      ]
+    }
+  ],
+  "metadata": {}
+}

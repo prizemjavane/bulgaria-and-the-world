@@ -1,0 +1,1185 @@
+{
+  "id": "religions",
+  "name": "Свещени писания",
+  "description": "Основните свещени текстове на световните религии — от Ригведа и Авеста до Книгата на Мормон, обхващащи над 3500 години писмена духовна традиция.",
+  "metadata": {
+    "resetZoom": true,
+    "styles": {
+      "hinduism": {
+        "color": "#b45309"
+      },
+      "buddhism": {
+        "color": "#d97706"
+      },
+      "zoroastrianism": {
+        "color": "#0e7490"
+      },
+      "jainism": {
+        "color": "#047857"
+      },
+      "judaism": {
+        "color": "#1e40af"
+      },
+      "christianity": {
+        "color": "#6d28d9"
+      },
+      "islam": {
+        "color": "#059669"
+      },
+      "taoism": {
+        "color": "#475569"
+      },
+      "sikhism": {
+        "color": "#b91c1c"
+      },
+      "mormonism": {
+        "color": "#1e3a5f"
+      },
+      "egypt": {
+        "color": "#92400e"
+      },
+      "greece": {
+        "color": "#4338ca"
+      },
+      "mesopotamia": {
+        "color": "#78350f"
+      },
+      "maya": {
+        "color": "#065f46"
+      },
+      "tibetan": {
+        "color": "#9f1239"
+      },
+      "bahai": {
+        "color": "#7c3aed"
+      },
+      "mandaeism": {
+        "color": "#0369a1"
+      }
+    }
+  },
+  "data": [
+    {
+      "name": "Древен Египет",
+      "id": "6857bc1d-b5a0-4d52-89f2-0d82651a8d06",
+      "periods": [
+        {
+          "name": "Текстове на пирамидите",
+          "description": "Най-старият известен корпус от древноегипетски религиозни текстове и едни от най-древните религиозни писания в света. Изсечени по стените на подземните камери на пирамидите в Саккара, започвайки с пирамидата на фараон Унас — последния владетел от V династия.",
+          "comment": "Датите ~2400–2100 г. пр.н.е. обхващат от най-старите надписи (пирамидата на Унас, V династия) до края на използването им (VIII династия, Първи преходен период). EN Wikipedia: 'The oldest of the texts have been dated to c. 2400–2300 BCE.' Britannica: 'The texts constitute the oldest surviving body of Egyptian religious and funerary writings.'",
+          "date": {
+            "range": [
+              "-002400-01-01",
+              "-002100-12-31"
+            ],
+            "from": {
+              "dateYear": -2400
+            },
+            "to": {
+              "dateYear": -2100
+            }
+          },
+          "sources": [
+            {
+              "name": "Pyramid Texts – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Pyramid_Texts"
+              ],
+              "from": {
+                "dateYear": -2400
+              },
+              "quoteOriginal": "The oldest of the texts have been dated to c. 2400–2300 BCE. They are the earliest known corpus of ancient Egyptian religious texts. The texts first appeared in the pyramid of the last pharaoh of the Fifth Dynasty, that belonging to Unas.",
+              "quote": "Най-старите текстове са датирани към ~2400–2300 г. пр.н.е. Те са най-ранният известен корпус от древноегипетски религиозни текстове. Текстовете се появяват за пръв път в пирамидата на последния фараон от V династия — Унас."
+            },
+            {
+              "name": "Pyramid Texts – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Pyramid-Texts"
+              ],
+              "from": {
+                "dateYear": -2400
+              },
+              "quoteOriginal": "The texts constitute the oldest surviving body of Egyptian religious and funerary writings available to modern scholars. The texts, inscribed on the walls of the inner chambers of pyramids, are found at Ṣaqqārah in several 5th- and 6th-dynasty pyramids, of which that of Unas, last king of the 5th dynasty, is the earliest known.",
+              "quote": "Текстовете представляват най-старият запазен корпус от египетски религиозни и погребални писания, достъпни за съвременните учени. Текстовете, изсечени по стените на вътрешните камери на пирамидите, се намират в Саккара в няколко пирамиди от V и VI династия, от които тази на Унас, последния цар от V династия, е най-ранната известна."
+            }
+          ],
+          "style": "egypt"
+        },
+        {
+          "name": "Текстове на саркофазите",
+          "description": "Сборник от над 1185 магически заклинания, рисувани по стените на погребални саркофази. Произлизат частично от по-ранните Текстове на пирамидите, но съдържат значително ново съдържание. Бележат 'демократизацията на отвъдния живот' — вече не само фараоните, а всеки, който може да си позволи саркофаг, има достъп до магическа защита.",
+          "comment": "Датите ~2130–1630 г. пр.н.е. следват Britannica: 'painted on the burial coffins of the First Intermediate period (c. 2130–1938 BCE) and the Middle Kingdom (1938–c. 1630 BCE)'. Началната дата е началото на Първия преходен период, крайната — края на Средното царство.",
+          "date": {
+            "range": [
+              "-002130-01-01",
+              "-001630-12-31"
+            ],
+            "from": {
+              "dateYear": -2130
+            },
+            "to": {
+              "dateYear": -1630
+            }
+          },
+          "sources": [
+            {
+              "name": "Coffin Texts – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Coffin_Texts"
+              ],
+              "from": {
+                "dateYear": -2100
+              },
+              "quoteOriginal": "The Coffin Texts are a collection of ancient Egyptian funerary spells written on Ancient Egyptian coffins beginning in the First Intermediate Period. Coffin texts are dated back to 2100 BCE.",
+              "quote": "Текстовете на саркофазите са сборник от древноегипетски погребални заклинания, писани по саркофази, започвайки от Първия преходен период. Текстовете на саркофазите се датират към 2100 г. пр.н.е."
+            },
+            {
+              "name": "Coffin Texts – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Coffin-Texts"
+              ],
+              "from": {
+                "dateYear": -2130
+              },
+              "to": {
+                "dateYear": -1630
+              },
+              "quoteOriginal": "Painted on the burial coffins of the First Intermediate period (c. 2130–1938 BCE) and the Middle Kingdom (1938–c. 1630 BCE).",
+              "quote": "Рисувани по погребалните саркофази от Първия преходен период (~2130–1938 г. пр.н.е.) и Средното царство (1938–~1630 г. пр.н.е.)."
+            }
+          ],
+          "style": "egypt"
+        },
+        {
+          "name": "Книга на мъртвите",
+          "description": "Сборник от магически заклинания на папирус, предназначени да помогнат на починалия в пътуването му през Дуат (подземния свят) към отвъдния живот. Съдържа около 200 заклинания, писани от много жреци в продължение на около 1000 години. Включва знаменитата сцена на 'Претеглянето на сърцето' пред бог Озирис.",
+          "comment": "Датите ~1550–50 г. пр.н.е. следват EN Wikipedia: 'used from the beginning of the New Kingdom (around 1550 BC) to around 50 BC'. Britannica: 'Probably compiled and reedited during the 16th century BCE'. БГ Wikipedia: 'създаван и редактиран от много жреци в течение на около 1000 години'. Стандартизираната версия (Саитска редакция) е от XXV–XXVI династия.",
+          "date": {
+            "range": [
+              "-001550-01-01",
+              "-000050-12-31"
+            ],
+            "from": {
+              "dateYear": -1550
+            },
+            "to": {
+              "dateYear": -50
+            }
+          },
+          "sources": [
+            {
+              "name": "Книга на мъртвите – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0_%D0%BD%D0%B0_%D0%BC%D1%8A%D1%80%D1%82%D0%B2%D0%B8%D1%82%D0%B5"
+              ],
+              "from": {
+                "dateYear": -1550
+              },
+              "quote": "Създаван и редактиран от много жреци в течение на около 1000 години."
+            },
+            {
+              "name": "Book of the Dead – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Book_of_the_Dead"
+              ],
+              "from": {
+                "dateYear": -1550
+              },
+              "to": {
+                "dateYear": -50
+              },
+              "quoteOriginal": "The Book of the Dead is an ancient Egyptian funerary text generally written on papyrus and used from the beginning of the New Kingdom (around 1550 BC) to around 50 BC.",
+              "quote": "Книгата на мъртвите е древноегипетски погребален текст, обикновено написан на папирус и използван от началото на Новото царство (~1550 г. пр.н.е.) до около 50 г. пр.н.е."
+            },
+            {
+              "name": "Book of the Dead – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Book-of-the-Dead-ancient-Egyptian-text"
+              ],
+              "from": {
+                "dateYear": -1600
+              },
+              "quoteOriginal": "Probably compiled and reedited during the 16th century BCE, the collection included Coffin Texts dating from c. 2000 BCE, Pyramid Texts dating from c. 2400 BCE, and other writings.",
+              "quote": "Вероятно компилирана и редактирана през XVI в. пр.н.е., колекцията включва Текстове на саркофазите от ~2000 г. пр.н.е., Текстове на пирамидите от ~2400 г. пр.н.е. и други писания."
+            }
+          ],
+          "style": "egypt"
+        }
+      ]
+    },
+    {
+      "name": "Древна Месопотамия",
+      "id": "efb3e9bc-015a-4b7c-a9b8-ab3ed43bd130",
+      "periods": [
+        {
+          "name": "Енума Елиш (Вавилонски мит за Сътворението)",
+          "description": "Вавилонски епос за сътворението на света, разказващ как богът Мардук побеждава първичната богиня Тиамат и създава света от нейното тяло. Ритуално рецитиран по време на новогодишния празник Акиту във Вавилон. Записан на седем глинени плочки с клинопис.",
+          "comment": "Датите ~XII–XI в. пр.н.е. следват преобладаващия научен консенсус. EN Wikipedia: повечето учени 'accept a dating to the Second Dynasty of Isin' (XII–XI в. пр.н.е.), когато Мардук е издигнат в ранг 'цар на боговете' след завръщането на статуята му от Елам при Навуходоносор I. Britannica: 'possibly in the 14th century BCE'. Най-ранният запазен ръкопис е от IX в. пр.н.е.",
+          "date": {
+            "range": [
+              "-001150-01-01",
+              "-001050-12-31"
+            ],
+            "from": {
+              "dateYear": -1150
+            },
+            "to": {
+              "dateYear": -1050
+            }
+          },
+          "sources": [
+            {
+              "name": "Enūma Eliš – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/En%C3%BBma_Eli%C5%A1"
+              ],
+              "from": {
+                "dateYear": -1150
+              },
+              "quoteOriginal": "Most scholars now accept a dating to the Second Dynasty of Isin. It was during the Second Dynasty of Isin that Marduk started to be referred to as the king of the gods, with the return of the statue of Marduk from Elam by Nebuchadnezzar I. The earliest manuscript of the myth was excavated from Assur and dated to the 9th century BCE.",
+              "quote": "Повечето учени приемат датировка към Втората династия на Исин. По време на Втората династия на Исин Мардук започва да бъде наричан цар на боговете, след завръщането на статуята му от Елам от Навуходоносор I. Най-ранният ръкопис на мита е разкопан в Ашур и датиран към IX в. пр.н.е."
+            },
+            {
+              "name": "Enuma elish – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Enuma-elish"
+              ],
+              "from": {
+                "dateYear": -1400
+              },
+              "quoteOriginal": "Written by an unknown poet at an undetermined date—possibly in the 14th century BCE—the epic begins...",
+              "quote": "Написан от неизвестен поет на неопределена дата — вероятно през XIV в. пр.н.е. — епосът започва..."
+            }
+          ],
+          "style": "mesopotamia"
+        }
+      ]
+    },
+    {
+      "name": "Хиндуизъм",
+      "id": "19a5ee00-e7b7-4984-98cb-be9010b094bc",
+      "periods": [
+        {
+          "name": "Ригведа",
+          "description": "Най-старият известен свещен текст на хиндуизма и един от най-древните религиозни текстове в света. Сборник от 1028 химна на ведически санскрит, съставен в района на днешен Пенджаб (~1500–1000 г. пр.н.е.).",
+          "comment": "Датите ~1500–1000 г. пр.н.е. следват преобладаващия научен консенсус. Britannica посочва ~1500 г. пр.н.е. EN Wikipedia дава по-широк диапазон 1500–1000 г. пр.н.е. Кодификацията е около 1200–1000 г. пр.н.е. Началната дата е приблизителното начало на композицията, крайната — края на кодификацията.",
+          "date": {
+            "range": [
+              "-001500-01-01",
+              "-001000-12-31"
+            ],
+            "from": {
+              "dateYear": -1500
+            },
+            "to": {
+              "dateYear": -1000
+            }
+          },
+          "sources": [
+            {
+              "name": "Rigveda – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Rigveda"
+              ],
+              "from": {
+                "dateYear": -1500
+              },
+              "to": {
+                "dateYear": -1000
+              },
+              "quoteOriginal": "Most likely between c. 1500 and 1000 BCE. The codification of the Rigveda took place at the end of the Rigvedic period between c. 1200 and 1000 BCE.",
+              "quote": "Най-вероятно между ~1500 и 1000 г. пр.н.е. Кодификацията на Ригведа е извършена в края на ригведическия период между ~1200 и 1000 г. пр.н.е."
+            },
+            {
+              "name": "Rigveda – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Rigveda"
+              ],
+              "from": {
+                "dateYear": -1500
+              },
+              "quoteOriginal": "Composed in an ancient form of Sanskrit about 1500 BCE, in what is now the Punjab region of India and Pakistan.",
+              "quote": "Съставена на древна форма на санскрит около 1500 г. пр.н.е. в днешния район на Пенджаб в Индия и Пакистан."
+            }
+          ],
+          "style": "hinduism"
+        },
+        {
+          "name": "Упанишади",
+          "description": "Философски текстове на хиндуизма, разглеждащи природата на реалността (Брахман), душата (Атман) и пътя към освобождение (Мокша). Над 200 текста, от които 13 са считани за основни.",
+          "comment": "Датите ~800–200 г. пр.н.е. обхващат всички основни Упанишади. Stephen Phillips датира ранните Упанишади до 800–300 г. пр.н.е. Най-старите (Брихадараняка и Чхандогя) са от VII–VI в. пр.н.е. по Olivelle. Късните стихотворни Упанишади са от последните векове пр.н.е.",
+          "date": {
+            "range": [
+              "-000800-01-01",
+              "-000200-12-31"
+            ],
+            "from": {
+              "dateYear": -800
+            },
+            "to": {
+              "dateYear": -200
+            }
+          },
+          "sources": [
+            {
+              "name": "Upanishads – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Upanishads"
+              ],
+              "from": {
+                "dateYear": -800
+              },
+              "to": {
+                "dateYear": -300
+              },
+              "quoteOriginal": "Stephen Phillips places the early or 'principal' Upanishads in the 800 to 300 BCE range.",
+              "quote": "Стивън Филипс датира ранните или 'основни' Упанишади в диапазона 800–300 г. пр.н.е."
+            }
+          ],
+          "style": "hinduism"
+        },
+        {
+          "name": "Бхагавад гита",
+          "description": "Свещен текст на хиндуизма, част от епоса Махабхарата. Диалог между принц Арджуна и бог Кришна на бойното поле Курукшетра, разглеждащ дълга, праведността и пътя към освобождение.",
+          "comment": "Датите II в. пр.н.е. – II в. следват консенсуса. EN Wikipedia: 'dated to the second or first century BCE'. БГ Wikipedia: 'писана в периода 2 век пр.н.е. – 2 век'. Избрана е по-широката датировка от БГ Wikipedia.",
+          "date": {
+            "range": [
+              "-000200-01-01",
+              "0200-12-31"
+            ],
+            "from": {
+              "dateYear": -200
+            },
+            "to": {
+              "dateYear": 200
+            }
+          },
+          "sources": [
+            {
+              "name": "Бхагавад гита – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D1%85%D0%B0%D0%B3%D0%B0%D0%B2%D0%B0%D0%B4_%D0%B3%D0%B8%D1%82%D0%B0"
+              ],
+              "from": {
+                "dateYear": -200
+              },
+              "to": {
+                "dateYear": 200
+              },
+              "quote": "За самата Бхагавад гита се предполага, че е писана в периода 2 век пр.н.е. – 2 век."
+            },
+            {
+              "name": "Bhagavad Gita – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Bhagavad_Gita"
+              ],
+              "from": {
+                "dateYear": -200
+              },
+              "to": {
+                "dateYear": -100
+              },
+              "quoteOriginal": "The text is generally dated to the second or first century BCE.",
+              "quote": "Текстът обикновено се датира към II или I в. пр.н.е."
+            }
+          ],
+          "style": "hinduism"
+        }
+      ]
+    },
+    {
+      "name": "Зороастризъм",
+      "id": "7f8e8bab-a752-40bb-bfd6-2aa0fc09cafd",
+      "periods": [
+        {
+          "name": "Авеста (Гати)",
+          "description": "Свещеното писание на зороастризма. Гатите — петте химна, приписвани на пророк Заратустра — са ядрото на Авестата и най-старата част от зороастрийската литургия (Ясна).",
+          "comment": "Датите ~1500–400 г. пр.н.е. обхващат целия период на композиция на различните части на Авестата. Гатите (най-старата част) са датирани преди 1000 г. пр.н.е. от учените. По-късните части на Авестата продължават до ~IV в. пр.н.е. Датировката е силно дискусионна заради липсата на ранни ръкописи.",
+          "date": {
+            "range": [
+              "-001500-01-01",
+              "-000400-12-31"
+            ],
+            "from": {
+              "dateYear": -1500
+            },
+            "to": {
+              "dateYear": -400
+            }
+          },
+          "sources": [
+            {
+              "name": "Gatha (Zoroaster) – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Gatha_(Zoroaster)"
+              ],
+              "from": {
+                "dateYear": -1000
+              },
+              "quoteOriginal": "The oldest surviving text fragment dates from 1323 CE, but they are believed by scholars to have been composed before 1000 BCE and passed down orally for centuries.",
+              "quote": "Най-старият запазен текстов фрагмент датира от 1323 г., но учените смятат, че са съставени преди 1000 г. пр.н.е. и са предавани устно в продължение на векове."
+            },
+            {
+              "name": "Avesta – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Avesta"
+              ],
+              "from": {
+                "dateYear": -1500
+              },
+              "to": {
+                "dateYear": -400
+              },
+              "quoteOriginal": "The individual texts of the Avesta were originally oral compositions. They were composed over a long period of several centuries during the Avestan period (possibly ranging from the 15th century BCE to the 4th century BCE).",
+              "quote": "Отделните текстове на Авестата първоначално са устни композиции. Те са съставяни в продължение на дълъг период от няколко века през авестийския период (вероятно от XV в. пр.н.е. до IV в. пр.н.е.)."
+            }
+          ],
+          "style": "zoroastrianism"
+        }
+      ]
+    },
+    {
+      "name": "Древна Гърция",
+      "id": "65d546b4-c554-4d64-a83c-aeeb06fbb812",
+      "periods": [
+        {
+          "name": "Теогония (Хезиод)",
+          "description": "Поема на Хезиод, описваща произхода и генеалогията на гръцките богове — от първичния Хаос, през Гея (Земята) и Ерос, до Зевс и олимпийските богове. Основен извор за гръцката космогония и теология.",
+          "comment": "Датите ~730–700 г. пр.н.е. следват EN Wikipedia: 'composed c. 730–700 BC'. Britannica посочва Хезиод като 'flourished c. 700 BCE'. Теогонията е приблизително съвременна на Омировите поеми.",
+          "date": {
+            "range": [
+              "-000730-01-01",
+              "-000700-12-31"
+            ],
+            "from": {
+              "dateYear": -730
+            },
+            "to": {
+              "dateYear": -700
+            }
+          },
+          "sources": [
+            {
+              "name": "Theogony – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Theogony"
+              ],
+              "from": {
+                "dateYear": -730
+              },
+              "to": {
+                "dateYear": -700
+              },
+              "quoteOriginal": "Composed c. 730–700 BC. Hesiod (8th–7th century BC).",
+              "quote": "Съставена ~730–700 г. пр.н.е. Хезиод (VIII–VII в. пр.н.е.)."
+            },
+            {
+              "name": "Theogony – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Theogony-by-Hesiod"
+              ],
+              "from": {
+                "dateYear": -700
+              },
+              "quoteOriginal": "Hesiod (flourished c. 700 BCE).",
+              "quote": "Хезиод (разцвет ~700 г. пр.н.е.)."
+            }
+          ],
+          "style": "greece"
+        },
+        {
+          "name": "Омирови химни",
+          "description": "Сборник от 33 химна, посветени на олимпийските богове — Деметра, Аполон, Хермес, Афродита и др. Въпреки името си, не са написани от Омир, а от различни поети в архаичния период. Четирите дълги химна (към Деметра, Аполон, Хермес и Афродита) са важни извори за гръцката митология.",
+          "comment": "Датите VII–V в. пр.н.е. следват EN Wikipedia: 'The earliest of the hymns date to the seventh century BCE; most were probably composed between that century and the sixth century BCE'. Химнът към Арес може да е от V в., но повечето химни са от VII–VI в. пр.н.е.",
+          "date": {
+            "range": [
+              "-000700-01-01",
+              "-000500-12-31"
+            ],
+            "from": {
+              "dateYear": -700
+            },
+            "to": {
+              "dateYear": -500
+            }
+          },
+          "sources": [
+            {
+              "name": "Homeric Hymns – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Homeric_Hymns"
+              ],
+              "from": {
+                "dateYear": -700
+              },
+              "to": {
+                "dateYear": -500
+              },
+              "quoteOriginal": "Most date to the seventh and sixth centuries BCE. The Homeric Hymns mostly date to the archaic period (c. 800 – c. 480 BCE) of Greek history. The earliest of the hymns date to the seventh century BCE; most were probably composed between that century and the sixth century BCE.",
+              "quote": "Повечето датират от VII и VI в. пр.н.е. Омировите химни датират главно от архаичния период (~800–~480 г. пр.н.е.) на гръцката история. Най-ранните химни датират от VII в. пр.н.е.; повечето вероятно са съставени между този и VI в. пр.н.е."
+            }
+          ],
+          "style": "greece"
+        }
+      ]
+    },
+    {
+      "name": "Юдаизъм / Християнство",
+      "id": "0bd974f6-24b3-4481-9e27-a90fdbe07125",
+      "periods": [
+        {
+          "name": "Библия — Стар Завет",
+          "description": "Еврейската Библия (Танах), приета и от християнството като Стар Завет. Съдържа Тората (Петокнижието), Пророците и Писанията. Над 39 книги, писани от множество автори в продължение на повече от хилядолетие.",
+          "comment": "Датите ~1300–164 г. пр.н.е. обхващат от най-ранния текст (Песента на морето, края на XIII в. пр.н.е.) до последната книга (Даниил, 168–164 г. пр.н.е.). EN Wikipedia 'Dating the Bible': 'Late 13th century: Song of the Sea' и 'Book of Daniel (between 168 and 164 BCE)'.",
+          "date": {
+            "range": [
+              "-001300-01-01",
+              "-000164-12-31"
+            ],
+            "from": {
+              "dateYear": -1300
+            },
+            "to": {
+              "dateYear": -164
+            }
+          },
+          "sources": [
+            {
+              "name": "Dating the Bible – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Dating_the_Bible"
+              ],
+              "from": {
+                "dateYear": -1300
+              },
+              "to": {
+                "dateYear": -164
+              },
+              "quoteOriginal": "Late 13th century: Song of the Sea (earliest Old Testament text). Book of Daniel (between 168 and 164 BCE) (latest Old Testament text).",
+              "quote": "Края на XIII в. пр.н.е.: Песента на морето (най-ранен старозаветен текст). Книга на Даниил (между 168 и 164 г. пр.н.е.) (най-късен старозаветен текст)."
+            }
+          ],
+          "style": "judaism"
+        },
+        {
+          "name": "Библия — Нов Завет",
+          "description": "Вторият раздел на християнската Библия, съдържащ 27 книги: четирите Евангелия, Деянията на апостолите, посланията на апостол Павел и Откровението. Писан на койне гръцки.",
+          "comment": "Датите ~48–110 г. следват научния консенсус. Най-ранната книга е Посланието до Галатяните (~48 г.) или Първото послание до Солунците (~50 г.). Най-късната е Второто послание на Петър (~110 г.).",
+          "date": {
+            "range": [
+              "0048-01-01",
+              "0110-12-31"
+            ],
+            "from": {
+              "dateYear": 48
+            },
+            "to": {
+              "dateYear": 110
+            }
+          },
+          "sources": [
+            {
+              "name": "Dating the Bible – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Dating_the_Bible"
+              ],
+              "from": {
+                "dateYear": 48
+              },
+              "to": {
+                "dateYear": 110
+              },
+              "quoteOriginal": "The first book written is thought to be either the Epistle to the Galatians (written around 48 CE) or 1 Thessalonians, written around 50 CE. The latest book written is thought to be the Second Peter, written around 110 CE.",
+              "quote": "Смята се, че първата написана книга е или Посланието до Галатяните (написано около 48 г.) или Първото послание до Солунците, написано около 50 г. Смята се, че най-късната написана книга е Второто послание на Петър, написано около 110 г."
+            }
+          ],
+          "style": "christianity"
+        }
+      ]
+    },
+    {
+      "name": "Мандейство",
+      "id": "56b4df49-a659-42d3-b57e-2d32fc135824",
+      "periods": [
+        {
+          "name": "Гинза Рба (Книга на Адам)",
+          "description": "Свещената книга на мандейството — най-голямият корпус от мандейска религиозна литература. Космологичен трактат, разделен на Дясна Гинза (за сътворението и космологията) и Лява Гинза (за възхода на душата след смъртта). Мандейството е гностична религия с ~60 000–70 000 последователи, предимно в Ирак и Иран.",
+          "comment": "Датите I–III в. следват научния консенсус. EN Wikipedia: 'dating is a matter of debate, with estimates ranging from the first to third centuries'. Britannica: 'most scholars date the beginnings of Mandaeanism somewhere in the first three centuries AD'. Окончателната компилация е от ислямския период (VII в. нататък), но основните текстове са по-ранни.",
+          "date": {
+            "range": [
+              "0100-01-01",
+              "0300-12-31"
+            ],
+            "from": {
+              "dateYear": 100
+            },
+            "to": {
+              "dateYear": 300
+            }
+          },
+          "sources": [
+            {
+              "name": "Ginza Rabba – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Ginza_Rabba"
+              ],
+              "from": {
+                "dateYear": 100
+              },
+              "to": {
+                "dateYear": 300
+              },
+              "quoteOriginal": "The authorship is unknown, and dating is a matter of debate, with estimates ranging from the first to third centuries. The current form and final compilation of the Ginza as a whole must come from Islamic times as it contains numerous references to the Arabs and the Islamic conquest.",
+              "quote": "Авторството е неизвестно, а датирането е спорно, с оценки от I до III в. Настоящата форма и окончателната компилация на Гинза трябва да произлиза от ислямски времена, тъй като съдържа многобройни препратки към арабите и ислямското завоевание."
+            },
+            {
+              "name": "Mandaeanism – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Mandaeanism"
+              ],
+              "from": {
+                "dateYear": 100
+              },
+              "to": {
+                "dateYear": 300
+              },
+              "quoteOriginal": "Whereas most scholars date the beginnings of Mandaeanism somewhere in the first three centuries AD, the matter of its origin is highly conjectural. The Ginza (Book of Adam), a cosmological treatise.",
+              "quote": "Повечето учени датират началото на мандейството някъде в първите три века, но въпросът за произхода му е силно предположителен. Гинза (Книга на Адам) е космологичен трактат."
+            }
+          ],
+          "style": "mandaeism"
+        }
+      ]
+    },
+    {
+      "name": "Будизъм",
+      "id": "13188daa-3488-47b6-a1b6-ee3d250008c3",
+      "periods": [
+        {
+          "name": "Палийски канон (Типитака)",
+          "description": "Най-ранният и най-пълен сборник от будистка свещена литература. Съдържа три 'кошници' (питаки): Виная питака (монашеска дисциплина), Сута питака (поучения) и Абхидхама питака (философия). Каноничен текст на будизма Теравада.",
+          "comment": "Датите V–I в. пр.н.е. обхващат от устната традиция до записването. EN Wikipedia: 'The Theravada tradition states that the Canon was recited orally from the 5th century to the first century BC, when it was written down.' Записан в Шри Ланка не по-рано от 29–17 г. пр.н.е.",
+          "date": {
+            "range": [
+              "-000500-01-01",
+              "-000029-12-31"
+            ],
+            "from": {
+              "dateYear": -500
+            },
+            "to": {
+              "dateYear": -29
+            }
+          },
+          "sources": [
+            {
+              "name": "Pali Canon – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Pali_Canon"
+              ],
+              "from": {
+                "dateYear": -500
+              },
+              "to": {
+                "dateYear": -29
+              },
+              "quoteOriginal": "The Theravada tradition states that the Canon was recited orally from the 5th century to the first century BC, when it was written down. The Theravādin pitakas were first written down in Sri Lanka in the Alu Viharaya Temple no earlier than 29–17 BC.",
+              "quote": "Традицията Теравада твърди, че канонът е рецитиран устно от V в. до I в. пр.н.е., когато е записан. Питаките на Теравада са записани за пръв път в Шри Ланка в храма Алу Вихарая не по-рано от 29–17 г. пр.н.е."
+            },
+            {
+              "name": "Pali canon – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Tipitaka"
+              ],
+              "from": {
+                "dateYear": -500
+              },
+              "quoteOriginal": "The Pali Tipitaka is the earliest systematic and most complete collection of early Buddhist sacred literature.",
+              "quote": "Палийската Типитака е най-ранният систематичен и най-пълен сборник от ранна будистка свещена литература."
+            }
+          ],
+          "style": "buddhism"
+        },
+        {
+          "name": "Махаяна сутри",
+          "description": "Голям корпус от будистки свещени текстове, формиращи основата на будизма Махаяна. Включват Лотосовата сутра, Сърдечната сутра, Диамантената сутра и много други. Развиват учението за бодхисатвата и празнотата (шуняата).",
+          "comment": "Датите I в. пр.н.е. – V в. следват научния консенсус. EN Wikipedia: 'these sūtras began to be more widely disseminated between the 1st century BCE and the 1st century CE'. Най-ранните китайски преводи са отпреди 186 г. Късните сутри продължават до V в.",
+          "date": {
+            "range": [
+              "-000100-01-01",
+              "0500-12-31"
+            ],
+            "from": {
+              "dateYear": -100
+            },
+            "to": {
+              "dateYear": 500
+            }
+          },
+          "sources": [
+            {
+              "name": "Mahayana sutras – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Mahayana_sutras"
+              ],
+              "from": {
+                "dateYear": -100
+              },
+              "to": {
+                "dateYear": 500
+              },
+              "quoteOriginal": "Modern scholars of Buddhist studies generally agree these sūtras began to be more widely disseminated between the 1st century BCE and the 1st century CE. The concrete evidence for dating any part of this literature is to be found in dated Chinese translations, amongst which we find a body of ten Mahayana sutras translated by Lokaksema before 186 C.E.",
+              "quote": "Съвременните учени по будистки изследвания като цяло се съгласяват, че тези сутри започват да се разпространяват по-широко между I в. пр.н.е. и I в. Конкретните доказателства за датиране на тази литература се намират в датирани китайски преводи, сред които намираме десет Махаяна сутри, преведени от Локакшема преди 186 г."
+            }
+          ],
+          "style": "buddhism"
+        },
+        {
+          "name": "Бардо Тьодол (Тибетска книга на мъртвите)",
+          "description": "Тибетски будистки текст от традицията Нингма, описващ опита на съзнанието в междинното състояние (бардо) между смъртта и прераждането. Четен на глас на умиращите и починалите като ръководство за освобождение. Традиционно приписван на Падмасамбхава (VIII в.), но вероятно съставен по-късно.",
+          "comment": "Избрана е датата XIV в. (откриване от Карма Лингпа) вместо традиционната VIII в. EN Wikipedia: 'composed in the 8th century by Padmasambhava... subsequently discovered by Karma Lingpa (1326–1386) in the 14th century'. Britannica: 'the book was likely composed in the 14th century'. Тъй като няма доказателства за съществуване преди XIV в., е използвана по-скептичната датировка.",
+          "date": {
+            "range": [
+              "1326-01-01",
+              "1386-12-31"
+            ],
+            "from": {
+              "dateYear": 1326
+            },
+            "to": {
+              "dateYear": 1386
+            }
+          },
+          "sources": [
+            {
+              "name": "Bardo Thodol – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Bardo_Thodol"
+              ],
+              "from": {
+                "dateYear": 1326
+              },
+              "to": {
+                "dateYear": 1386
+              },
+              "quoteOriginal": "According to Tibetan tradition, the Liberation Through Hearing During the Intermediate State was composed in the 8th century by Padmasambhava, written down by his primary student, Yeshe Tsogyal, buried in the Gampo hills in central Tibet and subsequently discovered by a Tibetan terton, Karma Lingpa (1326–1386), in the 14th century.",
+              "quote": "Според тибетската традиция текстът е съставен през VIII в. от Падмасамбхава, записан от основния му ученик Йеше Цогял, заровен в хълмовете Гампо в централен Тибет и впоследствие открит от тибетски тертон Карма Лингпа (1326–1386) през XIV в."
+            },
+            {
+              "name": "Bardo Thödol – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Bardo-Thodol"
+              ],
+              "from": {
+                "dateYear": 1300
+              },
+              "to": {
+                "dateYear": 1400
+              },
+              "quoteOriginal": "Although tradition attributes the Bardo Thödol to Padmasambhava, the Indian Tantric guru who is credited with introducing Buddhism to Tibet in the 7th century, the book was likely composed in the 14th century.",
+              "quote": "Въпреки че традицията приписва Бардо Тьодол на Падмасамбхава, индийския тантрически гуру, на когото се приписва въвеждането на будизма в Тибет през VII в., книгата вероятно е съставена през XIV в."
+            }
+          ],
+          "style": "tibetan"
+        }
+      ]
+    },
+    {
+      "name": "Джайнизъм",
+      "id": "a2b8f032-58fd-4fac-8d12-f812fd93afb0",
+      "periods": [
+        {
+          "name": "Джайнски Агами",
+          "description": "Каноничните свещени текстове на джайнизма, основани на ученията на Махавира (последния тиртханкара). Включват 45 текста (по традицията на Шветамбара), кодифицирани на събора във Валабхи.",
+          "comment": "Датите VI–III в. пр.н.е. обхващат периода от ученията на Махавира до ранните писмени композиции. Устната традиция е от ~VI в. пр.н.е. (време на Махавира). EN Wikipedia: 'the earliest portions of Jain canonical works were composed around the 4th or 3rd century BCE'. Окончателната кодификация е на събора във Валабхи (~453–456 г.).",
+          "date": {
+            "range": [
+              "-000600-01-01",
+              "-000300-12-31"
+            ],
+            "from": {
+              "dateYear": -600
+            },
+            "to": {
+              "dateYear": -300
+            }
+          },
+          "sources": [
+            {
+              "name": "Jain literature – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Jain_literature"
+              ],
+              "from": {
+                "dateYear": -600
+              },
+              "to": {
+                "dateYear": -300
+              },
+              "quoteOriginal": "Some authors date the composition of the Jain Agamas starting from the 6th century BCE. Some western scholars argue that the earliest portions of Jain canonical works were composed around the 4th or 3rd century BCE.",
+              "quote": "Някои автори датират съставянето на Джайнските Агами от VI в. пр.н.е. Някои западни учени твърдят, че най-ранните части на джайнските канонични произведения са съставени около IV или III в. пр.н.е."
+            },
+            {
+              "name": "Jaina canon – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Jaina-canon"
+              ],
+              "from": {
+                "dateYear": -600
+              },
+              "quoteOriginal": "The Jaina canon was transmitted orally for several centuries before being committed to writing.",
+              "quote": "Джайнският канон е предаван устно в продължение на няколко века, преди да бъде записан."
+            }
+          ],
+          "style": "jainism"
+        }
+      ]
+    },
+    {
+      "name": "Даоизъм",
+      "id": "a652d71a-14f8-4475-a60d-783fa9c1ea78",
+      "periods": [
+        {
+          "name": "Дао дъ дзин",
+          "description": "Основополагащият текст на даоизма, приписван на мъдреца Лаодзъ. Кратък философски трактат от 81 глави за Дао (Пътя), добродетелта и хармонията с природата. Един от най-превежданите текстове в света.",
+          "comment": "Датите IV–III в. пр.н.е. следват преобладаващия научен консенсус. EN Wikipedia: 'The oldest excavated portion dates to the late 4th century BCE' и 'compilation of the modern text as dating back to the late Warring States period circa 250 BCE'. Britannica го разглежда като компилация, достигнала окончателна форма едва през III в. пр.н.е.",
+          "date": {
+            "range": [
+              "-000400-01-01",
+              "-000250-12-31"
+            ],
+            "from": {
+              "dateYear": -400
+            },
+            "to": {
+              "dateYear": -250
+            }
+          },
+          "sources": [
+            {
+              "name": "Tao Te Ching – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Tao_Te_Ching"
+              ],
+              "from": {
+                "dateYear": -400
+              },
+              "to": {
+                "dateYear": -250
+              },
+              "quoteOriginal": "The oldest excavated portion dates to the late 4th century BCE. A more conservative estimation would date modern versions of the text only as far back as the late Warring States period (475–221 BCE). Compilation of the modern text as dating back to the late Warring States period circa 250 BCE.",
+              "quote": "Най-старата разкопана част датира от края на IV в. пр.н.е. По-консервативна оценка датира съвременните версии на текста едва до късния период на Воюващите царства (475–221 г. пр.н.е.). Компилацията на съвременния текст се датира към ~250 г. пр.н.е."
+            }
+          ],
+          "style": "taoism"
+        }
+      ]
+    },
+    {
+      "name": "Конфуцианство",
+      "id": "021531d5-199e-42d6-aa1d-2eae8cc0b7c2",
+      "periods": [
+        {
+          "name": "Аналекти на Конфуций (Лунюй)",
+          "description": "Сборник от изречения и идеи, приписвани на Конфуций (551–479 г. пр.н.е.) и неговите ученици. Основополагащ текст на конфуцианството, засягащ добродетелта, почтеността и правилното управление.",
+          "comment": "Датите ~475–221 г. пр.н.е. следват консенсуса. EN Wikipedia: 'large portions of the text were composed during the Warring States period (475–221 BC)'. Ръкописи от преди 300 г. пр.н.е. са открити наскоро. Окончателната форма вероятно е от средата на династията Хан.",
+          "date": {
+            "range": [
+              "-000475-01-01",
+              "-000221-12-31"
+            ],
+            "from": {
+              "dateYear": -475
+            },
+            "to": {
+              "dateYear": -221
+            }
+          },
+          "sources": [
+            {
+              "name": "Analects – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Analects"
+              ],
+              "from": {
+                "dateYear": -475
+              },
+              "to": {
+                "dateYear": -221
+              },
+              "quoteOriginal": "The consensus among scholars is that large portions of the text were composed during the Warring States period (475–221 BC). In the 2010s, ancient manuscripts containing content matching the received text were recovered, which date back to before 300 BCE.",
+              "quote": "Консенсусът сред учените е, че големи части от текста са съставени по време на периода на Воюващите царства (475–221 г. пр.н.е.). През 2010-те са открити древни ръкописи, съвпадащи с получения текст, датирани преди 300 г. пр.н.е."
+            },
+            {
+              "name": "Lunyu – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Lunyu"
+              ],
+              "from": {
+                "dateYear": -479
+              },
+              "quoteOriginal": "Lunyu is considered by scholars to be the most reliable source of the doctrine of the ancient sage Confucius (551–479 BC).",
+              "quote": "Лунюй е считан от учените за най-достоверния източник на доктрината на древния мъдрец Конфуций (551–479 г. пр.н.е.)."
+            }
+          ],
+          "style": "confucianism"
+        }
+      ]
+    },
+    {
+      "name": "Ислям",
+      "id": "7ddc46f7-5f8e-4077-a006-b6b9e3f57e8c",
+      "periods": [
+        {
+          "name": "Коран",
+          "description": "Свещената книга на исляма, считана от мюсюлманите за буквалното слово на Аллах, разкрито на пророк Мохамед чрез архангел Джибрил. Съдържа 114 сури (глави) на арабски език.",
+          "comment": "Датите 610–650 г. обхващат от началото на откровенията до утвърждаването на писмения текст. Откровенията започват ~610 г. (когато Мохамед е на 40 години) и продължават до смъртта му през 632 г. Стандартизираният текст (Османският кодекс) е завършен ~650 г. при халиф Осман.",
+          "date": {
+            "range": [
+              "0610-01-01",
+              "0650-12-31"
+            ],
+            "from": {
+              "dateYear": 610
+            },
+            "to": {
+              "dateYear": 650
+            }
+          },
+          "sources": [
+            {
+              "name": "Коран – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B0%D0%BD"
+              ],
+              "from": {
+                "dateYear": 610
+              },
+              "to": {
+                "dateYear": 650
+              },
+              "quote": "Свещената книга на исляма, съставена в писмен вид около 650 г. по време на халифа Осман ибн Афан. Според ислямската традиция той е низпослан на части в продължение на 23 години на пророка Мохамед (570–632 г.) от Аллах."
+            },
+            {
+              "name": "Quran – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Quran"
+              ],
+              "from": {
+                "dateYear": 610
+              },
+              "to": {
+                "dateYear": 632
+              },
+              "quoteOriginal": "Muslims believe the Quran was orally revealed by God to the final Islamic prophet Muhammad through the angel Gabriel incrementally over a period of some 23 years, beginning on the Laylat al-Qadr, when Muhammad was 40, and concluding in 632, the year of his death.",
+              "quote": "Мюсюлманите вярват, че Коранът е разкрит устно от Бог на последния ислямски пророк Мохамед чрез ангел Джибрил постепенно в продължение на около 23 години, започвайки от Нощта на могъществото, когато Мохамед е бил на 40 години, и завършвайки през 632 г., годината на смъртта му."
+            },
+            {
+              "name": "Quran – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Quran"
+              ],
+              "to": {
+                "dateYear": 650
+              },
+              "quoteOriginal": "The received text of the Qurʾān was in existence by about 650 CE.",
+              "quote": "Полученият текст на Корана е съществувал около 650 г."
+            }
+          ],
+          "style": "islam"
+        }
+      ]
+    },
+    {
+      "name": "Сикхизъм",
+      "id": "334e7273-f0fd-4c5f-a46a-05d090ff8f60",
+      "periods": [
+        {
+          "name": "Гуру Грантх Сахиб",
+          "description": "Свещеното писание на сикхизма, считано за вечния жив Гуру на сикхите след десетия гуру Гобинд Сингх (1708 г.). Съдържа химни от сикхските гуру, хинду и мюсюлмански светци. Първо инсталиран в Златния храм в Амритсар.",
+          "comment": "Датите 1604–1708 г. обхващат от първата компилация до окончателната редакция. EN Wikipedia: 'Its compilation was completed on 29 August 1604'. Гуру Гобинд Сингх добавя композициите на Гуру Тегх Бахадур през 1704 г. и обявява Грантх за гуру-наследник малко преди смъртта си на 6 октомври 1708 г.",
+          "date": {
+            "range": [
+              "1604-08-29",
+              "1708-10-06"
+            ],
+            "from": {
+              "date": "1604-08-29"
+            },
+            "to": {
+              "date": "1708-10-06"
+            }
+          },
+          "sources": [
+            {
+              "name": "Guru Granth Sahib – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Guru_Granth_Sahib"
+              ],
+              "from": {
+                "date": "1604-08-29"
+              },
+              "to": {
+                "date": "1708-10-06"
+              },
+              "quoteOriginal": "Its compilation was completed on 29 August 1604 and first installed inside the Golden Temple in Amritsar on 1 September 1604. While Guru Gobind Singh was in Nanded in the Deccan, he suffered a fatal injury and died on 6 October 1708. Shortly before his death, he proclaimed that the Ād Granth be the guru to succeed him.",
+              "quote": "Компилацията е завършена на 29 август 1604 г. и за пръв път е поставена в Златния храм в Амритсар на 1 септември 1604 г. Гуру Гобинд Сингх получава смъртоносно нараняване и умира на 6 октомври 1708 г. Малко преди смъртта си той обявява Ади Грантх за гуру-наследник."
+            },
+            {
+              "name": "Adi Granth – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Adi-Granth-Sikh-sacred-scripture"
+              ],
+              "from": {
+                "dateYear": 1604
+              },
+              "quoteOriginal": "The Ādi Granth was compiled primarily by Bhai Gurdas under the supervision of Guru Arjan between the years 1603 and 1604.",
+              "quote": "Ади Грантх е съставен главно от Бхай Гурдас под ръководството на Гуру Арджан между 1603 и 1604 г."
+            }
+          ],
+          "style": "sikhism"
+        }
+      ]
+    },
+    {
+      "name": "Маите",
+      "id": "1a3bc77d-9353-4876-b22e-06d25555dc9e",
+      "periods": [
+        {
+          "name": "Попол Вух",
+          "description": "Свещеният разказ за Сътворението на народа Киче от маите. Описва произхода на света, подвизите на Героите близнаци Хунахпу и Шбаланке в подземното царство Шибалба, и създаването на хората от царевица. Записан на Киче (майски език) след испанското завоевание, но запазяващ древна устна традиция.",
+          "comment": "Датите 1554–1558 г. се отнасят до записването на текста на латиница. EN Wikipedia: 'originally preserved through oral tradition until approximately 1550, when it was recorded in writing'. Britannica: 'Written in K'iche' by a Mayan author or authors between 1554 and 1558'. Устната традиция е значително по-стара, но не може да бъде датирана точно.",
+          "date": {
+            "range": [
+              "1554-01-01",
+              "1558-12-31"
+            ],
+            "from": {
+              "dateYear": 1554
+            },
+            "to": {
+              "dateYear": 1558
+            }
+          },
+          "sources": [
+            {
+              "name": "Popol Vuh – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Popol_Vuh"
+              ],
+              "from": {
+                "dateYear": 1554
+              },
+              "to": {
+                "dateYear": 1558
+              },
+              "quoteOriginal": "It was originally preserved through oral tradition until approximately 1550, when it was recorded in writing. By comparing the genealogy at the end of Popol Vuh with dated colonial records, Adrián Recinos and Dennis Tedlock suggest a date between 1554 and 1558.",
+              "quote": "Първоначално е запазен чрез устна традиция до приблизително 1550 г., когато е записан писмено. Сравнявайки генеалогията в края на Попол Вух с датирани колониални записи, Адриан Ресинос и Денис Тедлок предлагат дата между 1554 и 1558 г."
+            },
+            {
+              "name": "Popol Vuh – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Popol-Vuh"
+              ],
+              "from": {
+                "dateYear": 1554
+              },
+              "to": {
+                "dateYear": 1558
+              },
+              "quoteOriginal": "Written in K'iche' (a Mayan language) by a Mayan author or authors between 1554 and 1558.",
+              "quote": "Написан на Киче (майски език) от майски автор или автори между 1554 и 1558 г."
+            }
+          ],
+          "style": "maya"
+        }
+      ]
+    },
+    {
+      "name": "Мормонизъм",
+      "id": "779fe8d8-d555-4f7b-94fa-cb026ba68781",
+      "periods": [
+        {
+          "name": "Книга на Мормон",
+          "description": "Свещен текст на Движението на светиите от последните дни, публикуван от Джозеф Смит през 1830 г. Описва историята на древни народи в Америка и техните срещи с Исус Христос.",
+          "comment": "Датата 26 март 1830 г. е безспорна — денят на публикуване. EN Wikipedia: 'first published in 1830 by Joseph Smith' и 'It would go on sale in his bookstore on March 26, 1830.' Процесът на диктуване/превод е завършен за по-малко от 90 дни.",
+          "date": {
+            "range": [
+              "1830-03-26",
+              "1830-03-26"
+            ],
+            "from": {
+              "date": "1830-03-26"
+            },
+            "to": {
+              "date": "1830-03-26"
+            }
+          },
+          "sources": [
+            {
+              "name": "Book of Mormon – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Book_of_Mormon"
+              ],
+              "from": {
+                "date": "1830-03-26"
+              },
+              "quoteOriginal": "The Book of Mormon is a religious text of the Latter Day Saint movement, first published in 1830 by Joseph Smith. It would go on sale in his bookstore on March 26, 1830.",
+              "quote": "Книгата на Мормон е религиозен текст на Движението на светиите от последните дни, публикувана за пръв път през 1830 г. от Джозеф Смит. Тя е пусната в продажба в неговата книжарница на 26 март 1830 г."
+            },
+            {
+              "name": "Book of Mormon – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Book-of-Mormon"
+              ],
+              "from": {
+                "dateYear": 1830
+              },
+              "quoteOriginal": "Smith completed the work in less than 90 days and published it in March 1830 as a 588-page volume called the Book of Mormon.",
+              "quote": "Смит завършва работата за по-малко от 90 дни и я публикува през март 1830 г. като том от 588 страници, наречен Книга на Мормон."
+            }
+          ],
+          "style": "mormonism"
+        }
+      ]
+    },
+    {
+      "name": "Бахайска вяра",
+      "id": "b375cf81-3609-4d8e-a4dd-faa00300b149",
+      "periods": [
+        {
+          "name": "Китаб-и-Акдас (Най-светата книга)",
+          "description": "Централният свещен текст на Бахайската вяра, написан от Бахаулла — основателя на религията — в Акра (днешен Израел) по време на заточението му в Османската империя. Съдържа законите, заповедите и принципите на бахайската религия.",
+          "comment": "Датата 1873 г. е безспорна. EN Wikipedia: 'written by Bahá'u'lláh, the founder of the religion, in 1873' и 'written in Acre at about the midpoint of his ministry around 1873'.",
+          "date": {
+            "range": [
+              "1873-01-01",
+              "1873-12-31"
+            ],
+            "from": {
+              "dateYear": 1873
+            },
+            "to": {
+              "dateYear": 1873
+            }
+          },
+          "sources": [
+            {
+              "name": "Kitáb-i-Aqdas – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Kit%C3%A1b-i-Aqdas"
+              ],
+              "from": {
+                "dateYear": 1873
+              },
+              "quoteOriginal": "The Kitáb-i-Aqdas is the central religious text of the Bahá'í Faith, written by Bahá'u'lláh, the founder of the religion, in 1873. The Kitáb-i-Aqdas was written by Bahá'u'lláh in Acre at about the midpoint of his ministry around 1873.",
+              "quote": "Китаб-и-Акдас е централният религиозен текст на Бахайската вяра, написан от Бахаулла, основателя на религията, през 1873 г. Китаб-и-Акдас е написан от Бахаулла в Акра приблизително по средата на неговото служение около 1873 г."
+            }
+          ],
+          "style": "bahai"
+        }
+      ]
+    }
+  ],
+  "knowledge": "religions"
+}

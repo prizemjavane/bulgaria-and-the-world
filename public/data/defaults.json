@@ -1,0 +1,110 @@
+{
+  "fuzzySearchThreshold": 0.2,
+  "infoPanelPosition": "right",
+  "singleSelectionMode": true,
+  "_global": {
+    "events": [],
+    "lines": [
+      "d547239d-a229-42a2-9e04-80c339f6073e",
+      "42f7e181-2025-4b07-bb83-46c316dd6e6c",
+      "70575b5d-28a6-4ca8-ae64-85e065e63581",
+      "0156ef53-3b34-4831-8c20-91bca2932135",
+      "75ba8280-db2e-4114-bcc5-36cab12ef9a5",
+      "c3a1b2d4-5e6f-4a8b-9c0d-1e2f3a4b5c6d",
+      "a7b8c9d0-1e2f-4a3b-5c6d-7e8f9a0b1c2d",
+      "8aa7e88a-f4cc-4b4d-b26a-73e5f9bb74b0",
+      "4fa2013c-4e2c-41c5-a4bf-5064bdfe5b41",
+      "fd2376e5-798c-4380-ad04-b1e1f236ef23",
+      "bb8c59b7-314f-4a70-a119-16125a5d2c73",
+      "6189858b-af45-44c7-8703-06e4008a15ec",
+      "5bb2835e-7ddb-49fa-805a-6d99f9754d78"
+    ]
+  },
+  "nations": {
+    "events": [],
+    "lines": [
+      "a3da9266-8da3-4931-8124-2857e8774d22",
+      "c76ba8ef-1055-4473-ab7c-f3f994ad6a5c",
+      "76bb1160-494d-415a-9e14-022c9a7477e9",
+      "7ed6bcc8-7c31-4acb-af0e-ccf645b9a346",
+      "68dad7a7-090a-402f-8775-bf7d6602f534",
+      "b4120f8f-90a3-4005-9ed0-b6e366100ce9",
+      "c7e2a1b3-4d5f-4e8a-9b0c-1d2e3f4a5b6c",
+      "d8f3b2c4-5e6a-4f7b-8c9d-2e3f4a5b6c7d",
+      "e9a4c3d5-6f7b-4a8c-9d0e-3f4a5b6c7d8e",
+      "f0b5d4e6-7a8c-4b9d-0e1f-4a5b6c7d8e9f",
+      "86c4554b-400e-4a14-802d-28ddbb6551b3",
+      "8a179015-62fc-4f24-b711-6a44b8097309",
+      "a04fccc9-e461-4f59-9155-51b7a06db200",
+      "da25acd7-f390-42f3-a326-5ad1884395cb",
+      "99fcc2d8-4467-49b0-8358-f28a6919a99b",
+      "6f0864c6-f9b6-4033-833f-4f4bba986404",
+      "1ef9d505-775a-4a45-957d-bbebdafcf73e",
+      "b60e9bac-a069-4086-85a9-bb6efb86078e",
+      "a1b2c3d4-8e9f-4a0b-1c2d-5e6f7a8b9c0d",
+      "d547239d-a229-42a2-9e04-80c339f6073e",
+      "42f7e181-2025-4b07-bb83-46c316dd6e6c"
+    ]
+  },
+  "eu": {
+    "events": [],
+    "lines": []
+  },
+  "eurozone": {
+    "events": [],
+    "lines": [
+      "f96fd73e-df18-4879-a514-8dcf9997079a"
+    ]
+  },
+  "nato": {
+    "events": [],
+    "lines": [
+      "a1c2d3e4-5f67-4a89-b012-3c4d5e6f7a8b",
+      "c7a3e1f2-8d4b-4e59-a6c0-5b9f2d3e4a71"
+    ]
+  },
+  "brics": {
+    "events": [],
+    "lines": []
+  },
+  "crimea": {
+    "events": [],
+    "lines": [
+      "a3da9266-8da3-4931-8124-2857e8774d22",
+      "4db35482-6dce-42ec-bf42-f1970011cd18",
+      "57221ac1-1767-47a4-b16b-f2a712c1c2e7"
+    ]
+  },
+  "ussr": {
+    "events": [],
+    "lines": []
+  },
+  "pacts": {
+    "events": [],
+    "lines": []
+  },
+  "politics": {
+    "events": [],
+    "lines": [
+      "b4120f8f-90a3-4005-9ed0-b6e366100ce9",
+      "a3da9266-8da3-4931-8124-2857e8774d22"
+    ]
+  },
+  "religions": {
+    "events": [],
+    "lines": [
+      "b4120f8f-90a3-4005-9ed0-b6e366100ce9",
+      "7ed6bcc8-7c31-4acb-af0e-ccf645b9a346",
+      "76bb1160-494d-415a-9e14-022c9a7477e9",
+      "c76ba8ef-1055-4473-ab7c-f3f994ad6a5c",
+      "a3da9266-8da3-4931-8124-2857e8774d22"
+    ]
+  },
+  "worldorder": {
+    "events": [],
+    "lines": [
+      "b4120f8f-90a3-4005-9ed0-b6e366100ce9",
+      "a3da9266-8da3-4931-8124-2857e8774d22"
+    ]
+  }
+}

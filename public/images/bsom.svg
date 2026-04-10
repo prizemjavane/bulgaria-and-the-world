@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-42 18 189 149">
+  <defs>
+    <linearGradient id="v1-f1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a2a30;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1518;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="v1-f2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#253540;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#141e24;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="v1-beak" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e53935;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c62828;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- V1: Sharp angular — tall neck, minimal facets, aggressive angles -->
+  <g transform="translate(100, 95) scale(-1, 1)">
+    <!-- BODY — 3 large triangles -->
+    <polygon points="-20,50 60,70 80,15" fill="url(#v1-f1)" stroke="#ffffff" stroke-width="0.7" stroke-linejoin="round" />
+    <polygon points="-20,50 80,15 20,-20" fill="url(#v1-f2)" stroke="#ffffff" stroke-width="0.7" stroke-linejoin="round" />
+    <polygon points="60,70 80,15 110,35" fill="#12222a" stroke="#ffffff" stroke-width="0.7" stroke-linejoin="round" />
+
+    <!-- TAIL — sharp spikes -->
+    <polygon points="80,15 110,35 120,-10" fill="#0f1c22" stroke="#ffffff" stroke-width="0.7" stroke-linejoin="round" />
+    <polygon points="80,15 120,-10 105,-35" fill="#1a2e38" stroke="#ffffff" stroke-width="0.7" stroke-linejoin="round" />
+    <polygon points="105,-35 120,-10 140,-40" fill="#152830" stroke="#ffffff" stroke-width="0.6" stroke-linejoin="round" />
+
+    <!-- WING accent -->
+    <polygon points="20,-20 80,15 50,-5" fill="#ffffff" opacity="0.06" stroke="#ffffff" stroke-width="0.3" />
+
+    <!-- NECK — long, straight, 2 facets -->
+    <polygon points="-20,50 20,-20 -10,-30" fill="#182830" stroke="#ffffff" stroke-width="0.7" stroke-linejoin="round" />
+    <polygon points="-10,-30 20,-20 -5,-65" fill="#142228" stroke="#ffffff" stroke-width="0.7" stroke-linejoin="round" />
+
+    <!-- HEAD — single sharp triangle -->
+    <polygon points="-10,-30 -5,-65 -35,-58" fill="#1a2e38" stroke="#ffffff" stroke-width="0.7" stroke-linejoin="round" />
+
+    <!-- BEAK -->
+    <polygon points="-35,-58 -5,-65 -45,-75" fill="url(#v1-beak)" stroke="#b71c1c" stroke-width="0.5" />
+
+    <!-- EYE -->
+    <circle cx="-18" cy="-58" r="3.2" fill="#e53935" />
+    <circle cx="-18" cy="-58" r="1.2" fill="#0a1215" />
+  </g>
+</svg>

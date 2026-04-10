@@ -1,0 +1,222 @@
+@reference "../../styles.css";
+
+.chart-card { @apply bg-white rounded-b-xl rounded-tr-xl shadow-sm border border-slate-200 p-2; }
+.detail-card-inline { @apply mt-4 mb-16 max-w-5xl mx-auto p-6 bg-white rounded-xl shadow-sm border border-slate-200; }
+.toolbar-divider { @apply w-px h-4 bg-slate-200 shrink-0 mx-1; }
+
+.site-header { @apply flex items-center gap-2.5 mb-2; }
+.site-logo { @apply w-8 h-8 shrink-0; }
+.site-title { @apply text-lg font-bold tracking-tight text-slate-800 leading-none; }
+
+.tab-strip {
+  @apply flex items-end px-1 mb-0;
+}
+
+.tab-scroll {
+  @apply flex gap-px overflow-x-auto flex-1 min-w-0;
+  scrollbar-width: none;
+  &::-webkit-scrollbar { display: none; }
+}
+
+.tab-scroll-btn {
+  @apply flex items-center justify-center w-6 shrink-0 self-stretch
+         cursor-pointer transition-colors rounded-t-lg
+         text-slate-400 bg-slate-200 hover:text-slate-700 hover:bg-slate-300;
+}
+
+.nav-tab {
+  @apply px-4 py-1.5 text-sm font-medium cursor-pointer transition-colors whitespace-nowrap flex-shrink-0
+         text-white bg-slate-500 rounded-t-lg border border-b-0 border-slate-500
+         hover:bg-slate-600 hover:border-slate-600;
+  &.active { @apply text-white bg-blue-600 border-blue-600; }
+}
+
+.dataset-description {
+  @apply text-base text-slate-500 leading-relaxed m-0 py-4 text-center;
+}
+
+.birth-date-group {
+  @apply flex items-center gap-1.5;
+}
+
+.birth-date-label {
+  @apply text-sm text-slate-500 font-medium whitespace-nowrap;
+}
+
+.birth-date-inputs {
+  @apply inline-flex items-center border border-slate-300 rounded-lg bg-white;
+}
+
+.birth-date-inputs .tooltip-wrap {
+  @apply flex items-center;
+}
+
+.bdi {
+  @apply py-1.5 text-sm text-slate-700 bg-transparent border-none focus:outline-none;
+}
+
+.bdi-year {
+  @apply w-20 px-2;
+}
+
+.bdi-month {
+  @apply px-2 cursor-pointer;
+}
+
+.bdi-duration {
+  @apply w-16 px-2;
+}
+
+.bdi-sep {
+  @apply w-px h-5 bg-slate-200 shrink-0;
+}
+
+.bdi-clear {
+  @apply inline-flex items-center justify-center px-1.5 cursor-pointer transition-colors
+         text-slate-400 hover:text-red-500 hover:bg-red-50;
+}
+
+.panel-pos-btn {
+  @apply inline-flex items-center justify-center w-7 h-7 rounded-lg cursor-pointer transition-all
+         text-slate-400 border border-slate-200 bg-white hover:border-slate-400 hover:text-slate-600;
+
+  &.active {
+    @apply text-blue-600 border-blue-300 bg-blue-50 hover:border-blue-400 hover:text-blue-700;
+  }
+}
+
+/* uses global .toolbar-pill */
+
+.tooltip-wrap {
+  position: relative;
+  &::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    left: 50%;
+    top: calc(100% + 6px);
+    transform: translateX(-50%) scale(0.95);
+    padding: 5px 10px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 500;
+    white-space: nowrap;
+    color: white;
+    background: theme(--color-slate-700);
+    box-shadow: 0 2px 8px rgb(0 0 0 / 0.15);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.15s, transform 0.15s;
+    z-index: 50;
+  }
+  &:has(:hover)::after, &:has(:focus)::after {
+    opacity: 1;
+    transform: translateX(-50%) scale(1);
+  }
+}
+
+
+.detail-panel-header { @apply flex items-center justify-between gap-3 px-5 py-4 border-b border-slate-100 shrink-0; }
+.detail-panel-title { @apply flex flex-col gap-0.5 min-w-0; }
+.detail-panel-body { flex: 1; overflow-y: auto; padding: 1.5rem 2rem 3rem; }
+
+.knowledge-panel-header { @apply flex items-center justify-end px-5 py-4 border-b border-slate-100 shrink-0; }
+.knowledge-panel-body { flex: 1; overflow-y: auto; padding: 2rem 2.5rem 3rem; }
+
+.knowledge-loading { @apply flex items-center justify-center h-32; }
+
+.knowledge-spinner {
+  @apply w-7 h-7 rounded-full border-2 border-slate-200 border-t-blue-500;
+  animation: knowledge-spin 0.7s linear infinite;
+}
+
+@keyframes knowledge-spin { to { transform: rotate(360deg); } }
+
+
+.btn-group {
+  @apply inline-flex items-stretch;
+}
+
+.selection-panel-toggle {
+  @apply inline-flex items-center gap-1.5 px-3 py-1.5 text-sm font-semibold rounded-full
+         cursor-pointer transition-all text-slate-500 border border-slate-300 bg-white
+         hover:bg-slate-50 hover:border-slate-400 hover:text-slate-700 shadow-sm;
+  &.active { @apply text-white border-violet-500 bg-violet-500 hover:bg-violet-600 hover:border-violet-600; }
+  &.grouped { @apply rounded-l-none py-1 font-medium border-slate-200 shadow-none hover:bg-slate-50 hover:border-slate-400 -ml-px relative hover:z-[1]; }
+  &.grouped.active { @apply border-violet-500 border-l-violet-400 hover:bg-violet-600; }
+}
+
+.sel-toggle-count {
+  @apply inline-flex items-center justify-center min-w-[1.1rem] h-[1.1rem] rounded-full px-0.5
+         text-xs font-bold bg-white/30 text-inherit;
+}
+.selection-panel-toggle:not(.active) .sel-toggle-count {
+  @apply bg-slate-200 text-slate-600;
+}
+
+.sel-panel-header {
+  @apply flex items-center justify-between px-4 py-3 border-b border-slate-100 shrink-0;
+}
+.sel-panel-title { @apply text-sm font-semibold text-slate-600; }
+.sel-panel-body { flex: 1; overflow-y: auto; padding-bottom: 1.5rem; }
+
+.sel-panel-toolbar {
+  @apply flex items-center justify-between px-4 py-2 border-b border-slate-100;
+}
+.sel-sort-row { @apply flex items-center gap-3; }
+.sel-sort-btn {
+  @apply inline-flex items-center gap-1 text-xs font-semibold uppercase tracking-wide
+         text-slate-300 cursor-pointer transition-colors border-0 bg-transparent
+         hover:text-slate-500;
+  &.active { @apply text-slate-500; }
+}
+.sel-sort-arrow {
+  @apply w-2.5 h-2.5 transition-transform;
+  &.desc { @apply rotate-180; }
+}
+.sel-clear-all {
+  @apply text-sm font-medium text-rose-400 cursor-pointer transition-colors border-0 bg-transparent
+         hover:text-rose-600;
+}
+
+.sel-group-header {
+  @apply px-4 py-1.5 text-xs font-semibold text-slate-400 uppercase tracking-wider bg-slate-50 sticky top-0 z-10;
+}
+
+.sel-item {
+  @apply flex items-start gap-1.5 px-4 py-2 transition-colors hover:bg-slate-50/80;
+}
+.sel-item.active .sel-item-name { text-decoration: underline; text-underline-offset: 2px; }
+
+.sel-item-content { @apply flex-1 min-w-0; }
+
+.sel-item-name {
+  @apply block text-sm font-medium text-left leading-snug;
+  word-break: break-word;
+}
+.sel-item-name--events { @apply text-blue-600 cursor-pointer hover:text-blue-800; }
+.sel-item-name--persons { @apply text-violet-600 cursor-pointer hover:text-violet-800; }
+.sel-item-name--dates { @apply text-teal-600 cursor-pointer hover:text-teal-800; }
+.sel-item-name--tags { @apply text-violet-500 italic cursor-default; }
+
+.sel-item-date { @apply block text-sm text-slate-600 mt-0.5 leading-none; }
+
+.sel-remove {
+  @apply flex-shrink-0 inline-flex items-center justify-center w-5 h-5 rounded cursor-pointer transition-all mt-0.5
+         text-slate-300 hover:text-red-500 hover:bg-red-50;
+}
+
+.sel-empty { @apply text-sm text-slate-400 text-center py-8 px-4; }
+
+.dataset-edit { @apply mt-3 text-right; }
+.dataset-edit-link {
+  @apply inline-flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium rounded-lg
+         text-slate-400 no-underline transition-colors cursor-pointer
+         hover:text-slate-600 hover:bg-slate-100;
+}
+
+.knowledge-edit { @apply mt-8 pt-6 border-t border-slate-100 text-center; }
+.knowledge-edit-link {
+  @apply inline-flex items-center gap-2 px-5 py-2 text-sm font-medium rounded-lg
+         text-white bg-slate-700 no-underline transition-colors
+         hover:bg-slate-900;
+}

@@ -1,0 +1,24 @@
+<footer class="bg-slate-800 px-6 py-12 text-center text-base">
+
+  <div class="mb-8">
+    <nav class="mb-6 flex justify-center gap-6">
+      <a class="footer-nav-link" routerLink="/about">За проекта</a>
+      <a class="footer-nav-link" [href]="githubUrl" target="_blank">Отворен код</a>
+      <a class="footer-nav-link" [href]="githubUrl + '/tree/main/public/data'" target="_blank">Отворени данни</a>
+    </nav>
+    <div class="flex justify-center">
+      <a [href]="githubUrl" title="Fork me" class="footer-github-btn">
+        <img src="images/github.svg" width="36" alt="GitHub" class="invert opacity-80">
+      </a>
+    </div>
+  </div>
+
+  <p class="max-w-3xl mx-auto mb-0 text-sm text-slate-400 leading-relaxed">Хронологията е базирана на множество независими източници. При някои периоди съществуват минимални разлики в датировката между източниците, дължащи се на различни историографски интерпретации. Всички дати от българската история са потвърдени и съвпадат между всички използвани източници.</p>
+
+  <div class="flex justify-center mt-8 text-sm">
+    <div class="flex flex-col items-center gap-4">
+      <img src="images/bsom.svg" width="100" alt="BlackSwanOpenMedia" class="opacity-70">
+      <span class="text-slate-400">"България и света" е проект на BlackSwanOpenMedia</span>
+    </div>
+  </div>
+</footer>

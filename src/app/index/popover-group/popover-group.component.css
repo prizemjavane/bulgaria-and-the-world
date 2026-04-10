@@ -1,0 +1,21 @@
+@reference "../../../styles.css";
+
+.event-btn.clear-btn {
+  @apply text-rose-400 border-rose-200 hover:border-rose-400 hover:text-rose-600;
+}
+
+.group-toggle {
+  @apply flex items-center gap-1 px-3 py-1 text-sm font-medium rounded-full cursor-pointer transition-all
+         text-slate-500 border border-slate-200 bg-white hover:border-slate-400 hover:text-slate-700;
+  &.expanded { @apply text-slate-700 border-slate-400 bg-slate-50; }
+  .group-chevron { @apply w-4 h-4 transition-transform duration-150; }
+  &.expanded .group-chevron { @apply rotate-90; }
+}
+
+.group-badge {
+  @apply ml-0.5 px-1.5 text-xs font-semibold rounded-full bg-blue-100 text-blue-600 leading-relaxed;
+}
+
+.group-badge.tag-badge {
+  @apply bg-violet-100 text-violet-600;
+}

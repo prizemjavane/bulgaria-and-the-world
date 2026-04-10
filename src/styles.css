@@ -1,0 +1,254 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import 'tailwindcss';
+@import './assets/scss/typography.scss';
+
+body {
+  background: theme(--color-slate-50);
+}
+
+@theme {
+  --font-sans: 'Sofia Sans', ui-sans-serif, system-ui, sans-serif;
+}
+
+/* ── Prose styles (used by about, knowledge panel, etc.) ── */
+
+/* ── Shared UI components ── */
+.toolbar-pill {
+  @apply flex items-center gap-1 px-3 py-1 text-sm font-medium rounded-full
+         cursor-pointer transition-all text-slate-500 border border-slate-200 bg-white
+         hover:border-slate-400 hover:text-slate-700 hover:bg-slate-50;
+  &.active { @apply text-slate-700 border-slate-400 bg-slate-50; }
+}
+
+.dropdown-popover {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin-top: 0.25rem;
+  width: 36rem;
+  max-height: 70vh;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid theme(--color-slate-200);
+  border-radius: 0.75rem;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  padding: 0.75rem;
+}
+
+.search-input {
+  padding: 0.375rem 0.75rem;
+  font-size: 0.875rem;
+  border: 1px solid theme(--color-slate-200);
+  border-radius: 0.5rem;
+  color: theme(--color-slate-700);
+  &:focus { outline: none; border-color: theme(--color-blue-400); }
+}
+
+.event-btn {
+  display: inline-flex;
+  padding: 0.125rem 0.625rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  border-width: 1px;
+  border-radius: 9999px;
+  cursor: pointer;
+  transition: all 0.15s;
+  color: theme(--color-slate-400);
+  border-color: theme(--color-slate-200);
+  background: white;
+  &:hover { border-color: theme(--color-slate-400); color: theme(--color-slate-600); }
+  &.active {
+    color: theme(--color-slate-700);
+    border-color: theme(--color-slate-400);
+    background: theme(--color-slate-100);
+    &:hover { border-color: theme(--color-slate-500); color: theme(--color-slate-800); }
+  }
+}
+
+/* ── Side panels ── */
+.page-layout {
+  transition: margin-right 0.3s cubic-bezier(0.4, 0, 0.2, 1), margin-left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  &:has(.detail-panel.open, .knowledge-panel.open) { margin-right: 480px; }
+  &:has(.selection-panel.open) { margin-left: 300px; }
+}
+.main-content { min-height: 100vh; }
+
+.detail-panel, .knowledge-panel {
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 0;
+  height: 100vh;
+  z-index: 200;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background: white;
+  border-left: 1px solid theme(--color-slate-200);
+  transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  &.open { width: 480px; }
+}
+
+.selection-panel {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 0;
+  height: 100vh;
+  z-index: 200;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background: white;
+  border-right: 1px solid theme(--color-slate-200);
+  transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  &.open { width: 300px; }
+}
+
+.side-panel-close {
+  padding: 0.375rem;
+  border-radius: 0.5rem;
+  color: theme(--color-slate-400);
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: color 0.15s, background-color 0.15s;
+  &:hover { color: theme(--color-slate-600); background-color: theme(--color-slate-100); }
+}
+
+/* ── Footer shifts when a side panel is open ── */
+body:has(.detail-panel.open, .knowledge-panel.open) app-quotes,
+body:has(.detail-panel.open, .knowledge-panel.open) app-footer {
+  margin-right: 480px;
+  transition: margin-right 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+body:has(.selection-panel.open) app-quotes,
+body:has(.selection-panel.open) app-footer {
+  margin-left: 300px;
+  transition: margin-left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.about-prose {
+  color: theme(--color-slate-600);
+  line-height: 1.7;
+  font-size: 0.9375rem;
+}
+
+.about-prose :first-child {
+  margin-top: 0;
+}
+
+.about-prose h1 {
+  font-size: 1.625rem;
+  font-weight: 800;
+  color: theme(--color-slate-900);
+  line-height: 1.2;
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  letter-spacing: -0.02em;
+}
+
+.about-prose h2 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: theme(--color-slate-800);
+  line-height: 1.3;
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid theme(--color-slate-200);
+}
+
+.about-prose h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: theme(--color-slate-800);
+  line-height: 1.4;
+  margin-top: 2rem;
+  margin-bottom: 0.625rem;
+}
+
+.about-prose p {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.about-prose > p:first-of-type {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: theme(--color-slate-700);
+}
+
+.about-prose a {
+  color: theme(--color-blue-600);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-color: theme(--color-blue-300);
+  transition: color 0.15s, text-decoration-color 0.15s;
+}
+
+.about-prose a:hover {
+  color: theme(--color-blue-800);
+  text-decoration-color: theme(--color-blue-600);
+}
+
+.about-prose ul {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  padding-left: 1.25rem;
+  list-style-type: disc;
+}
+
+.about-prose ol {
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  padding-left: 1.25rem;
+  list-style-type: decimal;
+}
+
+.about-prose li {
+  margin-top: 0.625rem;
+  margin-bottom: 0.625rem;
+  padding-left: 0.375rem;
+}
+
+.about-prose li::marker {
+  color: theme(--color-slate-300);
+}
+
+.about-prose blockquote {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding: 1rem 1.5rem;
+  border-left: 3px solid theme(--color-blue-300);
+  background: theme(--color-slate-50);
+  border-radius: 0 0.5rem 0.5rem 0;
+  color: theme(--color-slate-600);
+  font-style: italic;
+}
+
+.about-prose hr {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  border: none;
+  border-top: 1px solid theme(--color-slate-200);
+}
+
+.about-prose code {
+  font-size: 0.875em;
+  background: theme(--color-slate-100);
+  padding: 0.15rem 0.4rem;
+  border-radius: 0.25rem;
+  color: theme(--color-slate-800);
+}
+
+.about-prose strong {
+  font-weight: 600;
+  color: theme(--color-slate-800);
+}
+
+.about-prose img {
+  border-radius: 0.75rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}

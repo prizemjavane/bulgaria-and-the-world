@@ -1,0 +1,171 @@
+@reference "../../../styles.css";
+
+:host(.grouped) { display: contents; }
+
+.popover-anchor {
+  @apply relative;
+}
+.popover-anchor:has(.group-toggle.grouped:hover) {
+  z-index: 1;
+}
+.popover-anchor:has(.group-toggle.grouped.expanded) {
+  z-index: 50;
+}
+
+.group-toggle {
+  /* extends global .toolbar-pill */
+  &.expanded { @apply text-slate-700 border-slate-400 bg-slate-50; }
+  &.grouped { @apply rounded-r-none; }
+  .group-chevron { @apply transition-transform duration-150; }
+  &.expanded .group-chevron { @apply rotate-90; }
+}
+
+.group-badge {
+  @apply ml-0.5 px-1.5 text-xs font-semibold rounded-full bg-blue-100 text-blue-600 leading-relaxed;
+}
+
+.combined-popover {
+  @apply absolute top-full left-0 mt-1 bg-white rounded-xl border border-slate-200 p-3 z-50;
+  width: 36rem;
+  max-height: 70vh;
+  overflow-y: auto;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+.tab-bar {
+  @apply flex gap-0.5 mb-2 pb-2 border-b border-slate-100;
+}
+
+.tab-btn {
+  @apply flex items-center gap-1 px-3 py-1.5 text-sm font-medium rounded-lg cursor-pointer transition-all
+         text-slate-400 hover:text-slate-600 hover:bg-slate-50 border-0 bg-transparent;
+  &.active { @apply text-slate-700 bg-slate-100; }
+}
+
+.tab-btn--selected { @apply ml-auto; }
+
+.tab-badge {
+  @apply px-1.5 text-xs font-semibold rounded-full bg-blue-100 text-blue-600 leading-relaxed;
+}
+
+.tags-row {
+  @apply flex gap-1.5 flex-wrap items-center mb-2;
+}
+
+.tags-label {
+  @apply text-xs text-slate-400;
+}
+
+.tag-btn {
+  @apply px-2 py-0.5 text-sm font-medium rounded-full cursor-pointer transition-all border
+         border-violet-200 text-violet-400 bg-violet-50/60 hover:border-violet-400 hover:text-violet-600;
+  &.active { @apply border-violet-500 text-violet-700 bg-violet-100; }
+}
+
+/* Table layout */
+
+.items-list {
+  @apply rounded-lg border border-slate-100 overflow-hidden;
+}
+
+.items-header {
+  @apply flex justify-between px-3 py-1 bg-slate-50/80 border-b border-slate-100 select-none;
+}
+
+.sort-btn {
+  @apply inline-flex items-center gap-1 text-xs font-semibold uppercase tracking-wide
+         text-slate-300 cursor-pointer transition-colors border-0 bg-transparent
+         hover:text-slate-500;
+  &.active { @apply text-slate-500; }
+}
+
+.sort-arrow {
+  @apply w-2.5 h-2.5 transition-transform;
+  &.desc { @apply rotate-180; }
+}
+
+.item-row {
+  @apply flex items-center w-full px-3 py-1.5 text-left cursor-pointer transition-colors
+         border-0 border-b border-slate-50 bg-transparent;
+  font-size: 0.9375rem;
+
+  &:last-child { @apply border-b-0; }
+  &:hover { @apply bg-slate-50; }
+  &.active { @apply bg-blue-50/70; }
+  &.active:hover { @apply bg-blue-50; }
+}
+
+.item-dot {
+  @apply w-1.5 h-1.5 rounded-full bg-slate-200 shrink-0 mr-2.5 transition-colors;
+
+  .item-row.active & { @apply bg-blue-500; }
+}
+
+.item-date--action {
+  @apply cursor-pointer rounded px-1 -mr-1 transition-colors;
+
+  &:hover { @apply text-blue-500 bg-blue-50; }
+  .item-row.active &:hover { @apply text-blue-600 bg-blue-100/60; }
+}
+
+.item-name {
+  @apply font-medium flex-1 min-w-0 truncate pr-3 text-slate-700;
+
+  .item-row.active & { @apply text-blue-700; }
+}
+
+.item-date {
+  @apply text-sm text-slate-600 shrink-0 tabular-nums text-right;
+
+  .item-row.active & { @apply text-blue-400; }
+}
+
+.select-all-action {
+  @apply text-sm font-medium text-emerald-400 cursor-pointer transition-colors border-0 bg-transparent
+         hover:text-emerald-600;
+}
+
+.clear-all-action {
+  @apply text-sm font-medium text-rose-400 cursor-pointer transition-colors border-0 bg-transparent
+         hover:text-rose-600;
+}
+
+/* Selected view */
+
+.selected-toolbar {
+  @apply flex items-center justify-between mb-1;
+}
+.selected-toolbar .items-header {
+  @apply flex gap-4 border-0 bg-transparent px-0 py-0 rounded-none;
+}
+
+.selected-group-header {
+  @apply px-3 py-1.5 text-xs font-semibold text-slate-400 uppercase tracking-wider bg-slate-50 sticky top-0 z-10;
+}
+
+.item-focus-area {
+  @apply flex items-center flex-1 min-w-0 border-0 bg-transparent cursor-pointer text-left;
+  font: inherit;
+}
+
+.item-remove {
+  @apply ml-1 text-xs text-slate-300 transition-colors shrink-0 border-0 bg-transparent cursor-pointer px-1;
+  .item-row:hover & { @apply text-rose-400; }
+}
+
+.selected-tags-row {
+  @apply flex flex-wrap gap-1.5 px-3 py-2;
+}
+
+.selected-tag {
+  @apply inline-flex items-center gap-1 px-2.5 py-1 text-sm font-medium rounded-full cursor-pointer
+         transition-all border border-violet-200 bg-violet-50 text-violet-600
+         hover:border-violet-400 hover:text-violet-700;
+  .item-remove { @apply text-violet-300; }
+  &:hover .item-remove { @apply text-rose-400; }
+}
+
+.selected-empty {
+  @apply text-sm text-slate-400 text-center py-8;
+}
+

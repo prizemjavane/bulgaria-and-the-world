@@ -1,0 +1,486 @@
+{
+  "id": "eaeu",
+  "name": "Евразийски икономически съюз",
+  "description": "Членство на държавите в Евразийския икономически съюз (пълноправни членове и наблюдатели) от създаването му през 2012 г., заедно с председателите на Евразийската икономическа комисия.",
+  "knowledge": "eaeu",
+  "metadata": {
+    "color": "#1e3a5f"
+  },
+  "data": [
+    {
+      "name": "Председател на Евразийската икономическа комисия",
+      "id": "36470b71-1b3a-46f6-b8d1-f984bd5304d0",
+      "periods": [
+        {
+          "name": "Виктор Христенко",
+          "description": "Руски политик, първи председател на Съвета на Евразийската икономическа комисия.",
+          "comment": "Датите обхващат мандата му като председател на Съвета на ЕИК — от началото на работата на комисията на 1 февруари 2012 г. до края на 4-годишния му мандат на 1 февруари 2016 г.",
+          "date": {
+            "range": [
+              "2012-02-01",
+              "2016-02-01"
+            ],
+            "from": {
+              "date": "2012-02-01"
+            },
+            "to": {
+              "date": "2016-02-01"
+            }
+          },
+          "flag": "RU",
+          "sources": [
+            {
+              "name": "Eurasian Economic Commission – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eurasian_Economic_Commission"
+              ],
+              "from": {
+                "date": "2012-02-01"
+              },
+              "to": {
+                "date": "2016-02-01"
+              },
+              "quoteOriginal": "It began its operations on February 2, 2012. The chairman of the Board of the Commission and Members of the Board of the commission are appointed for four years.",
+              "quote": "Комисията започва работа на 2 февруари 2012 г. Председателят и членовете на Съвета се назначават за четири години."
+            }
+          ]
+        },
+        {
+          "name": "Тигран Саргсян",
+          "description": "Арменски политик, председател на Съвета на ЕИК (2016–2020).",
+          "date": {
+            "range": [
+              "2016-02-01",
+              "2020-02-01"
+            ],
+            "from": {
+              "date": "2016-02-01"
+            },
+            "to": {
+              "date": "2020-02-01"
+            }
+          },
+          "flag": "AM",
+          "sources": [
+            {
+              "name": "Tigran Sargsyan takes over chairmanship of Eurasian Economic Commission – Armenpress",
+              "url": [
+                "https://armenpress.am/en/article/834015"
+              ],
+              "from": {
+                "date": "2016-02-01"
+              },
+              "quoteOriginal": "Tigran Sargsyan takes over chairmanship of Eurasian Economic Commission.",
+              "quote": "Тигран Саргсян поема председателството на Евразийската икономическа комисия."
+            }
+          ]
+        },
+        {
+          "name": "Михаил Мясникович",
+          "description": "Белоруски политик, председател на Съвета на ЕИК (2020–2024).",
+          "date": {
+            "range": [
+              "2020-02-01",
+              "2024-02-01"
+            ],
+            "from": {
+              "date": "2020-02-01"
+            },
+            "to": {
+              "date": "2024-02-01"
+            }
+          },
+          "flag": "BY",
+          "sources": [
+            {
+              "name": "Mikhail Myasnikovich – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Mikhail_Myasnikovich"
+              ],
+              "from": {
+                "date": "2020-02-01"
+              },
+              "to": {
+                "date": "2024-02-01"
+              },
+              "quoteOriginal": "On 1 February 2020, Myasnikovich became the Chairman of the Board of the Eurasian Economic Commission.",
+              "quote": "На 1 февруари 2020 г. Мясникович става председател на Съвета на Евразийската икономическа комисия."
+            }
+          ]
+        },
+        {
+          "name": "Бахитжан Сагинтаев",
+          "description": "Казахстански политик, действащ председател на Съвета на ЕИК.",
+          "date": {
+            "range": [
+              "2024-02-01",
+              null
+            ],
+            "from": {
+              "date": "2024-02-01"
+            }
+          },
+          "flag": "KZ",
+          "sources": [
+            {
+              "name": "Bakhytjan Sagintayev – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Bakhytjan_Sagintayev"
+              ],
+              "from": {
+                "date": "2024-02-01"
+              },
+              "quoteOriginal": "On 25 December 2023, Sagintayev was appointed Chairman of the Board of the Eurasian Economic Commission, effective 1 February 2024.",
+              "quote": "На 25 декември 2023 г. Сагинтаев е назначен за председател на Съвета на ЕИК, в сила от 1 февруари 2024 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Беларус",
+      "id": "56742249-5a70-4150-9416-bcfca6059598",
+      "code": "BY",
+      "periods": [
+        {
+          "name": "Беларус",
+          "description": "Учредител.",
+          "date": {
+            "range": [
+              "2015-01-01",
+              null
+            ],
+            "from": {
+              "date": "2015-01-01"
+            }
+          },
+          "flag": "BY",
+          "sources": [
+            {
+              "name": "Eurasian Economic Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eurasian_Economic_Union"
+              ],
+              "from": {
+                "date": "2015-01-01"
+              },
+              "quoteOriginal": "On 29 May 2014, the presidents of Kazakhstan, Belarus and Russia signed the treaty on the Eurasian Economic Union, which came into effect on 1 January 2015.",
+              "quote": "На 29 май 2014 г. президентите на Казахстан, Беларус и Русия подписват договора за ЕИИС, който влиза в сила на 1 януари 2015 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Казахстан",
+      "id": "da587495-1bfe-4e76-9532-4d022f7fa66f",
+      "code": "KZ",
+      "periods": [
+        {
+          "name": "Казахстан",
+          "description": "Учредител.",
+          "date": {
+            "range": [
+              "2015-01-01",
+              null
+            ],
+            "from": {
+              "date": "2015-01-01"
+            }
+          },
+          "flag": "KZ",
+          "sources": [
+            {
+              "name": "Eurasian Economic Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eurasian_Economic_Union"
+              ],
+              "from": {
+                "date": "2015-01-01"
+              },
+              "quoteOriginal": "On 29 May 2014, the presidents of Kazakhstan, Belarus and Russia signed the treaty on the Eurasian Economic Union, which came into effect on 1 January 2015.",
+              "quote": "На 29 май 2014 г. президентите на Казахстан, Беларус и Русия подписват договора за ЕИИС, който влиза в сила на 1 януари 2015 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Русия",
+      "id": "9d969ae3-16f5-480f-85c2-dd8f3c54c63c",
+      "code": "RU",
+      "periods": [
+        {
+          "name": "Русия",
+          "description": "Учредител.",
+          "date": {
+            "range": [
+              "2015-01-01",
+              null
+            ],
+            "from": {
+              "date": "2015-01-01"
+            }
+          },
+          "flag": "RU",
+          "sources": [
+            {
+              "name": "Eurasian Economic Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eurasian_Economic_Union"
+              ],
+              "from": {
+                "date": "2015-01-01"
+              },
+              "quoteOriginal": "On 29 May 2014, the presidents of Kazakhstan, Belarus and Russia signed the treaty on the Eurasian Economic Union, which came into effect on 1 January 2015.",
+              "quote": "На 29 май 2014 г. президентите на Казахстан, Беларус и Русия подписват договора за ЕИИС, който влиза в сила на 1 януари 2015 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Армения",
+      "id": "40aaa2ce-44d2-4f86-b96c-5216e90dc165",
+      "code": "AM",
+      "periods": [
+        {
+          "name": "Армения",
+          "description": "Четвърта държава членка на ЕИИС. Договорът за присъединяване е подписан на 9 октомври 2014 г. и влиза в сила на 2 януари 2015 г. — един ден след учредяването на съюза.",
+          "comment": "Присъединяването на Армения е обявено от президента Серж Саркисян на 3 септември 2013 г. Датата 2 януари 2015 г. е потвърдена от официални и енциклопедични източници.",
+          "date": {
+            "range": [
+              "2015-01-02",
+              null
+            ],
+            "from": {
+              "date": "2015-01-02"
+            }
+          },
+          "flag": "AM",
+          "sources": [
+            {
+              "name": "Евразийски икономически съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%95%D0%B2%D1%80%D0%B0%D0%B7%D0%B8%D0%B9%D1%81%D0%BA%D0%B8_%D0%B8%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "date": "2015-01-02"
+              },
+              "quote": "На 3 септември, след преговорите на най-високо ниво между президентите на Русия и Армения, президентът на Армения Серж Саркисян обявява решението на страната си да се присъедини към Митническия съюз."
+            },
+            {
+              "name": "Eurasian Economic Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eurasian_Economic_Union"
+              ],
+              "from": {
+                "date": "2015-01-02"
+              },
+              "quoteOriginal": "Armenia acceded to the Eurasian Economic Union on 2 January 2015, having signed the accession treaty on 10 October 2014.",
+              "quote": "Армения се присъединява към ЕИИС на 2 януари 2015 г., след като подписва договора за присъединяване на 10 октомври 2014 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Киргизстан",
+      "id": "f77e65b6-6fbf-4dbc-8587-24b5521fd203",
+      "code": "KG",
+      "periods": [
+        {
+          "name": "Киргизстан",
+          "description": "Пета и последна държава членка на ЕИИС. Договорът за присъединяване е подписан на 23 декември 2014 г. и влиза в сила на 12 август 2015 г. Процесът на присъединяване започва през април 2011 г.",
+          "comment": "Датата 12 август 2015 г. е потвърдена от официалния сайт на Евразийската икономическа комисия. Някои източници посочват 6 август, но официалното съобщение на ЕИК ясно указва 12 август като дата на влизане в сила на договора.",
+          "date": {
+            "range": [
+              "2015-08-12",
+              null
+            ],
+            "from": {
+              "date": "2015-08-12"
+            }
+          },
+          "flag": "KG",
+          "sources": [
+            {
+              "name": "Евразийски икономически съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%95%D0%B2%D1%80%D0%B0%D0%B7%D0%B8%D0%B9%D1%81%D0%BA%D0%B8_%D0%B8%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "date": "2015-08-12"
+              },
+              "quote": "На 9 октомври ръководителите на Евразийската икономическа общност се споразумяват за присъединяването на Киргизстан към Митническия съюз на Русия, Беларус и Казахстан."
+            },
+            {
+              "name": "Eurasian Economic Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eurasian_Economic_Union"
+              ],
+              "from": {
+                "date": "2015-08-12"
+              },
+              "quoteOriginal": "Kyrgyzstan acceded to the Eurasian Economic Union on 12 August 2015, having signed the accession treaty on 23 December 2014.",
+              "quote": "Киргизстан се присъединява към ЕИИС на 12 август 2015 г., след като подписва договора за присъединяване на 23 декември 2014 г."
+            },
+            {
+              "name": "Kyrgyzstan acceded to the Eurasian Economic Union – EEC (EN)",
+              "url": [
+                "https://eec.eaeunion.org/en/news/12-08-2015-1/"
+              ],
+              "from": {
+                "date": "2015-08-12"
+              },
+              "quoteOriginal": "On August 12, the Treaty on the Accession of the Kyrgyz Republic to the Treaty on the Eurasian Economic Union came into force.",
+              "quote": "На 12 август договорът за присъединяване на Киргизката република към Договора за Евразийския икономически съюз влиза в сила."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Молдова (наблюдател)",
+      "id": "b75cd09e-8b94-42fc-a06c-60709c861524",
+      "code": "MD",
+      "periods": [
+        {
+          "name": "Молдова",
+          "description": "Наблюдател.",
+          "comment": "Молдова получава наблюдателски статус в ЕИИС през април 2017 г. Точната дата в рамките на месеца не е публично документирана — използван е първият ден на месеца. Наблюдателският статус не предполага членство.",
+          "date": {
+            "range": [
+              "2017-04-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2017,
+              "dateMonth": 4
+            }
+          },
+          "flag": "MD",
+          "sources": [
+            {
+              "name": "Eurasian Economic Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eurasian_Economic_Union"
+              ],
+              "from": {
+                "dateYear": 2017,
+                "dateMonth": 4
+              },
+              "quoteOriginal": "Moldova was granted observer status in April 2017.",
+              "quote": "Молдова получава наблюдателски статус през април 2017 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Куба (наблюдател)",
+      "id": "428203e6-4f1b-42d6-9acb-7f31f4eadb91",
+      "code": "CU",
+      "periods": [
+        {
+          "name": "Куба",
+          "description": "Наблюдател.",
+          "comment": "Куба получава наблюдателски статус в ЕИИС на 11 декември 2020 г. Наблюдателският статус не предполага членство.",
+          "date": {
+            "range": [
+              "2020-12-11",
+              null
+            ],
+            "from": {
+              "date": "2020-12-11"
+            }
+          },
+          "flag": "CU",
+          "sources": [
+            {
+              "name": "Eurasian Economic Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eurasian_Economic_Union"
+              ],
+              "from": {
+                "date": "2020-12-11"
+              },
+              "quoteOriginal": "Uzbekistan and Cuba became observer members on 11 December 2020.",
+              "quote": "Узбекистан и Куба стават наблюдателни членове на 11 декември 2020 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Узбекистан (наблюдател)",
+      "id": "07584c37-939f-4b7d-86e6-44c3b821ba89",
+      "code": "UZ",
+      "periods": [
+        {
+          "name": "Узбекистан",
+          "description": "Наблюдател.",
+          "comment": "Узбекистан получава наблюдателски статус в ЕИИС на 11 декември 2020 г. Наблюдателският статус не предполага членство.",
+          "date": {
+            "range": [
+              "2020-12-11",
+              null
+            ],
+            "from": {
+              "date": "2020-12-11"
+            }
+          },
+          "flag": "UZ",
+          "sources": [
+            {
+              "name": "Eurasian Economic Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eurasian_Economic_Union"
+              ],
+              "from": {
+                "date": "2020-12-11"
+              },
+              "quoteOriginal": "Uzbekistan and Cuba became observer members on 11 December 2020.",
+              "quote": "Узбекистан и Куба стават наблюдателни членове на 11 декември 2020 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Иран (наблюдател)",
+      "id": "c01ed226-f6c6-4217-a239-763a6dfea632",
+      "code": "IR",
+      "periods": [
+        {
+          "name": "Иран",
+          "description": "Наблюдател.",
+          "comment": "Иран получава наблюдателски статус в ЕИИС на 26 декември 2024 г. на срещата на лидерите на петте държави членки в Санкт Петербург. Наблюдателският статус не предполага членство.",
+          "date": {
+            "range": [
+              "2024-12-26",
+              null
+            ],
+            "from": {
+              "date": "2024-12-26"
+            }
+          },
+          "flag": "IR",
+          "sources": [
+            {
+              "name": "Eurasian Economic Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eurasian_Economic_Union"
+              ],
+              "from": {
+                "date": "2024-12-26"
+              },
+              "quoteOriginal": "Iran was designated as an observer member by the leaders of the five Eurasian Union member states during a meeting in St. Petersburg on 26 December 2024.",
+              "quote": "Иран е определен за наблюдателен член от лидерите на петте държави членки на ЕИИС по време на среща в Санкт Петербург на 26 декември 2024 г."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

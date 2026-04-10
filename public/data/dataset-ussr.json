@@ -1,0 +1,1044 @@
+{
+  "id": "ussr",
+  "name": "СССР",
+  "description": "Съюзните републики в състава на СССР от създаването му през 1922 г. до разпадането му през 1991 г., заедно с генералните секретари на ЦК на КПСС.",
+  "knowledge": "ussr",
+  "metadata": {
+    "color": "#CC0000",
+    "resetZoom": true
+  },
+  "data": [
+    {
+      "name": "Генерален секретар на ЦК на КПСС",
+      "id": "a5e0c4fa-4c58-4ad8-95ff-7abd6f86ee60",
+      "periods": [
+        {
+          "name": "Владимир Ленин",
+          "date": {
+            "range": [
+              "1922-12-30",
+              "1924-01-21"
+            ],
+            "from": {
+              "date": "1922-12-30"
+            },
+            "to": {
+              "date": "1924-01-21"
+            }
+          },
+          "flag": "RU",
+          "description": "Председател на Съвета на народните комисари на СССР (1922–1924), де факто ръководител на Съветския съюз от основаването му до смъртта си.",
+          "comment": "Ленин не е формално генерален секретар на ЦК на КПСС — тази длъжност е заета от Сталин от април 1922 г. Ленин е включен тук като де факто ръководител на СССР. Началната дата е основаването на Съветския съюз (30 декември 1922 г.), крайната — смъртта му (21 януари 1924 г.).",
+          "sources": [
+            {
+              "name": "Владимир Ленин – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD"
+              ],
+              "from": {
+                "date": "1922-12-30"
+              },
+              "to": {
+                "date": "1924-01-21"
+              },
+              "quote": "На 8 ноември 1917 г. Ленин е избран за председател на Съвета на народните комисари. Ленин умира на 21 януари 1924 г."
+            },
+            {
+              "name": "Vladimir Lenin – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Vladimir_Lenin"
+              ],
+              "from": {
+                "date": "1922-12-30"
+              },
+              "to": {
+                "date": "1924-01-21"
+              },
+              "quoteOriginal": "He was the first head of government of Soviet Russia from 1917 until his death in 1924 and of the Soviet Union from 1922 until his death.",
+              "quote": "Той е първият ръководител на правителството на Съветска Русия от 1917 г. до смъртта си през 1924 г. и на Съветския съюз от 1922 г. до смъртта си."
+            }
+          ]
+        },
+        {
+          "name": "Йосиф Сталин",
+          "date": {
+            "range": [
+              "1924-01-21",
+              "1953-03-05"
+            ],
+            "from": {
+              "date": "1924-01-21"
+            },
+            "to": {
+              "date": "1953-03-05"
+            }
+          },
+          "flag": "GE",
+          "description": "Генерален секретар на ЦК на РКП(б)/ВКП(б)/КПСС (1922–1953). Ръководител на Съветския съюз в продължение на близо три десетилетия.",
+          "comment": "Сталин е избран за генерален секретар на 3 април 1922 г., но тук началната дата е 21 януари 1924 г. — смъртта на Ленин, от когато Сталин се утвърждава като неоспорим лидер на СССР. Крайната дата е смъртта му на 5 март 1953 г.",
+          "sources": [
+            {
+              "name": "Йосиф Сталин – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%99%D0%BE%D1%81%D0%B8%D1%84_%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD"
+              ],
+              "from": {
+                "date": "1922-04-03"
+              },
+              "to": {
+                "date": "1953-03-05"
+              },
+              "quote": "На пленума на Централния комитет на РКП (б) на 3 април 1922 г. Сталин е избран за Генерален секретар на Централния комитет на РКП (б). Починал: 5 март 1953 г."
+            },
+            {
+              "name": "General Secretary of the Communist Party of the Soviet Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/General_Secretary_of_the_Communist_Party_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1922-04-03"
+              },
+              "to": {
+                "date": "1953-03-05"
+              },
+              "quoteOriginal": "Stalin, elected General Secretary at the 11th Party Congress on 3 April 1922.",
+              "quote": "Сталин е избран за генерален секретар на XI конгрес на партията на 3 април 1922 г."
+            }
+          ]
+        },
+        {
+          "name": "Никита Хрушчов",
+          "date": {
+            "range": [
+              "1953-09-07",
+              "1964-10-14"
+            ],
+            "from": {
+              "date": "1953-09-07"
+            },
+            "to": {
+              "date": "1964-10-14"
+            }
+          },
+          "flag": "RU",
+          "description": "Първи секретар на ЦК на КПСС (1953–1964). Инициатор на десталинизацията и реформите в СССР.",
+          "comment": "Хрушчов е избран за първи секретар на ЦК на КПСС на 7 септември 1953 г. (датата в англоезичните източници; българската Уикипедия посочва 14 септември). Отстранен от власт на 14 октомври 1964 г.",
+          "sources": [
+            {
+              "name": "Никита Хрушчов – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0_%D0%A5%D1%80%D1%83%D1%88%D1%87%D0%BE%D0%B2"
+              ],
+              "from": {
+                "date": "1953-09-14"
+              },
+              "to": {
+                "date": "1964-10-14"
+              },
+              "quote": "3-ти генерален секретар на ЦК на КПСС: 14 септември 1953 – 14 октомври 1964."
+            },
+            {
+              "name": "General Secretary of the Communist Party of the Soviet Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/General_Secretary_of_the_Communist_Party_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1953-09-07"
+              },
+              "to": {
+                "date": "1964-10-14"
+              },
+              "quoteOriginal": "In September 1953, Khrushchev was elected First Secretary. Tenure: 7 September 1953 – 14 October 1964.",
+              "quote": "През септември 1953 г. Хрушчов е избран за първи секретар. Мандат: 7 септември 1953 – 14 октомври 1964."
+            }
+          ]
+        },
+        {
+          "name": "Леонид Брежнев",
+          "date": {
+            "range": [
+              "1964-10-14",
+              "1982-11-10"
+            ],
+            "from": {
+              "date": "1964-10-14"
+            },
+            "to": {
+              "date": "1982-11-10"
+            }
+          },
+          "flag": "UA",
+          "description": "Генерален секретар на ЦК на КПСС (1964–1982). Управлението му е белязано от стагнация и ерата на застоя.",
+          "comment": "Брежнев е избран за първи секретар на 14 октомври 1964 г., след отстраняването на Хрушчов. На 8 април 1966 г. длъжността е преименувана на генерален секретар. Крайната дата е смъртта му на 10 ноември 1982 г.",
+          "sources": [
+            {
+              "name": "Леонид Брежнев – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4_%D0%91%D1%80%D0%B5%D0%B6%D0%BD%D0%B5%D0%B2"
+              ],
+              "from": {
+                "date": "1964-10-14"
+              },
+              "to": {
+                "date": "1982-11-10"
+              },
+              "quote": "4-ти генерален/първи секретар на ЦК на КПСС: 14 октомври 1964 – 10 ноември 1982. Той ръководи Съветския съюз като Генерален секретар на ЦК на КПСС от октомври 1964 до смъртта си през 1982 година."
+            },
+            {
+              "name": "General Secretary of the Communist Party of the Soviet Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/General_Secretary_of_the_Communist_Party_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1964-10-14"
+              },
+              "to": {
+                "date": "1982-11-10"
+              },
+              "quoteOriginal": "The office of First Secretary was renamed General Secretary at the 23rd Congress in 1966. Brezhnev tenure: 14 October 1964 – 10 November 1982.",
+              "quote": "Длъжността първи секретар е преименувана на генерален секретар на XXIII конгрес през 1966 г. Мандат на Брежнев: 14 октомври 1964 – 10 ноември 1982."
+            }
+          ]
+        },
+        {
+          "name": "Юрий Андропов",
+          "date": {
+            "range": [
+              "1982-11-12",
+              "1984-02-09"
+            ],
+            "from": {
+              "date": "1982-11-12"
+            },
+            "to": {
+              "date": "1984-02-09"
+            }
+          },
+          "flag": "RU",
+          "description": "Генерален секретар на ЦК на КПСС (1982–1984). Бивш председател на КГБ, управлява само 15 месеца.",
+          "sources": [
+            {
+              "name": "Юрий Андропов – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%AE%D1%80%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%BF%D0%BE%D0%B2"
+              ],
+              "from": {
+                "date": "1982-11-12"
+              },
+              "to": {
+                "date": "1984-02-09"
+              },
+              "quote": "Избран е за генерален секретар на ЦК на КПСС на 12 ноември 1982 г. Умира в 16 часа и 50 минути на 9 февруари 1984 г."
+            },
+            {
+              "name": "General Secretary of the Communist Party of the Soviet Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/General_Secretary_of_the_Communist_Party_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1982-11-12"
+              },
+              "to": {
+                "date": "1984-02-09"
+              },
+              "quoteOriginal": "Yuri Andropov tenure as General Secretary: 12 November 1982 – 9 February 1984.",
+              "quote": "Мандат на Юрий Андропов като генерален секретар: 12 ноември 1982 – 9 февруари 1984."
+            }
+          ]
+        },
+        {
+          "name": "Константин Черненко",
+          "date": {
+            "range": [
+              "1984-02-13",
+              "1985-03-10"
+            ],
+            "from": {
+              "date": "1984-02-13"
+            },
+            "to": {
+              "date": "1985-03-10"
+            }
+          },
+          "flag": "RU",
+          "description": "Генерален секретар на ЦК на КПСС (1984–1985). Най-краткото управление сред генералните секретари — около 13 месеца.",
+          "sources": [
+            {
+              "name": "Константин Черненко – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%A7%D0%B5%D1%80%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE"
+              ],
+              "from": {
+                "date": "1984-02-13"
+              },
+              "to": {
+                "date": "1985-03-10"
+              },
+              "quote": "Избран е на поста Генерален секретар на ЦК на КПСС на 13 февруари 1984 г. Мандат: 13 февруари 1984 – 10 март 1985."
+            },
+            {
+              "name": "General Secretary of the Communist Party of the Soviet Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/General_Secretary_of_the_Communist_Party_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1984-02-13"
+              },
+              "to": {
+                "date": "1985-03-10"
+              },
+              "quoteOriginal": "Konstantin Chernenko tenure: 13 February 1984 – 10 March 1985.",
+              "quote": "Мандат на Константин Черненко: 13 февруари 1984 – 10 март 1985."
+            }
+          ]
+        },
+        {
+          "name": "Михаил Горбачов",
+          "date": {
+            "range": [
+              "1985-03-11",
+              "1991-08-24"
+            ],
+            "from": {
+              "date": "1985-03-11"
+            },
+            "to": {
+              "date": "1991-08-24"
+            }
+          },
+          "flag": "RU",
+          "description": "Генерален секретар на ЦК на КПСС (1985–1991), последният генерален секретар. Инициатор на перестройката и гласността.",
+          "comment": "Горбачов е избран за генерален секретар на 11 март 1985 г. Подава оставка от партийния пост на 24 август 1991 г. след неуспешния Августовски пуч.",
+          "sources": [
+            {
+              "name": "Михаил Горбачов – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%93%D0%BE%D1%80%D0%B1%D0%B0%D1%87%D0%BE%D0%B2"
+              ],
+              "from": {
+                "date": "1985-03-11"
+              },
+              "to": {
+                "date": "1991-08-24"
+              },
+              "quote": "7-и генерален секретар на ЦК на КПСС: 11 март 1985 – 24 август 1991."
+            },
+            {
+              "name": "General Secretary of the Communist Party of the Soviet Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/General_Secretary_of_the_Communist_Party_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1985-03-11"
+              },
+              "to": {
+                "date": "1991-08-24"
+              },
+              "quoteOriginal": "Mikhail Gorbachev tenure: 11 March 1985 – 24 August 1991. He resigned from his party office on 24 August 1991.",
+              "quote": "Мандат на Михаил Горбачов: 11 март 1985 – 24 август 1991. Той подава оставка от партийния си пост на 24 август 1991 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Азербайджан",
+      "id": "0bdb25e8-f513-4d35-8a5d-6f32a11871f2",
+      "periods": [
+        {
+          "name": "Азербайджанска ССР",
+          "date": {
+            "range": [
+              "1922-12-30",
+              "1991-10-18"
+            ],
+            "from": {
+              "date": "1922-12-30"
+            },
+            "to": {
+              "date": "1991-10-18"
+            }
+          },
+          "sources": [
+            {
+              "name": "Съюзни републики на СССР – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D1%8A%D1%8E%D0%B7%D0%BD%D0%B8_%D1%80%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0"
+              ],
+              "from": {
+                "date": "1922-12-30"
+              },
+              "quote": "Азербайджанската ССР е част от СССР от 1922 г. като част от Закавказката СФСР, самостоятелна съюзна република от 1936 г."
+            },
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Post-Soviet_states"
+              ],
+              "to": {
+                "date": "1991-10-18"
+              },
+              "quoteOriginal": "Azerbaijan declared independence on 18 October 1991.",
+              "quote": "Азербайджан обявява независимост на 18 октомври 1991 г."
+            }
+          ],
+          "flag": "AZ",
+          "description": "Член на СССР от 1922 г. (чрез Закавказката СФСР), самостоятелна съюзна република от 5 декември 1936 г.",
+          "comment": "Началната дата е основаването на СССР (30 декември 1922 г.), когато Азербайджан влиза като част от Закавказката СФСР. Крайната дата е обявяването на независимост на 18 октомври 1991 г."
+        }
+      ],
+      "code": "AZ"
+    },
+    {
+      "name": "Армения",
+      "id": "9acdcbda-c33a-4f1b-84a8-22c3507ffdc3",
+      "periods": [
+        {
+          "name": "Арменска ССР",
+          "date": {
+            "range": [
+              "1922-12-30",
+              "1991-09-21"
+            ],
+            "from": {
+              "date": "1922-12-30"
+            },
+            "to": {
+              "date": "1991-09-21"
+            }
+          },
+          "sources": [
+            {
+              "name": "Съюзни републики на СССР – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D1%8A%D1%8E%D0%B7%D0%BD%D0%B8_%D1%80%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0"
+              ],
+              "from": {
+                "date": "1922-12-30"
+              },
+              "quote": "Арменската ССР е част от СССР от 1922 г. като част от Закавказката СФСР, самостоятелна съюзна република от 1936 г."
+            },
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Post-Soviet_states"
+              ],
+              "to": {
+                "date": "1991-09-21"
+              },
+              "quoteOriginal": "Armenia declared independence on 21 September 1991.",
+              "quote": "Армения обявява независимост на 21 септември 1991 г."
+            }
+          ],
+          "flag": "AM",
+          "description": "Член на СССР от 1922 г. (чрез Закавказката СФСР), самостоятелна съюзна република от 5 декември 1936 г.",
+          "comment": "Началната дата е основаването на СССР (30 декември 1922 г.), когато Армения влиза като част от Закавказката СФСР. Крайната дата е обявяването на независимост на 21 септември 1991 г."
+        }
+      ],
+      "code": "AM"
+    },
+    {
+      "name": "Беларус",
+      "id": "57fd260a-8b5c-4a21-bc60-d0fc554e1dd9",
+      "periods": [
+        {
+          "name": "Белоруска ССР",
+          "date": {
+            "range": [
+              "1922-12-30",
+              "1991-08-25"
+            ],
+            "from": {
+              "date": "1922-12-30"
+            },
+            "to": {
+              "date": "1991-08-25"
+            }
+          },
+          "sources": [
+            {
+              "name": "Съюзни републики на СССР – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D1%8A%D1%8E%D0%B7%D0%BD%D0%B8_%D1%80%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0"
+              ],
+              "from": {
+                "date": "1922-12-30"
+              },
+              "to": {
+                "date": "1991-08-25"
+              },
+              "quote": "Белоруската ССР е учредителна република на СССР от 1922 г."
+            },
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Post-Soviet_states"
+              ],
+              "to": {
+                "date": "1991-08-25"
+              },
+              "quoteOriginal": "Belarus declared independence on 25 August 1991.",
+              "quote": "Беларус обявява независимост на 25 август 1991 г."
+            }
+          ],
+          "flag": "BY",
+          "description": "Учредителна република на Съветския съюз от 30 декември 1922 г."
+        }
+      ],
+      "code": "BY"
+    },
+    {
+      "name": "Грузия",
+      "id": "4a6fafa1-9f5c-4b86-8354-a22b828d9419",
+      "periods": [
+        {
+          "name": "Грузинска ССР",
+          "date": {
+            "range": [
+              "1922-12-30",
+              "1991-04-09"
+            ],
+            "from": {
+              "date": "1922-12-30"
+            },
+            "to": {
+              "date": "1991-04-09"
+            }
+          },
+          "sources": [
+            {
+              "name": "Съюзни републики на СССР – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D1%8A%D1%8E%D0%B7%D0%BD%D0%B8_%D1%80%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0"
+              ],
+              "from": {
+                "date": "1922-12-30"
+              },
+              "quote": "Грузинската ССР е част от СССР от 1922 г. като част от Закавказката СФСР, самостоятелна съюзна република от 1936 г."
+            },
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Post-Soviet_states"
+              ],
+              "to": {
+                "date": "1991-04-09"
+              },
+              "quoteOriginal": "Georgia declared independence on 9 April 1991.",
+              "quote": "Грузия обявява независимост на 9 април 1991 г."
+            }
+          ],
+          "flag": "GE",
+          "description": "Член на СССР от 1922 г. (чрез Закавказката СФСР), самостоятелна съюзна република от 5 декември 1936 г.",
+          "comment": "Началната дата е основаването на СССР (30 декември 1922 г.), когато Грузия влиза като част от Закавказката СФСР. Крайната дата е обявяването на независимост на 9 април 1991 г. Грузия е първата от кавказките републики, обявила независимост."
+        }
+      ],
+      "code": "GE"
+    },
+    {
+      "name": "Русия",
+      "id": "59ce2977-3913-4880-8e57-d0f2682e528e",
+      "periods": [
+        {
+          "name": "Руска СФСР",
+          "date": {
+            "range": [
+              "1922-12-30",
+              "1991-12-26"
+            ],
+            "from": {
+              "date": "1922-12-30"
+            },
+            "to": {
+              "date": "1991-12-26"
+            }
+          },
+          "sources": [
+            {
+              "name": "Съюз на съветските социалистически републики – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D1%8A%D1%8E%D0%B7_%D0%BD%D0%B0_%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%82%D0%B5_%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8_%D1%80%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8"
+              ],
+              "from": {
+                "date": "1922-12-30"
+              },
+              "to": {
+                "date": "1991-12-26"
+              },
+              "quote": "30 декември 1922 – 26 декември 1991"
+            },
+            {
+              "name": "Republics of the Soviet Union – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1922-12-30"
+              },
+              "to": {
+                "date": "1991-12-26"
+              },
+              "quoteOriginal": "The Russian SFSR was one of the four founding republics of the Soviet Union on 30 December 1922.",
+              "quote": "Руската СФСР е една от четирите учредителни републики на Съветския съюз на 30 декември 1922 г."
+            }
+          ],
+          "flag": "RU",
+          "description": "Най-голямата учредителна република на Съветския съюз — по територия и население."
+        }
+      ],
+      "code": "RU"
+    },
+    {
+      "name": "Украйна",
+      "id": "d5717488-6282-4c4a-9c4c-c39bcff8c4d5",
+      "periods": [
+        {
+          "name": "Украинска ССР",
+          "date": {
+            "range": [
+              "1922-12-30",
+              "1991-08-24"
+            ],
+            "from": {
+              "date": "1922-12-30"
+            },
+            "to": {
+              "date": "1991-08-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "Съюзни републики на СССР – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D1%8A%D1%8E%D0%B7%D0%BD%D0%B8_%D1%80%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0"
+              ],
+              "from": {
+                "date": "1922-12-30"
+              },
+              "to": {
+                "date": "1991-08-24"
+              },
+              "quote": "Украинската ССР е учредителна република на СССР от 1922 г."
+            },
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Post-Soviet_states"
+              ],
+              "to": {
+                "date": "1991-08-24"
+              },
+              "quoteOriginal": "Ukraine declared independence on 24 August 1991.",
+              "quote": "Украйна обявява независимост на 24 август 1991 г."
+            }
+          ],
+          "flag": "UA",
+          "description": "Учредителна република на Съветския съюз, втората по големина и население."
+        }
+      ],
+      "code": "UA"
+    },
+    {
+      "name": "Туркменистан",
+      "id": "0c6d2b3a-75d2-4155-bfb2-3e481103b357",
+      "periods": [
+        {
+          "name": "Туркменска ССР",
+          "date": {
+            "range": [
+              "1924-10-27",
+              "1991-10-27"
+            ],
+            "from": {
+              "date": "1924-10-27"
+            },
+            "to": {
+              "date": "1991-10-27"
+            }
+          },
+          "sources": [
+            {
+              "name": "Съюзни републики на СССР – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D1%8A%D1%8E%D0%B7%D0%BD%D0%B8_%D1%80%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0"
+              ],
+              "from": {
+                "dateYear": 1924
+              },
+              "quote": "Туркменската ССР е създадена през 1924 г. при националното размеждане на Средна Азия."
+            },
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Post-Soviet_states"
+              ],
+              "to": {
+                "date": "1991-10-27"
+              },
+              "quoteOriginal": "Turkmenistan declared independence on 27 October 1991.",
+              "quote": "Туркменистан обявява независимост на 27 октомври 1991 г."
+            }
+          ],
+          "flag": "TM",
+          "description": "Създадена през 1924 г. при националното размеждване на Средна Азия.",
+          "comment": "Туркменската ССР е създадена на 27 октомври 1924 г. при разделянето на Туркестанската АССР. Крайната дата е обявяването на независимост на 27 октомври 1991 г."
+        }
+      ],
+      "code": "TM"
+    },
+    {
+      "name": "Узбекистан",
+      "id": "4e2ea903-a07a-4427-b2d7-da4bdd4efe96",
+      "periods": [
+        {
+          "name": "Узбекска ССР",
+          "date": {
+            "range": [
+              "1924-10-27",
+              "1991-09-01"
+            ],
+            "from": {
+              "date": "1924-10-27"
+            },
+            "to": {
+              "date": "1991-09-01"
+            }
+          },
+          "sources": [
+            {
+              "name": "Съюзни републики на СССР – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D1%8A%D1%8E%D0%B7%D0%BD%D0%B8_%D1%80%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0"
+              ],
+              "from": {
+                "dateYear": 1924
+              },
+              "quote": "Узбекската ССР е създадена през 1924 г. при националното размеждане на Средна Азия."
+            },
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Post-Soviet_states"
+              ],
+              "to": {
+                "date": "1991-09-01"
+              },
+              "quoteOriginal": "Uzbekistan declared independence on 1 September 1991.",
+              "quote": "Узбекистан обявява независимост на 1 септември 1991 г."
+            }
+          ],
+          "flag": "UZ",
+          "description": "Създадена през 1924 г. при националното размеждване на Средна Азия.",
+          "comment": "Узбекската ССР е създадена на 27 октомври 1924 г. при разделянето на Туркестанската АССР. Крайната дата е обявяването на независимост на 1 септември 1991 г."
+        }
+      ],
+      "code": "UZ"
+    },
+    {
+      "name": "Таджикистан",
+      "id": "211a4054-4561-4181-85b6-61e633ba23e6",
+      "periods": [
+        {
+          "name": "Таджикска ССР",
+          "date": {
+            "range": [
+              "1929-12-05",
+              "1991-09-09"
+            ],
+            "from": {
+              "date": "1929-12-05"
+            },
+            "to": {
+              "date": "1991-09-09"
+            }
+          },
+          "sources": [
+            {
+              "name": "Съюзни републики на СССР – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D1%8A%D1%8E%D0%B7%D0%BD%D0%B8_%D1%80%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0"
+              ],
+              "from": {
+                "dateYear": 1929
+              },
+              "quote": "Таджикската ССР е създадена през 1929 г., отделена от Узбекската ССР."
+            },
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Post-Soviet_states"
+              ],
+              "to": {
+                "date": "1991-09-09"
+              },
+              "quoteOriginal": "Tajikistan declared independence on 9 September 1991.",
+              "quote": "Таджикистан обявява независимост на 9 септември 1991 г."
+            }
+          ],
+          "flag": "TJ",
+          "description": "Отделена от Узбекската ССР през 1929 г. като самостоятелна съюзна република.",
+          "comment": "Таджикската ССР е създадена на 5 декември 1929 г. чрез отделяне от Узбекската ССР. Крайната дата е обявяването на независимост на 9 септември 1991 г."
+        }
+      ],
+      "code": "TJ"
+    },
+    {
+      "name": "Казахстан",
+      "id": "d02209e4-6f37-46fa-be0d-bf2173a5d6bc",
+      "periods": [
+        {
+          "name": "Казахска ССР",
+          "date": {
+            "range": [
+              "1936-12-05",
+              "1991-12-16"
+            ],
+            "from": {
+              "date": "1936-12-05"
+            },
+            "to": {
+              "date": "1991-12-16"
+            }
+          },
+          "sources": [
+            {
+              "name": "Съюзни републики на СССР – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D1%8A%D1%8E%D0%B7%D0%BD%D0%B8_%D1%80%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0"
+              ],
+              "from": {
+                "dateYear": 1936
+              },
+              "quote": "Казахската ССР става съюзна република през 1936 г. с приемането на новата конституция."
+            },
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Post-Soviet_states"
+              ],
+              "to": {
+                "date": "1991-12-16"
+              },
+              "quoteOriginal": "Kazakhstan declared independence on 16 December 1991, the last republic to do so.",
+              "quote": "Казахстан обявява независимост на 16 декември 1991 г., последната република, която го прави."
+            }
+          ],
+          "flag": "KZ",
+          "description": "Автономна република в РСФСР от 1920 г., самостоятелна съюзна република от 5 декември 1936 г.",
+          "comment": "Казахската ССР става съюзна република на 5 декември 1936 г. с приемането на Конституцията от 1936 г. Крайната дата е обявяването на независимост на 16 декември 1991 г. — последната от съюзните републики, обявила независимост."
+        }
+      ],
+      "code": "KZ"
+    },
+    {
+      "name": "Киргизстан",
+      "id": "7634b28f-e599-431a-806b-8f622cceb637",
+      "periods": [
+        {
+          "name": "Киргизка ССР",
+          "date": {
+            "range": [
+              "1936-12-05",
+              "1991-08-31"
+            ],
+            "from": {
+              "date": "1936-12-05"
+            },
+            "to": {
+              "date": "1991-08-31"
+            }
+          },
+          "sources": [
+            {
+              "name": "Съюзни републики на СССР – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D1%8A%D1%8E%D0%B7%D0%BD%D0%B8_%D1%80%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0"
+              ],
+              "from": {
+                "dateYear": 1936
+              },
+              "quote": "Киргизката ССР става съюзна република през 1936 г. с приемането на новата конституция."
+            },
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Post-Soviet_states"
+              ],
+              "to": {
+                "date": "1991-08-31"
+              },
+              "quoteOriginal": "Kyrgyzstan declared independence on 31 August 1991.",
+              "quote": "Киргизстан обявява независимост на 31 август 1991 г."
+            }
+          ],
+          "flag": "KG",
+          "description": "Автономна република от 1926 г., самостоятелна съюзна република от 5 декември 1936 г.",
+          "comment": "Киргизката ССР става съюзна република на 5 декември 1936 г. с приемането на Конституцията от 1936 г. Крайната дата е обявяването на независимост на 31 август 1991 г."
+        }
+      ],
+      "code": "KG"
+    },
+    {
+      "name": "Молдова",
+      "id": "a51fe6ac-4348-4f6c-8c20-7f60f444facd",
+      "periods": [
+        {
+          "name": "Молдавска ССР",
+          "date": {
+            "range": [
+              "1940-08-02",
+              "1991-08-27"
+            ],
+            "from": {
+              "date": "1940-08-02"
+            },
+            "to": {
+              "date": "1991-08-27"
+            }
+          },
+          "sources": [
+            {
+              "name": "Republics of the Soviet Union – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1940-08-02"
+              },
+              "to": {
+                "date": "1991-08-27"
+              },
+              "quoteOriginal": "The Moldavian SSR was formed on 2 August 1940. Moldova declared independence on 27 August 1991.",
+              "quote": "Молдавската ССР е създадена на 2 август 1940 г. Молдова обявява независимост на 27 август 1991 г."
+            }
+          ],
+          "flag": "MD",
+          "description": "Създадена на 2 август 1940 г. след присъединяването на Бесарабия по Пакта Молотов-Рибентроп.",
+          "comment": "Молдавската ССР е създадена на 2 август 1940 г. след анексирането на Бесарабия от Румъния съгласно Пакта Молотов-Рибентроп. Крайната дата е обявяването на независимост на 27 август 1991 г."
+        }
+      ],
+      "code": "MD"
+    },
+    {
+      "name": "Литва",
+      "id": "e30499bb-1e71-400b-9f5b-3a1ec05eafcc",
+      "periods": [
+        {
+          "name": "Литовска ССР",
+          "date": {
+            "range": [
+              "1940-08-03",
+              "1990-03-11"
+            ],
+            "from": {
+              "date": "1940-08-03"
+            },
+            "to": {
+              "date": "1990-03-11"
+            }
+          },
+          "sources": [
+            {
+              "name": "Republics of the Soviet Union – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1940-08-03"
+              },
+              "to": {
+                "date": "1990-03-11"
+              },
+              "quoteOriginal": "The Lithuanian SSR was incorporated into the Soviet Union on 3 August 1940. Lithuania declared independence on 11 March 1990, the first Soviet republic to do so.",
+              "quote": "Литовската ССР е включена в Съветския съюз на 3 август 1940 г. Литва обявява независимост на 11 март 1990 г., първата съветска република, която го прави."
+            }
+          ],
+          "flag": "LT",
+          "description": "Инкорпорирана в СССР на 3 август 1940 г. по Пакта Молотов-Рибентроп. Балтийските държави не признават законността на тази анексия.",
+          "comment": "Литовската ССР е включена в СССР на 3 август 1940 г. Литва обявява независимост на 11 март 1990 г. — първата съветска република, която го прави."
+        }
+      ],
+      "code": "LT"
+    },
+    {
+      "name": "Латвия",
+      "id": "a13db568-bc56-43ef-b1d3-e457d4540157",
+      "periods": [
+        {
+          "name": "Латвийска ССР",
+          "date": {
+            "range": [
+              "1940-08-05",
+              "1991-08-21"
+            ],
+            "from": {
+              "date": "1940-08-05"
+            },
+            "to": {
+              "date": "1991-08-21"
+            }
+          },
+          "sources": [
+            {
+              "name": "Republics of the Soviet Union – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1940-08-05"
+              },
+              "to": {
+                "date": "1991-08-21"
+              },
+              "quoteOriginal": "The Latvian SSR was incorporated into the Soviet Union on 5 August 1940. Latvia restored independence on 21 August 1991.",
+              "quote": "Латвийската ССР е включена в Съветския съюз на 5 август 1940 г. Латвия възстановява независимостта си на 21 август 1991 г."
+            }
+          ],
+          "flag": "LV",
+          "description": "Инкорпорирана в СССР на 5 август 1940 г. по Пакта Молотов-Рибентроп. Балтийските държави не признават законността на тази анексия."
+        }
+      ],
+      "code": "LV"
+    },
+    {
+      "name": "Естония",
+      "id": "26fc8fef-5424-4a61-b8cc-d5a106ae58bc",
+      "periods": [
+        {
+          "name": "Естонска ССР",
+          "date": {
+            "range": [
+              "1940-08-06",
+              "1991-08-20"
+            ],
+            "from": {
+              "date": "1940-08-06"
+            },
+            "to": {
+              "date": "1991-08-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Republics of the Soviet Union – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Republics_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1940-08-06"
+              },
+              "to": {
+                "date": "1991-08-20"
+              },
+              "quoteOriginal": "The Estonian SSR was incorporated into the Soviet Union on 6 August 1940. Estonia restored independence on 20 August 1991.",
+              "quote": "Естонската ССР е включена в Съветския съюз на 6 август 1940 г. Естония възстановява независимостта си на 20 август 1991 г."
+            }
+          ],
+          "flag": "EE",
+          "description": "Инкорпорирана в СССР на 6 август 1940 г. по Пакта Молотов-Рибентроп. Балтийските държави не признават законността на тази анексия."
+        }
+      ],
+      "code": "EE"
+    }
+  ]
+}

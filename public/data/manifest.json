@@ -1,0 +1,65 @@
+[
+  {
+    "file": "dataset-nations.json"
+  },
+  {
+    "file": "events.json",
+    "datasets": [
+      "nations"
+    ]
+  },
+  {
+    "file": "persons.json",
+    "datasets": [
+      "nations"
+    ]
+  },
+  {
+    "file": "dataset-eu.json"
+  },
+  {
+    "file": "dataset-eurozone.json"
+  },
+  {
+    "file": "dataset-nato.json"
+  },
+  {
+    "file": "dataset-brics.json"
+  },
+  {
+    "file": "dataset-crimea.json"
+  },
+  {
+    "file": "dataset-ussr.json"
+  },
+  {
+    "file": "dataset-eaeu.json"
+  },
+  {
+    "file": "dataset-pacts.json"
+  },
+  {
+    "file": "dataset-worldorder.json"
+  },
+  {
+    "file": "dataset-politics.json"
+  },
+  {
+    "file": "dataset-religions.json"
+  },
+  {
+    "file": "events-religions.json",
+    "datasets": [
+      "religions"
+    ]
+  },
+  {
+    "file": "dates.json",
+    "datasets": [
+      "nations"
+    ]
+  },
+  {
+    "file": "defaults.json"
+  }
+]

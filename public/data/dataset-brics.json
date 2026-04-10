@@ -1,0 +1,2020 @@
+{
+  "id": "brics",
+  "name": "БРИКС",
+  "description": "Членство на държавите в БРИКС от основаването на групата до днес, заедно с държавните ръководители на Русия, Китай и Индия.",
+  "knowledge": "brics",
+  "metadata": {
+    "color": "#004990"
+  },
+  "data": [
+    {
+      "name": "Президент на Русия",
+      "id": "c3a3e636-2950-458a-9b47-0658d39b779f",
+      "periods": [
+        {
+          "name": "Владимир Ленин",
+          "date": {
+            "range": [
+              "1922-12-30",
+              "1924-01-21"
+            ],
+            "from": {
+              "date": "1922-12-30"
+            },
+            "to": {
+              "date": "1924-01-21"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of leaders of the Soviet Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_leaders_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1922-12-30"
+              },
+              "to": {
+                "date": "1924-01-21"
+              },
+              "quoteOriginal": "Vladimir Lenin served as the first leader of the Soviet Union from its founding on 30 December 1922 until his death on 21 January 1924.",
+              "quote": "Владимир Ленин е първият ръководител на Съветския съюз от основаването му на 30 декември 1922 г. до смъртта си на 21 януари 1924 г."
+            }
+          ]
+        },
+        {
+          "name": "Йосиф Сталин",
+          "date": {
+            "range": [
+              "1924-01-21",
+              "1953-03-05"
+            ],
+            "from": {
+              "date": "1924-01-21"
+            },
+            "to": {
+              "date": "1953-03-05"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of leaders of the Soviet Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_leaders_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1924-01-21"
+              },
+              "to": {
+                "date": "1953-03-05"
+              },
+              "quoteOriginal": "Joseph Stalin consolidated power after Lenin's death in 1924 and led the Soviet Union until his death on 5 March 1953.",
+              "quote": "Йосиф Сталин консолидира властта след смъртта на Ленин през 1924 г. и ръководи Съветския съюз до смъртта си на 5 март 1953 г."
+            }
+          ]
+        },
+        {
+          "name": "Георгий Маленков",
+          "date": {
+            "range": [
+              "1953-03-05",
+              "1953-09-07"
+            ],
+            "from": {
+              "date": "1953-03-05"
+            },
+            "to": {
+              "date": "1953-09-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of leaders of the Soviet Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_leaders_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1953-03-05"
+              },
+              "to": {
+                "date": "1953-09-07"
+              },
+              "quoteOriginal": "After Stalin's death on 5 March 1953, Georgy Malenkov initially emerged as the primary leader as Chairman of the Council of Ministers.",
+              "quote": "След смъртта на Сталин на 5 март 1953 г. Георгий Маленков първоначално се налага като основен ръководител в качеството си на председател на Съвета на министрите."
+            }
+          ]
+        },
+        {
+          "name": "Никита Хрушчов",
+          "date": {
+            "range": [
+              "1953-09-07",
+              "1964-10-14"
+            ],
+            "from": {
+              "date": "1953-09-07"
+            },
+            "to": {
+              "date": "1964-10-14"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of leaders of the Soviet Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_leaders_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1953-09-07"
+              },
+              "to": {
+                "date": "1964-10-14"
+              },
+              "quoteOriginal": "Nikita Khrushchev became First Secretary of the Communist Party on 7 September 1953 and was removed from power on 14 October 1964.",
+              "quote": "Никита Хрушчов става първи секретар на Комунистическата партия на 7 септември 1953 г. и е отстранен от власт на 14 октомври 1964 г."
+            }
+          ]
+        },
+        {
+          "name": "Леонид Брежнев",
+          "date": {
+            "range": [
+              "1964-10-14",
+              "1982-11-10"
+            ],
+            "from": {
+              "date": "1964-10-14"
+            },
+            "to": {
+              "date": "1982-11-10"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of leaders of the Soviet Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_leaders_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1964-10-14"
+              },
+              "to": {
+                "date": "1982-11-10"
+              },
+              "quoteOriginal": "Leonid Brezhnev served as General Secretary from 14 October 1964 until his death on 10 November 1982.",
+              "quote": "Леонид Брежнев е генерален секретар от 14 октомври 1964 г. до смъртта си на 10 ноември 1982 г."
+            }
+          ]
+        },
+        {
+          "name": "Юрий Андропов",
+          "date": {
+            "range": [
+              "1982-11-12",
+              "1984-02-09"
+            ],
+            "from": {
+              "date": "1982-11-12"
+            },
+            "to": {
+              "date": "1984-02-09"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of leaders of the Soviet Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_leaders_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1982-11-12"
+              },
+              "to": {
+                "date": "1984-02-09"
+              },
+              "quoteOriginal": "Yuri Andropov became General Secretary on 12 November 1982 and served until his death on 9 February 1984.",
+              "quote": "Юрий Андропов става генерален секретар на 12 ноември 1982 г. и е на поста до смъртта си на 9 февруари 1984 г."
+            }
+          ]
+        },
+        {
+          "name": "Константин Черненко",
+          "date": {
+            "range": [
+              "1984-02-13",
+              "1985-03-10"
+            ],
+            "from": {
+              "date": "1984-02-13"
+            },
+            "to": {
+              "date": "1985-03-10"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of leaders of the Soviet Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_leaders_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1984-02-13"
+              },
+              "to": {
+                "date": "1985-03-10"
+              },
+              "quoteOriginal": "Konstantin Chernenko became General Secretary on 13 February 1984 and served until his death on 10 March 1985.",
+              "quote": "Константин Черненко става генерален секретар на 13 февруари 1984 г. и е на поста до смъртта си на 10 март 1985 г."
+            }
+          ]
+        },
+        {
+          "name": "Михаил Горбачев",
+          "description": "Президент на СССР",
+          "date": {
+            "range": [
+              "1985-03-11",
+              "1991-12-25"
+            ],
+            "from": {
+              "date": "1985-03-11"
+            },
+            "to": {
+              "date": "1991-12-25"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of leaders of the Soviet Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_leaders_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1985-03-11"
+              },
+              "to": {
+                "date": "1991-12-25"
+              },
+              "quoteOriginal": "Mikhail Gorbachev became General Secretary on 11 March 1985. He resigned as President of the Soviet Union on 25 December 1991.",
+              "quote": "Михаил Горбачов става генерален секретар на 11 март 1985 г. Подава оставка като президент на СССР на 25 декември 1991 г."
+            }
+          ]
+        },
+        {
+          "name": "Борис Елцин",
+          "description": "Президент на Русия",
+          "date": {
+            "range": [
+              "1991-07-10",
+              "1999-12-31"
+            ],
+            "from": {
+              "date": "1991-07-10"
+            },
+            "to": {
+              "date": "1999-12-31"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_Russia"
+              ],
+              "from": {
+                "date": "1991-07-10"
+              },
+              "to": {
+                "date": "1999-12-31"
+              },
+              "quoteOriginal": "Boris Yeltsin took office on 10 July 1991 and resigned on 31 December 1999.",
+              "quote": "Борис Елцин встъпва в длъжност на 10 юли 1991 г. и подава оставка на 31 декември 1999 г."
+            }
+          ]
+        },
+        {
+          "name": "Владимир Путин",
+          "description": "и.д.",
+          "date": {
+            "range": [
+              "1999-12-31",
+              "2000-05-07"
+            ],
+            "from": {
+              "date": "1999-12-31"
+            },
+            "to": {
+              "date": "2000-05-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_Russia"
+              ],
+              "from": {
+                "date": "1999-12-31"
+              },
+              "to": {
+                "date": "2000-05-07"
+              },
+              "quoteOriginal": "Vladimir Putin became acting president on 31 December 1999 following Yeltsin's resignation.",
+              "quote": "Владимир Путин става изпълняващ длъжността президент на 31 декември 1999 г. след оставката на Елцин."
+            }
+          ]
+        },
+        {
+          "name": "Владимир Путин",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "2000-05-07",
+              "2004-05-07"
+            ],
+            "from": {
+              "date": "2000-05-07"
+            },
+            "to": {
+              "date": "2004-05-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_Russia"
+              ],
+              "from": {
+                "date": "2000-05-07"
+              },
+              "to": {
+                "date": "2004-05-07"
+              },
+              "quoteOriginal": "Putin was inaugurated as president on 7 May 2000.",
+              "quote": "Путин встъпва в длъжност като президент на 7 май 2000 г."
+            }
+          ]
+        },
+        {
+          "name": "Владимир Путин",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "2004-05-07",
+              "2008-05-07"
+            ],
+            "from": {
+              "date": "2004-05-07"
+            },
+            "to": {
+              "date": "2008-05-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_Russia"
+              ],
+              "from": {
+                "date": "2004-05-07"
+              },
+              "to": {
+                "date": "2008-05-07"
+              },
+              "quoteOriginal": "Putin was re-elected and inaugurated for a second term on 7 May 2004.",
+              "quote": "Путин е преизбран и встъпва в длъжност за втори мандат на 7 май 2004 г."
+            }
+          ]
+        },
+        {
+          "name": "Дмитрий Медведев",
+          "date": {
+            "range": [
+              "2008-05-07",
+              "2012-05-07"
+            ],
+            "from": {
+              "date": "2008-05-07"
+            },
+            "to": {
+              "date": "2012-05-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_Russia"
+              ],
+              "from": {
+                "date": "2008-05-07"
+              },
+              "to": {
+                "date": "2012-05-07"
+              },
+              "quoteOriginal": "Dmitry Medvedev served as president from 7 May 2008 to 7 May 2012.",
+              "quote": "Дмитрий Медведев е президент от 7 май 2008 г. до 7 май 2012 г."
+            }
+          ]
+        },
+        {
+          "name": "Владимир Путин",
+          "description": "3-ти мандат",
+          "date": {
+            "range": [
+              "2012-05-07",
+              "2018-05-07"
+            ],
+            "from": {
+              "date": "2012-05-07"
+            },
+            "to": {
+              "date": "2018-05-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_Russia"
+              ],
+              "from": {
+                "date": "2012-05-07"
+              },
+              "to": {
+                "date": "2018-05-07"
+              },
+              "quoteOriginal": "Putin was inaugurated for a third presidential term on 7 May 2012.",
+              "quote": "Путин встъпва в длъжност за трети президентски мандат на 7 май 2012 г."
+            }
+          ]
+        },
+        {
+          "name": "Владимир Путин",
+          "description": "4-ти мандат",
+          "date": {
+            "range": [
+              "2018-05-07",
+              "2024-05-07"
+            ],
+            "from": {
+              "date": "2018-05-07"
+            },
+            "to": {
+              "date": "2024-05-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_Russia"
+              ],
+              "from": {
+                "date": "2018-05-07"
+              },
+              "to": {
+                "date": "2024-05-07"
+              },
+              "quoteOriginal": "Putin was inaugurated for a fourth term on 7 May 2018.",
+              "quote": "Путин встъпва в длъжност за четвърти мандат на 7 май 2018 г."
+            }
+          ]
+        },
+        {
+          "name": "Владимир Путин",
+          "description": "5-ти мандат",
+          "date": {
+            "range": [
+              "2024-05-07",
+              "2030-05-01"
+            ],
+            "from": {
+              "date": "2024-05-07"
+            },
+            "to": {
+              "dateYear": 2030,
+              "dateMonth": 5
+            }
+          },
+          "sources": [
+            {
+              "name": "President of Russia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_Russia"
+              ],
+              "from": {
+                "date": "2024-05-07"
+              },
+              "quoteOriginal": "Putin was inaugurated for a fifth term on 7 May 2024.",
+              "quote": "Путин встъпва в длъжност за пети мандат на 7 май 2024 г."
+            }
+          ]
+        }
+      ],
+      "code": "RU"
+    },
+    {
+      "name": "Президент на Китай",
+      "id": "1ff0129d-a51e-4a68-b421-2ad424ec8db9",
+      "periods": [
+        {
+          "name": "Мао Дзедун",
+          "date": {
+            "range": [
+              "1954-09-27",
+              "1959-04-27"
+            ],
+            "from": {
+              "date": "1954-09-27"
+            },
+            "to": {
+              "date": "1959-04-27"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of China – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_China"
+              ],
+              "from": {
+                "date": "1954-09-27"
+              },
+              "to": {
+                "date": "1959-04-27"
+              },
+              "quoteOriginal": "Mao Zedong served as President from 27 September 1954 to 27 April 1959.",
+              "quote": "Мао Дзедун е президент от 27 септември 1954 г. до 27 април 1959 г."
+            }
+          ]
+        },
+        {
+          "name": "Лю Шаоци",
+          "date": {
+            "range": [
+              "1959-04-27",
+              "1968-10-31"
+            ],
+            "from": {
+              "date": "1959-04-27"
+            },
+            "to": {
+              "date": "1968-10-31"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of China – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_China"
+              ],
+              "from": {
+                "date": "1959-04-27"
+              },
+              "to": {
+                "date": "1968-10-31"
+              },
+              "quoteOriginal": "Liu Shaoqi served as President from 27 April 1959 to 31 October 1968.",
+              "quote": "Лю Шаоци е президент от 27 април 1959 г. до 31 октомври 1968 г."
+            }
+          ]
+        },
+        {
+          "name": "Дун Биу",
+          "description": "и.д.",
+          "date": {
+            "range": [
+              "1972-02-24",
+              "1975-01-17"
+            ],
+            "from": {
+              "date": "1972-02-24"
+            },
+            "to": {
+              "date": "1975-01-17"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of China – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_China"
+              ],
+              "from": {
+                "date": "1972-02-24"
+              },
+              "to": {
+                "date": "1975-01-17"
+              },
+              "quoteOriginal": "Dong Biwu served as Acting President from 24 February 1972 to 17 January 1975.",
+              "quote": "Дун Биу е изпълняващ длъжността президент от 24 февруари 1972 г. до 17 януари 1975 г."
+            }
+          ]
+        },
+        {
+          "name": "Ли Сянян",
+          "date": {
+            "range": [
+              "1983-06-18",
+              "1988-04-08"
+            ],
+            "from": {
+              "date": "1983-06-18"
+            },
+            "to": {
+              "date": "1988-04-08"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of China – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_China"
+              ],
+              "from": {
+                "date": "1983-06-18"
+              },
+              "to": {
+                "date": "1988-04-08"
+              },
+              "quoteOriginal": "Li Xiannian served as President from 18 June 1983 to 8 April 1988.",
+              "quote": "Ли Сянян е президент от 18 юни 1983 г. до 8 април 1988 г."
+            }
+          ]
+        },
+        {
+          "name": "Ян Шангкун",
+          "date": {
+            "range": [
+              "1988-04-08",
+              "1993-03-27"
+            ],
+            "from": {
+              "date": "1988-04-08"
+            },
+            "to": {
+              "date": "1993-03-27"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of China – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_China"
+              ],
+              "from": {
+                "date": "1988-04-08"
+              },
+              "to": {
+                "date": "1993-03-27"
+              },
+              "quoteOriginal": "Yang Shangkun served as President from 8 April 1988 to 27 March 1993.",
+              "quote": "Ян Шангкун е президент от 8 април 1988 г. до 27 март 1993 г."
+            }
+          ]
+        },
+        {
+          "name": "Цзян Дзъмин",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "1993-03-27",
+              "1998-03-27"
+            ],
+            "from": {
+              "date": "1993-03-27"
+            },
+            "to": {
+              "date": "1998-03-27"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of China – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_China"
+              ],
+              "from": {
+                "date": "1993-03-27"
+              },
+              "to": {
+                "date": "2003-03-15"
+              },
+              "quoteOriginal": "Jiang Zemin served as President from 27 March 1993 to 15 March 2003.",
+              "quote": "Цзян Дзъмин е президент от 27 март 1993 г. до 15 март 2003 г."
+            }
+          ]
+        },
+        {
+          "name": "Цзян Дзъмин",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "1998-03-27",
+              "2003-03-15"
+            ],
+            "from": {
+              "date": "1998-03-27"
+            },
+            "to": {
+              "date": "2003-03-15"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of China – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_China"
+              ],
+              "from": {
+                "date": "1998-03-27"
+              },
+              "to": {
+                "date": "2003-03-15"
+              },
+              "quoteOriginal": "Jiang Zemin served as President from 27 March 1993 to 15 March 2003.",
+              "quote": "Цзян Дзъмин е президент от 27 март 1993 г. до 15 март 2003 г."
+            }
+          ]
+        },
+        {
+          "name": "Ху Дзинтао",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "2003-03-15",
+              "2008-03-15"
+            ],
+            "from": {
+              "date": "2003-03-15"
+            },
+            "to": {
+              "date": "2008-03-15"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of China – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_China"
+              ],
+              "from": {
+                "date": "2003-03-15"
+              },
+              "to": {
+                "date": "2013-03-14"
+              },
+              "quoteOriginal": "Hu Jintao served as President from 15 March 2003 to 14 March 2013.",
+              "quote": "Ху Дзинтао е президент от 15 март 2003 г. до 14 март 2013 г."
+            }
+          ]
+        },
+        {
+          "name": "Ху Дзинтао",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "2008-03-15",
+              "2013-03-14"
+            ],
+            "from": {
+              "date": "2008-03-15"
+            },
+            "to": {
+              "date": "2013-03-14"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of China – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_China"
+              ],
+              "from": {
+                "date": "2008-03-15"
+              },
+              "to": {
+                "date": "2013-03-14"
+              },
+              "quoteOriginal": "Hu Jintao served as President from 15 March 2003 to 14 March 2013.",
+              "quote": "Ху Дзинтао е президент от 15 март 2003 г. до 14 март 2013 г."
+            }
+          ]
+        },
+        {
+          "name": "Си Дзинпин",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "2013-03-14",
+              "2018-03-17"
+            ],
+            "from": {
+              "date": "2013-03-14"
+            },
+            "to": {
+              "date": "2018-03-17"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of China – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_China"
+              ],
+              "from": {
+                "date": "2013-03-14"
+              },
+              "quoteOriginal": "Xi Jinping has served as President since 14 March 2013.",
+              "quote": "Си Дзинпин е президент от 14 март 2013 г."
+            }
+          ]
+        },
+        {
+          "name": "Си Дзинпин",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "2018-03-17",
+              "2023-03-10"
+            ],
+            "from": {
+              "date": "2018-03-17"
+            },
+            "to": {
+              "date": "2023-03-10"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of China – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_China"
+              ],
+              "from": {
+                "date": "2018-03-17"
+              },
+              "quoteOriginal": "Xi Jinping was re-elected for a second term on 17 March 2018.",
+              "quote": "Си Дзинпин е преизбран за втори мандат на 17 март 2018 г."
+            }
+          ]
+        },
+        {
+          "name": "Си Дзинпин",
+          "description": "3-ти мандат",
+          "date": {
+            "range": [
+              "2023-03-10",
+              "2028-03-10"
+            ],
+            "from": {
+              "date": "2023-03-10"
+            },
+            "to": {
+              "date": "2028-03-10"
+            }
+          },
+          "sources": [
+            {
+              "name": "President of China – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_China"
+              ],
+              "from": {
+                "date": "2023-03-10"
+              },
+              "quoteOriginal": "Xi Jinping was elected to an unprecedented third term on 10 March 2023.",
+              "quote": "Си Дзинпин е избран за безпрецедентен трети мандат на 10 март 2023 г."
+            }
+          ]
+        }
+      ],
+      "code": "CN"
+    },
+    {
+      "name": "Министър-председател на Индия",
+      "id": "287d28cf-efa9-426c-8dd9-85ee4315747a",
+      "code": "IN",
+      "comment": "В парламентарната система на Индия министър-председателят държи изпълнителната власт. Президентът е до голяма степен церемониална фигура.",
+      "periods": [
+        {
+          "name": "Джавахарлал Неру",
+          "date": {
+            "range": [
+              "1947-08-15",
+              "1964-05-27"
+            ],
+            "from": {
+              "date": "1947-08-15"
+            },
+            "to": {
+              "date": "1964-05-27"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "1947-08-15"
+              },
+              "to": {
+                "date": "1964-05-27"
+              },
+              "quoteOriginal": "Jawaharlal Nehru served as Prime Minister from 15 August 1947 to 27 May 1964.",
+              "quote": "Джавахарлал Неру е министър-председател от 15 август 1947 г. до 27 май 1964 г."
+            }
+          ]
+        },
+        {
+          "name": "Гулзарилал Нанда",
+          "description": "и.д.",
+          "date": {
+            "range": [
+              "1964-05-27",
+              "1964-06-09"
+            ],
+            "from": {
+              "date": "1964-05-27"
+            },
+            "to": {
+              "date": "1964-06-09"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "1964-05-27"
+              },
+              "to": {
+                "date": "1964-06-09"
+              },
+              "quoteOriginal": "Gulzarilal Nanda served as acting Prime Minister from 27 May 1964 to 9 June 1964.",
+              "quote": "Гулзарилал Нанда е и.д. министър-председател от 27 май 1964 г. до 9 юни 1964 г."
+            }
+          ]
+        },
+        {
+          "name": "Лал Бахадур Шастри",
+          "date": {
+            "range": [
+              "1964-06-09",
+              "1966-01-11"
+            ],
+            "from": {
+              "date": "1964-06-09"
+            },
+            "to": {
+              "date": "1966-01-11"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "1964-06-09"
+              },
+              "to": {
+                "date": "1966-01-11"
+              },
+              "quoteOriginal": "Lal Bahadur Shastri served as Prime Minister from 9 June 1964 to 11 January 1966.",
+              "quote": "Лал Бахадур Шастри е министър-председател от 9 юни 1964 г. до 11 януари 1966 г."
+            }
+          ]
+        },
+        {
+          "name": "Гулзарилал Нанда",
+          "description": "и.д. (2-ри път)",
+          "date": {
+            "range": [
+              "1966-01-11",
+              "1966-01-24"
+            ],
+            "from": {
+              "date": "1966-01-11"
+            },
+            "to": {
+              "date": "1966-01-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "1966-01-11"
+              },
+              "to": {
+                "date": "1966-01-24"
+              },
+              "quoteOriginal": "Gulzarilal Nanda served as acting Prime Minister from 11 January 1966 to 24 January 1966.",
+              "quote": "Гулзарилал Нанда е и.д. министър-председател от 11 януари 1966 г. до 24 януари 1966 г."
+            }
+          ]
+        },
+        {
+          "name": "Индира Ганди",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "1966-01-24",
+              "1977-03-24"
+            ],
+            "from": {
+              "date": "1966-01-24"
+            },
+            "to": {
+              "date": "1977-03-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "1966-01-24"
+              },
+              "to": {
+                "date": "1977-03-24"
+              },
+              "quoteOriginal": "Indira Gandhi served as Prime Minister from 24 January 1966 to 24 March 1977.",
+              "quote": "Индира Ганди е министър-председател от 24 януари 1966 г. до 24 март 1977 г."
+            }
+          ]
+        },
+        {
+          "name": "Морарджи Десай",
+          "date": {
+            "range": [
+              "1977-03-24",
+              "1979-07-28"
+            ],
+            "from": {
+              "date": "1977-03-24"
+            },
+            "to": {
+              "date": "1979-07-28"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "1977-03-24"
+              },
+              "to": {
+                "date": "1979-07-28"
+              },
+              "quoteOriginal": "Morarji Desai served as Prime Minister from 24 March 1977 to 28 July 1979.",
+              "quote": "Морарджи Десай е министър-председател от 24 март 1977 г. до 28 юли 1979 г."
+            }
+          ]
+        },
+        {
+          "name": "Чаран Сингх",
+          "date": {
+            "range": [
+              "1979-07-28",
+              "1980-01-14"
+            ],
+            "from": {
+              "date": "1979-07-28"
+            },
+            "to": {
+              "date": "1980-01-14"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "1979-07-28"
+              },
+              "to": {
+                "date": "1980-01-14"
+              },
+              "quoteOriginal": "Charan Singh served as Prime Minister from 28 July 1979 to 14 January 1980.",
+              "quote": "Чаран Сингх е министър-председател от 28 юли 1979 г. до 14 януари 1980 г."
+            }
+          ]
+        },
+        {
+          "name": "Индира Ганди",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "1980-01-14",
+              "1984-10-31"
+            ],
+            "from": {
+              "date": "1980-01-14"
+            },
+            "to": {
+              "date": "1984-10-31"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "1980-01-14"
+              },
+              "to": {
+                "date": "1984-10-31"
+              },
+              "quoteOriginal": "Indira Gandhi served as Prime Minister from 14 January 1980 to 31 October 1984.",
+              "quote": "Индира Ганди е министър-председател от 14 януари 1980 г. до 31 октомври 1984 г."
+            }
+          ]
+        },
+        {
+          "name": "Раджив Ганди",
+          "date": {
+            "range": [
+              "1984-10-31",
+              "1989-12-02"
+            ],
+            "from": {
+              "date": "1984-10-31"
+            },
+            "to": {
+              "date": "1989-12-02"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "1984-10-31"
+              },
+              "to": {
+                "date": "1989-12-02"
+              },
+              "quoteOriginal": "Rajiv Gandhi served as Prime Minister from 31 October 1984 to 2 December 1989.",
+              "quote": "Раджив Ганди е министър-председател от 31 октомври 1984 г. до 2 декември 1989 г."
+            }
+          ]
+        },
+        {
+          "name": "Вишванат Пратап Сингх",
+          "date": {
+            "range": [
+              "1989-12-02",
+              "1990-11-10"
+            ],
+            "from": {
+              "date": "1989-12-02"
+            },
+            "to": {
+              "date": "1990-11-10"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "1989-12-02"
+              },
+              "to": {
+                "date": "1990-11-10"
+              },
+              "quoteOriginal": "V. P. Singh served as Prime Minister from 2 December 1989 to 10 November 1990.",
+              "quote": "Вишванат Пратап Сингх е министър-председател от 2 декември 1989 г. до 10 ноември 1990 г."
+            }
+          ]
+        },
+        {
+          "name": "Чандра Шекхар",
+          "date": {
+            "range": [
+              "1990-11-10",
+              "1991-06-21"
+            ],
+            "from": {
+              "date": "1990-11-10"
+            },
+            "to": {
+              "date": "1991-06-21"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "1990-11-10"
+              },
+              "to": {
+                "date": "1991-06-21"
+              },
+              "quoteOriginal": "Chandra Shekhar served as Prime Minister from 10 November 1990 to 21 June 1991.",
+              "quote": "Чандра Шекхар е министър-председател от 10 ноември 1990 г. до 21 юни 1991 г."
+            }
+          ]
+        },
+        {
+          "name": "Нарасимха Рао",
+          "date": {
+            "range": [
+              "1991-06-21",
+              "1996-05-16"
+            ],
+            "from": {
+              "date": "1991-06-21"
+            },
+            "to": {
+              "date": "1996-05-16"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "1991-06-21"
+              },
+              "to": {
+                "date": "1996-05-16"
+              },
+              "quoteOriginal": "P. V. Narasimha Rao served as Prime Minister from 21 June 1991 to 16 May 1996.",
+              "quote": "П. В. Нарасимха Рао е министър-председател от 21 юни 1991 г. до 16 май 1996 г."
+            }
+          ]
+        },
+        {
+          "name": "Атал Бихари Ваджпаи",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "1996-05-16",
+              "1996-06-01"
+            ],
+            "from": {
+              "date": "1996-05-16"
+            },
+            "to": {
+              "date": "1996-06-01"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "1996-05-16"
+              },
+              "to": {
+                "date": "1996-06-01"
+              },
+              "quoteOriginal": "Atal Bihari Vajpayee served as Prime Minister from 16 May 1996 to 1 June 1996.",
+              "quote": "Атал Бихари Ваджпаи е министър-председател от 16 май 1996 г. до 1 юни 1996 г."
+            }
+          ]
+        },
+        {
+          "name": "Деве Гоуда",
+          "date": {
+            "range": [
+              "1996-06-01",
+              "1997-04-21"
+            ],
+            "from": {
+              "date": "1996-06-01"
+            },
+            "to": {
+              "date": "1997-04-21"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "1996-06-01"
+              },
+              "to": {
+                "date": "1997-04-21"
+              },
+              "quoteOriginal": "H. D. Deve Gowda served as Prime Minister from 1 June 1996 to 21 April 1997.",
+              "quote": "Х. Д. Деве Гоуда е министър-председател от 1 юни 1996 г. до 21 април 1997 г."
+            }
+          ]
+        },
+        {
+          "name": "Индер Кумар Гуджрал",
+          "date": {
+            "range": [
+              "1997-04-21",
+              "1998-03-19"
+            ],
+            "from": {
+              "date": "1997-04-21"
+            },
+            "to": {
+              "date": "1998-03-19"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "1997-04-21"
+              },
+              "to": {
+                "date": "1998-03-19"
+              },
+              "quoteOriginal": "Inder Kumar Gujral served as Prime Minister from 21 April 1997 to 19 March 1998.",
+              "quote": "Индер Кумар Гуджрал е министър-председател от 21 април 1997 г. до 19 март 1998 г."
+            }
+          ]
+        },
+        {
+          "name": "Атал Бихари Ваджпаи",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "1998-03-19",
+              "2004-05-22"
+            ],
+            "from": {
+              "date": "1998-03-19"
+            },
+            "to": {
+              "date": "2004-05-22"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "1998-03-19"
+              },
+              "to": {
+                "date": "2004-05-22"
+              },
+              "quoteOriginal": "Atal Bihari Vajpayee served as Prime Minister from 19 March 1998 to 22 May 2004.",
+              "quote": "Атал Бихари Ваджпаи е министър-председател от 19 март 1998 г. до 22 май 2004 г."
+            }
+          ]
+        },
+        {
+          "name": "Манмохан Сингх",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "2004-05-22",
+              "2009-05-22"
+            ],
+            "from": {
+              "date": "2004-05-22"
+            },
+            "to": {
+              "date": "2009-05-22"
+            }
+          },
+          "sources": [
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "2004-05-22"
+              },
+              "to": {
+                "date": "2009-05-22"
+              },
+              "quoteOriginal": "Manmohan Singh served as Prime Minister from 22 May 2004 to 26 May 2014.",
+              "quote": "Манмохан Сингх е министър-председател от 22 май 2004 г. до 26 май 2014 г."
+            },
+            {
+              "name": "Manmohan Singh – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Manmohan_Singh"
+              ],
+              "from": {
+                "date": "2004-05-22"
+              },
+              "to": {
+                "date": "2009-05-22"
+              },
+              "quoteOriginal": "He took the oath as the prime minister of India on 22 May 2004.",
+              "quote": "Той полага клетва като министър-председател на Индия на 22 май 2004 г."
+            }
+          ]
+        },
+        {
+          "name": "Манмохан Сингх",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "2009-05-22",
+              "2014-05-26"
+            ],
+            "from": {
+              "date": "2009-05-22"
+            },
+            "to": {
+              "date": "2014-05-26"
+            }
+          },
+          "sources": [
+            {
+              "name": "Manmohan Singh – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Manmohan_Singh"
+              ],
+              "from": {
+                "date": "2009-05-22"
+              },
+              "to": {
+                "date": "2014-05-26"
+              },
+              "quoteOriginal": "On 22 May 2009, Manmohan Singh was sworn in as the prime minister during a ceremony held at Rashtrapati Bhavan. Singh's premiership officially ended at noon on 17 May 2014.",
+              "quote": "На 22 май 2009 г. Манмохан Сингх полага клетва като министър-председател на церемония в Раштрапати Бхаван. Премиерството му приключва официално на 17 май 2014 г."
+            }
+          ]
+        },
+        {
+          "name": "Нарендра Моди",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "2014-05-26",
+              "2019-05-30"
+            ],
+            "from": {
+              "date": "2014-05-26"
+            },
+            "to": {
+              "date": "2019-05-30"
+            }
+          },
+          "sources": [
+            {
+              "name": "Министър-председател на Индия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%8A%D1%80-%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%98%D0%BD%D0%B4%D0%B8%D1%8F"
+              ],
+              "from": {
+                "date": "2014-05-26"
+              },
+              "quote": "Той е министър-председател на Индия от 26 май 2014 година."
+            },
+            {
+              "name": "List of prime ministers of India – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+              ],
+              "from": {
+                "date": "2014-05-26"
+              },
+              "to": {
+                "date": "2019-05-30"
+              },
+              "quoteOriginal": "Narendra Modi has served as Prime Minister from 26 May 2014 to present (incumbent).",
+              "quote": "Нарендра Моди е министър-председател от 26 май 2014 г. до момента (действащ)."
+            }
+          ]
+        },
+        {
+          "name": "Нарендра Моди",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "2019-05-30",
+              "2024-06-09"
+            ],
+            "from": {
+              "date": "2019-05-30"
+            },
+            "to": {
+              "date": "2024-06-09"
+            }
+          },
+          "sources": [
+            {
+              "name": "Second oath of office ceremony of Narendra Modi – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Second_oath_of_office_ceremony_of_Narendra_Modi"
+              ],
+              "from": {
+                "date": "2019-05-30"
+              },
+              "quoteOriginal": "Narendra Modi took his oath of office as the Prime Minister of India on 30 May 2019.",
+              "quote": "Нарендра Моди полага клетва като министър-председател на Индия на 30 май 2019 г."
+            }
+          ]
+        },
+        {
+          "name": "Нарендра Моди",
+          "description": "3-ти мандат",
+          "date": {
+            "range": [
+              "2024-06-09",
+              "2029-06-01"
+            ],
+            "from": {
+              "date": "2024-06-09"
+            },
+            "to": {
+              "dateYear": 2029,
+              "dateMonth": 6
+            }
+          },
+          "sources": [
+            {
+              "name": "Third oath of office ceremony of Narendra Modi – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Third_oath_of_office_ceremony_of_Narendra_Modi"
+              ],
+              "from": {
+                "date": "2024-06-09"
+              },
+              "quoteOriginal": "Narendra Modi was inaugurated for the third term as Prime Minister of India on 9 June 2024. The 18th Lok Sabha term runs from 9 June 2024 to 2029.",
+              "quote": "Нарендра Моди встъпва в длъжност за трети мандат като министър-председател на Индия на 9 юни 2024 г. Мандатът на 18-ия Лок Сабха е от 9 юни 2024 г. до 2029 г.",
+              "to": {
+                "dateYear": 2029
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Бразилия",
+      "id": "16af3f54-b0a5-4b24-81ac-d283ac5784e6",
+      "periods": [
+        {
+          "name": "Бразилия",
+          "date": {
+            "range": [
+              "2009-06-16",
+              null
+            ],
+            "from": {
+              "date": "2009-06-16"
+            }
+          },
+          "sources": [
+            {
+              "name": "БРИКС – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%A0%D0%98%D0%9A%D0%A1"
+              ],
+              "from": {
+                "date": "2009-06-16"
+              },
+              "quote": "Главите на страните от групата БРИК се събират на своята първа среща на върха на 16 юни 2009 г."
+            },
+            {
+              "name": "BRICS – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/BRICS"
+              ],
+              "from": {
+                "date": "2009-06-16"
+              },
+              "quoteOriginal": "The BRIC group's first formal summit, also held in Yekaterinburg, commenced on 16 June 2009.",
+              "quote": "Първата официална среща на върха на БРИК се провежда в Екатеринбург на 16 юни 2009 г."
+            }
+          ],
+          "flag": "BR",
+          "description": "Учредител на БРИК."
+        }
+      ],
+      "code": "BR"
+    },
+    {
+      "name": "Индия",
+      "id": "bc68a354-41f9-428f-9098-2aad0b136c9b",
+      "periods": [
+        {
+          "name": "Индия",
+          "date": {
+            "range": [
+              "2009-06-16",
+              null
+            ],
+            "from": {
+              "date": "2009-06-16"
+            }
+          },
+          "sources": [
+            {
+              "name": "БРИКС – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%A0%D0%98%D0%9A%D0%A1"
+              ],
+              "from": {
+                "date": "2009-06-16"
+              },
+              "quote": "Главите на страните от групата БРИК се събират на своята първа среща на върха на 16 юни 2009 г."
+            },
+            {
+              "name": "BRICS – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/BRICS"
+              ],
+              "from": {
+                "date": "2009-06-16"
+              },
+              "quoteOriginal": "The BRIC group's first formal summit, also held in Yekaterinburg, commenced on 16 June 2009.",
+              "quote": "Първата официална среща на върха на БРИК се провежда в Екатеринбург на 16 юни 2009 г."
+            }
+          ],
+          "flag": "IN",
+          "description": "Учредител на БРИК."
+        }
+      ],
+      "code": "IN"
+    },
+    {
+      "name": "Китай",
+      "id": "dce0c868-8497-456a-b7c9-05e35950683f",
+      "periods": [
+        {
+          "name": "Китай",
+          "date": {
+            "range": [
+              "2009-06-16",
+              null
+            ],
+            "from": {
+              "date": "2009-06-16"
+            }
+          },
+          "sources": [
+            {
+              "name": "БРИКС – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%A0%D0%98%D0%9A%D0%A1"
+              ],
+              "from": {
+                "date": "2009-06-16"
+              },
+              "quote": "Главите на страните от групата БРИК се събират на своята първа среща на върха на 16 юни 2009 г."
+            },
+            {
+              "name": "BRICS – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/BRICS"
+              ],
+              "from": {
+                "date": "2009-06-16"
+              },
+              "quoteOriginal": "The BRIC group's first formal summit, also held in Yekaterinburg, commenced on 16 June 2009.",
+              "quote": "Първата официална среща на върха на БРИК се провежда в Екатеринбург на 16 юни 2009 г."
+            }
+          ],
+          "flag": "CN",
+          "description": "Учредител на БРИК."
+        }
+      ],
+      "code": "CN"
+    },
+    {
+      "name": "Русия",
+      "id": "41613647-9dcf-4a22-80b1-f131884dc8f9",
+      "periods": [
+        {
+          "name": "Русия",
+          "date": {
+            "range": [
+              "2009-06-16",
+              null
+            ],
+            "from": {
+              "date": "2009-06-16"
+            }
+          },
+          "sources": [
+            {
+              "name": "БРИКС – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%A0%D0%98%D0%9A%D0%A1"
+              ],
+              "from": {
+                "date": "2009-06-16"
+              },
+              "quote": "Главите на страните от групата БРИК се събират на своята първа среща на върха на 16 юни 2009 г."
+            },
+            {
+              "name": "BRICS – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/BRICS"
+              ],
+              "from": {
+                "date": "2009-06-16"
+              },
+              "quoteOriginal": "The BRIC group's first formal summit, also held in Yekaterinburg, commenced on 16 June 2009.",
+              "quote": "Първата официална среща на върха на БРИК се провежда в Екатеринбург на 16 юни 2009 г."
+            }
+          ],
+          "flag": "RU",
+          "description": "Учредител на БРИК."
+        }
+      ],
+      "code": "RU"
+    },
+    {
+      "name": "Южна Африка",
+      "id": "f109b56c-a59c-4200-b3d7-62821b2e3df9",
+      "periods": [
+        {
+          "name": "Южна Африка",
+          "date": {
+            "range": [
+              "2010-12-24",
+              null
+            ],
+            "from": {
+              "date": "2010-12-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "БРИКС – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%A0%D0%98%D0%9A%D0%A1"
+              ],
+              "from": {
+                "date": "2010-12-24"
+              },
+              "quote": "На 14 април 2011 г. в китайския курорт Саня на остров Хайнан се провежда среща, на която Южна Африка е приета за пълноправен член."
+            },
+            {
+              "name": "BRICS – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/BRICS"
+              ],
+              "from": {
+                "date": "2010-12-24"
+              },
+              "quoteOriginal": "South Africa officially became a member nation on 24 December 2010 after being formally invited by China.",
+              "quote": "Южна Африка официално става член на 24 декември 2010 г. след официална покана от Китай."
+            }
+          ],
+          "flag": "ZA",
+          "description": "Присъединява се през 2010 г., превръщайки БРИК в БРИКС."
+        }
+      ],
+      "code": "ZA"
+    },
+    {
+      "name": "Египет",
+      "id": "74d63c01-6f11-4473-818b-2165a470713f",
+      "periods": [
+        {
+          "name": "Египет",
+          "date": {
+            "range": [
+              "2024-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2024
+            }
+          },
+          "sources": [
+            {
+              "name": "БРИКС – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%A0%D0%98%D0%9A%D0%A1"
+              ],
+              "from": {
+                "dateYear": 2024
+              },
+              "quote": "Членството на останалите 5 държави влиза в сила от 1 януари 2024 г."
+            },
+            {
+              "name": "BRICS – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/BRICS"
+              ],
+              "from": {
+                "dateYear": 2024
+              },
+              "quoteOriginal": "By January 2024, Egypt, Ethiopia, Iran, and the United Arab Emirates joined the bloc.",
+              "quote": "От януари 2024 г. Египет, Етиопия, Иран и Обединените арабски емирства се присъединяват към блока."
+            }
+          ],
+          "flag": "EG",
+          "description": "Присъединява се на 1 януари 2024 г."
+        }
+      ],
+      "code": "EG"
+    },
+    {
+      "name": "Етиопия",
+      "id": "d81e5f25-668a-4bd7-a25a-4a43aada88b5",
+      "periods": [
+        {
+          "name": "Етиопия",
+          "date": {
+            "range": [
+              "2024-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2024
+            }
+          },
+          "sources": [
+            {
+              "name": "БРИКС – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%A0%D0%98%D0%9A%D0%A1"
+              ],
+              "from": {
+                "dateYear": 2024
+              },
+              "quote": "Членството на останалите 5 държави влиза в сила от 1 януари 2024 г."
+            },
+            {
+              "name": "BRICS – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/BRICS"
+              ],
+              "from": {
+                "dateYear": 2024
+              },
+              "quoteOriginal": "By January 2024, Egypt, Ethiopia, Iran, and the United Arab Emirates joined the bloc.",
+              "quote": "От януари 2024 г. Египет, Етиопия, Иран и Обединените арабски емирства се присъединяват към блока."
+            }
+          ],
+          "flag": "ET",
+          "description": "Присъединява се на 1 януари 2024 г."
+        }
+      ],
+      "code": "ET"
+    },
+    {
+      "name": "Иран",
+      "id": "c2507225-9636-4fd2-a927-bfbedad165aa",
+      "periods": [
+        {
+          "name": "Иран",
+          "date": {
+            "range": [
+              "2024-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2024
+            }
+          },
+          "sources": [
+            {
+              "name": "БРИКС – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%A0%D0%98%D0%9A%D0%A1"
+              ],
+              "from": {
+                "dateYear": 2024
+              },
+              "quote": "Членството на останалите 5 държави влиза в сила от 1 януари 2024 г."
+            },
+            {
+              "name": "BRICS – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/BRICS"
+              ],
+              "from": {
+                "dateYear": 2024
+              },
+              "quoteOriginal": "By January 2024, Egypt, Ethiopia, Iran, and the United Arab Emirates joined the bloc.",
+              "quote": "От януари 2024 г. Египет, Етиопия, Иран и Обединените арабски емирства се присъединяват към блока."
+            }
+          ],
+          "flag": "IR",
+          "description": "Присъединява се на 1 януари 2024 г."
+        }
+      ],
+      "code": "IR"
+    },
+    {
+      "name": "Обединени арабски емирства",
+      "id": "5129f770-e86e-4a93-b4e8-d4df80b1fcee",
+      "periods": [
+        {
+          "name": "Обединени арабски емирства",
+          "date": {
+            "range": [
+              "2024-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2024
+            }
+          },
+          "sources": [
+            {
+              "name": "БРИКС – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%A0%D0%98%D0%9A%D0%A1"
+              ],
+              "from": {
+                "dateYear": 2024
+              },
+              "quote": "Членството на останалите 5 държави влиза в сила от 1 януари 2024 г."
+            },
+            {
+              "name": "BRICS – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/BRICS"
+              ],
+              "from": {
+                "dateYear": 2024
+              },
+              "quoteOriginal": "By January 2024, Egypt, Ethiopia, Iran, and the United Arab Emirates joined the bloc.",
+              "quote": "От януари 2024 г. Египет, Етиопия, Иран и Обединените арабски емирства се присъединяват към блока."
+            }
+          ],
+          "flag": "AE",
+          "description": "Присъединява се на 1 януари 2024 г."
+        }
+      ],
+      "code": "AE"
+    },
+    {
+      "name": "Индонезия",
+      "id": "ebd92269-025f-4f25-88be-f1276ee40751",
+      "periods": [
+        {
+          "name": "Индонезия",
+          "date": {
+            "range": [
+              "2025-01-06",
+              null
+            ],
+            "from": {
+              "date": "2025-01-06"
+            }
+          },
+          "sources": [
+            {
+              "name": "BRICS – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/BRICS"
+              ],
+              "from": {
+                "date": "2025-01-06"
+              },
+              "quoteOriginal": "On 6 January 2025, Indonesia joined BRICS officially as a full member.",
+              "quote": "На 6 януари 2025 г. Индонезия официално се присъединява към БРИКС като пълноправен член."
+            }
+          ],
+          "flag": "ID",
+          "description": "Присъединява се на 6 януари 2025 г."
+        }
+      ],
+      "code": "ID"
+    }
+  ]
+}

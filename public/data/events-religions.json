@@ -1,0 +1,647 @@
+{
+  "name": "Религии",
+  "type": "events",
+  "content": "events",
+  "data": [
+    {
+      "id": "58dc6f50-b066-4e0f-9147-0e6417458855",
+      "meta": {
+        "style": {
+          "color": "rgba(180, 83, 9, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Хиндуизъм",
+          "description": "Възникване на хиндуизма — най-старата жива религия в света, зародила се като ведическа религия в Индия (ок. 1500 г. пр.н.е. – днес).",
+          "comment": "Началната дата ~1500 г. пр.н.е. отбелязва средата на 2-ро хилядолетие пр.н.е. — началото на ведическия период, когато се появява Ригведа (~1700–1100 г. пр.н.е.). БГ Уикипедия: ведическата религия се датира \"между средата на 2 хилядолетие пр.н.е. и 6 век пр.н.е.\" Britannica: \"The Vedic period (2nd millennium–7th century bce).\" Ако се проследи до Индската цивилизация (3-то хилядолетие пр.н.е.), хиндуизмът е още по-стар, но ведическият период е по-сигурната отправна точка. Крайна дата няма — религията съществува и днес с над 1.2 милиарда последователи.",
+          "date": {
+            "range": [
+              "-001500-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": -1500
+            }
+          },
+          "sources": [
+            {
+              "name": "Хиндуизъм – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BD%D0%B4%D1%83%D0%B8%D0%B7%D1%8A%D0%BC"
+              ],
+              "from": {
+                "dateYear": -1500
+              },
+              "quote": "Вярванията от един по-късен период, между средата на 2 хилядолетие пр.н.е. и 6 век пр.н.е., вече се определят като историческа ведическа религия."
+            },
+            {
+              "name": "Hinduism – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Hinduism"
+              ],
+              "from": {
+                "dateYear": -500
+              },
+              "quoteOriginal": "This Hindu synthesis emerged after the Vedic period, between c. 500–200 BCE and c. 300 CE.",
+              "quote": "Този индуистки синтез се формира след ведическия период, между ок. 500–200 г. пр.н.е. и ок. 300 г."
+            },
+            {
+              "name": "Hinduism – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Hinduism"
+              ],
+              "from": {
+                "dateYear": -2000
+              },
+              "quoteOriginal": "If the Indus valley civilization (3rd–2nd millennium bce) was the earliest source of these traditions, as some scholars hold, then Hinduism is the oldest living religion on Earth. The Vedic period (2nd millennium–7th century bce).",
+              "quote": "Ако Индската цивилизация (3-то–2-ро хилядолетие пр.н.е.) е най-ранният източник на тези традиции, както смятат някои учени, то хиндуизмът е най-старата жива религия на Земята. Ведическият период (2-ро хилядолетие–7 век пр.н.е.)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "религия",
+        "Индия"
+      ]
+    },
+    {
+      "id": "b68abb1b-5cc6-4c89-82af-be1502e9a4a3",
+      "meta": {
+        "style": {
+          "color": "rgba(30, 64, 175, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Юдаизъм",
+          "description": "Възникване на юдаизма — най-старата монотеистична религия, съществуваща и днес. Произхожда от завета между Бог и патриарха Авраам (ок. 2000–1800 г. пр.н.е. по традиция).",
+          "comment": "Началната дата ~2000 г. пр.н.е. следва традиционното датиране от Авраам. Britannica определя \"biblical Judaism (c. 20th–4th century bce).\" БГ Уикипедия: \"извежда началото си от времето на пророка Авраам преди повече от 3000 години.\" Научният консенсус поставя кристализацията на юдаизма като отделна религия в 1-во хилядолетие пр.н.е., но традицията датира основаването от Авраам. EN Wikipedia: \"Origin: 1st millennium BCE / 20th–18th century BCE (traditional).\" Крайна дата няма — религията съществува и днес.",
+          "date": {
+            "range": [
+              "-002000-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": -2000
+            }
+          },
+          "sources": [
+            {
+              "name": "Юдаизъм – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%AE%D0%B4%D0%B0%D0%B8%D0%B7%D1%8A%D0%BC"
+              ],
+              "from": {
+                "dateYear": -2000
+              },
+              "quote": "Самият юдаизъм извежда началото си от времето на пророка Авраам преди повече от 3000 години. Смятан е за една от най-старите монотеистични религии и е най-старата, съществуваща и днес."
+            },
+            {
+              "name": "Judaism – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Judaism"
+              ],
+              "from": {
+                "dateYear": -2000
+              },
+              "quoteOriginal": "Origin: 1st millennium BCE / 20th–18th century BCE (traditional).",
+              "quote": "Произход: 1-во хилядолетие пр.н.е. / 20–18 век пр.н.е. (по традиция)."
+            },
+            {
+              "name": "Judaism – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Judaism"
+              ],
+              "from": {
+                "dateYear": -2000
+              },
+              "quoteOriginal": "The history of Judaism can be divided into the following major periods: biblical Judaism (c. 20th–4th century bce).",
+              "quote": "Историята на юдаизма може да бъде разделена на следните основни периоди: библейски юдаизъм (ок. 20–4 век пр.н.е.)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "религия"
+      ]
+    },
+    {
+      "id": "06ad3bad-73ed-4234-b961-3cb6e5f08cd3",
+      "meta": {
+        "style": {
+          "color": "rgba(217, 119, 6, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Будизъм",
+          "description": "Възникване на будизма в Индия, основан от Сидхарта Гаутама (Буда). Зароден като шрамана движение в 5 век пр.н.е. (ок. 528 г. пр.н.е. – днес).",
+          "comment": "Началната дата ~528 г. пр.н.е. отговаря на традиционната дата на просветлението на Буда (на 35-годишна възраст, роден ~563 г. пр.н.е.). Britannica: \"Many modern scholars believe that the historical Buddha lived from about 563 to about 483 bce.\" EN Wikipedia: \"It arose in the eastern Gangetic plain as a śramaṇa movement in the 5th century BCE.\" БГ Уикипедия: \"Гаутама е роден в Лумбини...около 563 г. пр.н.е.\" Съществуват алтернативни датировки (~448–368 пр.н.е.), но ~563–483 пр.н.е. остава най-широко приетата. Крайна дата няма — религията съществува и днес с над 500 милиона последователи.",
+          "date": {
+            "range": [
+              "-000528-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": -528
+            }
+          },
+          "sources": [
+            {
+              "name": "Будизъм – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D1%83%D0%B4%D0%B8%D0%B7%D1%8A%D0%BC"
+              ],
+              "from": {
+                "dateYear": -563
+              },
+              "quote": "Гаутама е роден в Лумбини...около 563 г. пр.н.е. Гаутама живее и проповядва в източната част на Индийския субконтинент между VI и IV век пр.н.е."
+            },
+            {
+              "name": "Buddhism – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Buddhism"
+              ],
+              "from": {
+                "dateYear": -500
+              },
+              "quoteOriginal": "It arose in the eastern Gangetic plain as a śramaṇa movement in the 5th century BCE, and gradually spread throughout much of Asia.",
+              "quote": "Възниква в източната Гангска равнина като шрамана движение през 5 век пр.н.е. и постепенно се разпространява в голяма част от Азия."
+            },
+            {
+              "name": "Buddhism – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Buddhism"
+              ],
+              "from": {
+                "dateYear": -563
+              },
+              "to": {
+                "dateYear": -483
+              },
+              "quoteOriginal": "Many modern scholars believe that the historical Buddha lived from about 563 to about 483 bce. Buddhism arose in northeastern India sometime between the late 6th century and the early 4th century bce.",
+              "quote": "Много съвременни учени смятат, че историческият Буда е живял от около 563 до около 483 г. пр.н.е. Будизмът възниква в Североизточна Индия някъде между края на 6 век и началото на 4 век пр.н.е."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "религия",
+        "Индия"
+      ]
+    },
+    {
+      "id": "f71e3fff-9436-4c78-8d70-09da7ce3bf01",
+      "meta": {
+        "style": {
+          "color": "rgba(109, 40, 217, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Християнство",
+          "description": "Възникване на християнството в римската провинция Юдея, основано на живота и учението на Иисус Христос (ок. 30 г. – днес).",
+          "comment": "Началната дата ~30 г. отбелязва началото на служението на Иисус и зараждането на християнското движение. БГ Уикипедия: \"Християнството възниква в римската провинция Юдея (днес част от Израел, Йордания и Палестина) в средата на I век.\" EN Wikipedia: \"Christianity began in the 1st century, after the death of Jesus, as a Judaic sect.\" Britannica: \"Christianity, major religion stemming from the life, teachings, and death of Jesus of Nazareth (the Christ, or the Anointed One of God) in the 1st century ce.\" Старият завет (Еврейската Библия, ~1200–165 г. пр.н.е.) е юдейски текст, приет от християните като свое Свещено писание. Крайна дата няма — най-голямата религия в света с над 2.4 милиарда последователи.",
+          "date": {
+            "range": [
+              "0030-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 30
+            }
+          },
+          "sources": [
+            {
+              "name": "Християнство – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%8F%D0%BD%D1%81%D1%82%D0%B2%D0%BE"
+              ],
+              "from": {
+                "dateYear": 30
+              },
+              "quote": "Християнството възниква в римската провинция Юдея (днес част от Израел, Йордания и Палестина) в средата на I век. За първи път понятието християнин е използвано по отношение на Иисусовите последователи в град Антиохия в около 44 година сл. Хр."
+            },
+            {
+              "name": "Christianity – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Christianity"
+              ],
+              "from": {
+                "dateYear": 30
+              },
+              "quoteOriginal": "Christianity began in the 1st century, after the death of Jesus, as a Judaic sect with Hellenistic influence in the Roman province of Judaea.",
+              "quote": "Християнството започва през 1 век, след смъртта на Иисус, като юдейска секта с елинистично влияние в римската провинция Юдея."
+            },
+            {
+              "name": "Christianity – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Christianity"
+              ],
+              "from": {
+                "dateYear": 30
+              },
+              "quoteOriginal": "Christianity, major religion stemming from the life, teachings, and death of Jesus of Nazareth (the Christ, or the Anointed One of God) in the 1st century ce.",
+              "quote": "Християнството е голяма религия, произтичаща от живота, учението и смъртта на Иисус от Назарет (Христос, или Помазаникът Божи) през 1 век."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "религия"
+      ]
+    },
+    {
+      "id": "7eb1efe7-21ce-46ed-a7fa-227d3624729b",
+      "meta": {
+        "style": {
+          "color": "rgba(5, 150, 105, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Ислям",
+          "description": "Възникване на исляма в Мека, основан от пророка Мохамед след получаване на първото откровение от Аллах (ок. 610 г. – днес).",
+          "comment": "Началната дата 610 г. отбелязва годината, в която Мохамед получава първото си откровение от Аллах. БГ Уикипедия: \"през 610 г. започнало предаването на откровения от Аллах към Мохамед.\" EN Wikipedia: \"The religion of Islam originated in Mecca c. 610 CE.\" Britannica: \"Islam, major world religion promulgated by the Prophet Muhammad in Arabia in the 7th century ce.\" Хиджра (преселението в Медина) е през 622 г. — отбелязва началото на ислямската общност-държава и на мюсюлманския календар. Крайна дата няма — втората по големина религия в света с над 1.9 милиарда последователи.",
+          "date": {
+            "range": [
+              "0610-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 610
+            }
+          },
+          "sources": [
+            {
+              "name": "Ислям – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%98%D1%81%D0%BB%D1%8F%D0%BC"
+              ],
+              "from": {
+                "dateYear": 610
+              },
+              "quote": "През 610 г. започнало предаването на откровения от Аллах към Мохамед. Той е роден през 570 г. в семейство в Мека. Той поема Пророчеството на четиридесетгодишна възраст."
+            },
+            {
+              "name": "Islam – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Islam"
+              ],
+              "from": {
+                "dateYear": 610
+              },
+              "quoteOriginal": "The religion of Islam originated in Mecca c. 610 CE.",
+              "quote": "Религията ислям възниква в Мека ок. 610 г."
+            },
+            {
+              "name": "Islam – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Islam"
+              ],
+              "from": {
+                "dateYear": 622
+              },
+              "quoteOriginal": "Islam, major world religion promulgated by the Prophet Muhammad in Arabia in the 7th century ce. In 622 ce, when the Prophet migrated to Medina, his preaching was soon accepted, and the community-state of Islam emerged.",
+              "quote": "Ислямът е голяма световна религия, разпространена от пророка Мохамед в Арабия през 7 век. През 622 г., когато Пророкът мигрира в Медина, проповедта му е скоро приета и общността-държава на исляма се заражда."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "религия"
+      ]
+    },
+    {
+      "id": "31a30a48-f238-43fb-8648-a703dd766b30",
+      "meta": {
+        "style": {
+          "color": "rgba(185, 28, 28, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Сикхизъм",
+          "description": "Възникване на сикхизма в Пенджаб, основан от гуру Нанак (1469–1539) — монотеистична религия, съчетаваща елементи от хиндуизма и исляма (ок. 1469 г. – днес).",
+          "comment": "Началната дата 1469 г. е годината на раждане на гуру Нанак — основателят на сикхизма. БГ Уикипедия: \"Негов основател е гуру Нанак, роден през 1469 г.\" и \"Като религиозно течение сикхизмът възниква в началото на 16 век в Северозападна Индия.\" EN Wikipedia: \"originated in the Punjab region of the Indian subcontinent around the end of the 15th century CE.\" Britannica: \"founded in the Punjab region of the Indian subcontinent in the late 15th century.\" Традициите и философията на сикхизма са установени от десет гуру от 1469 до 1708 г. Крайна дата няма — религията съществува и днес с над 25 милиона последователи.",
+          "date": {
+            "range": [
+              "1469-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 1469
+            }
+          },
+          "sources": [
+            {
+              "name": "Сикхизъм – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BA%D1%85%D0%B8%D0%B7%D1%8A%D0%BC"
+              ],
+              "from": {
+                "dateYear": 1469
+              },
+              "to": {
+                "dateYear": 1539
+              },
+              "quote": "Сикхизмът е монотеистична религия, възникнала в Индия и първоначално проповядвана от гуру Нанак (1469 – 1539 г.). Като религиозно течение сикхизмът възниква в началото на 16 век в Северозападна Индия."
+            },
+            {
+              "name": "Sikhism – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Sikhism"
+              ],
+              "from": {
+                "dateYear": 1469
+              },
+              "to": {
+                "dateYear": 1539
+              },
+              "quoteOriginal": "Guru Nanak (1469–1539), the faith's first guru. The traditions and philosophy of Sikhism were established by ten gurus from 1469 to 1708.",
+              "quote": "Гуру Нанак (1469–1539), първият гуру на вярата. Традициите и философията на сикхизма са установени от десет гуру от 1469 до 1708 г."
+            },
+            {
+              "name": "Sikhism – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Sikhism"
+              ],
+              "from": {
+                "dateYear": 1469
+              },
+              "to": {
+                "dateYear": 1539
+              },
+              "quoteOriginal": "Sikhism was established by Guru Nanak (1469–1539) and subsequently led by a succession of nine other Gurus.",
+              "quote": "Сикхизмът е основан от гуру Нанак (1469–1539) и впоследствие ръководен от поредица от девет други гуру."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "религия"
+      ]
+    },
+    {
+      "id": "68096b4e-5846-41d3-afa6-ba3f40bedeb8",
+      "meta": {
+        "style": {
+          "color": "rgba(14, 116, 144, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Конфуцианство",
+          "description": "Възникване на конфуцианството — философска и етична система, създадена от Конфуций (551–479 г. пр.н.е.) в Китай (ок. 551 г. пр.н.е. – днес).",
+          "comment": "Началната дата 551 г. пр.н.е. е годината на раждане на Конфуций — основателят на конфуцианството. БГ Уикипедия: \"Конфуцианството...се е зародило в Китай през VI–V век пр.н.е.\" EN Wikipedia: \"Founded by Confucius in the Hundred Schools of Thought era (c. 500 BCE).\" Britannica: \"propagated by Confucius in the 6th–5th century bce.\" Конфуций не се е смятал за създател на нова система, а за предавач на културните ценности на предходните династии Ся, Шан и Западна Джоу. Крайна дата няма — конфуцианството е жива традиция и днес.",
+          "date": {
+            "range": [
+              "-000551-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": -551
+            }
+          },
+          "sources": [
+            {
+              "name": "Конфуцианство – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%84%D1%83%D1%86%D0%B8%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE"
+              ],
+              "from": {
+                "dateYear": -551
+              },
+              "to": {
+                "dateYear": -479
+              },
+              "quote": "Конфуций (551 – 479 пр.н.е.). Конфуцианството, също като и даоизма, се е зародило в Китай през VI–V век пр.н.е. Философската система на конфуцианството е била създадена от Кундзъ (Конфуций)."
+            },
+            {
+              "name": "Confucianism – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Confucianism"
+              ],
+              "from": {
+                "dateYear": -500
+              },
+              "quoteOriginal": "Founded by Confucius in the Hundred Schools of Thought era (c. 500 BCE), Confucianism integrates philosophy, ethics, and social governance, with a core focus on virtue, social harmony, and familial responsibility.",
+              "quote": "Основано от Конфуций в ерата на Стоте школи (ок. 500 г. пр.н.е.), конфуцианството обединява философия, етика и социално управление с основен фокус върху добродетелта, социалната хармония и семейната отговорност."
+            },
+            {
+              "name": "Confucianism – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Confucianism"
+              ],
+              "from": {
+                "dateYear": -551
+              },
+              "to": {
+                "dateYear": -479
+              },
+              "quoteOriginal": "Confucianism, the way of life propagated by Confucius in the 6th–5th century bce and followed by the Chinese people for more than two millennia.",
+              "quote": "Конфуцианството — начин на живот, разпространен от Конфуций през 6–5 век пр.н.е. и следван от китайския народ повече от две хилядолетия."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "религия",
+        "Китай"
+      ]
+    },
+    {
+      "id": "c7208062-d07a-4bfe-8396-a4e14c6667cb",
+      "meta": {
+        "style": {
+          "color": "rgba(75, 85, 99, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Даоизъм",
+          "description": "Възникване на даоизма — философия, религия и начин на живот, зародил се в Китай през 6 век пр.н.е. Приписван на легендарния мъдрец Лао Дзъ (ок. 600 г. пр.н.е. – днес).",
+          "comment": "Началната дата ~600 г. пр.н.е. отбелязва 6 век пр.н.е. — традиционното време на Лао Дзъ. БГ Уикипедия: \"Възникнал през 6 век пр.н.е.\" и \"написването на Дао Дъ Дзин през 6 век пр. Хр. от мъдреца Лао Дзъ.\" Britannica: \"Daoism is a philosophy, a religion, and a way of life that arose in the 6th century BCE.\" Историчността на Лао Дзъ е спорна — много учени го смятат за легендарна фигура. Дао Дъ Дзин се датира между 4 и 6 век пр.н.е. Първата организирана форма на даоизма (Пътят на небесните учители) е от края на 2 век. Крайна дата няма — даоизмът е жива традиция и днес.",
+          "date": {
+            "range": [
+              "-000600-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": -600
+            }
+          },
+          "sources": [
+            {
+              "name": "Даоизъм – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%94%D0%B0%D0%BE%D0%B8%D0%B7%D1%8A%D0%BC"
+              ],
+              "from": {
+                "dateYear": -600
+              },
+              "quote": "Възникнал през 6 век пр.н.е. Написването на Дао Дъ Дзин през 6 век пр. Хр. от мъдреца Лао Дзъ."
+            },
+            {
+              "name": "Taoism – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Taoism"
+              ],
+              "from": {
+                "dateYear": -600
+              },
+              "quoteOriginal": "The Tao Te Ching, attributed to Laozi, was composed between the 4th and 6th century BCE. The core of Taoist thought crystallized during the early Warring States period (c. 450 – c. 300 BCE).",
+              "quote": "Дао Дъ Дзин, приписван на Лао Дзъ, е съставен между 4 и 6 век пр.н.е. Ядрото на даоистката мисъл се кристализира в ранния период на Воюващите държави (ок. 450 – ок. 300 г. пр.н.е.)."
+            },
+            {
+              "name": "Daoism – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Daoism"
+              ],
+              "from": {
+                "dateYear": -600
+              },
+              "quoteOriginal": "Daoism is a philosophy, a religion, and a way of life that arose in the 6th century BCE in what is now the eastern Chinese province of Henan. The founding figure is Laozi, who flourished in the 6th century BCE but about whom little else is known.",
+              "quote": "Даоизмът е философия, религия и начин на живот, възникнал през 6 век пр.н.е. в днешната източна китайска провинция Хънан. Основателят е Лао Дзъ, процъфтявал през 6 век пр.н.е., но за когото малко друго е известно."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "религия",
+        "Китай"
+      ]
+    },
+    {
+      "id": "a187391a-ba36-444e-b08e-3e5db6741ca5",
+      "meta": {
+        "style": {
+          "color": "rgba(2, 132, 199, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Зороастризъм",
+          "description": "Възникване на зороастризма — една от най-старите монотеистични религии в света, основана от пророка Заратустра в древен Иран (ок. 1500 г. пр.н.е. – днес).",
+          "comment": "Началната дата ~1500 г. пр.н.е. отразява корените на зороастризма в индо-иранската религиозна система от II хилядолетие пр.н.е. БГ Уикипедия: \"Зороастризмът води началото си от общата религиозна система на индо-иранците в предисторическото II хилядолетие пр. Хр.\" Датировката на Заратустра е силно спорна: традиционно се отнася към VI век пр.н.е. (гръцки източници), но много съвременни историци го поставят в X век пр.н.е. (БГ Уикипедия: \"живял през X век пр. Хр.\"). EN Wikipedia: \"began during the Avestan period (possibly as early as the 2nd millennium BCE), but was first recorded in the mid-6th century BCE.\" Britannica: \"Zoroastrianism dates back to the 6th century BCE.\" Крайна дата няма — религията съществува и днес с ~100–200 хиляди последователи (парси в Индия и зороастрийци в Иран).",
+          "date": {
+            "range": [
+              "-001500-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": -1500
+            }
+          },
+          "sources": [
+            {
+              "name": "Зороастризъм – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%97%D0%BE%D1%80%D0%BE%D0%B0%D1%81%D1%82%D1%80%D0%B8%D0%B7%D1%8A%D0%BC"
+              ],
+              "from": {
+                "dateYear": -2000
+              },
+              "quote": "Зороастризмът води началото си от общата религиозна система на индо-иранците в предисторическото II хилядолетие пр. Хр. Самият пророк Заратустра, макар и традиционно отнасян към VI век пр. Хр., според много съвременни историци е реформатор на политеистичната иранска религия, живял през X век пр. Хр."
+            },
+            {
+              "name": "Zoroastrianism – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Zoroastrianism"
+              ],
+              "from": {
+                "dateYear": -2000
+              },
+              "quoteOriginal": "Zoroastrianism began during the Avestan period (possibly as early as the 2nd millennium BCE), but was first recorded in the mid-6th century BCE.",
+              "quote": "Зороастризмът започва по време на авестийския период (вероятно още от II хилядолетие пр.н.е.), но е записан за пръв път в средата на VI век пр.н.е."
+            },
+            {
+              "name": "Zoroastrianism – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Zoroastrianism"
+              ],
+              "from": {
+                "dateYear": -600
+              },
+              "quoteOriginal": "Zoroastrianism dates back to the 6th century BCE. The Iranian prophet and religious reformer Zarathushtra (flourished before the 6th century bce).",
+              "quote": "Зороастризмът датира от 6 век пр.н.е. Иранският пророк и религиозен реформатор Заратустра (процъфтявал преди 6 век пр.н.е.)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "религия",
+        "Персия"
+      ]
+    },
+    {
+      "id": "78c87d44-5792-4afe-bd0c-9612cfdfd0fd",
+      "meta": {
+        "style": {
+          "color": "rgba(101, 163, 13, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Джайнизъм",
+          "description": "Възникване на джайнизма — древна дхармическа религия от Индия, свързана с 24-ия Тиртханкара Махавира (ок. 599–527 г. пр.н.е. – днес).",
+          "comment": "Началната дата ~599 г. пр.н.е. следва традиционната дата на раждане на Махавира — 24-ия и последен Тиртханкара. Britannica: \"Although traditionally dated to 599–527 bce.\" EN Wikipedia: \"the 24th tirthankara Mahavira (c. 599 – c. 527 BCE).\" БГ Уикипедия: \"традиционна дхармическа религия, възникнала в Индия през периода от 9 до 6 в. пр.н.е.\" Джайните вярват, че религията им няма исторически основател и е по-стара от Ведите. Историческата наука признава Махавира и неговия предшественик Паршванатха (23-ти Тиртханкара) като реални личности. Крайна дата няма — религията съществува и днес с ~4–5 милиона последователи, предимно в Индия.",
+          "date": {
+            "range": [
+              "-000599-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": -599
+            }
+          },
+          "sources": [
+            {
+              "name": "Джайнизъм – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%94%D0%B6%D0%B0%D0%B9%D0%BD%D0%B8%D0%B7%D1%8A%D0%BC"
+              ],
+              "from": {
+                "dateYear": -900
+              },
+              "quote": "Традиционна дхармическа религия, възникнала в Индия през периода от 9 до 6 в. пр.н.е. За основатели на учението се смятат кшатрий Вардхамана или Джина Махавира."
+            },
+            {
+              "name": "Jainism – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Jainism"
+              ],
+              "from": {
+                "dateYear": -599
+              },
+              "to": {
+                "dateYear": -527
+              },
+              "quoteOriginal": "The 24th tirthankara Mahavira (c. 599 – c. 527 BCE) was a contemporary of the Buddha and a central figure in the Śramaṇa movement.",
+              "quote": "24-ият Тиртханкара Махавира (ок. 599 – ок. 527 г. пр.н.е.) е съвременник на Буда и централна фигура в шраманското движение."
+            },
+            {
+              "name": "Jainism – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Jainism"
+              ],
+              "from": {
+                "dateYear": -599
+              },
+              "to": {
+                "dateYear": -527
+              },
+              "quoteOriginal": "Jainism originated in the 7th–5th century bce in the Ganges basin of eastern India. Although traditionally dated to 599–527 bce, Mahavira must be regarded as a close contemporary. The 24th and last Tirthankara of that age was Vardhamana, who is known by the epithet Mahavira ('Great Hero').",
+              "quote": "Джайнизмът възниква в 7–5 век пр.н.е. в Гангския басейн на Източна Индия. Макар традиционно датиран в 599–527 г. пр.н.е., Махавира трябва да се разглежда като близък съвременник. 24-ият и последен Тиртханкара на тази ера е Вардхамана, известен с прозвището Махавира ('Велик герой')."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "религия",
+        "Индия"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+@reference "../../styles.css";
+
+.footer-nav-link { @apply no-underline text-slate-300 hover:text-white transition-colors font-medium; }
+.footer-github-btn { @apply inline-flex items-center justify-center w-14 h-14 rounded-full bg-slate-700 hover:bg-slate-600 transition-colors; }

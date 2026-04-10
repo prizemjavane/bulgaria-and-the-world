@@ -1,0 +1,52 @@
+<div class="relative z-50">
+  <button class="group-toggle" [class.expanded]="expanded" (click)="toggle.emit()">
+    <svg class="group-chevron" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z" clip-rule="evenodd"/></svg>
+    {{ label }}
+    @if (activeCount) {
+      <span class="group-badge">{{ activeCount }}</span>
+    }
+    @if (activeTagCount) {
+      <span class="group-badge tag-badge">{{ activeTagCount }}</span>
+    }
+  </button>
+  @if (expanded) {
+    <div class="dropdown-popover">
+      <input
+        type="text"
+        [ngModel]="search"
+        (ngModelChange)="searchChange.emit($event)"
+        placeholder="Търси..."
+        class="search-input w-full mb-2"
+      />
+      @if (tags.length) {
+        <div class="flex gap-1.5 flex-wrap items-center mb-2">
+          <span class="text-xs text-slate-400">Тагове:</span>
+          @for (tag of tags; track tag.name) {
+            <button
+              class="px-2 py-0.5 text-sm font-medium rounded-full cursor-pointer transition-all border"
+              [ngClass]="tag.active
+                ? 'border-violet-500 text-violet-700 bg-violet-100'
+                : 'border-violet-200 text-violet-400 bg-violet-50/60 hover:border-violet-400 hover:text-violet-600'"
+              (click)="tagToggle.emit(tag.name)"
+            >{{ tag.name }}</button>
+          }
+          @if (hasAnyActiveTag) {
+            <button class="event-btn clear-btn" (click)="tagsClear.emit()">✕</button>
+          }
+        </div>
+      }
+      <div class="flex gap-1.5 flex-wrap">
+        @for (item of items; track item.id) {
+          <button
+            class="event-btn"
+            [class.active]="activeItems[item.id]"
+            (click)="itemToggle.emit(item.id)"
+          >{{ item.name }}</button>
+        }
+        @if (hasAnyActive) {
+          <button class="event-btn clear-btn" (click)="clearAll.emit()">✕ скрий всички</button>
+        }
+      </div>
+    </div>
+  }
+</div>

@@ -1,0 +1,316 @@
+<div class="page-layout">
+<div class="main-content bg-slate-50 px-6 py-4">
+  <header class="site-header">
+    <img class="site-logo" src="images/logo.svg" alt="България и света" />
+    <h1 class="site-title">България и света</h1>
+  </header>
+  <div class="tab-strip">
+    @if (canScrollLeft()) {
+      <button class="tab-scroll-btn tab-scroll-btn--left" (click)="scrollTabs('left')" tabindex="-1">
+        <lucide-icon name="chevron-left" [size]="14"></lucide-icon>
+      </button>
+    }
+    <nav class="tab-scroll" #tabScroll (scroll)="onTabScroll()" (wheel)="onTabWheel($event)">
+      @for (ds of datasets; track ds.id) {
+        <button
+          class="nav-tab"
+          [class.active]="activeDataset === ds.id"
+          (click)="switchDataset(ds.id)"
+        >{{ ds.label }}</button>
+      }
+    </nav>
+    @if (canScrollRight()) {
+      <button class="tab-scroll-btn tab-scroll-btn--right" (click)="scrollTabs('right')" tabindex="-1">
+        <lucide-icon name="chevron-right" [size]="14"></lucide-icon>
+      </button>
+    }
+  </div>
+  <div class="chart-card">
+    @if (eventGroups.length || lineItems.length || activeDatasetKnowledge()) {
+      @if (isAnyPopoverOpen()) {
+        <div class="fixed inset-0 z-40" (click)="closePopovers()"></div>
+      }
+      <div class="border-t border-slate-100 pt-2 px-2 pb-2">
+        <div class="flex items-center gap-2">
+          @let totalSelected = selectedEventChips().length + selectedLineChips().length + selectedTagChips().length;
+          <div class="btn-group">
+            <app-popover-combined
+              [tabs]="combinedTabs()"
+              [expanded]="combinedPopoverOpen"
+              [totalActiveCount]="combinedTotalActiveCount()"
+              [search]="popoverSearch"
+              [grouped]="totalSelected > 0"
+              (toggle)="toggleCombinedPopover()"
+              (itemToggle)="onCombinedItemToggle($event)"
+              (itemFocus)="onCombinedItemFocus($event)"
+              (tagToggle)="toggleTag($event)"
+              (tagsClear)="clearTags()"
+              (tagsSelectAll)="selectAllTags($event)"
+              (clearTab)="onCombinedClearTab($event)"
+              (selectAllTab)="onCombinedSelectAllTab($event)"
+              (searchChange)="popoverSearch = $event"
+              (clearAll)="clearAllSelected()"
+            />
+            @if (totalSelected) {
+              <button class="selection-panel-toggle grouped" [class.active]="selectionPanelOpen" (click)="selectionPanelOpen = !selectionPanelOpen">
+                <span class="sel-toggle-count">{{ totalSelected }}</span>
+              </button>
+            }
+          </div>
+          <div class="toolbar-divider"></div>
+          <div class="relative z-50">
+            <input
+              type="text"
+              [(ngModel)]="globalSearch"
+              (ngModelChange)="onGlobalSearchChange()"
+              placeholder="Търси..."
+              class="search-input w-44"
+            />
+            @if (globalSearch.trim()) {
+              @let results = globalSearchResults();
+              <div class="dropdown-popover">
+                @if (results.length) {
+                  @for (group of results; track group.group) {
+                    <div class="mb-3 last:mb-0">
+                      <div class="text-xs text-slate-400 font-medium mb-1.5 uppercase tracking-wide">{{ group.group }}</div>
+                      <div class="flex gap-1.5 flex-wrap">
+                        @for (item of group.items; track item.id) {
+                          <button
+                            class="event-btn"
+                            [class.active]="item.type === 'event' ? activeEvents[item.id] : activeLines[item.id]"
+                            (click)="toggleSearchResult(item)"
+                          >{{ item.name }}</button>
+                        }
+                      </div>
+                    </div>
+                  }
+                } @else {
+                  <div class="text-sm text-slate-400 text-center py-2">Няма резултати</div>
+                }
+              </div>
+            }
+          </div>
+          <div class="toolbar-divider"></div>
+          <div class="birth-date-group" [formGroup]="dateForm">
+            <span class="birth-date-label">Един живот</span>
+            <div class="birth-date-inputs">
+              <span class="tooltip-wrap" data-tooltip="Година на раждане">
+                <input type="number" formControlName="year" placeholder="Год." class="bdi bdi-year" max="2030" min="-9000" />
+              </span>
+              <span class="bdi-sep"></span>
+              <span class="tooltip-wrap" data-tooltip="Месец на раждане">
+                <select formControlName="month" class="bdi bdi-month">
+                  <option value="1">Яну</option>
+                  <option value="2">Фев</option>
+                  <option value="3">Мар</option>
+                  <option value="4">Апр</option>
+                  <option value="5">Май</option>
+                  <option value="6">Юни</option>
+                  <option value="7">Юли</option>
+                  <option value="8">Авг</option>
+                  <option value="9">Сеп</option>
+                  <option value="10">Окт</option>
+                  <option value="11">Ное</option>
+                  <option value="12">Дек</option>
+                </select>
+              </span>
+              <span class="bdi-sep"></span>
+              <span class="tooltip-wrap" data-tooltip="Продължителност на живота в години">
+                <input type="number" formControlName="duration" placeholder="Год." class="bdi bdi-duration" min="1" max="100" />
+              </span>
+              @if (dateForm.value.year) {
+                <span class="bdi-sep"></span>
+                <button class="bdi-clear" title="Изчисти" (click)="dateForm.patchValue({ year: null })">
+                  <lucide-icon name="x" [size]="13" />
+                </button>
+              }
+            </div>
+          </div>
+          <div class="toolbar-divider ml-auto"></div>
+          <span class="text-sm text-slate-500 font-medium shrink-0">Настройки</span>
+          <span
+            class="tooltip-wrap"
+            [attr.data-tooltip]="singleSelectionMode() ? 'Многократен избор на събития и личности' : 'Единичен избор'"
+          >
+            <button
+              class="panel-pos-btn"
+              [class.active]="singleSelectionMode()"
+              (click)="singleSelectionMode.set(!singleSelectionMode())"
+            >
+              <lucide-icon name="circle-dot" [size]="15" />
+            </button>
+          </span>
+          <span
+            class="tooltip-wrap"
+            [attr.data-tooltip]="infoPanelPosition() === 'right' ? 'Покажи информацията долу' : 'Покажи информацията вдясно'"
+          >
+            <button class="panel-pos-btn" [class.active]="infoPanelPosition() === 'right'" (click)="toggleInfoPanelPosition()">
+              <lucide-icon name="panel-right" [size]="15" />
+            </button>
+          </span>
+          @if (activeDatasetKnowledge()) {
+            <div class="toolbar-divider"></div>
+            <button
+              class="toolbar-pill"
+              [class.active]="knowledgeOpen"
+              (click)="toggleKnowledge()"
+              title="Историческа справка"
+            >
+              <lucide-icon name="book-open" [size]="14" />
+              Информация
+            </button>
+          }
+        </div>
+      </div>
+    }
+    @if (activeDatasetDescription(); as desc) {
+      <p class="dataset-description">{{ desc }}</p>
+    }
+    <div
+      echarts
+      [options]="chart"
+      (chartInit)="onChartInit($event)"
+      (chartClick)="onChartClick($event)"
+      (chartDataZoom)="onChartDataZoom($event)"
+      style="height: 70vh"
+    ></div>
+  </div>
+  @if (!selectedItem || infoPanelPosition() === 'right') {
+    <div class="dataset-edit">
+      <a [href]="datasetEditUrl()" target="_blank" rel="noopener" class="dataset-edit-link" title="Подобри данните">
+        <lucide-icon name="pencil" [size]="14" />
+        Подобри данните
+      </a>
+    </div>
+  }
+  @if (selectedItem && infoPanelPosition() === 'bottom') {
+    <div class="detail-card-inline">
+      <div class="flex items-start justify-between gap-4">
+        <div>
+          <h3 class="text-xl font-bold text-slate-800">{{ selectedItem.name }}</h3>
+          @if (selectedItem.group) {
+            <span class="text-base text-slate-500">{{ selectedItem.group }}</span>
+          }
+        </div>
+        <button class="text-slate-400 hover:text-slate-600 text-xl leading-none cursor-pointer p-1" (click)="closeDetailCard()">✕</button>
+      </div>
+      <app-detail-card-body [item]="selectedItem" [idCopied]="idCopied" [editUrl]="itemEditUrl()" (copyId)="copyId()" />
+    </div>
+  }
+</div>
+
+<div class="selection-panel" [class.open]="selectionPanelOpen">
+  <div class="sel-panel-header">
+    <span class="sel-panel-title">Избрани</span>
+    <button class="side-panel-close" (click)="selectionPanelOpen = false" aria-label="Затвори">
+      <lucide-icon name="x" [size]="18" />
+    </button>
+  </div>
+  <div class="sel-panel-body">
+    @let allEventChips = selectedEventChips();
+    @let lineChips = selectedLineChips();
+    @let tagChips = selectedTagChips();
+    @if (allEventChips.length || lineChips.length || tagChips.length) {
+      <div class="sel-panel-toolbar">
+        <div class="sel-sort-row">
+          <button class="sel-sort-btn" [class.active]="selPanelSortField === 'name'" (click)="toggleSelPanelSort('name')">
+            Име
+            @if (selPanelSortField === 'name') {
+              <lucide-icon class="sel-sort-arrow" [class.desc]="selPanelSortDir === 'desc'" name="chevron-down" [size]="10" />
+            }
+          </button>
+          <button class="sel-sort-btn" [class.active]="selPanelSortField === 'date'" (click)="toggleSelPanelSort('date')">
+            Дата
+            @if (selPanelSortField === 'date') {
+              <lucide-icon class="sel-sort-arrow" [class.desc]="selPanelSortDir === 'desc'" name="chevron-down" [size]="10" />
+            }
+          </button>
+        </div>
+        <button class="sel-clear-all" (click)="clearAllSelected()">Изчисти всички</button>
+      </div>
+      @for (group of eventGroups; track group.name) {
+        @let groupChips = sortedEventChips(filterChipsByGroup(allEventChips, group.name));
+        @if (groupChips.length) {
+          <div class="sel-group-header">{{ group.name }}</div>
+          @for (chip of groupChips; track chip.id) {
+            <div class="sel-item" [class.active]="selectedItem?.id === chip.id">
+              <div class="sel-item-content">
+                <button class="sel-item-name" [ngClass]="'sel-item-name--' + chipGroupClass(chip.group)" (click)="highlightChipEvent(chip.id)">{{ chip.name }}</button>
+                @if (chip.dateRange) { <span class="sel-item-date">{{ chip.dateRange }}</span> }
+              </div>
+              <button class="sel-remove" (click)="toggleEvent(chip.id)"><lucide-icon name="x" [size]="13" /></button>
+            </div>
+          }
+        }
+      }
+      @if (lineChips.length) {
+        <div class="sel-group-header">Дати</div>
+        @for (chip of sortedLineChips(lineChips); track chip.key) {
+          <div class="sel-item" [class.active]="selectedItem?.id === chip.key">
+            <div class="sel-item-content">
+              <button class="sel-item-name sel-item-name--dates" (click)="highlightChipLine(chip.key)">{{ chip.name }}</button>
+              @if (chip.dateRange) { <span class="sel-item-date">{{ chip.dateRange }}</span> }
+            </div>
+            <button class="sel-remove" (click)="toggleLine(chip.key)"><lucide-icon name="x" [size]="13" /></button>
+          </div>
+        }
+      }
+      @if (tagChips.length) {
+        <div class="sel-group-header">Тагове</div>
+        @for (chip of tagChips; track chip.name) {
+          <div class="sel-item">
+            <div class="sel-item-content">
+              <span class="sel-item-name sel-item-name--tags">#{{ chip.name }}</span>
+            </div>
+            <button class="sel-remove" (click)="toggleTag(chip.name)"><lucide-icon name="x" [size]="13" /></button>
+          </div>
+        }
+      }
+    } @else {
+      <p class="sel-empty">Няма избрани елементи</p>
+    }
+  </div>
+</div>
+
+<div class="detail-panel" [class.open]="selectedItem && infoPanelPosition() === 'right'">
+  @if (selectedItem) {
+    <div class="detail-panel-header">
+      <div class="detail-panel-title">
+        <h3 class="text-lg font-bold text-slate-800 leading-tight">{{ selectedItem.name }}</h3>
+        @if (selectedItem.group) {
+          <span class="text-sm text-slate-500">{{ selectedItem.group }}</span>
+        }
+      </div>
+      <button class="side-panel-close" (click)="closeDetailCard()" aria-label="Затвори">
+        <lucide-icon name="x" [size]="18" />
+      </button>
+    </div>
+    <div class="detail-panel-body">
+      <app-detail-card-body [item]="selectedItem" [idCopied]="idCopied" [editUrl]="itemEditUrl()" [compact]="true" (copyId)="copyId()" />
+    </div>
+  }
+</div>
+
+<div class="knowledge-panel" [class.open]="knowledgeOpen">
+  <div class="knowledge-panel-header">
+    <button class="side-panel-close" (click)="toggleKnowledge()" aria-label="Затвори">
+      <lucide-icon name="x" [size]="18" />
+    </button>
+  </div>
+  <div class="knowledge-panel-body">
+    @if (knowledgeHtml()) {
+      <article class="about-prose" [innerHTML]="knowledgeHtml()"></article>
+      <div class="knowledge-edit">
+        <a [href]="knowledgeEditUrl()" target="_blank" rel="noopener" class="knowledge-edit-link">
+          <lucide-icon name="pencil" [size]="14" />
+          Редактирай в GitHub
+        </a>
+      </div>
+    } @else {
+      <div class="knowledge-loading">
+        <div class="knowledge-spinner"></div>
+      </div>
+    }
+  </div>
+</div>
+</div>

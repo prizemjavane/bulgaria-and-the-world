@@ -1,0 +1,69 @@
+<div [class]="compact ? 'item-dates-compact' : 'item-dates'">
+  <span class="item-date-range">{{ item.dateRange }}</span>
+  @if (item.duration) {
+    <span class="text-slate-400">{{ item.duration }}</span>
+  }
+  @let sign = item.birthDate | starSign;
+  @if (sign) {
+    <span class="star-sign-badge" [title]="'Зодиакален знак: ' + sign">{{ sign }}</span>
+  }
+</div>
+@if (item.description) {
+  <p [class]="compact ? 'item-description-compact' : 'item-description'">{{ item.description }}</p>
+}
+@if (item.comment) {
+  <p class="mt-2 text-base text-slate-500 italic">{{ item.comment }}</p>
+}
+@if (item.sources?.length) {
+  <div class="mt-5 border-t border-slate-100 pt-4 space-y-3">
+    @for (src of item.sources; track src.name) {
+      <div [class]="'source-card' + (src.quote || src.quoteOriginal ? ' source-card-quoted' : '')">
+        @if (src.quote) {
+          <blockquote class="blockquote-quote">{{ src.quote }}</blockquote>
+        }
+        @if (src.quoteOriginal) {
+          <blockquote class="blockquote-original">{{ src.quoteOriginal }}</blockquote>
+        }
+        @if (src.comment) {
+          <p class="text-sm text-amber-600 italic">{{ src.comment }}</p>
+        }
+        <div class="source-link-row">
+          @if (src.url.length) {
+            <span [class]="isYoutube(src) ? 'source-icon source-icon-youtube' : 'source-icon'">
+              <lucide-icon [name]="isYoutube(src) ? 'play' : 'book-open'" [size]="14" />
+            </span>
+            <a [href]="src.url[0]" target="_blank" rel="noopener" class="source-link">{{ src.name }}</a>
+            <lucide-icon name="external-link" [size]="12" class="source-external" />
+            <div class="source-tooltip">
+              <div class="source-tooltip-name">{{ src.name }}</div>
+              <div class="source-tooltip-url">{{ src.url[0] }}</div>
+            </div>
+          } @else {
+            <span class="source-icon">
+              <lucide-icon name="book-open" [size]="14" />
+            </span>
+            <span class="text-sm text-slate-600">{{ src.name }}</span>
+          }
+        </div>
+      </div>
+    }
+  </div>
+}
+@if (item.id || item.file) {
+  <div [class]="compact ? 'card-footer-compact' : 'card-footer'">
+    @if (item.id) {
+      <div class="card-id">
+        <span class="card-id-text">{{ item.id }}</span>
+        <button class="card-copy-btn" (click)="copyId.emit()" [title]="idCopied ? 'Копирано!' : 'Копирай ID'">
+          <lucide-icon [name]="idCopied ? 'check' : 'clipboard-copy'" [size]="13" />
+        </button>
+      </div>
+    }
+    @if (item.file) {
+      <a [href]="editUrl" target="_blank" rel="noopener" class="card-improve-btn">
+        <lucide-icon name="pencil" [size]="14" />
+        Подобри данните
+      </a>
+    }
+  </div>
+}

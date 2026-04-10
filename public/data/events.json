@@ -1,0 +1,2936 @@
+{
+  "name": "Събития",
+  "type": "events",
+  "content": "events",
+  "data": [
+    {
+      "id": "0dec78a2-8614-44a9-a3d9-98d99ff515c7",
+      "meta": {
+        "style": {
+          "color": "rgba(202, 166, 76, 0.25)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Египетските пирамиди",
+          "description": "Строителство на Египетските пирамиди (ок. 2630 – 2325 г. пр.н.е.)",
+          "comment": "Обхваща ерата на масово строителство на пирамиди в Древен Египет — от пирамидата на Джосер (първата египетска пирамида, ок. 2630 г. пр.н.е.) до края на VI династия (ок. 2325 г. пр.н.е.), когато строителството на пирамиди до голяма степен спира. Britannica определя този период (III–VI династия) като 'pyramid age par excellence'. По-късно пирамиди се строят отново в Нубия и при Средното царство, но в много по-малък мащаб.",
+          "date": {
+            "range": [
+              "-002630-01-01",
+              "-002325-12-31"
+            ],
+            "from": {
+              "dateYear": -2630
+            },
+            "to": {
+              "dateYear": -2325
+            }
+          },
+          "sources": [
+            {
+              "name": "Египетски пирамиди – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%81%D0%BA%D0%B8_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B8"
+              ],
+              "from": {
+                "dateYear": -2630
+              },
+              "to": {
+                "dateYear": -2611
+              },
+              "quote": "Пирамидата на Джосер (строена от 2630 до 2611 г. пр. Хр.)"
+            },
+            {
+              "name": "Egyptian pyramids – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Egyptian_pyramids"
+              ],
+              "from": {
+                "dateYear": -2630
+              },
+              "to": {
+                "dateYear": -2610
+              },
+              "quoteOriginal": "The Pyramid of Djoser was first built as a square mastaba-like structure...built c. 2630–2610 BCE. By the end of the 6th Dynasty, pyramid building had largely ended.",
+              "quote": "Пирамидата на Джосер е построена ок. 2630–2610 г. пр.н.е. До края на VI династия строителството на пирамиди до голяма степен спира."
+            },
+            {
+              "name": "Pyramid – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/technology/pyramid-architecture"
+              ],
+              "from": {
+                "dateYear": -2686
+              },
+              "to": {
+                "dateYear": -2325
+              },
+              "quoteOriginal": "The pyramid age par excellence was that commencing with the 3rd dynasty and ending at roughly the 6th (c. 2686–2325 BCE).",
+              "quote": "Ерата на пирамидите пар екселанс е периодът от III до VI династия (ок. 2686–2325 г. пр.н.е.)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5e8345a8-c401-4e7a-9546-d0c8afe30138",
+      "meta": {
+        "style": {
+          "color": "rgba(180, 83, 9, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Големият сфинкс в Гиза",
+          "description": "Построяване на Големия сфинкс в Гиза (ок. 2558 – 2532 г. пр.н.е.)",
+          "comment": "Повечето учени датират Големия сфинкс в епохата на IV династия и го приписват на фараон Хефрен (ок. 2558–2532 г. пр.н.е.). Съществуват алтернативни теории, че е построен от по-стария му брат Джедефра в чест на баща им Хуфу, или от самия Хуфу (ок. 2590–2566 г. пр.н.е.). Българската Уикипедия датира строителството в XXVI в. пр.н.е., което съвпада с управлението на Хефрен. Датите обхващат управлението на Хефрен като най-вероятния период на построяване.",
+          "date": {
+            "range": [
+              "-002558-01-01",
+              "-002532-12-31"
+            ],
+            "from": {
+              "dateYear": -2558
+            },
+            "to": {
+              "dateYear": -2532
+            }
+          },
+          "sources": [
+            {
+              "name": "Големият сфинкс – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%B5%D0%BC%D0%B8%D1%8F%D1%82_%D1%81%D1%84%D0%B8%D0%BD%D0%BA%D1%81"
+              ],
+              "from": {
+                "dateYear": -2600
+              },
+              "to": {
+                "dateYear": -2500
+              },
+              "quote": "Изграждане: XXVI век пр.н.е."
+            },
+            {
+              "name": "Great Sphinx of Giza – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Great_Sphinx_of_Giza"
+              ],
+              "from": {
+                "dateYear": -2558
+              },
+              "to": {
+                "dateYear": -2532
+              },
+              "quoteOriginal": "Archaeological evidence suggests the Sphinx was created by Egyptians of the Old Kingdom during the reign of Khufu (c. 2590–2566 BC) or Khafre (c. 2558–2532 BC).",
+              "quote": "Археологическите доказателства сочат, че Сфинксът е създаден от египтяните от Старото царство по време на управлението на Хуфу (ок. 2590–2566 г. пр.н.е.) или Хефрен (ок. 2558–2532 г. пр.н.е.)."
+            },
+            {
+              "name": "Great Sphinx – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Great-Sphinx"
+              ],
+              "from": {
+                "dateYear": -2472
+              },
+              "to": {
+                "dateYear": -2448
+              },
+              "quoteOriginal": "Great Sphinx of Giza, colossal limestone statue of a recumbent sphinx located in Giza, Egypt, that likely dates from the reign of King Khafre (c. 2472–c. 2448 BCE). Most scholars date the Great Sphinx to the 4th dynasty and affix ownership to Khafre.",
+              "quote": "Големият сфинкс в Гиза, колосална варовикова статуя на лежащ сфинкс в Гиза, Египет, вероятно датираща от управлението на фараон Хефрен (ок. 2472–ок. 2448 г. пр.н.е.). Повечето учени датират Големия сфинкс в IV династия и го приписват на Хефрен."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ac2eaebe-07c9-4da7-ae13-8fc1c23f5a55",
+      "meta": {
+        "visible": false,
+        "style": {
+          "color": {
+            "type": "linear",
+            "x": 0,
+            "y": 0,
+            "x2": 1,
+            "y2": 0,
+            "colorStops": [
+              {
+                "offset": 0,
+                "color": "rgba(255, 215, 0, 1)"
+              },
+              {
+                "offset": 1,
+                "color": "rgba(255, 215, 0, 0)"
+              }
+            ]
+          }
+        }
+      },
+      "periods": [
+        {
+          "name": "Маат",
+          "description": "Маат",
+          "date": {
+            "range": [
+              "-003100-01-01",
+              "-001550-01-01"
+            ]
+          },
+          "sources": [
+            {
+              "name": "World War I – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/World_War_I"
+              ],
+              "date": "1914-07-28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19d40e51-0710-4cc9-a328-123077257762",
+      "meta": {
+        "style": {
+          "color": "rgba(139, 92, 246, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Провадия-Солницата",
+          "description": "Провадия-Солницата — праисторическо селище и най-старият център за производство на сол в Европа (ок. 5500 – 4200 г. пр.н.е.)",
+          "comment": "Праисторическото селище Солницата край Провадия е най-старият център за производство на сол в континентална Европа. Датите следват БГ Уикипедия: ок. 5500–4200 г. пр.н.е. Разцветът е между 4700 и 4300 г. пр.н.е. Селището е унищожено от силно земетресение. Откритите златни украшения са сред най-старите в Европа.",
+          "date": {
+            "range": [
+              "-005600-01-01",
+              "-004350-12-31"
+            ],
+            "from": {
+              "dateYear": -5600
+            },
+            "to": {
+              "dateYear": -4350
+            }
+          },
+          "sources": [
+            {
+              "name": "Солницата – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B8%D1%86%D0%B0%D1%82%D0%B0"
+              ],
+              "from": {
+                "dateYear": -5500
+              },
+              "to": {
+                "dateYear": -4200
+              },
+              "quote": "Праисторическото селище Солницата (около 5500–4200 г. пр. Хр.) възниква в непосредствена близост до извори с повишено съдържание на сол."
+            },
+            {
+              "name": "Solnitsata – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Solnitsata"
+              ],
+              "from": {
+                "dateYear": -5500
+              },
+              "to": {
+                "dateYear": -4200
+              },
+              "quoteOriginal": "It is the oldest salt production center in continental Europe (5500–4200 BC).",
+              "quote": "Това е най-старият център за производство на сол в континентална Европа (5500–4200 г. пр.н.е.)."
+            },
+            {
+              "name": "Провадия-Солницата — официален сайт",
+              "url": [
+                "https://www.provadia-solnitsata.com/bg/"
+              ],
+              "from": {
+                "dateYear": -5600
+              },
+              "to": {
+                "dateYear": -4350
+              },
+              "quote": "Провадия-Солницата — най-старият солодобивен и градски център в Европа (5600–4350 г. пр.н.е.)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4018fe86-728f-4cae-8ec4-4fd1db036f8f",
+      "meta": {
+        "style": {
+          "color": "rgba(250, 204, 21, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Варненски некропол",
+          "description": "Варненски халколитен некропол — най-старото обработено злато в света (ок. 4600 – 4200 г. пр.н.е.)",
+          "comment": "Варненският некропол съдържа най-старото известно обработено злато в света — над 3000 златни артефакта с общо тегло около 6 кг. Гроб 43 съдържа повече злато от всички останали находки от същата епоха по света взети заедно. Радиовъглеродното датиране (2006 г.) определя гробовете в периода 4569–4340 г. пр.н.е. БГ Уикипедия дава консенсусен диапазон 4550–4350 г. пр.н.е. Използван е по-широкият диапазон 4600–4200 г. пр.н.е., който обхваща златните артефакти.",
+          "date": {
+            "range": [
+              "-004600-01-01",
+              "-004200-12-31"
+            ],
+            "from": {
+              "dateYear": -4600
+            },
+            "to": {
+              "dateYear": -4200
+            }
+          },
+          "sources": [
+            {
+              "name": "Варненски халколитен некропол – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B8_%D1%85%D0%B0%D0%BB%D0%BA%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD_%D0%BD%D0%B5%D0%BA%D1%80%D0%BE%D0%BF%D0%BE%D0%BB"
+              ],
+              "from": {
+                "dateYear": -4600
+              },
+              "to": {
+                "dateYear": -4200
+              },
+              "quote": "Некрополът е датиран към средата и втората половина на V-то хилядолетие пр. Хр. Датирането на комплекса попада в интервала около 4600–4400 г. пр. Хр."
+            },
+            {
+              "name": "Varna Necropolis – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Varna_Necropolis"
+              ],
+              "from": {
+                "dateYear": -4569
+              },
+              "to": {
+                "dateYear": -4340
+              },
+              "quoteOriginal": "The graves have been dated to 4569–4340 BC by radiocarbon dating in 2006. Grave 43 contained more gold than has been found in the entire rest of the world for that epoch.",
+              "quote": "Гробовете са датирани към 4569–4340 г. пр.н.е. чрез радиовъглеродно датиране от 2006 г. Гроб 43 съдържа повече злато от всички останали находки от тази епоха по света."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9e378328-bce4-4081-a746-77da8f1877aa",
+      "meta": {
+        "style": {
+          "color": "rgba(234, 88, 12, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Панагюрско съкровище",
+          "description": "Панагюрско златно съкровище — тракийски златен комплект от 9 съда (ок. IV – III в. пр.н.е.)",
+          "comment": "Панагюрското съкровище е тракийски златен комплект от 9 съда с общо тегло 6,164 кг, открит на 8 декември 1949 г. край Панагюрище. Датира от края на IV и началото на III в. пр.н.е. Смята се, че е принадлежал на владетел на племето одриси. В стила и украсата се съчетават тракийски и елински влияния.",
+          "date": {
+            "range": [
+              "-000400-01-01",
+              "-000300-12-31"
+            ],
+            "from": {
+              "dateYear": -400
+            },
+            "to": {
+              "dateYear": -300
+            }
+          },
+          "sources": [
+            {
+              "name": "Панагюрско съкровище – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B0%D0%B3%D1%8E%D1%80%D1%81%D0%BA%D0%BE_%D1%81%D1%8A%D0%BA%D1%80%D0%BE%D0%B2%D0%B8%D1%89%D0%B5"
+              ],
+              "from": {
+                "dateYear": -400
+              },
+              "to": {
+                "dateYear": -300
+              },
+              "quote": "Смята се, че комплектът е принадлежал на владетел на племето одриси от края на IV и началото на III в. пр.н.е."
+            },
+            {
+              "name": "Panagyurishte Treasure – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Panagyurishte_Treasure"
+              ],
+              "from": {
+                "dateYear": -400
+              },
+              "to": {
+                "dateYear": -300
+              },
+              "quoteOriginal": "It is dated from the turn of the 4th-3rd centuries BC. Created: 400 BC – 300 BC.",
+              "quote": "Датира от прехода между IV и III в. пр.н.е. Създадено: 400–300 г. пр.н.е."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de7da109-29a6-42ac-bcac-32c4d8faab11",
+      "meta": {
+        "style": {
+          "color": "rgba(5, 150, 105, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Перперикон",
+          "description": "Перперикон — скално светилище и град в Източните Родопи (ок. 5000 г. пр.н.е. – 1362 г.)",
+          "comment": "Перперикон е един от най-значимите археологически обекти в България с непрекъснато обитаване от около 5000 г. пр.н.е. до XIV в. Началната дата е най-ранното засвидетелствано обитаване (VI хил. пр.н.е. по БГ Уикипедия, 5000 г. пр.н.е. по EN Wikipedia). Крайната дата е 1362 г., когато градът е унищожен от османските турци. През античността е бил вероятно храм на Дионис, споменат от Херодот.",
+          "date": {
+            "range": [
+              "-005000-01-01",
+              "1362-12-31"
+            ],
+            "from": {
+              "dateYear": -5000
+            },
+            "to": {
+              "dateYear": 1362
+            }
+          },
+          "sources": [
+            {
+              "name": "Перперикон – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%BF%D0%B5%D1%80%D0%B8%D0%BA%D0%BE%D0%BD"
+              ],
+              "from": {
+                "dateYear": -6000
+              },
+              "to": {
+                "dateYear": 1362
+              },
+              "quote": "Свещеният хилядолетен град е унищожен от османските турци в 1362 г."
+            },
+            {
+              "name": "Perperikon – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Perperikon"
+              ],
+              "from": {
+                "dateYear": -5000
+              },
+              "to": {
+                "dateYear": 1400
+              },
+              "quoteOriginal": "Human activity in the area dates back to 5000 BCE. Abandoned in the 14th century.",
+              "quote": "Човешката дейност в района датира от 5000 г. пр.н.е. Изоставен през XIV в."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0879104d-fd3a-460f-ae42-ab61add0c122",
+      "meta": {
+        "style": {
+          "color": "rgba(56, 189, 248, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Стоунхендж",
+          "description": "Стоунхендж — мегалитен паметник в Англия (ок. 3000 – 1520 г. пр.н.е.)",
+          "comment": "Стоунхендж е строен и модифициран в шест етапа в продължение на около 1500 години. Britannica датира строителството между 3000 и 1520 г. пр.н.е. EN Wikipedia дава малко по-широк диапазон: 3100–1600 г. пр.н.е. БГ Уикипедия посочва 30–21 в. пр.н.е. и начало около 3000 г. пр.н.е. Използвани са датите на Britannica като най-прецизни.",
+          "date": {
+            "range": [
+              "-003000-01-01",
+              "-001520-12-31"
+            ],
+            "from": {
+              "dateYear": -3000
+            },
+            "to": {
+              "dateYear": -1520
+            }
+          },
+          "sources": [
+            {
+              "name": "Стоунхендж – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D1%83%D0%BD%D1%85%D0%B5%D0%BD%D0%B4%D0%B6"
+              ],
+              "from": {
+                "dateYear": -3000
+              },
+              "quote": "Останките на мегалитната структура позволяват да се установи, че тя е изграждана и модифицирана в течение на повече от 1000 години, започвайки приблизително около 3000 г. пр.н.е."
+            },
+            {
+              "name": "Stonehenge – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Stonehenge"
+              ],
+              "from": {
+                "dateYear": -3100
+              },
+              "to": {
+                "dateYear": -1600
+              },
+              "quoteOriginal": "Stonehenge was constructed in several phases beginning about 3100 BC and continuing until about 1600 BC.",
+              "quote": "Стоунхендж е строен на няколко етапа, започвайки около 3100 г. пр.н.е. и продължавайки до около 1600 г. пр.н.е."
+            },
+            {
+              "name": "Stonehenge – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Stonehenge"
+              ],
+              "from": {
+                "dateYear": -3000
+              },
+              "to": {
+                "dateYear": -1520
+              },
+              "quoteOriginal": "Stonehenge was built in six stages between 3000 and 1520 bce, during the transition from the Neolithic Period to the Bronze Age.",
+              "quote": "Стоунхендж е построен в шест етапа между 3000 и 1520 г. пр.н.е., по време на прехода от неолита към бронзовата епоха."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13087ddf-5f55-4082-91e4-38de73fde46b",
+      "meta": {
+        "style": {
+          "color": "rgba(244, 63, 94, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Петра",
+          "description": "Петра — набатейска столица, издълбана в скалите на Йордания (ок. 312 г. пр.н.е. – 106 г.)",
+          "comment": "Датите обхващат набатейския период на Петра — от първото документирано присъствие на набатеите (312 г. пр.н.е., когато селевкидите атакуват неуспешно) до римското завоевание през 106 г. Районът е обитаван много по-рано (от ок. 7000 г. пр.н.е.), а едомците живеят там от ок. 1200 г. пр.н.е. Градът продължава да съществува и след римското завоевание до голямото земетресение от 551 г., но основните скални паметници са набатейски.",
+          "date": {
+            "range": [
+              "-000312-01-01",
+              "0106-12-31"
+            ],
+            "from": {
+              "dateYear": -312
+            },
+            "to": {
+              "dateYear": 106
+            }
+          },
+          "sources": [
+            {
+              "name": "Петра – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%B0"
+              ],
+              "from": {
+                "dateYear": -400
+              },
+              "to": {
+                "dateYear": 106
+              },
+              "quote": "Към IV век пр.н.е. Петра е населявана от набатеите. През 106 г. римският управител на Сирия завладява държавата на набатеите."
+            },
+            {
+              "name": "Petra – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Petra"
+              ],
+              "from": {
+                "dateYear": -312
+              },
+              "to": {
+                "dateYear": 106
+              },
+              "quoteOriginal": "Petra flourished in the 1st century AD, when its Al-Khazneh structure was constructed, and its population peaked at an estimated 20,000 inhabitants. Nabataea fell to the Romans in 106 AD.",
+              "quote": "Петра процъфтява през I в., когато е построен Ал-Хазне, а населението достига около 20 000 души. Набатея пада под римска власт през 106 г."
+            },
+            {
+              "name": "Petra – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Petra-ancient-city-Jordan"
+              ],
+              "from": {
+                "dateYear": -312
+              },
+              "to": {
+                "dateYear": 106
+              },
+              "quoteOriginal": "In 312 bce the region was attacked by Seleucid forces, who failed to seize the city. When the Nabataeans were defeated by the Romans in 106 ce, Petra became part of the Roman province of Arabia.",
+              "quote": "През 312 г. пр.н.е. районът е атакуван от селевкидски сили, които не успяват да превземат града. Когато набатеите са победени от римляните през 106 г., Петра става част от римската провинция Арабия."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2e4f4cd3-6e63-4130-a28f-407e70ca6cab",
+      "datasets": [
+        "nations",
+        "eurozone",
+        "nato",
+        "eu",
+        "brics",
+        "crimea",
+        "pacts",
+        "ussr",
+        "worldorder",
+        "politics",
+        "eaeu"
+      ],
+      "meta": {
+        "style": {
+          "color": "rgba(120, 53, 15, 0.25)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Първата световна война",
+          "description": "Първата световна война (1914 – 1918)",
+          "date": {
+            "range": [
+              "1914-07-28",
+              "1918-11-11"
+            ]
+          },
+          "sources": [
+            {
+              "name": "Първа световна война – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%8A%D1%80%D0%B2%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0"
+              ],
+              "from": {
+                "date": "1914-07-28"
+              },
+              "to": {
+                "date": "1918-11-11"
+              },
+              "quote": "Първата световна война е военен конфликт, продължил от 28 юли 1914 до 11 ноември 1918 година."
+            },
+            {
+              "name": "World War I – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/World_War_I"
+              ],
+              "from": {
+                "date": "1914-07-28"
+              },
+              "to": {
+                "date": "1918-11-11"
+              },
+              "quoteOriginal": "World War I, or the First World War (28 July 1914 – 11 November 1918), also known as the Great War, was a global conflict between two coalitions: the Allies (or Entente) and the Central Powers.",
+              "quote": "Първата световна война (28 юли 1914 – 11 ноември 1918), известна и като Голямата война, е глобален конфликт между две коалиции: Съюзниците (Антантата) и Централните сили."
+            },
+            {
+              "name": "World War I – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/event/World-War-I"
+              ],
+              "from": {
+                "dateYear": 1914
+              },
+              "to": {
+                "dateYear": 1918
+              },
+              "quoteOriginal": "World War I (1914–18) was an international conflict that embroiled most of the nations of Europe along with Russia, the U.S., the Middle East, and other regions.",
+              "quote": "Първата световна война (1914–18) е международен конфликт, в който участват повечето европейски нации заедно с Русия, САЩ, Близкия изток и други региони."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e56344ba-e9b1-4faa-87a6-42c0d6c081df",
+      "datasets": [
+        "nations",
+        "eurozone",
+        "nato",
+        "eu",
+        "brics",
+        "crimea",
+        "pacts",
+        "ussr",
+        "worldorder",
+        "politics",
+        "eaeu"
+      ],
+      "meta": {
+        "style": {
+          "color": "rgba(127, 29, 29, 0.28)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Втората световна война",
+          "description": "Втората световна война (1939 – 1945)",
+          "date": {
+            "range": [
+              "1939-09-01",
+              "1945-09-02"
+            ]
+          },
+          "sources": [
+            {
+              "name": "Втора световна война – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%BD%D0%B0_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0"
+              ],
+              "from": {
+                "date": "1939-09-01"
+              },
+              "to": {
+                "date": "1945-09-02"
+              },
+              "quote": "Втората световна война е глобална война, която продължава от 1 септември 1939 г. до 2 септември 1945 г."
+            },
+            {
+              "name": "World War II – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/World_War_II"
+              ],
+              "from": {
+                "date": "1939-09-01"
+              },
+              "to": {
+                "date": "1945-09-02"
+              },
+              "quoteOriginal": "World War II, or the Second World War (1 September 1939 – 2 September 1945), was a global conflict between two coalitions: the Allies and the Axis powers.",
+              "quote": "Втората световна война (1 септември 1939 – 2 септември 1945) е глобален конфликт между две коалиции: Съюзниците и силите на Оста."
+            },
+            {
+              "name": "World War II – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/event/World-War-II"
+              ],
+              "from": {
+                "dateYear": 1939
+              },
+              "to": {
+                "dateYear": 1945
+              },
+              "quoteOriginal": "World War II, conflict that involved virtually every part of the world during the years 1939–45.",
+              "quote": "Втората световна война е конфликт, обхванал практически целия свят през годините 1939–45."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "187d40f0-af59-4341-8303-cb13dca555a5",
+      "datasets": [
+        "nations",
+        "eurozone",
+        "nato",
+        "eu",
+        "brics",
+        "crimea",
+        "pacts",
+        "ussr",
+        "worldorder",
+        "politics",
+        "eaeu"
+      ],
+      "meta": {
+        "style": {
+          "color": "rgba(30, 64, 175, 0.18)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Студената война",
+          "description": "Студената война (1947–1991) е период на идеологическо и геополитическо противопоставяне между Западния блок начело със САЩ и Източния блок начело със СССР, характеризиращ се с шпионаж, прокси войни и ядрено надпреварване, но без пряк военен сблъсък между двете суперсили. Започва с Доктрината Труман (12 март 1947 г.) и Плана Маршал, минава през Берлинската блокада (1948–1949), Корейската война (1950–1953), Карибската криза (октомври 1962 г. — най-близкият момент до ядрена война), Виетнамската война, разведряването (SALT, Хелзинкската конференция 1975 г.), Съветско-афганистанската война (1979–1989) и завършва с реформите на Горбачов (гласност и перестройка), падането на Берлинската стена (9 ноември 1989 г.) и разпадането на Съветския съюз (26 декември 1991 г.).",
+          "date": {
+            "range": [
+              "1947-03-12",
+              "1991-12-26"
+            ]
+          },
+          "sources": [
+            {
+              "name": "Truman Doctrine – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Truman_Doctrine"
+              ],
+              "date": "1947-03-12"
+            },
+            {
+              "name": "Dissolution of the Soviet Union – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union"
+              ],
+              "date": "1991-12-26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ad6c2b2-f429-4917-a245-4a22c8d8087b",
+      "meta": {
+        "style": {
+          "color": "rgba(6, 95, 70, 0.22)"
+        }
+      },
+      "datasets": [
+        "nations",
+        "eurozone",
+        "nato",
+        "eu",
+        "brics",
+        "crimea",
+        "pacts",
+        "ussr",
+        "worldorder",
+        "politics",
+        "eaeu"
+      ],
+      "periods": [
+        {
+          "name": "Разпадане на СССР",
+          "description": "Падане на Берлинската стена на 9 ноември 1989 г. и последвалото разпадане на Съветския съюз, приключило с официалното му прекратяване на 26 декември 1991 г. Периодът обхваща Кадифената революция в Източна Европа, обединението на Германия (3 октомври 1990), неуспешния августовски пуч в Москва (19–21 август 1991) и подписването на Беловежкото споразумение (8 декември 1991), с което Русия, Беларус и Украйна обявяват прекратяването на Съюзния договор.",
+          "comment": "Началната дата е падането на Берлинската стена (9 ноември 1989), символичното начало на края на комунистическия блок. Крайната дата е 26 декември 1991, когато Съветът на Републиките на Върховния съвет на СССР официално разпуска Съюза — денят след оставката на Горбачов (25 декември 1991). Някои източници посочват 31 декември 1991 като формална дата, но 26 декември е юридическият акт на разпускане.",
+          "date": {
+            "range": [
+              "1989-11-09",
+              "1991-12-26"
+            ],
+            "from": {
+              "date": "1989-11-09"
+            },
+            "to": {
+              "date": "1991-12-26"
+            }
+          },
+          "sources": [
+            {
+              "name": "Падане на Берлинската стена – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/Падане_на_Берлинската_стена"
+              ],
+              "from": {
+                "date": "1989-11-09"
+              },
+              "quote": "На 9 ноември министър-председателят на Правителството на Източна Германия Гюнтер Шабовски обявява отмяната на ограниченията за излизане от Германската демократична република."
+            },
+            {
+              "name": "Разпадане на Съветския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/Разпадане_на_Съветския_съюз"
+              ],
+              "to": {
+                "date": "1991-12-26"
+              },
+              "quote": "Разпадането на Съветския съюз е оповестено официално на 26 декември 1991. Предния ден президентът Михаил Горбачов подава оставка."
+            },
+            {
+              "name": "Fall of the Berlin Wall – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall"
+              ],
+              "from": {
+                "date": "1989-11-09"
+              },
+              "quoteOriginal": "The Berlin Wall fell on 9 November 1989 during the Peaceful Revolution, marking the beginning of the destruction of the figurative Iron Curtain.",
+              "quote": "Берлинската стена пада на 9 ноември 1989 г. по време на Мирната революция, бележейки началото на разрушаването на символичната Желязна завеса."
+            },
+            {
+              "name": "Dissolution of the Soviet Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union"
+              ],
+              "from": {
+                "date": "1988-11-16"
+              },
+              "to": {
+                "date": "1991-12-26"
+              },
+              "quoteOriginal": "The Soviet Union was formally dissolved as a sovereign state and subject of international law on 26 December 1991.",
+              "quote": "Съветският съюз е официално разпуснат като суверенна държава и субект на международното право на 26 декември 1991 г."
+            },
+            {
+              "name": "Berlin Wall – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Berlin-Wall"
+              ],
+              "from": {
+                "date": "1989-11-09"
+              },
+              "quoteOriginal": "On November 9 the East German government opened the country's borders with West Germany (including West Berlin), and openings were made in the Berlin Wall through which East Germans could travel freely to the West.",
+              "quote": "На 9 ноември правителството на Източна Германия отваря границите на страната със Западна Германия (включително Западен Берлин) и в Берлинската стена са направени отвори, през които източните германци могат свободно да пътуват на Запад."
+            },
+            {
+              "name": "Collapse of the Soviet Union – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/event/the-collapse-of-the-Soviet-Union"
+              ],
+              "to": {
+                "date": "1991-12-31"
+              },
+              "quoteOriginal": "Dissolution of the Soviet Union on December 31, 1991.",
+              "quote": "Разпадане на Съветския съюз на 31 декември 1991 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f1af8d04-ea31-4e9c-99ce-190e13a48b0c",
+      "datasets": [
+        "nations",
+        "eurozone",
+        "nato",
+        "eu",
+        "brics",
+        "pacts",
+        "ussr",
+        "worldorder",
+        "politics",
+        "eaeu"
+      ],
+      "meta": {
+        "style": {
+          "color": "rgba(88, 28, 135, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "COVID",
+          "description": "Пандемията от COVID-19 в България започва с първите потвърдени случаи на 8 март 2020 г. в Плевен и Габрово. На 13 март 2020 г. Народното събрание единодушно обявява извънредно положение. Следват затваряне на училища, молове и заведения, карантина на Банско (17 март) и блокиране на софийски квартали. България провежда пет вълни на пандемията и се нарежда на едно от последните места в ЕС по ваксинация — едва 34% от населението получава две дози. Към 15 ноември 2022 г. са регистрирани 1 284 051 потвърдени случая и 37 965 починали (над 5000 на милион жители — сред най-високите в света). Анализ на The Economist оценява свръхсмъртността на около 70 000 души — почти двойно повече от официално регистрираните жертви на COVID-19. Извънредната епидемична обстановка е отменена на 31 март 2022 г.",
+          "date": {
+            "range": [
+              "2020-03-13",
+              "2022-03-30"
+            ]
+          },
+          "sources": [
+            {
+              "name": "РЕШЕНИЕ за обявяване на извънредно положение",
+              "url": [
+                "https://www.parliament.bg/bg/desision/ID/157374"
+              ],
+              "date": "2020-03-13"
+            },
+            {
+              "name": "Край на извънредното положение - отпадат всички ограничения (ОБЗОР)",
+              "url": [
+                "https://bntnews.bg/news/krai-na-izvanrednoto-polozhenie-otpadat-vsichki-ogranicheniya-obzor-1190146news.html"
+              ],
+              "date": "2022-03-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f1af8d04-ea31-4e9c-99ce-190e13a48b1c",
+      "datasets": [
+        "nations",
+        "eurozone",
+        "nato",
+        "eu",
+        "brics",
+        "pacts",
+        "ussr",
+        "worldorder",
+        "politics",
+        "eaeu"
+      ],
+      "meta": {
+        "style": {
+          "color": "rgba(251, 146, 60, 0.25)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Световна финансова криза (2007 – 2008)",
+          "description": "Световната финансова криза от 2007–2008 г. е най-тежката глобална икономическа криза след Голямата депресия. Тя започва с колапса на пазара на рискови ипотечни кредити (subprime) в САЩ през 2007 г. и ескалира с фалита на инвестиционната банка Bear Stearns (март 2008) и най-вече с фалита на Lehman Brothers на 15 септември 2008 г. — най-големият банкрут в историята на САЩ. Кризата се разпространява глобално чрез обезценени ипотечни облигации и деривати, предизвиквайки срив на фондовите борси (Dow Jones губи 53%), масови банкрути и спасителни пакети (TARP — 700 млрд. долара, спасяване на AIG за 85 млрд. долара). БВП на водещите икономики се свива рязко: САЩ −8,4%, Германия −14,4%, Япония −15,2% (Q4 2008). Безработицата в САЩ достига 11% през октомври 2009 г., а бедността нараства от 12,5% (2007) до 15,1% (2010). Рецесията официално приключва средата на 2009 г.",
+          "date": {
+            "range": [
+              "2008-01-01",
+              "2009-12-31"
+            ]
+          },
+          "sources": []
+        }
+      ]
+    },
+    {
+      "id": "ecf687e1-f749-456c-a41f-440f1398e1c6",
+      "datasets": [
+        "nations",
+        "eurozone",
+        "nato",
+        "eu",
+        "brics",
+        "crimea",
+        "pacts",
+        "ussr",
+        "worldorder",
+        "politics",
+        "eaeu"
+      ],
+      "meta": {
+        "style": {
+          "color": "rgba(220, 38, 38, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Война Русия - Украйна",
+          "date": {
+            "range": [
+              "2022-02-24",
+              null
+            ]
+          },
+          "sources": [
+            {
+              "name": "Vladimir Putin's Speech on Ukraine and US Foreign Policy and NATO - 24 February 2022, ENG Subtitles",
+              "url": [
+                "https://www.youtube.com/watch?v=1qS6J-WbTD8&t=1222s"
+              ],
+              "date": "2022-02-24"
+            },
+            {
+              "name": "Русия нападна Украйна",
+              "url": [
+                "https://bnr.bg/radiobulgaria/post/101605926/rusia-napadna-ukraina"
+              ],
+              "date": "2022-02-24"
+            },
+            {
+              "name": "РУСКАТА АТАКА В УКРАЙНА: Президентът Путин обяви специална военна операция в Донбас",
+              "url": [
+                "https://www.youtube.com/watch?v=v0kxGOInFaQ"
+              ],
+              "date": "2022-02-24"
+            },
+            {
+              "name": "Войната започна. Русия нападна Украйна",
+              "url": [
+                "https://www.svobodnaevropa.bg/a/31719771.html"
+              ],
+              "date": "2022-02-24"
+            },
+            {
+              "name": "'We will defend ourselves', says Ukrainian president Volodymyr Zelenskiy",
+              "url": [
+                "https://www.youtube.com/watch?v=prfaWHQoxVg"
+              ],
+              "date": "2022-02-24"
+            },
+            {
+              "name": "Ukrainian President Volodymyr Zelenskyy shares a message from Kyiv ",
+              "url": [
+                "https://www.youtube.com/watch?v=tLv9IqcoNe8"
+              ],
+              "date": "2022-02-25"
+            },
+            {
+              "name": "Vladimir Putin announces partial mobilisation of Russian troops for Ukraine",
+              "url": [
+                "https://www.youtube.com/watch?v=ZCOMTYt1VFI"
+              ],
+              "date": "2022-09-21"
+            },
+            {
+              "name": "Documenting Russian Equipment Losses During The Russian Invasion Of Ukraine",
+              "url": [
+                "https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html"
+              ],
+              "date": "2022-02-24"
+            },
+            {
+              "name": "Documenting Ukrainian Equipment Losses During The Russian Invasion Of Ukraine",
+              "url": [
+                "https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-ukrainian.html"
+              ],
+              "date": "2022-02-24"
+            },
+            {
+              "name": "Putin annexes four regions of Ukraine to Russia in defiance of international law",
+              "url": [
+                "https://www.youtube.com/watch?v=vWOTthDTXyo",
+                "https://www.youtube.com/watch?v=tDMZL6_ejrs"
+              ],
+              "date": "2022-09-30"
+            },
+            {
+              "name": "Камера на каска заснема руски десантни войски при първото превземане на летище Хостомел (YouTube)",
+              "url": [
+                "https://www.youtube.com/watch?v=2xVerbh-K5I"
+              ],
+              "date": "2022-02-24",
+              "quoteOriginal": "Ukraine War - Helmet Cam Captures Russian Air Assault Troops First Capture Of Hostomel Airport",
+              "quote": "Война в Украйна — камера на каска заснема руски десантни войски при първото превземане на летище Хостомел"
+            }
+          ],
+          "description": "На 24 февруари 2022 г. Русия започва пълномащабна инвазия в Украйна — най-голямата и най-смъртоносна война в Европа след Втората световна война. Първоначалният удар е насочен към Киев, Хостомел и северните области, но украинската съпротива принуждава руските сили да се оттеглят от севера до април 2022 г. Следват тежки боеве на изток — Мариупол пада през май, а Северодонецк и Лисичанск — през лято 2022 г. През септември 2022 г. Украйна освобождава значителна територия в Харковска област, а Путин обявява частична мобилизация на 300 000 резервисти и анексира четири украински области (Донецк, Луганск, Запорожие, Херсон) след оспорвани референдуми. През ноември 2022 г. Украйна освобождава Херсон. През 2023 г. украинската контраофанзива постига ограничени успехи. През февруари 2024 г. Русия превзема Авдиивка, а през август 2024 г. Украйна прониква в руската Курска област. През 2025 г. Тръмп активизира мирните преговори — през април е обявено 30-часово великденско примирие (първото от началото на войната), а през май в Истанбул се провеждат първите преки руско-украински разговори от 2022 г. насам. Към април 2026 г. руските сили контролират около 20% от Украйна, а конфликтът продължава. Около 8 милиона украинци са вътрешно разселени и 6–7 милиона са избягали от страната."
+        }
+      ]
+    },
+    {
+      "id": "7cd16824-fff7-40e5-8329-fe6f33c2cc4a",
+      "datasets": [
+        "nations",
+        "eurozone",
+        "nato",
+        "eu",
+        "brics",
+        "crimea",
+        "pacts",
+        "ussr",
+        "worldorder",
+        "politics",
+        "eaeu"
+      ],
+      "meta": {
+        "style": {
+          "color": "rgba(220, 38, 38, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Война САЩ, Израел - Иран",
+          "date": {
+            "range": [
+              "2026-02-28",
+              null
+            ]
+          },
+          "sources": [
+            {
+              "name": "Пълна реч на Тръмп за атаката на САЩ и Израел срещу Иран",
+              "url": [
+                "https://www.youtube.com/watch?v=EGDkKMZ4klk"
+              ],
+              "date": "2026-02-28",
+              "quoteOriginal": "Full Trump speech on US, Israel attacking Iran: \"Lives of courageous American heroes may be lost\"",
+              "quote": "Пълна реч на Тръмп относно атаката на САЩ и Израел срещу Иран: „Животите на смели американски герои може да бъдат загубени“"
+            }
+          ],
+          "description": "На 28 февруари 2026 г. Израел и САЩ нанасят масирани въздушни удари по Иран, насочени срещу военни и правителствени обекти, ядрената и балистичната програма на страната. При ударите е убит Върховният лидер аятолах Али Хаменей и няколко висши ирански ръководители. Иран отвръща със стотици дронове и балистични ракети по Израел и американски бази в Бахрейн, Йордания, Кувейт, Катар, Саудитска Арабия и ОАЕ, и затваря Ормузкия проток, нарушавайки световната търговия с петрол."
+        }
+      ]
+    },
+    {
+      "id": "09ef6725-0bfb-4754-85d1-81017e1b05ec",
+      "meta": {
+        "style": {
+          "color": "rgba(147, 130, 90, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Мадарският конник",
+          "description": "Мадарският конник — скален релеф от ранното VIII в., изсечен върху отвесна скала край с. Мадара. Обект на ЮНЕСКО от 1979 г.",
+          "comment": "Датите представляват управлението на хан Тервел (701–718 г.), през което релефът е най-вероятно изсечен. BG Уикипедия дава VIII в., EN Wikipedia уточнява 'края на VII или началото на VIII в.' и свързва най-стария надпис с Тервел. Britannica няма специализирана статия.",
+          "date": {
+            "range": [
+              "0701-01-01",
+              "0718-12-31"
+            ],
+            "from": {
+              "dateYear": 701
+            },
+            "to": {
+              "dateYear": 718
+            }
+          },
+          "sources": [
+            {
+              "name": "Мадарски конник – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D0%B0%D1%80%D1%81%D0%BA%D0%B8_%D0%BA%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA"
+              ],
+              "from": {
+                "dateYear": 700
+              },
+              "to": {
+                "dateYear": 799
+              },
+              "quote": "Изсечен през VIII в. сл. Хр. върху отвесна скала. През 1979 г. е включен в Списъка на световното културно и историческо наследство на ЮНЕСКО."
+            },
+            {
+              "name": "Madara Rider – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Madara_Rider"
+              ],
+              "from": {
+                "dateYear": 701
+              },
+              "to": {
+                "dateYear": 718
+              },
+              "quoteOriginal": "The oldest inscription is attributed to Tervel (701–718 AD), thus it is considered that the relief was created during his rule or immediately after the Bulgars settled the region in 680–681 AD.",
+              "quote": "Най-старият надпис се приписва на Тервел (701–718 г.), поради което се смята, че релефът е създаден по време на неговото управление или непосредствено след заселването на българите в региона през 680–681 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "70c31a09-097c-4462-9116-7b2fcea33aa9",
+      "meta": {
+        "style": {
+          "color": "rgba(153, 27, 27, 0.22)"
+        }
+      },
+      "datasets": [
+        "nations",
+        "eurozone",
+        "nato",
+        "eu",
+        "brics",
+        "crimea",
+        "pacts",
+        "ussr",
+        "worldorder",
+        "politics",
+        "eaeu"
+      ],
+      "periods": [
+        {
+          "name": "Съюз на съветските социалистически републики (СССР)",
+          "description": "Съюз на съветските социалистически републики (СССР) (30 декември 1922 – 26 декември 1991)",
+          "comment": "СССР е създаден на 30 декември 1922 г. с подписването на Договора за образуване на Съюза от четири съветски републики: Руската СФСР, Закавказката СФСР, Украинската ССР и Белоруската ССР. Официалното разпускане е на 26 декември 1991 г. с Декларация № 142-Н на Съвета на републиките на Върховния съвет на СССР. Тези дати са общоприети и потвърдени от всички основни източници.",
+          "date": {
+            "range": [
+              "1922-12-30",
+              "1991-12-26"
+            ],
+            "from": {
+              "date": "1922-12-30"
+            },
+            "to": {
+              "date": "1991-12-26"
+            }
+          },
+          "sources": [
+            {
+              "name": "Съюз на съветските социалистически републики – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D1%8A%D1%8E%D0%B7_%D0%BD%D0%B0_%D1%81%D1%8A%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%82%D0%B5_%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8_%D1%80%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8"
+              ],
+              "from": {
+                "date": "1922-12-30"
+              },
+              "to": {
+                "date": "1991-12-26"
+              },
+              "quote": "На 29 декември 1922 г. е подписан Договор за образуване на СССР, а на следващия ден е одобрен от Първия всесъюзен конгрес на съветите. Инфокутия: 30 декември 1922 – 26 декември 1991."
+            },
+            {
+              "name": "Soviet Union – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Soviet_Union"
+              ],
+              "from": {
+                "date": "1922-12-30"
+              },
+              "to": {
+                "date": "1991-12-26"
+              },
+              "quoteOriginal": "Treaty of Creation: 30 December 1922. Formal dissolution: 26 December 1991.",
+              "quote": "Договор за създаване: 30 декември 1922 г. Официално разпускане: 26 декември 1991 г."
+            },
+            {
+              "name": "Soviet Union – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Soviet-Union"
+              ],
+              "from": {
+                "date": "1922-12-30"
+              },
+              "to": {
+                "dateYear": 1991,
+                "dateMonth": 12
+              },
+              "quoteOriginal": "On December 30, 1922, these constituent republics established the U.S.S.R. By December 1991 the Union of Soviet Socialist Republics had virtually ceased to exist.",
+              "quote": "На 30 декември 1922 г. тези съставни републики учредяват СССР. До декември 1991 г. Съюзът на съветските социалистически републики фактически престава да съществува."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4612004f-a007-4dda-8026-1acdcc83af15",
+      "meta": {
+        "style": {
+          "color": "rgba(14, 116, 144, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Априлско въстание",
+          "description": "Въоръжено въстание на българите в Османската империя (20 април – 26 май 1876 г.)",
+          "comment": "Датите следват Българската уикипедия: 20 април (стар стил) – 26 май 1876 г. Въстанието избухва преждевременно на 20 април (2 май нов стил) в Копривщица и е потушено окончателно до 26 май. Новостиловите дати са 2 май – 7 юни 1876 г. Началната дата е избухването на въстанието, крайната — окончателното му потушаване.",
+          "date": {
+            "range": [
+              "1876-04-20",
+              "1876-05-26"
+            ],
+            "from": {
+              "date": "1876-04-20"
+            },
+            "to": {
+              "date": "1876-05-26"
+            }
+          },
+          "sources": [
+            {
+              "name": "Априлско въстание – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%90%D0%BF%D1%80%D0%B8%D0%BB%D1%81%D0%BA%D0%BE_%D0%B2%D1%8A%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5"
+              ],
+              "from": {
+                "date": "1876-04-20"
+              },
+              "to": {
+                "date": "1876-05-26"
+              },
+              "quote": "20 април (стар стил) 1876 г. – 26 май 1876 г. Избухва преждевременно на 20 април в Копривщица."
+            },
+            {
+              "name": "April Uprising of 1876 – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/April_Uprising_of_1876"
+              ],
+              "from": {
+                "date": "1876-04-20"
+              },
+              "to": {
+                "date": "1876-05-26"
+              },
+              "quoteOriginal": "The local rebel committee attacked and surrounded the headquarters of the Ottoman police in Koprivshtitsa on 20 April 1876. Date: 20 April – 26 May 1876 (1 month and 6 days).",
+              "quote": "Местният бунтовнически комитет атакува и обкръжи щаба на османската полиция в Копривщица на 20 април 1876 г. Дата: 20 април – 26 май 1876 г. (1 месец и 6 дни)."
+            },
+            {
+              "name": "April Uprising – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/April-Uprising"
+              ],
+              "from": {
+                "date": "1876-04-20"
+              },
+              "quoteOriginal": "The April Uprising broke out prematurely on April 20 (May 2, New Style).",
+              "quote": "Априлското въстание избухва преждевременно на 20 април (2 май по нов стил)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a9a8b608-1b43-42a9-b8d0-2e39626ec5ce",
+      "meta": {
+        "style": {
+          "color": "rgba(190, 18, 60, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Руско-турска война (1877–1878)",
+          "description": "Война между Руската и Османската империя, довела до Освобождението на България (24 април 1877 – 3 март 1878 г.)",
+          "comment": "Датите следват общоприетите в българската традиция: 24 април 1877 г. — обявяване на войната от Русия, 3 март 1878 г. — подписване на Санстефанския мирен договор. 3 март е национален празник на България (Ден на Освобождението).",
+          "date": {
+            "range": [
+              "1877-04-24",
+              "1878-03-03"
+            ],
+            "from": {
+              "date": "1877-04-24"
+            },
+            "to": {
+              "date": "1878-03-03"
+            }
+          },
+          "sources": [
+            {
+              "name": "Руско-турска война (1877 – 1878) – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D0%BA%D0%BE-%D1%82%D1%83%D1%80%D1%81%D0%BA%D0%B0_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_(1877_%E2%80%93_1878)"
+              ],
+              "from": {
+                "date": "1877-04-24"
+              },
+              "to": {
+                "date": "1878-03-03"
+              },
+              "quote": "24 април 1877 – 3 март 1878 г."
+            },
+            {
+              "name": "Russo-Turkish War (1877–1878) – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Russo-Turkish_War_(1877%E2%80%931878)"
+              ],
+              "from": {
+                "date": "1877-04-24"
+              },
+              "to": {
+                "date": "1878-03-03"
+              },
+              "quoteOriginal": "24 April 1877 – 3 March 1878",
+              "quote": "24 април 1877 – 3 март 1878 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce2912cb-f5c5-4a95-abe4-40441e172fb3",
+      "meta": {
+        "style": {
+          "color": "rgba(132, 204, 22, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Шипченска битка",
+          "description": "Серия от четири битки за Шипченския проход по време на Руско-турската война (юли – декември 1877 г.)",
+          "comment": "Обхваща четирите фази на отбраната на Шипченския проход: 4–7 (16–19) юли, 9–14 (21–26) август, 5 (17) септември и 30 октомври (11 ноември) 1877 г., както и зимното стоене до 28 декември 1877 г. (Шейновска битка, 9 януари 1878 г. нов стил). Датите са по стар стил, както е прието в българската традиция. Августовската отбрана е най-известната фаза — българските опълченци и руските войски удържат прохода срещу многократно превъзхождащата армия на Сюлейман паша.",
+          "date": {
+            "range": [
+              "1877-07-04",
+              "1877-12-28"
+            ],
+            "from": {
+              "date": "1877-07-04"
+            },
+            "to": {
+              "date": "1877-12-28"
+            }
+          },
+          "sources": [
+            {
+              "name": "Шипченска битка – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A8%D0%B8%D0%BF%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B0_%D0%B1%D0%B8%D1%82%D0%BA%D0%B0"
+              ],
+              "from": {
+                "date": "1877-07-04"
+              },
+              "to": {
+                "date": "1877-12-28"
+              },
+              "quote": "Шипченската битка (юли 1877) — състояла се на 4–7 (16–19) юли 1877 г. Шипченската битка (август 1877) — състояла се на 9–14 (21–26) август 1877 година. Зимно стоене на Шипка до 28 декември 1877 г."
+            },
+            {
+              "name": "Battle of Shipka Pass – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Battle_of_Shipka_Pass"
+              ],
+              "from": {
+                "date": "1877-07-17"
+              },
+              "to": {
+                "date": "1878-01-09"
+              },
+              "quoteOriginal": "July 17–19, 1877 (1st stage), August 21–26, 1877 (2nd stage), September 13–17, 1877 (3rd stage), January 5–9, 1878 (4th stage)",
+              "quote": "17–19 юли 1877 (1-ва фаза), 21–26 август 1877 (2-ра фаза), 13–17 септември 1877 (3-та фаза), 5–9 януари 1878 (4-та фаза)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "543d8e65-bdbc-46fa-969d-9dcd23b1f475",
+      "meta": {
+        "style": {
+          "color": "rgba(20, 184, 166, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Кресненско-Разложко въстание",
+          "description": "Въстание в Македония срещу решенията на Берлинския конгрес (5 октомври 1878 – 25 май 1879 г.)",
+          "comment": "Въстанието избухва след Берлинския конгрес (юли 1878), който отменя Санстефанска България и връща Македония под османска власт. Началната дата е избухването на въстанието, крайната — окончателното му потушаване.",
+          "date": {
+            "range": [
+              "1878-10-05",
+              "1879-05-25"
+            ],
+            "from": {
+              "date": "1878-10-05"
+            },
+            "to": {
+              "date": "1879-05-25"
+            }
+          },
+          "sources": [
+            {
+              "name": "Кресненско-Разложко въстание – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D1%81%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%BE-%D0%A0%D0%B0%D0%B7%D0%BB%D0%BE%D0%B6%D0%BA%D0%BE_%D0%B2%D1%8A%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5"
+              ],
+              "from": {
+                "date": "1878-10-05"
+              },
+              "to": {
+                "date": "1879-05-25"
+              },
+              "quote": "5 октомври 1878 – 25 май 1879 г."
+            },
+            {
+              "name": "Kresna–Razlog uprising – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Kresna%E2%80%93Razlog_uprising"
+              ],
+              "from": {
+                "date": "1878-10-05"
+              },
+              "to": {
+                "date": "1879-05-25"
+              },
+              "quoteOriginal": "October 5, 1878 – May 25, 1879 (7 months, 2 weeks and 6 days)",
+              "quote": "5 октомври 1878 – 25 май 1879 г. (7 месеца, 2 седмици и 6 дни)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b64a25da-2321-4411-8d4e-d05c571e5477",
+      "meta": {
+        "style": {
+          "color": "rgba(192, 38, 211, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Илинденско-Преображенско въстание",
+          "description": "Въстание в Македония и Одринска Тракия срещу Османската империя (2 август – ноември 1903 г.)",
+          "comment": "Въстанието има две части: Илинденското (от 2 август, Илинден) в Македония и Преображенското (от 6 август, Преображение Господне) в Одринска Тракия. Началната дата е Илинден (20 юли стар стил = 2 август нов стил). Крайната дата е приблизителна — съпротивата е потушена постепенно до ноември 1903 г. Английската Уикипедия дава октомври, българската — ноември.",
+          "date": {
+            "range": [
+              "1903-08-02",
+              "1903-11-30"
+            ],
+            "from": {
+              "date": "1903-08-02"
+            },
+            "to": {
+              "dateYear": 1903,
+              "dateMonth": 11
+            }
+          },
+          "sources": [
+            {
+              "name": "Илинденско-Преображенско въстание – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%98%D0%BB%D0%B8%D0%BD%D0%B4%D0%B5%D0%BD%D1%81%D0%BA%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%BE_%D0%B2%D1%8A%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5"
+              ],
+              "from": {
+                "date": "1903-08-02"
+              },
+              "to": {
+                "dateYear": 1903,
+                "dateMonth": 11
+              },
+              "quote": "Период: 2 август – ноември 1903 г."
+            },
+            {
+              "name": "Ilinden–Preobrazhenie Uprising – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Ilinden%E2%80%93Preobrazhenie_Uprising"
+              ],
+              "from": {
+                "date": "1903-08-02"
+              },
+              "to": {
+                "dateYear": 1903,
+                "dateMonth": 10
+              },
+              "quoteOriginal": "Date: August 2 – October 1903",
+              "quote": "Дата: 2 август – октомври 1903 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a719cf24-1d4f-45d4-9b3c-b7d798aa6b6f",
+      "meta": {
+        "style": {
+          "color": "rgba(236, 72, 153, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Балкански войни",
+          "description": "Първа (8 октомври 1912 – 30 май 1913) и Втора (16 юни – 10 август 1913) балканска война",
+          "comment": "Обхваща и двете балкански войни. Първата балканска война е водена от Балканския съюз (България, Сърбия, Гърция и Черна гора) срещу Османската империя. Втората балканска война е междусъюзническа — България срещу бившите си съюзници. Началната дата е обявяването на Първата война, крайната — подписването на Букурещкия мир.",
+          "date": {
+            "range": [
+              "1912-10-08",
+              "1913-08-10"
+            ],
+            "from": {
+              "date": "1912-10-08"
+            },
+            "to": {
+              "date": "1913-08-10"
+            }
+          },
+          "sources": [
+            {
+              "name": "Балкански войни – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B8"
+              ],
+              "from": {
+                "dateYear": 1912,
+                "dateMonth": 10
+              },
+              "to": {
+                "dateYear": 1913,
+                "dateMonth": 7
+              },
+              "quote": "Първа балканска война — водена през октомври 1912 – май 1913. Втора балканска война — водена през юни–юли 1913."
+            },
+            {
+              "name": "Balkan Wars – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Balkan_Wars"
+              ],
+              "from": {
+                "date": "1912-10-08"
+              },
+              "to": {
+                "date": "1913-08-10"
+              },
+              "quoteOriginal": "First Balkan War: 8 October 1912 – 30 May 1913. Second Balkan War: 16 June – 10 August 1913.",
+              "quote": "Първа балканска война: 8 октомври 1912 – 30 май 1913. Втора балканска война: 16 юни – 10 август 1913."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "450889c8-099d-4834-9bdc-450b1a6f4f3c",
+      "meta": {
+        "style": {
+          "color": "rgba(74, 222, 128, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Първо Търновско въстание",
+          "description": "Въстание срещу османската власт в Търново (1598 г.)",
+          "comment": "Точните дати не са известни — документалните свидетелства са оскъдни. Въстанието е свързано с похода на влашкия княз Михай Храбри, който преминава на юг от Дунав при Никопол на 10 септември 1598 г. Потушено е от османската армия през същата година. Поради липса на точни дати е използвана цялата 1598 г. като диапазон.",
+          "date": {
+            "range": [
+              "1598-01-01",
+              "1598-12-31"
+            ],
+            "from": {
+              "dateYear": 1598
+            },
+            "to": {
+              "dateYear": 1598
+            }
+          },
+          "sources": [
+            {
+              "name": "Първо Търновско въстание – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%8A%D1%80%D0%B2%D0%BE_%D0%A2%D1%8A%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%BE_%D0%B2%D1%8A%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5"
+              ],
+              "from": {
+                "dateYear": 1598
+              },
+              "to": {
+                "dateYear": 1598
+              },
+              "quote": "1598 г. На 10 септември 1598 г. влашкият княз Михай Храбри преминава на юг от Дунав при Никопол, което служи за сигнал за началото на въстанието. Потушено от османската армия през същата година."
+            },
+            {
+              "name": "First Tarnovo Uprising – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/First_Tarnovo_Uprising"
+              ],
+              "from": {
+                "dateYear": 1598
+              },
+              "to": {
+                "dateYear": 1598
+              },
+              "quoteOriginal": "Date: 1598",
+              "quote": "Дата: 1598 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c7dfe575-038d-461c-93a6-867a6a2a471e",
+      "meta": {
+        "style": {
+          "color": "rgba(37, 99, 235, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Второ Търновско въстание",
+          "description": "Въстание срещу османската власт в Търново (1686 г.)",
+          "comment": "Документалните свидетелства са крайно оскъдни. Известна е само годината — 1686 г. Въстанието е свързано с Голямата турска война (1683–1699) и надеждите за освобождение с помощта на Хабсбургите. Поради липса на точни дати е използвана цялата 1686 г. като диапазон.",
+          "date": {
+            "range": [
+              "1686-01-01",
+              "1686-12-31"
+            ],
+            "from": {
+              "dateYear": 1686
+            },
+            "to": {
+              "dateYear": 1686
+            }
+          },
+          "sources": [
+            {
+              "name": "Второ Търновско въстание – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%BE_%D0%A2%D1%8A%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%BE_%D0%B2%D1%8A%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5"
+              ],
+              "from": {
+                "dateYear": 1686
+              },
+              "to": {
+                "dateYear": 1686
+              },
+              "quote": "Период: 1686 г. Документалните свидетелства за него са крайно оскъдни."
+            },
+            {
+              "name": "Second Tarnovo Uprising – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Second_Tarnovo_Uprising"
+              ],
+              "from": {
+                "dateYear": 1686
+              },
+              "to": {
+                "dateYear": 1686
+              },
+              "quoteOriginal": "Date: 1686",
+              "quote": "Дата: 1686 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fc57c8cd-264a-4c0e-bcbe-52c68c4befcb",
+      "meta": {
+        "style": {
+          "color": "rgba(124, 58, 237, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Чипровско въстание",
+          "description": "Въстание на българите от Чипровци и околностите срещу Османската империя (март – октомври 1688 г.)",
+          "comment": "Датите следват Българската уикипедия: март – октомври 1688 г. Началото на въстанието е през пролетта на 1688 г. Английската Уикипедия свързва избухването с превземането на Белград от Австрия на 6 септември 1688 г., а падането на Чипровци — с 18 октомври. Въстанието е жестоко потушено, градът е разрушен, а оцелелите емигрират.",
+          "date": {
+            "range": [
+              "1688-03-01",
+              "1688-10-31"
+            ],
+            "from": {
+              "dateYear": 1688,
+              "dateMonth": 3
+            },
+            "to": {
+              "dateYear": 1688,
+              "dateMonth": 10
+            }
+          },
+          "sources": [
+            {
+              "name": "Чипровско въстание – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A7%D0%B8%D0%BF%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE_%D0%B2%D1%8A%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5"
+              ],
+              "from": {
+                "dateYear": 1688,
+                "dateMonth": 3
+              },
+              "to": {
+                "dateYear": 1688,
+                "dateMonth": 10
+              },
+              "quote": "Март 1688 г. – октомври 1688 г. Началото на въстанието е през пролетта на 1688 година."
+            },
+            {
+              "name": "Chiprovtsi Uprising – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Chiprovtsi_Uprising"
+              ],
+              "from": {
+                "date": "1688-09-06"
+              },
+              "to": {
+                "date": "1688-10-18"
+              },
+              "quoteOriginal": "The uprising broke out after the capture of Belgrade by Austria on 6 September 1688. Chiprovtsi being captured on 18 October after a heroic defence.",
+              "quote": "Въстанието избухва след превземането на Белград от Австрия на 6 септември 1688 г. Чипровци е превзет на 18 октомври след героична отбрана."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1e72e8d5-8d31-44e2-ba37-5cb3dc3ca797",
+      "meta": {
+        "style": {
+          "color": "rgba(153, 27, 27, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Баташко клане",
+          "description": "Масово избиване на българското население на Батак от башибозуци на 1–3 май 1876 г. (стар стил) по време на потушаването на Априлското въстание. Предизвиква международно възмущение и допринася за намесата на Русия.",
+          "date": {
+            "range": [
+              "1876-05-01",
+              "1876-05-03"
+            ],
+            "from": {
+              "date": "1876-05-01"
+            },
+            "to": {
+              "date": "1876-05-03"
+            }
+          },
+          "sources": [
+            {
+              "name": "Баташко клане – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%B0%D1%82%D0%B0%D1%88%D0%BA%D0%BE_%D0%BA%D0%BB%D0%B0%D0%BD%D0%B5"
+              ],
+              "from": {
+                "dateYear": 1876,
+                "dateMonth": 5
+              },
+              "to": {
+                "dateYear": 1876,
+                "dateMonth": 5
+              },
+              "quote": "Период: май 1876 г. На 1 май противникът навлиза в селото. През нощта на 2 срещу 3 май се разиграват най-тежките зверства в църквата."
+            },
+            {
+              "name": "Batak massacre – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Batak_massacre"
+              ],
+              "from": {
+                "dateYear": 1876,
+                "dateMonth": 5
+              },
+              "to": {
+                "dateYear": 1876,
+                "dateMonth": 5
+              },
+              "quoteOriginal": "On 14 May [O.S. 2 May] 1876, those hidden in the House of Bogdan surrendered. On the morning of 15 May [O.S. 3 May] 1876, the bashi-bazouk took over the yard of the church.",
+              "quote": "На 14 май [2 май стар стил] 1876 г. скритите в Богдановата къща се предават. На сутринта на 15 май [3 май стар стил] 1876 г. башибозуците превземат двора на църквата."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0cbcd42e-5ae6-42a8-a0b9-fcc637f4ed72",
+      "meta": {
+        "style": {
+          "color": "rgba(245, 158, 11, 0.22)"
+        }
+      },
+      "datasets": [
+        "crimea"
+      ],
+      "periods": [
+        {
+          "name": "Евромайдан (Революция на достойнството)",
+          "description": "Вълна от протести в Украйна (21 ноември 2013 – 22 февруари 2014), предизвикани от отказа на президента Янукович да подпише споразумението за асоцииране с ЕС. Завършва със свалянето на Янукович и формиране на временно правителство.",
+          "comment": "Началната дата 21 ноември 2013 г. е нощта на първите протести в Киев след решението на правителството да спре подготовката за подписване на Споразумението за асоцииране между Украйна и ЕС. Крайната дата 22 февруари 2014 г. е денят, в който парламентът гласува отстраняването на Янукович от длъжност и назначава временно правителство. Евромайданът е непосредствената предпоставка за руската анексия на Крим (18 март 2014 г.).",
+          "date": {
+            "range": [
+              "2013-11-21",
+              "2014-02-22"
+            ],
+            "from": {
+              "date": "2013-11-21"
+            },
+            "to": {
+              "date": "2014-02-22"
+            }
+          },
+          "sources": [
+            {
+              "name": "Евромайдан – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BC%D0%B0%D0%B9%D0%B4%D0%B0%D0%BD"
+              ],
+              "from": {
+                "date": "2013-11-21"
+              },
+              "to": {
+                "date": "2014-02-22"
+              },
+              "quote": "Евромайдан (21 ноември 2013 – 22 февруари 2014) — вълна от демонстрации и граждански вълнения в Украйна, започнали в нощта на 21 ноември 2013 г., когато украинското правителство отказва да подпише споразумението за асоцииране с Европейския съюз."
+            },
+            {
+              "name": "Euromaidan – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Euromaidan"
+              ],
+              "from": {
+                "date": "2013-11-21"
+              },
+              "to": {
+                "date": "2014-02-22"
+              },
+              "quoteOriginal": "The demonstrations began on the night of 21 November 2013, when protests erupted in the capital Kyiv. The protests were launched following the Ukrainian government's suspension of preparations for signing the Ukraine–European Union Association Agreement in favour of closer economic relations with Russia.",
+              "quote": "Демонстрациите започват в нощта на 21 ноември 2013 г., когато протести избухват в столицата Киев. Протестите са предизвикани от решението на украинското правителство да спре подготовката за подписване на Споразумението за асоцииране между Украйна и ЕС в полза на по-тесни икономически връзки с Русия."
+            },
+            {
+              "name": "Euromaidan – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Euromaidan"
+              ],
+              "from": {
+                "date": "2013-11-21"
+              },
+              "to": {
+                "date": "2014-02-22"
+              },
+              "quoteOriginal": "Euromaidan led to Ukrainian Pres. Viktor Yanukovych's being deposed in February 2014. After scores of demonstrators were killed by government security forces in Kiev and with parliament voting to impeach him, Yanukovych fled to Russia.",
+              "quote": "Евромайданът довежда до свалянето на украинския президент Виктор Янукович през февруари 2014 г. След като десетки демонстранти са убити от правителствените сили за сигурност в Киев и парламентът гласува импийчмънт, Янукович бяга в Русия."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f40bc67b-4f86-4e5b-a228-57fbe65e4800",
+      "datasets": [
+        "crimea"
+      ],
+      "meta": {
+        "style": {
+          "color": "rgba(75, 85, 99, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Война в Донбас",
+          "description": "Въоръжен конфликт в Донецка и Луганска област на Украйна между украинските правителствени сили и проруски сепаратисти, подкрепяни от Русия (6 април 2014 – 24 февруари 2022)",
+          "comment": "Началната дата (6 април 2014) следва българската Уикипедия и отбелязва началото на сепаратистките действия в Донбас. Английската Уикипедия посочва 12 април 2014 (превземането на Славянск от Игор Гиркин), а Britannica — 7 април (въоръжени превземания на правителствени сгради). Крайната дата е 24 февруари 2022, когато Русия започва пълномащабно нахлуване в Украйна и конфликтът в Донбас е погълнат от по-широката война.",
+          "date": {
+            "range": [
+              "2014-04-06",
+              "2022-02-24"
+            ],
+            "from": {
+              "date": "2014-04-06"
+            },
+            "to": {
+              "date": "2022-02-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "Война в Донбас – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B2_%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81"
+              ],
+              "from": {
+                "date": "2014-04-06"
+              },
+              "quote": "Период: 6 април 2014 – понастоящем"
+            },
+            {
+              "name": "War in Donbas – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/War_in_Donbas"
+              ],
+              "from": {
+                "date": "2014-04-12"
+              },
+              "to": {
+                "date": "2022-02-24"
+              },
+              "quoteOriginal": "On 12 April, a commando unit led by Russian citizen Igor Girkin seized Sloviansk and other settlements in the Donbas. On 24 February, Russia began a full-scale invasion of Ukraine, subsuming the Donbas war into it.",
+              "quote": "На 12 април командос под ръководството на руския гражданин Игор Гиркин превзема Славянск и други селища в Донбас. На 24 февруари Русия започва пълномащабно нахлуване в Украйна, поглъщайки войната в Донбас."
+            },
+            {
+              "name": "Ukraine crisis of 2013–14 – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Ukraine-crisis"
+              ],
+              "from": {
+                "date": "2014-04-07"
+              },
+              "quoteOriginal": "In a virtual replay of the events in Crimea, highly disciplined pro-Russian gunmen carrying Russian equipment and wearing uniforms without insignia execute armed takeovers of government buildings across eastern Ukraine.",
+              "quote": "В повторение на събитията в Кримия, добре организирани проруски въоръжени лица с руско оборудване и униформи без знаци извършват въоръжени превземания на правителствени сгради в Източна Украйна."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05a495b7-0694-41d6-bea5-48da46d9ce6d",
+      "meta": {
+        "style": {
+          "color": "rgba(101, 163, 13, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Гьобекли тепе",
+          "description": "Гьобекли тепе е археологически обект в Югоизточна Турция, считан за най-старата известна монументална култова постройка в света. Състои се от масивни каменни кръгове с Т-образни стълбове, украсени с релефи на животни. Построен е от ловци-събирачи през докерамичния неолит (ок. 9500–8000 г. пр. н. е.), хилядолетия преди изобретяването на грънчарството и земеделието.",
+          "comment": "Датите следват радиовъглеродното датиране и консенсуса в EN Wikipedia: селището е обитавано от около 9500 г. пр. н. е. до поне 8000 г. пр. н. е. BG Wikipedia посочва диапазон 9600–8000 г. пр. н. е. за различните пластове. Britannica дава по-широк обхват (X–IX хил. пр. н. е.).",
+          "date": {
+            "range": [
+              "-009500-01-01",
+              "-008000-12-31"
+            ],
+            "from": {
+              "dateYear": -9500
+            },
+            "to": {
+              "dateYear": -8000
+            }
+          },
+          "sources": [
+            {
+              "name": "Гьобекли тепе – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%93%D1%8C%D0%BE%D0%B1%D0%B5%D0%BA%D0%BB%D0%B8_%D1%82%D0%B5%D0%BF%D0%B5"
+              ],
+              "from": {
+                "dateYear": -9600
+              },
+              "to": {
+                "dateYear": -8000
+              },
+              "quote": "Началото на градежа е положено още от епипалеолита и неолита (докерамичен неолит A) от X хил. пр.н.е. Диапазонът е от 9600 до 8800 г. пр.н.е. за Пласт III и между 8800 и 8000 г. пр.н.е. за Пласт II."
+            },
+            {
+              "name": "Göbekli Tepe – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe"
+              ],
+              "from": {
+                "dateYear": -9500
+              },
+              "to": {
+                "dateYear": -8000
+              },
+              "quoteOriginal": "The settlement was inhabited from around 9500 BCE to at least 8000 BCE.",
+              "quote": "Селището е обитавано от около 9500 г. пр. н. е. до поне 8000 г. пр. н. е."
+            },
+            {
+              "name": "Göbekli Tepe – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Gobekli-Tepe"
+              ],
+              "from": {
+                "dateYear": -9500
+              },
+              "to": {
+                "dateYear": -8000
+              },
+              "quoteOriginal": "Göbekli Tepe is estimated to date to the 9th–10th millennium bce.",
+              "quote": "Гьобекли тепе се датира към IX–X хилядолетие пр. н. е."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b73c37e7-8208-4afa-a2df-24323c91612c",
+      "meta": {
+        "style": {
+          "color": "rgba(2, 132, 199, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Карановска култура",
+          "description": "Карановската култура е една от най-важните праисторически култури на Балканите, развила се на територията на днешна България. Обхваща периода от ранния неолит до ранната бронзова епоха (ок. 6200–4000 г. пр. н. е.) и е разделена на седем фази (Караново I–VII). Селищната могила при с. Караново, Сливенско, е епонимният обект с културни пластове с дебелина над 12 м.",
+          "comment": "Датите обхващат пълния цикъл на Карановската култура от Караново I (ранен неолит, ок. 6200 г. пр. н. е.) до края на Караново VI (ок. 4000 г. пр. н. е.), когато културата се разпада. Караново VII (ранна бронзова епоха) понякога се включва, но представлява различна културна традиция. BG Wikipedia: Караново I–II: ок. 6200–5500 пр. н. е.; Караново III–IV: ок. 5500–4950 пр. н. е.; Караново V: ок. 4950–4500 пр. н. е.; Караново VI: ок. 4500–4000 пр. н. е.",
+          "date": {
+            "range": [
+              "-006200-01-01",
+              "-004000-12-31"
+            ],
+            "from": {
+              "dateYear": -6200
+            },
+            "to": {
+              "dateYear": -4000
+            }
+          },
+          "sources": [
+            {
+              "name": "Карановска култура – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0_%D0%BA%D1%83%D0%BB%D1%82%D1%83%D1%80%D0%B0"
+              ],
+              "from": {
+                "dateYear": -6200
+              },
+              "to": {
+                "dateYear": -4000
+              },
+              "quote": "Караново I и II: ранна новокаменна епоха, ок. 6200 – 5500 пр.н.е. Караново VI, късна медна епоха, ок. 4500 – 4000 пр.н.е."
+            },
+            {
+              "name": "Karanovo culture – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Karanovo_culture"
+              ],
+              "from": {
+                "dateYear": -6200
+              },
+              "to": {
+                "dateYear": -4000
+              },
+              "quoteOriginal": "Dates: circa 7th millennium BC — 4,000 BC. Karanovo VI appeared to have collapsed around 4000 BC.",
+              "quote": "Датировка: ок. VII хилядолетие пр. н. е. — 4000 г. пр. н. е. Караново VI изглежда се е разпаднало около 4000 г. пр. н. е."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1d7f07f7-60b5-4d1e-ac04-9c28c27bcd4b",
+      "meta": {
+        "style": {
+          "color": "rgba(183, 28, 28, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Битка при Траянови врата",
+          "description": "Битката при Траянови врата (17 август 986 г.) — решителна българска победа над Византия. Армията на император Василий II е почти напълно унищожена при отстъплението си от Средец (днешна София).",
+          "comment": "Датата 17 август 986 г. е установена и от БГ, и от EN Уикипедия. Britannica не споменава битката по име, но статията за Самуил потвърждава, че през 980-те той разгромява Василий II край София. Начална и крайна дата съвпадат — еднодневна битка.",
+          "date": {
+            "range": [
+              "0986-08-17",
+              "0986-08-17"
+            ],
+            "from": {
+              "date": "0986-08-17"
+            },
+            "to": {
+              "date": "0986-08-17"
+            }
+          },
+          "sources": [
+            {
+              "name": "Битка при Траянови врата – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%BA%D0%B0_%D0%BF%D1%80%D0%B8_%D0%A2%D1%80%D0%B0%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8_%D0%B2%D1%80%D0%B0%D1%82%D0%B0"
+              ],
+              "from": {
+                "date": "0986-08-17"
+              },
+              "to": {
+                "date": "0986-08-17"
+              },
+              "quote": "Битката при Траянови врата от 17 август 986 г. е най-голямото поражение, което византийският император Василий II претърпява в походите си за покоряване на България. Почти цялата византийска армия е унищожена."
+            },
+            {
+              "name": "Battle of the Gates of Trajan – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Battle_of_the_Gates_of_Trajan"
+              ],
+              "from": {
+                "date": "0986-08-17"
+              },
+              "to": {
+                "date": "0986-08-17"
+              },
+              "quoteOriginal": "The Battle of the Gates of Trajan took place on 17 August 986. In 986, Basil II led a campaign with 15,000 to 20,000 soldiers. The Byzantine army was annihilated, with enormous casualties and captured imperial insignia. Basil II barely escaped.",
+              "quote": "Битката при Траянови врата се състои на 17 август 986 г. През 986 г. Василий II повежда поход с 15 000 – 20 000 войници. Византийската армия е унищожена с огромни загуби и пленени императорски знамена. Василий II едва се спасява."
+            },
+            {
+              "name": "Samuel – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/biography/Samuel-tsar-of-western-Bulgaria"
+              ],
+              "from": {
+                "dateYear": 986
+              },
+              "quoteOriginal": "In the 980s he defeated the Byzantine emperor Basil II (the \"Bulgar Slayer\") near Sofia.",
+              "quote": "През 980-те той разгромява византийския император Василий II (\"Българоубиец\") край София."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ff7a5727-1352-417f-bab7-255e692e4c64",
+      "meta": {
+        "style": {
+          "color": "rgba(30, 64, 175, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Обсада на Константинопол",
+          "description": "Обсада на Константинопол (717–718 г.) — арабска обсада на Константинопол, отблъсната от Византия с решителната помощ на хан Тервел. Българите убиват 22 000 – 30 000 араби.",
+          "comment": "Обсадата започва през есента на 717 г. и завършва на 15 август 718 г. БГ и EN Уикипедия се съгласяват по тези дати. Използваме 15 юли 717 г. като начална дата (EN Wiki дава July/August 717). Хан Тервел играе решаваща роля за спасяването на Константинопол и Югоизточна Европа от арабско завоевание.",
+          "date": {
+            "range": [
+              "0717-07-15",
+              "0718-08-15"
+            ],
+            "from": {
+              "dateYear": 717,
+              "dateMonth": 7
+            },
+            "to": {
+              "date": "0718-08-15"
+            }
+          },
+          "sources": [
+            {
+              "name": "Обсада на Константинопол (717 – 718) – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D1%81%D0%B0%D0%B4%D0%B0_%D0%BD%D0%B0_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%BB_(717_%E2%80%93_718)"
+              ],
+              "from": {
+                "dateYear": 717
+              },
+              "to": {
+                "date": "0718-08-15"
+              },
+              "quote": "През есента на 717 г. огромна арабска армия обсажда Константинопол. На 15 август 718 г. арабите се оттеглят. Хан Тервел повежда българските отряди и достига в близост до Цариград. Българите убиват между 22 000 и 30 000 араби."
+            },
+            {
+              "name": "Siege of Constantinople (717–718) – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Siege_of_Constantinople_(717%E2%80%93718)"
+              ],
+              "from": {
+                "dateYear": 717,
+                "dateMonth": 7
+              },
+              "to": {
+                "date": "0718-08-15"
+              },
+              "quoteOriginal": "The siege began 15 July/August 717 and concluded 15 August 718. The Bulgars attacked the Arab encampment and killed, according to Theophanes, 22,000 men. The Arabs were forced to lift the siege on 15 August 718.",
+              "quote": "Обсадата започва на 15 юли/август 717 г. и завършва на 15 август 718 г. Българите нападат арабския лагер и убиват според Теофан 22 000 души. Арабите са принудени да вдигнат обсадата на 15 август 718 г."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1cf0cb26-351d-4ab7-a215-b59bf65e5d5d",
+      "meta": {
+        "style": {
+          "color": "rgba(22, 163, 74, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Въстание на Асеневци",
+          "description": "Въстанието на Асен и Петър (26 октомври 1185 – пролетта на 1187 г.) — въстание срещу Византия, довело до възстановяването на българската държава и основаването на Второто българско царство.",
+          "comment": "Въстанието избухва на 26 октомври 1185 г. (Димитровден) в Търново. Фактическата независимост е призната пролетта на 1187 г. с примирието при обсадата на Ловеч. БГ и EN Уикипедия се съгласяват по тези дати.",
+          "date": {
+            "range": [
+              "1185-10-26",
+              "1187-06-30"
+            ],
+            "from": {
+              "date": "1185-10-26"
+            },
+            "to": {
+              "dateYear": 1187
+            }
+          },
+          "sources": [
+            {
+              "name": "Въстание на Асен и Петър – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%92%D1%8A%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%90%D1%81%D0%B5%D0%BD_%D0%B8_%D0%9F%D0%B5%D1%82%D1%8A%D1%80"
+              ],
+              "from": {
+                "date": "1185-10-26"
+              },
+              "to": {
+                "dateYear": 1187
+              },
+              "quote": "Въстанието избухва в Търново на 26 октомври 1185 г. През пролетта на 1187 г. след обсадата на Ловеч Византия е принудена да сключи примирие, с което фактически признава възобновяването на българската държава."
+            },
+            {
+              "name": "Uprising of Asen and Peter – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Uprising_of_Asen_and_Peter"
+              ],
+              "from": {
+                "date": "1185-10-26"
+              },
+              "to": {
+                "dateYear": 1187
+              },
+              "quoteOriginal": "It began on 26 October 1185, the feast day of St. Demetrius of Thessaloniki. The signing of a truce de facto recognised the rule of Asen and Peter, leading to the creation of the Second Bulgarian Empire.",
+              "quote": "Въстанието започва на 26 октомври 1185 г., празника на Св. Димитър Солунски. Подписването на примирие фактически признава властта на Асен и Петър, водейки до създаването на Второто българско царство."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7816c10-8cc9-4370-9a90-c9c09d58807e",
+      "meta": {
+        "style": {
+          "color": "rgba(113, 63, 18, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Обсада на Одрин",
+          "description": "Обсадата на Одрин (3 ноември 1912 – 26 март 1913 г.) — обсада и превземане на Одринската крепост от българската и сръбската армия. Решителна победа, сложила край на Първата балканска война.",
+          "comment": "Обсадата започва на 3 ноември 1912 г. и завършва с падането на крепостта на 26 март 1913 г. (след щурм на 24–25 март). БГ и EN Уикипедия се съгласяват по датите. Пленени са около 65 000 османски войници.",
+          "date": {
+            "range": [
+              "1912-11-03",
+              "1913-03-26"
+            ],
+            "from": {
+              "date": "1912-11-03"
+            },
+            "to": {
+              "date": "1913-03-26"
+            }
+          },
+          "sources": [
+            {
+              "name": "Обсада на Одрин (1912–1913) – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D1%81%D0%B0%D0%B4%D0%B0_%D0%BD%D0%B0_%D0%9E%D0%B4%D1%80%D0%B8%D0%BD_(1912%E2%80%931913)"
+              ],
+              "from": {
+                "date": "1912-11-03"
+              },
+              "to": {
+                "date": "1913-03-26"
+              },
+              "quote": "Обсадата на Одрин (3 ноември 1912 – 26 март 1913 г.) — обсада и превземане на Одринската крепост от Втора българска армия. Решителна победа. Пленени са около 65 000 войници, 600 оръдия и 16 бойни знамена."
+            },
+            {
+              "name": "Siege of Adrianople (1912–1913) – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Siege_of_Adrianople_(1912%E2%80%931913)"
+              ],
+              "from": {
+                "date": "1912-11-03"
+              },
+              "to": {
+                "date": "1913-03-26"
+              },
+              "quoteOriginal": "The siege lasted from 3 November 1912 to 26 March 1913. Bulgarian-Serbian victory. It delivered the final decisive blow to the Ottoman army and brought the First Balkan War to an end.",
+              "quote": "Обсадата продължава от 3 ноември 1912 до 26 март 1913 г. Българско-сръбска победа. Тя нанася окончателния решителен удар на османската армия и слага край на Първата балканска война."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6456c8f6-5c2d-4034-8804-a5f9059bc869",
+      "meta": {
+        "style": {
+          "color": "rgba(22, 101, 52, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Битка при Онгъл",
+          "description": "Битката при Онгъл (лятото на 680 г.) — решителна победа на прабългарите на хан Аспарух над Византия, довела до основаването на Дунавска България.",
+          "comment": "Точната дата е неизвестна — само лятото на 680 г. БГ Уикипедия дава 680 г., EN Wikipedia — лятото на 680 г. Начална и крайна дата съвпадат (еднодневна битка, само годината е известна).",
+          "date": {
+            "range": [
+              "0680-01-01",
+              "0680-12-31"
+            ],
+            "from": {
+              "dateYear": 680
+            },
+            "to": {
+              "dateYear": 680
+            }
+          },
+          "sources": [
+            {
+              "name": "Битка при Онгъла – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%BA%D0%B0_%D0%BF%D1%80%D0%B8_%D0%9E%D0%BD%D0%B3%D1%8A%D0%BB%D0%B0"
+              ],
+              "from": {
+                "dateYear": 680
+              },
+              "to": {
+                "dateYear": 680
+              },
+              "quote": "Битката при Онгъла се състои през 680 г. край поселищата в Онгъла. Резултат: победа на прабългарите, образуване на Българското ханство."
+            },
+            {
+              "name": "Battle of Ongal – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Battle_of_Ongal"
+              ],
+              "from": {
+                "dateYear": 680
+              },
+              "to": {
+                "dateYear": 680
+              },
+              "quoteOriginal": "The Battle of Ongal took place in the summer of 680, fought between the Bulgars of Asparuh of Bulgaria and the Byzantine Empire. Result: Bulgar victory, formation of Danube Bulgaria.",
+              "quote": "Битката при Онгъл се състои през лятото на 680 г. между прабългарите на Аспарух и Византийската империя. Резултат: победа на прабългарите, образуване на Дунавска България."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3635e61b-084a-48ad-af12-d50f4886b80c",
+      "meta": {
+        "style": {
+          "color": "rgba(153, 27, 27, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Битка при Плиска",
+          "description": "Битката при Върбишкия проход (26 юли 811 г.) — хан Крум разгромява византийската армия и убива император Никифор I.",
+          "comment": "Еднодневна битка. Начална и крайна дата съвпадат.",
+          "date": {
+            "range": [
+              "0811-07-26",
+              "0811-07-26"
+            ],
+            "from": {
+              "date": "0811-07-26"
+            },
+            "to": {
+              "date": "0811-07-26"
+            }
+          },
+          "sources": [
+            {
+              "name": "Битка при Върбишкия проход – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%BA%D0%B0_%D0%BF%D1%80%D0%B8_%D0%92%D1%8A%D1%80%D0%B1%D0%B8%D1%88%D0%BA%D0%B8%D1%8F_%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B4"
+              ],
+              "quote": "На 26 юли 811 г. хан Крум напада уплашените византийски войници. На разсъмване българите се хвърлят към шатрата на Никифор, където той е убит. Почти цялата войска загива, включително императорът.",
+              "from": {
+                "date": "0811-07-26"
+              },
+              "to": {
+                "date": "0811-07-26"
+              }
+            },
+            {
+              "name": "Battle of Pliska – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Battle_of_Pliska"
+              ],
+              "quoteOriginal": "The final battle took place on 26 July 811. Bulgarian victory. Most of the army was killed. Emperor Nicephorus I died during the battle.",
+              "quote": "Решителната битка се състои на 26 юли 811 г. Българска победа. По-голямата част от армията е убита. Император Никифор I загива в битката.",
+              "from": {
+                "date": "0811-07-26"
+              },
+              "to": {
+                "date": "0811-07-26"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "788e690c-ed7a-4420-a2a5-f2e4ed52f0e1",
+      "meta": {
+        "style": {
+          "color": "rgba(109, 40, 217, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Битка при Версиникия",
+          "description": "Битката при Версиникия (22 юни 813 г.) — хан Крум разгромява десетократно превъзхождаща го византийска армия на император Михаил I.",
+          "comment": "Еднодневна битка. Начална и крайна дата съвпадат.",
+          "date": {
+            "range": [
+              "0813-06-22",
+              "0813-06-22"
+            ],
+            "from": {
+              "date": "0813-06-22"
+            },
+            "to": {
+              "date": "0813-06-22"
+            }
+          },
+          "sources": [
+            {
+              "name": "Битка при Версиникия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%BA%D0%B0_%D0%BF%D1%80%D0%B8_%D0%92%D0%B5%D1%80%D1%81%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8%D1%8F"
+              ],
+              "quote": "Битката при Версиникия се състои на 22 юни 813 г. Победа на българите. Византийците са десеторно повече, но цялата им армия е унищожена.",
+              "from": {
+                "date": "0813-06-22"
+              },
+              "to": {
+                "date": "0813-06-22"
+              }
+            },
+            {
+              "name": "Battle of Versinikia – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Battle_of_Versinikia"
+              ],
+              "quoteOriginal": "The Battle of Versinikia took place on 22 June 813. The Bulgarian army, led by Krum of Bulgaria, defeated the Byzantine forces under Michael I Rangabe.",
+              "quote": "Битката при Версиникия се състои на 22 юни 813 г. Българската армия, водена от хан Крум, разгромява византийските сили под командването на Михаил I Рангаве.",
+              "from": {
+                "date": "0813-06-22"
+              },
+              "to": {
+                "date": "0813-06-22"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14d7e760-b99c-4701-9a24-dbd4917a9eaf",
+      "meta": {
+        "style": {
+          "color": "rgba(161, 98, 7, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Битка при Ахелой",
+          "description": "Битката при Ахелой (20 август 917 г.) — решителна победа на цар Симеон I Велики над Византия, утвърдила българската хегемония на Балканите.",
+          "comment": "Еднодневна битка. Начална и крайна дата съвпадат.",
+          "date": {
+            "range": [
+              "0917-08-20",
+              "0917-08-20"
+            ],
+            "from": {
+              "date": "0917-08-20"
+            },
+            "to": {
+              "date": "0917-08-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Битка при Ахелой – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%BA%D0%B0_%D0%BF%D1%80%D0%B8_%D0%90%D1%85%D0%B5%D0%BB%D0%BE%D0%B9"
+              ],
+              "quote": "Битката при Ахелой се е състояла на 20 август 917 г. между българските войски, водени от цар Симеон I Велики, и войските на Византия. България печели решителна победа.",
+              "from": {
+                "date": "0917-08-20"
+              },
+              "to": {
+                "date": "0917-08-20"
+              }
+            },
+            {
+              "name": "Battle of Achelous (917) – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Battle_of_Achelous_(917)"
+              ],
+              "quoteOriginal": "On the morning of 20 August, the battle between the Bulgarians and the Byzantines began by the River Achelous. The Bulgarians obtained a decisive victory which made Simeon de facto ruler of the whole Balkan Peninsula.",
+              "quote": "На сутринта на 20 август започва битката между българи и византийци край река Ахелой. Българите постигат решителна победа, която прави Симеон фактически владетел на целия Балкански полуостров.",
+              "from": {
+                "date": "0917-08-20"
+              },
+              "to": {
+                "date": "0917-08-20"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bff6569a-6577-4576-ba61-bb30e85468a5",
+      "meta": {
+        "style": {
+          "color": "rgba(220, 38, 38, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Битка при Клейдион",
+          "description": "Битката при Клейдион / Беласишка битка (29 юли 1014 г.) — тежко поражение на цар Самуил от Василий II. По заповед на Василий II хиляди пленени български воини са ослепени.",
+          "comment": "Еднодневна битка. Начална и крайна дата съвпадат.",
+          "date": {
+            "range": [
+              "1014-07-29",
+              "1014-07-29"
+            ],
+            "from": {
+              "date": "1014-07-29"
+            },
+            "to": {
+              "date": "1014-07-29"
+            }
+          },
+          "sources": [
+            {
+              "name": "Беласишка битка – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%81%D0%B8%D1%88%D0%BA%D0%B0_%D0%B1%D0%B8%D1%82%D0%BA%D0%B0"
+              ],
+              "quote": "Беласишката битка, известна още като битката при Клидион, се състои на 29 юли 1014 г. Битката завършва с тежко поражение на българите. Попадналите в плен са ослепени по заповед на Василий II. Цар Самуил умира на 6 октомври 1014 г.",
+              "from": {
+                "date": "1014-07-29"
+              },
+              "to": {
+                "date": "1014-07-29"
+              }
+            },
+            {
+              "name": "Battle of Kleidion – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Battle_of_Kleidion"
+              ],
+              "quoteOriginal": "The Battle of Kleidion took place on 29 July 1014 between the Byzantine Empire and the Bulgarian Empire. The result was a decisive Byzantine victory.",
+              "quote": "Битката при Клейдион се състои на 29 юли 1014 г. между Византийската и Българската империя. Резултатът е решителна византийска победа.",
+              "from": {
+                "date": "1014-07-29"
+              },
+              "to": {
+                "date": "1014-07-29"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c435e05a-bfd8-4d05-ac66-fa501c67d2ea",
+      "meta": {
+        "style": {
+          "color": "rgba(3, 105, 161, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Битка при Адрианопол",
+          "description": "Битката при Адрианопол (14 април 1205 г.) — цар Калоян разгромява кръстоносците на Латинската империя и пленява император Балдуин I.",
+          "comment": "Еднодневна битка. Начална и крайна дата съвпадат.",
+          "date": {
+            "range": [
+              "1205-04-14",
+              "1205-04-14"
+            ],
+            "from": {
+              "date": "1205-04-14"
+            },
+            "to": {
+              "date": "1205-04-14"
+            }
+          },
+          "sources": [
+            {
+              "name": "Битка при Одрин (1205) – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%BA%D0%B0_%D0%BF%D1%80%D0%B8_%D0%9E%D0%B4%D1%80%D0%B8%D0%BD_(1205)"
+              ],
+              "quote": "Битката при Адрианопол от 14 април 1205 г. е сблъсък между българска армия, водена от цар Калоян, и кръстоносци от Латинската империя, начело с император Балдуин I. Цар Калоян разгромява рицарите и пленява императора им.",
+              "from": {
+                "date": "1205-04-14"
+              },
+              "to": {
+                "date": "1205-04-14"
+              }
+            },
+            {
+              "name": "Battle of Adrianople (1205) – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Battle_of_Adrianople_(1205)"
+              ],
+              "quoteOriginal": "The Battle of Adrianople occurred around Adrianople on April 14, 1205. The battle was won by the Bulgarian Empire after a successful ambush. Baldwin I was captured and later died in captivity.",
+              "quote": "Битката при Адрианопол се състои на 14 април 1205 г. Битката е спечелена от Българската империя след успешна засада. Балдуин I е пленен и по-късно умира в плен.",
+              "from": {
+                "date": "1205-04-14"
+              },
+              "to": {
+                "date": "1205-04-14"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85d62d11-543b-4f9d-8ac8-8daefb5ccd72",
+      "meta": {
+        "style": {
+          "color": "rgba(4, 120, 87, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Битка при Клокотница",
+          "description": "Битката при Клокотница (9 март 1230 г.) — цар Иван Асен II разгромява Теодор Комнин Дука и превръща България в най-могъщата държава в Югоизточна Европа.",
+          "comment": "Еднодневна битка. Начална и крайна дата съвпадат.",
+          "date": {
+            "range": [
+              "1230-03-09",
+              "1230-03-09"
+            ],
+            "from": {
+              "date": "1230-03-09"
+            },
+            "to": {
+              "date": "1230-03-09"
+            }
+          },
+          "sources": [
+            {
+              "name": "Битка при Клокотница – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%BA%D0%B0_%D0%BF%D1%80%D0%B8_%D0%9A%D0%BB%D0%BE%D0%BA%D0%BE%D1%82%D0%BD%D0%B8%D1%86%D0%B0"
+              ],
+              "quote": "Битката при Клокотница се състои на 9 март 1230 г. Убедителна българска победа. Епир и Тесалия стават васали на българската държава. Теодор Комнин е пленен.",
+              "from": {
+                "date": "1230-03-09"
+              },
+              "to": {
+                "date": "1230-03-09"
+              }
+            },
+            {
+              "name": "Battle of Klokotnitsa – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Battle_of_Klokotnitsa"
+              ],
+              "quoteOriginal": "The Battle of Klokotnitsa occurred on 9 March 1230 near the village of Klokotnitsa. Theodore's men were completely defeated. Bulgaria became the most powerful state in South-Eastern Europe.",
+              "quote": "Битката при Клокотница се състои на 9 март 1230 г. край село Клокотница. Войниците на Теодор са напълно разгромени. България става най-мощната държава в Югоизточна Европа.",
+              "from": {
+                "date": "1230-03-09"
+              },
+              "to": {
+                "date": "1230-03-09"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7154b4fa-a0de-421b-bba8-0764a81e1b03",
+      "meta": {
+        "style": {
+          "color": "rgba(30, 64, 175, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Битка при Дойран",
+          "description": "Битката при Дойран (18–19 септември 1918 г.) — българска победа над многократно превъзхождащите британски и гръцки сили в Първата световна война.",
+          "comment": "Еднодневна битка. Начална и крайна дата съвпадат.",
+          "date": {
+            "range": [
+              "1918-09-18",
+              "1918-09-18"
+            ],
+            "from": {
+              "date": "1918-09-18"
+            },
+            "to": {
+              "date": "1918-09-18"
+            }
+          },
+          "sources": [
+            {
+              "name": "Битка при Дойран (1918) – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%BA%D0%B0_%D0%BF%D1%80%D0%B8_%D0%94%D0%BE%D0%B9%D1%80%D0%B0%D0%BD_(1918)"
+              ],
+              "quote": "Битката при Дойран се състои на 18–19 септември 1918 г. Резултат: българска победа. Девета пехотна плевенска дивизия (около 30 000 души) отбива атаките на 4 английски и 2 гръцки дивизии (над 75 000 души).",
+              "from": {
+                "date": "1918-09-18"
+              },
+              "to": {
+                "date": "1918-09-18"
+              }
+            },
+            {
+              "name": "Battle of Doiran (1918) – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Battle_of_Doiran_(1918)"
+              ],
+              "quoteOriginal": "The Battle of Doiran took place on 18–19 September 1918. Bulgarian victory. The battle ended with the Bulgarians repulsing all attacks.",
+              "quote": "Битката при Дойран се състои на 18–19 септември 1918 г. Българска победа. Битката завършва с отблъскване на всички атаки от българите.",
+              "from": {
+                "date": "1918-09-18"
+              },
+              "to": {
+                "date": "1918-09-18"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9a1aab1a-ee45-498d-b2a0-2a7d2f2de968",
+      "meta": {
+        "style": {
+          "color": "rgba(239, 68, 68, 0.22)"
+        }
+      },
+      "datasets": [
+        "eurozone"
+      ],
+      "periods": [
+        {
+          "name": "Финансова криза в България (1996 – 1997)",
+          "description": "Банкови фалити, хиперинфлация от 300% и политическа криза, довели до въвеждане на валутен борд на 1 юли 1997 г.",
+          "date": {
+            "range": [
+              "1996-01-01",
+              "1997-07-01"
+            ],
+            "from": {
+              "dateYear": 1996
+            },
+            "to": {
+              "date": "1997-07-01"
+            }
+          },
+          "sources": [
+            {
+              "name": "Финансова криза в България (1996 – 1997) – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0_%D0%BA%D1%80%D0%B8%D0%B7%D0%B0_%D0%B2_%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F_(1996_%E2%80%93_1997)"
+              ],
+              "from": {
+                "dateYear": 1996
+              },
+              "to": {
+                "dateYear": 1997
+              },
+              "quote": "Финансовата криза от 1996 – 1997 година е тежка икономическа криза в България, довела до масови банкови фалити. Инфлацията довежда до загуба на 56% от стойността на спестяванията на гражданите."
+            },
+            {
+              "name": "Политическа криза в България (1996 – 1997) – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0_%D0%BA%D1%80%D0%B8%D0%B7%D0%B0_%D0%B2_%D0%91%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F_(1996_%E2%80%93_1997)"
+              ],
+              "from": {
+                "dateYear": 1996
+              },
+              "to": {
+                "date": "1997-07-01"
+              },
+              "quote": "За периода от април до октомври фалират 15 банки. Инфлацията вече е 300 %. На 28 декември 1996 г. XXXVII народно събрание гласува оставката на правителството на Жан Виденов. На 1 юли 1997 г. в действие влиза Закон за валутния борд, който фиксира курса на българския лев към германската марка в съотношение 1 марка = 1000 неденоминирани лева."
+            },
+            {
+              "name": "1996–1997 Bulgarian protests – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/1996%E2%80%931997_Bulgarian_protests"
+              ],
+              "from": {
+                "dateYear": 1996,
+                "dateMonth": 12
+              },
+              "to": {
+                "dateYear": 1997,
+                "dateMonth": 2
+              },
+              "quoteOriginal": "The 1996–1997 Bulgarian protests were a wave of violent demonstrations and strikes nationwide in Bulgaria for a month from December 1996 to January 1997, fuelled by devaluation and economic turmoil, which saw inflation rise to 300%.",
+              "quote": "Протестите в България от 1996–1997 г. са вълна от бурни демонстрации и стачки из цялата страна в продължение на месец от декември 1996 до януари 1997, предизвикани от девалвацията и икономическите сътресения, довели до инфлация от 300%."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6a4ca8eb-3e6a-42fe-8499-4a4d42f0e137",
+      "meta": {
+        "style": {
+          "color": "rgba(200, 162, 200, 0.22)"
+        }
+      },
+      "periods": [
+        {
+          "name": "Епопея на забравените (Иван Вазов)",
+          "description": "Цикъл от 12 оди на Иван Вазов, възхваляващи героите на българското национално Възраждане и борбата за освобождение. Написани в Пловдив (1881–1883), издадени в отделна книга през 1884 г.",
+          "date": {
+            "range": [
+              "1881-01-01",
+              "1884-12-31"
+            ],
+            "from": {
+              "dateYear": 1881
+            },
+            "to": {
+              "dateYear": 1884
+            }
+          },
+          "sources": [
+            {
+              "name": "Паисий – Иван Вазов (YouTube)",
+              "url": [
+                "https://www.youtube.com/watch?v=RIUgQ0S_unc"
+              ],
+              "from": {
+                "dateYear": 1881
+              },
+              "to": {
+                "dateYear": 1884
+              },
+              "quote": "Декламация на одата „Паисий“ от цикъла „Епопея на забравените“ на Иван Вазов, посветена на Паисий Хилендарски."
+            },
+            {
+              "name": "Епопея на забравените – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%95%D0%BF%D0%BE%D0%BF%D0%B5%D1%8F_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%B1%D1%80%D0%B0%D0%B2%D0%B5%D0%BD%D0%B8%D1%82%D0%B5"
+              ],
+              "from": {
+                "dateYear": 1881
+              },
+              "to": {
+                "dateYear": 1884
+              },
+              "quote": "Написани от Иван Вазов в Пловдив в периода 1881 – 1883 г. Първо издание: 1884."
+            },
+            {
+              "name": "Epic of the Forgotten – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Epic_of_the_Forgotten"
+              ],
+              "from": {
+                "dateYear": 1881
+              },
+              "to": {
+                "dateYear": 1884
+              },
+              "quoteOriginal": "Epic of the Forgotten is a cycle of twelve odes composed by Bulgarian writer Ivan Vazov between 1881 and 1884.",
+              "quote": "Епопея на забравените е цикъл от дванадесет оди, написани от българския писател Иван Вазов между 1881 и 1884 г."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        "литература",
+        "България"
+      ]
+    }
+  ]
+}

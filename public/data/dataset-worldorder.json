@@ -1,0 +1,1020 @@
+{
+  "id": "worldorder",
+  "name": "Световен ред",
+  "description": "Периоди на хегемонен мир (Pax) — ери на относителна стабилност под доминацията на една велика сила, от Pax Romana до Pax Americana, включително баланса на силите (Европейски концерт) и биполярния ред на Студената война.",
+  "knowledge": "worldorder",
+  "metadata": {
+    "resetZoom": true,
+    "styles": {
+      "pax-romana": {
+        "color": "#7c2d12"
+      },
+      "pax-sinica": {
+        "color": "#a16207"
+      },
+      "pax-islamica": {
+        "color": "#b91c1c"
+      },
+      "pax-mongolica": {
+        "color": "#475569"
+      },
+      "pax-ottomana": {
+        "color": "#b91c1c"
+      },
+      "pax-hispanica": {
+        "color": "#854d0e"
+      },
+      "concert": {
+        "color": "#6d28d9"
+      },
+      "pax-britannica": {
+        "color": "#0e7490"
+      },
+      "pax-americana": {
+        "color": "#1e40af"
+      },
+      "pax-sovietica": {
+        "color": "#9f1239"
+      },
+      "currency": {
+        "color": "#d97706"
+      }
+    }
+  },
+  "data": [
+    {
+      "name": "Римска империя",
+      "id": "154bf15d-a737-4d3d-a31f-d2e6fc7049cf",
+      "periods": [
+        {
+          "name": "Pax Romana (Римски мир)",
+          "description": "Приблизително 200-годишен период на относителен мир и стабилност в Римската империя — от установяването на принципата от Август (27 г. пр.н.е.) до смъртта на Марк Аврелий (180 г.). Рим задължава провинциите да плащат данъци в денарии, създавайки универсално търсене на римска валута в цялото Средиземноморие.",
+          "comment": "Избрани са датите 27 г. пр.н.е. и 180 г., тъй като те отразяват преобладаващия научен консенсус: 27 г. пр.н.е. е годината, в която Октавиан получава титлата 'Август' и установява принципата, а 180 г. е годината на смъртта на Марк Аврелий — последният от 'петимата добри императори'. БГ Уикипедия използва по-широки граници (30 г. пр.н.е. — 235 г.), но международният консенсус предпочита 27 г. пр.н.е. — 180 г.",
+          "date": {
+            "range": [
+              "-000027-01-01",
+              "0180-12-31"
+            ],
+            "from": {
+              "dateYear": -27
+            },
+            "to": {
+              "dateYear": 180
+            }
+          },
+          "sources": [
+            {
+              "name": "Pax Romana – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/Pax_Romana"
+              ],
+              "from": {
+                "dateYear": -30
+              },
+              "to": {
+                "dateYear": 235
+              },
+              "quote": "Pax Romana е времеви период в историята на Римската империя, характеризиращ се с относителен просперитет и продължително мирно съществуване, който трае от победата на първия римски император Октавиан Август във войната между Октавиан и Антоний през 30 година пр. Хр. до началото на кризата от III век през 235 година."
+            },
+            {
+              "name": "Pax Romana – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Pax_Romana"
+              ],
+              "from": {
+                "dateYear": -27
+              },
+              "to": {
+                "dateYear": 180
+              },
+              "quoteOriginal": "Traditionally, the onset is understood to be the ascent of Augustus in 27 BC. Conversely, the end of the era is considered as 180 AD with the death of Marcus Aurelius.",
+              "quote": "Традиционно началото се свързва с възкачването на Август през 27 г. пр.н.е. Съответно, краят на ерата се приема за 180 г. със смъртта на Марк Аврелий."
+            },
+            {
+              "name": "Pax Romana – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/event/Pax-Romana"
+              ],
+              "from": {
+                "dateYear": -27
+              },
+              "to": {
+                "dateYear": 180
+              },
+              "quoteOriginal": "Pax Romana, from the reign of Augustus (27 BCE–14 CE) to the reign of Marcus Aurelius (161–180 CE). Augustus laid the foundation for this period of concord.",
+              "quote": "Пакс Романа — от управлението на Август (27 г. пр.н.е. — 14 г.) до управлението на Марк Аврелий (161 — 180 г.). Август полага основите на този период на съгласие."
+            }
+          ],
+          "style": "pax-romana"
+        },
+        {
+          "name": "Денариев стандарт",
+          "description": "Римският сребърен денарий е основна валута на империята. Провинциите плащат данъци в денарии, създавайки универсално търсене. Обезценяването на монетата (от ~95% до ~5% сребро) през III век подкопава доверието и ускорява кризата.",
+          "comment": "Началната дата ~211 г. пр.н.е. е първото сечене на денария. Крайната дата 274 г. е реформата на Аврелиан, който въвежда нов стандарт (антониниан) след тежка инфлационна криза. Обезценяването започва при Нерон (~64 г.) и се задълбочава през кризата на III век.",
+          "date": {
+            "range": [
+              "-000211-01-01",
+              "0274-12-31"
+            ],
+            "from": {
+              "dateYear": -211
+            },
+            "to": {
+              "dateYear": 274
+            }
+          },
+          "sources": [
+            {
+              "name": "Denarius – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Denarius"
+              ],
+              "from": {
+                "dateYear": -211
+              },
+              "quoteOriginal": "The denarius was first struck in 211 BC during the Second Punic War. It became the most common coin produced at Roman mints.",
+              "quote": "Денарият е сечен за пръв път през 211 г. пр.н.е. по време на Втората пуническа война. Той се превръща в най-разпространената монета, произвеждана в римските монетарници."
+            },
+            {
+              "name": "Aurelian – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/biography/Aurelian"
+              ],
+              "to": {
+                "dateYear": 274
+              },
+              "quoteOriginal": "Aurelian carried out a thorough reform of the coinage in 274, attempting to restore public confidence in the debased currency.",
+              "quote": "Аврелиан провежда цялостна реформа на монетосеченето през 274 г., опитвайки се да възстанови общественото доверие в обезценената валута."
+            }
+          ],
+          "style": "currency"
+        }
+      ]
+    },
+    {
+      "name": "Китай",
+      "id": "ab8f1aaf-e35e-4969-a67c-2b2720cc2f4a",
+      "code": "CN",
+      "periods": [
+        {
+          "name": "Pax Sinica (Династия Хан)",
+          "description": "Първият период на Пакс Синика, съвпадащ с Пакс Романа. Династията Хан (202 г. пр.н.е. — 220 г.) е златен век на китайската история, включващ Западна Хан и Източна Хан. Хан контролира Пътя на коприната и установява дипломатически контакти до Римската империя, налагайки китайски стоков и паричен стандарт.",
+          "comment": "Датите 202 г. пр.н.е. — 220 г. са избрани, тъй като EN Wikipedia дефинира 202 г. пр.н.е. като годината на формалното установяване на Хан след битката при Гайся. Britannica и BG Wikipedia използват 206 г. пр.н.е. (годината на падането на Цин). Крайната дата 220 г. е безспорна — абдикация на последния Хански император.",
+          "date": {
+            "range": [
+              "-000202-01-01",
+              "0220-12-31"
+            ],
+            "from": {
+              "dateYear": -202
+            },
+            "to": {
+              "dateYear": 220
+            }
+          },
+          "sources": [
+            {
+              "name": "Хан (династия) – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD_(%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F)"
+              ],
+              "from": {
+                "dateYear": -206
+              },
+              "to": {
+                "dateYear": 220
+              },
+              "quote": "Династията Хан е втората императорска династия на Китай, управлявала от 206 година пр.н.е. до 220 година."
+            },
+            {
+              "name": "Pax Sinica – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Pax_Sinica"
+              ],
+              "from": {
+                "dateYear": -202
+              },
+              "to": {
+                "dateYear": 220
+              },
+              "quoteOriginal": "The first period of Pax Sinica came into being during the Han dynasty of China. Both the first Pax Sinica and the Pax Romana eroded at circa AD 200.",
+              "quote": "Първият период на Пакс Синика възниква по време на династията Хан в Китай. Както първият Пакс Синика, така и Пакс Романа отслабват около 200 г."
+            },
+            {
+              "name": "Han dynasty – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Han-dynasty"
+              ],
+              "from": {
+                "dateYear": -206
+              },
+              "to": {
+                "dateYear": 220
+              },
+              "quoteOriginal": "Han dynasty, the second great imperial dynasty of China (206 BCE–220 CE), after the Zhou dynasty (1046–256 BCE).",
+              "quote": "Династията Хан — втората велика императорска династия на Китай (206 г. пр.н.е. — 220 г.), след династията Джоу (1046 — 256 г. пр.н.е.)."
+            }
+          ],
+          "flag": "CN",
+          "style": "pax-sinica"
+        },
+        {
+          "name": "Pax Sinica (Династия Тан)",
+          "description": "Вторият период на Пакс Синика. Династията Тан (618–907 г.) е един от златните векове на китайската цивилизация, с хегемония над 72 васални държави в разцвета си. Тан контролира ключовите възли на Пътя на коприната и облага стоките в медни монети (кай юан тун бао), налагайки китайския валутен стандарт в Източна Азия.",
+          "comment": "Датите 618–907 г. са безспорни в историографията. 618 г. е годината, в която Ли Юан основава династията след падането на Суй. 907 г. е годината на абдикацията на последния Тански император. Въпреки бунта на Ан Лушан (755–763 г.), целият период се приема като рамка на Пакс Синика.",
+          "date": {
+            "range": [
+              "0618-01-01",
+              "0907-12-31"
+            ],
+            "from": {
+              "dateYear": 618
+            },
+            "to": {
+              "dateYear": 907
+            }
+          },
+          "sources": [
+            {
+              "name": "Тан – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BD"
+              ],
+              "from": {
+                "dateYear": 618
+              },
+              "to": {
+                "dateYear": 907
+              },
+              "quote": "Тан е династия императори, управлявала Китай между 618 и 907."
+            },
+            {
+              "name": "Tang dynasty – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Tang_dynasty"
+              ],
+              "from": {
+                "dateYear": 618
+              },
+              "to": {
+                "dateYear": 907
+              },
+              "quoteOriginal": "The Tang dynasty was an imperial dynasty of China that ruled from 618 to 907, with an interregnum between 690 and 705. Historians generally regard the Tang as a high point in Chinese civilisation, and a golden age of cosmopolitan culture.",
+              "quote": "Династията Тан е императорска династия на Китай, управлявала от 618 до 907 г., с прекъсване между 690 и 705 г. Историците обикновено смятат Тан за върховен момент на китайската цивилизация и златен век на космополитна култура."
+            },
+            {
+              "name": "Tang dynasty – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Tang-dynasty"
+              ],
+              "from": {
+                "dateYear": 618
+              },
+              "to": {
+                "dateYear": 907
+              },
+              "quoteOriginal": "Tang dynasty, (618–907 CE), Chinese dynasty that succeeded the short-lived Sui dynasty (581–618). The dynasty reached the peak of its wealth and power during the early 8th century, which was a golden age for its arts.",
+              "quote": "Династията Тан (618–907 г.) — китайска династия, наследила краткотрайната династия Суй (581–618). Династията достига върха на своето богатство и мощ в началото на VIII век, което е златен век за нейните изкуства."
+            }
+          ],
+          "flag": "CN",
+          "style": "pax-sinica"
+        }
+      ]
+    },
+    {
+      "name": "Абасидски халифат",
+      "id": "eae86889-c81c-42b4-9090-eeb69e749525",
+      "periods": [
+        {
+          "name": "Pax Islamica (Ислямски златен век)",
+          "description": "Период на научен, икономически и културен разцвет в историята на исляма, съвпадащ с Абасидския халифат (750–1258 г.). Багдад е световен център на наука и култура, особено при Харун ал-Рашид (786–809) и ал-Мамун (813–833). Абасидският златен динар става резервна валута на средновековната търговия от Ал-Андалус до Индия — дори кръстоносните държави секат имитации на динари.",
+          "comment": "Датите 750–1258 г. съответстват на целия период на Абасидския халифат. 750 г. е годината на Абасидската революция, а 1258 г. — на монголското разрушаване на Багдад. Пиковият период е 786–833 г. (от Харун ал-Рашид до ал-Мамун). Някои учени стесняват златния век до 750–950 г., когато централната власт е все още силна.",
+          "date": {
+            "range": [
+              "0750-01-01",
+              "1258-12-31"
+            ],
+            "from": {
+              "dateYear": 750
+            },
+            "to": {
+              "dateYear": 1258
+            }
+          },
+          "sources": [
+            {
+              "name": "Ислямски златен век – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%98%D1%81%D0%BB%D1%8F%D0%BC%D1%81%D0%BA%D0%B8_%D0%B7%D0%BB%D0%B0%D1%82%D0%B5%D0%BD_%D0%B2%D0%B5%D0%BA"
+              ],
+              "from": {
+                "dateYear": 750
+              },
+              "to": {
+                "dateYear": 1258
+              },
+              "quote": "Ислямският златен век или Златният век на исляма, понякога наричан Ислямски ренесанс и Мюсюлмански ренесанс е исторически период от около средата на VIII до средата на XIII век."
+            },
+            {
+              "name": "Islamic Golden Age – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Islamic_Golden_Age"
+              ],
+              "from": {
+                "dateYear": 750
+              },
+              "to": {
+                "dateYear": 1258
+              },
+              "quoteOriginal": "The Islamic Golden Age was a period of scientific, economic, and cultural flourishing in the history of Islam, traditionally dated from the 8th century to the 13th century. This period is traditionally said to have ended with the collapse of the Abbasid caliphate following the Mongol invasions and the siege of Baghdad in 1258.",
+              "quote": "Ислямският златен век е период на научен, икономически и културен разцвет в историята на исляма, традиционно датиран от VIII до XIII век. Традиционно се приема, че периодът приключва с разпадането на Абасидския халифат вследствие на монголските нашествия и обсадата на Багдад през 1258 г."
+            },
+            {
+              "name": "Abbasid caliphate – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Abbasid-caliphate"
+              ],
+              "from": {
+                "dateYear": 750
+              },
+              "to": {
+                "dateYear": 1258
+              },
+              "quoteOriginal": "Abbasid caliphate, second of the two great dynasties of the Muslim empire of the caliphate. It overthrew the Umayyad caliphate in 750 CE and reigned as the Abbasid caliphate until it was destroyed by the Mongol invasion in 1258.",
+              "quote": "Абасидски халифат — втората от двете велики династии на мюсюлманската империя на халифата. Той сваля Омаядския халифат през 750 г. и управлява до унищожаването му от монголското нашествие през 1258 г."
+            }
+          ],
+          "style": "pax-islamica"
+        },
+        {
+          "name": "Златен динар",
+          "description": "Златният динар, въведен от Омаядите (696 г.) и наследен от Абасидите, е резервна валута на средновековната търговия от Ал-Андалус до Индия. Дори кръстоносните държави секат имитации.",
+          "comment": "Началната дата 696 г. е реформата на Абд ал-Малик, който премахва византийските и сасанидските изображения и създава чисто ислямска монета. Макар реформата да е при Омаядите, Абасидите наследяват и утвърждават стандарта. Крайната дата 1258 г. е падането на Багдад.",
+          "date": {
+            "range": [
+              "0696-01-01",
+              "1258-12-31"
+            ],
+            "from": {
+              "dateYear": 696
+            },
+            "to": {
+              "dateYear": 1258
+            }
+          },
+          "sources": [
+            {
+              "name": "Gold dinar – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Gold_dinar"
+              ],
+              "from": {
+                "dateYear": 696
+              },
+              "quoteOriginal": "The first dated coins that can be assigned to the Muslims are copies of silver dirhams of the Sasanian ruler Yazdegerd III. Abd al-Malik introduced a purely Islamic gold dinar in 696 CE.",
+              "quote": "Първите датирани монети, приписвани на мюсюлманите, са копия на сребърни дирхами на сасанидския владетел Яздегерд III. Абд ал-Малик въвежда чисто ислямски златен динар през 696 г."
+            },
+            {
+              "name": "Islamic coinage – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Islamic-arts/Coins"
+              ],
+              "from": {
+                "dateYear": 696
+              },
+              "quoteOriginal": "In 696–697 CE the Umayyad caliph Abd al-Malik introduced a purely epigraphic coinage, the gold dinar and the silver dirham, that became the standard for Islamic currency.",
+              "quote": "През 696–697 г. омаядският халиф Абд ал-Малик въвежда чисто епиграфско монетосечене — златния динар и сребърния дирхам, които стават стандарт за ислямската валута."
+            }
+          ],
+          "style": "currency"
+        }
+      ]
+    },
+    {
+      "name": "Монголска империя",
+      "id": "9fcacd27-df37-41fb-adfc-451243f5709d",
+      "code": "MN",
+      "periods": [
+        {
+          "name": "Pax Mongolica (Монголски мир)",
+          "description": "Период на стабилност в обширната евразийска територия под монголска власт. Най-голямата непрекъсната сухопътна империя в световната история, улеснила търговията по Пътя на коприната и културния обмен между Изтока и Запада. Монголите въвеждат вероятно първата континентална система на фиатни (книжни) пари — хартиените чао, обезпечени със сребро и задължителни за търговия.",
+          "comment": "Датите 1206–1368 г. следват периода на съществуване на Монголската империя. 1206 г. е годината, когато Чингис хан обединява монголските племена и е провъзгласен за хан. 1368 г. е годината, в която династията Юан пада и е заменена от китайската династия Мин, слагайки край на монголското господство в Източна Азия.",
+          "date": {
+            "range": [
+              "1206-01-01",
+              "1368-12-31"
+            ],
+            "from": {
+              "dateYear": 1206
+            },
+            "to": {
+              "dateYear": 1368
+            }
+          },
+          "sources": [
+            {
+              "name": "Pax Mongolica – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Pax_Mongolica"
+              ],
+              "from": {
+                "dateYear": 1206
+              },
+              "to": {
+                "dateYear": 1368
+              },
+              "quoteOriginal": "The Pax Mongolica (Latin for 'Mongol Peace') describes the stabilizing effects of the conquests of the Mongol Empire on the social, cultural and economic life of the inhabitants of the vast Eurasian territory that the Mongols conquered in the 13th and 14th centuries.",
+              "quote": "Pax Mongolica (на латински 'Монголски мир') описва стабилизиращите ефекти от завоеванията на Монголската империя върху социалния, културния и икономическия живот на жителите на обширната евразийска територия, която монголите завладяват през 13. и 14. век."
+            },
+            {
+              "name": "Mongol empire – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Mongol-empire"
+              ],
+              "from": {
+                "dateYear": 1206
+              },
+              "quoteOriginal": "Empire founded by Genghis Khan in 1206. By the late 13th century it spanned from the Pacific Ocean in the east to the Danube River and the shores of the Persian Gulf in the west, making it the largest contiguous land empire in world history.",
+              "quote": "Империя, основана от Чингис хан през 1206 г. До края на 13. век тя се простира от Тихия океан на изток до река Дунав и бреговете на Персийския залив на запад, което я прави най-голямата непрекъсната сухопътна империя в световната история."
+            }
+          ],
+          "flag": "MN",
+          "style": "pax-mongolica"
+        },
+        {
+          "name": "Хартиени чао (книжни пари)",
+          "description": "Вероятно първата континентална система на фиатни пари. Хартиените чао, обезпечени със сребро, са задължителни за търговия под заплаха от смърт. Системата рухва от хиперинфлация към 1350-те.",
+          "comment": "Началната дата ~1260 г. е въвеждането на Джунтун чао от Кубилай хан. Крайната дата ~1356 г. маркира колапса на паричната система от хиперинфлация при последния юански император Тогон Темур — прекомерното печатане на пари без обезпечение унищожава доверието.",
+          "date": {
+            "range": [
+              "1260-01-01",
+              "1356-12-31"
+            ],
+            "from": {
+              "dateYear": 1260
+            },
+            "to": {
+              "dateYear": 1356
+            }
+          },
+          "sources": [
+            {
+              "name": "Chao (currency) – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Chao_(currency)"
+              ],
+              "from": {
+                "dateYear": 1260
+              },
+              "quoteOriginal": "The Zhongtong Chao was introduced by Kublai Khan in 1260 as a unified currency for the Mongol Empire.",
+              "quote": "Джунтун чао е въведен от Кубилай хан през 1260 г. като единна валута за Монголската империя."
+            },
+            {
+              "name": "Yuan dynasty coinage – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Yuan_dynasty_coinage"
+              ],
+              "to": {
+                "dateYear": 1356
+              },
+              "quoteOriginal": "By the 1350s, rampant hyperinflation had rendered the paper currency worthless, contributing to the collapse of the Yuan dynasty.",
+              "quote": "Към 1350-те години неудържимата хиперинфлация обезценява хартиената валута, допринасяйки за рухването на династията Юан."
+            }
+          ],
+          "style": "currency"
+        }
+      ]
+    },
+    {
+      "name": "Османска империя",
+      "id": "6542fdf9-77f0-4bdc-be6d-2a8fc1cc6964",
+      "periods": [
+        {
+          "name": "Pax Ottomana (Османски мир)",
+          "description": "Период на икономическа и социална стабилност в завладените провинции на Османската империя в разцвета на нейната мощ през 16. и 17. век — от падането на Константинопол (1453 г.) до Карловицкия мирен договор (1699 г.).",
+          "comment": "Датите 1453–1699 г. обхващат върховия период на Османската империя. 1453 г. е падането на Константинопол от султан Мехмед II. 1699 г. е Карловицкият мирен договор (26 януари) — първото мащабно отстъпване на османски територии в Европа и началото на 'Източния въпрос'. EN Wikipedia описва периода по-общо като '16. и 17. век', но датите 1453–1699 г. са широко приети в историографията.",
+          "date": {
+            "range": [
+              "1453-05-29",
+              "1699-01-26"
+            ],
+            "from": {
+              "date": "1453-05-29"
+            },
+            "to": {
+              "date": "1699-01-26"
+            }
+          },
+          "sources": [
+            {
+              "name": "Pax Ottomana – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Pax_Ottomana"
+              ],
+              "quoteOriginal": "Pax Ottomana (literally 'the Ottoman Peace') is a term to describe the economic and social stability attained in the conquered provinces of the Ottoman Empire at the height of its power during the 16th and 17th centuries.",
+              "quote": "Pax Ottomana (буквално 'Османски мир') е термин за описание на икономическата и социална стабилност, постигната в завладените провинции на Османската империя в разцвета на нейната мощ през 16. и 17. век."
+            },
+            {
+              "name": "Fall of Constantinople – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/event/Fall-of-Constantinople-1453"
+              ],
+              "from": {
+                "date": "1453-05-29"
+              },
+              "quoteOriginal": "Fall of Constantinople, (May 29, 1453), conquest of Constantinople by Sultan Mehmed II of the Ottoman Empire. The fall of the city allowed for uninterrupted Ottoman expansion into eastern Europe.",
+              "quote": "Падането на Константинопол (29 май 1453 г.), завладяване на Константинопол от султан Мехмед II на Османската империя. Падането на града позволява непрекъснатото османско разширяване в Източна Европа."
+            },
+            {
+              "name": "Treaty of Carlowitz – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/event/Treaty-of-Carlowitz"
+              ],
+              "to": {
+                "date": "1699-01-26"
+              },
+              "quoteOriginal": "Treaty of Carlowitz, (Jan. 26, 1699), peace settlement that ended hostilities (1683–99) between the Ottoman Empire and the Holy League.",
+              "quote": "Карловицки мирен договор (26 януари 1699 г.), мирно споразумение, слагащо край на враждебните действия (1683–1699) между Османската империя и Свещената лига."
+            }
+          ],
+          "style": "pax-ottomana"
+        }
+      ]
+    },
+    {
+      "name": "Испанска империя",
+      "id": "2b313f54-1212-49b9-b00c-3e9197e3c1d6",
+      "code": "ES",
+      "periods": [
+        {
+          "name": "Pax Hispanica (Испански мир)",
+          "description": "Двадесет и три годишен период (1598–1621 г.), през който Испания се оттегля от европейските религиозни войни. Съвпада с управлението на Филип III, който подписва мир с Англия (1604), Франция (1598) и Нидерландия (1609). Испанското сребро от Новия свят (песо де очо) е де факто световна валута на XVI–XVII век, циркулираща от Европа до Китай.",
+          "comment": "Датите 1598–1621 г. представляват пълен научен консенсус и съвпадат точно с управлението на Филип III Испански. 1598 г. е годината на Вервенския мирен договор с Франция и на смъртта на Филип II. 1621 г. е краят на управлението на Филип III, след което Филип IV възобновява военните действия. Утвърдени от монографията на Пол К. Алън 'Philip III and the Pax Hispanica, 1598–1621' (Yale University Press, 2000).",
+          "date": {
+            "range": [
+              "1598-01-01",
+              "1621-12-31"
+            ],
+            "from": {
+              "dateYear": 1598
+            },
+            "to": {
+              "dateYear": 1621
+            }
+          },
+          "sources": [
+            {
+              "name": "Pax Hispanica – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Pax_Hispanica"
+              ],
+              "from": {
+                "dateYear": 1598
+              },
+              "to": {
+                "dateYear": 1621
+              },
+              "quoteOriginal": "The Pax Hispanica (Latin for 'Spanish Peace') refers to a period of twenty-three years from 1598 to 1621, when Spain disengaged from the European wars of religion. This roughly corresponds to the rule of Philip III of Spain.",
+              "quote": "Pax Hispanica (на латински 'Испански мир') се отнася до период от двадесет и три години от 1598 до 1621 г., когато Испания се оттегля от европейските религиозни войни. Това приблизително съвпада с управлението на Филип III Испански."
+            },
+            {
+              "name": "Spain: The reign of Philip III – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/place/Spain/The-reign-of-Philip-III"
+              ],
+              "from": {
+                "dateYear": 1610
+              },
+              "to": {
+                "dateYear": 1630
+              },
+              "quoteOriginal": "The years from 1610 to 1630 were the last period in which Spain clearly dominated Europe. For the first of these two decades Europe enjoyed a kind of Pax Hispanica.",
+              "quote": "Годините от 1610 до 1630 са последният период, в който Испания безспорно доминира в Европа. През първото от тези две десетилетия Европа се радва на своеобразен Pax Hispanica."
+            },
+            {
+              "name": "Philip III and the Pax Hispanica – Yale University Press",
+              "url": [
+                "https://yalebooks.yale.edu/book/9780300076820/philip-iii-and-the-pax-hispanica-1598-1621/"
+              ],
+              "from": {
+                "dateYear": 1598
+              },
+              "to": {
+                "dateYear": 1621
+              },
+              "quoteOriginal": "Impoverished and exhausted after fifty years of incessant warfare, the great Spanish Empire at the turn of the sixteenth century negotiated treaties with its three most powerful enemies: England, France, and the Netherlands.",
+              "quote": "Обеднялата и изтощена след петдесет години непрекъсната война, великата Испанска империя в края на шестнадесети век преговаря за мирни договори с трите си най-могъщи врагове: Англия, Франция и Нидерландия."
+            }
+          ],
+          "flag": "ES",
+          "style": "pax-hispanica"
+        },
+        {
+          "name": "Песо де очо (испански долар)",
+          "description": "Испанското сребърно песо де очо е де факто световна валута на XVI–XIX век, циркулираща от Европа до Китай и Америка. Символът \"$\" произлиза от него. Отсечена за пръв път през 1497 г., остава международен стандарт до средата на XIX век.",
+          "comment": "Началната дата 1497 г. е валутната реформа на Фердинанд и Изабела (Pragmática de Medina del Campo). Масовото разпространение започва след 1545 г. с откриването на среброто в Потоси. Крайната дата 1857 г. е годината, в която САЩ демонетизират чуждестранните монети (Coinage Act of 1857), слагайки формален край на употребата на песото като законно платежно средство извън Испания.",
+          "date": {
+            "range": [
+              "1497-06-13",
+              "1857-02-21"
+            ],
+            "from": {
+              "date": "1497-06-13"
+            },
+            "to": {
+              "date": "1857-02-21"
+            }
+          },
+          "sources": [
+            {
+              "name": "Spanish dollar – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Spanish_dollar"
+              ],
+              "from": {
+                "dateYear": 1497
+              },
+              "quoteOriginal": "The Spanish dollar, also known as the piece of eight, was a silver coin worth eight reales. It was minted in the Spanish Empire following a monetary reform in 1497.",
+              "quote": "Испанският долар, известен също като песо де очо, е сребърна монета на стойност осем реала. Сечен е в Испанската империя след парична реформа от 1497 г."
+            },
+            {
+              "name": "Coinage Act of 1857 – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Coinage_Act_of_1857"
+              ],
+              "to": {
+                "date": "1857-02-21"
+              },
+              "quoteOriginal": "The Coinage Act of 1857, enacted February 21, 1857, was a statute of the United States Congress which ended the status of foreign coins as legal tender.",
+              "quote": "Законът за монетосеченето от 1857 г., приет на 21 февруари 1857 г., е закон на Конгреса на САЩ, прекратяващ статута на чуждестранните монети като законно платежно средство."
+            }
+          ],
+          "style": "currency"
+        }
+      ]
+    },
+    {
+      "name": "Европейски концерт",
+      "id": "daa4bd1e-fc80-47db-ad10-4f85b40c0b5c",
+      "periods": [
+        {
+          "name": "Европейски концерт (Конгресна система)",
+          "description": "Система на баланс на силите в Европа, установена с Виенския конгрес (1815 г.), при която великите сили действат съгласувано за поддържане на мира и статуквото. Просъществува до избухването на Първата световна война (1914 г.).",
+          "comment": "Датите 1815–1914 г. са широкият научен консенсус. EN Wikipedia посочва 1814 г. като начало (когато конгресът започва), но повечето историци използват 1815 г. (годината на завършването на Виенския конгрес). 1914 г. е началото на Първата световна война, която разрушава системата. Britannica предлага по-тесен обхват (1820–1900), но това е консервативна оценка.",
+          "date": {
+            "range": [
+              "1815-06-09",
+              "1914-07-28"
+            ],
+            "from": {
+              "date": "1815-06-09"
+            },
+            "to": {
+              "date": "1914-07-28"
+            }
+          },
+          "sources": [
+            {
+              "name": "Европейски концерт – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8_%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82"
+              ],
+              "from": {
+                "dateYear": 1815
+              },
+              "quote": "Европейският концерт, наричан също Конгресна система, е установената в Европа с Виенския конгрес от 1815 година система на баланс на силите, която се запазва в общи линии до началото на Първата световна война столетие по-късно."
+            },
+            {
+              "name": "Concert of Europe – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Concert_of_Europe"
+              ],
+              "from": {
+                "dateYear": 1814
+              },
+              "to": {
+                "dateYear": 1914
+              },
+              "quoteOriginal": "The Concert of Europe describes the geopolitical order in Europe from 1814 to 1914, during which the great powers tended to act in concert to avoid wars and revolutions and generally maintain the territorial and political status quo.",
+              "quote": "Европейският концерт описва геополитическия ред в Европа от 1814 до 1914 г., през който Великите сили са склонни да действат съгласувано, за да избягват войни и революции и като цяло да поддържат териториалното и политическото статукво."
+            },
+            {
+              "name": "Concert of Europe – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/event/Concert-of-Europe"
+              ],
+              "quoteOriginal": "Concert of Europe, in the post-Napoleonic era, the vague consensus among the European monarchies favouring preservation of the territorial and political status quo.",
+              "quote": "Концерт на Европа — в следнаполеоновата ера, неясният консенсус сред европейските монархии в полза на запазването на териториалното и политическото статукво."
+            }
+          ],
+          "style": "concert"
+        }
+      ]
+    },
+    {
+      "name": "Британска империя",
+      "id": "71b3446c-0e6a-4dcc-91a4-7dd08028bf6c",
+      "code": "GB",
+      "periods": [
+        {
+          "name": "Pax Britannica (Британски мир)",
+          "description": "Период на относителен мир между великите сили (1815–1914 г.), при който Британската империя е глобална хегемонна сила с господство над моретата, улесняваща световната търговия и стабилност. Наричан също 'имперското столетие' на Британия. Британия обвързва лирата със златния стандарт (от 1821 г.) и контролира глобалната търговия чрез флота си и Суецкия канал — около 60% от световните резерви са в лири към 1900 г.",
+          "comment": "Датите 1815–1914 г. са категорични в научния консенсус. 1815 г. е краят на Наполеоновите войни (битката при Ватерло, 18 юни 1815 г.), а 1914 г. — началото на Първата световна война (28 юли 1914 г.). Периодът съвпада с Европейския концерт, тъй като Британия е основен гарант на баланса на силите.",
+          "date": {
+            "range": [
+              "1815-06-18",
+              "1914-07-28"
+            ],
+            "from": {
+              "date": "1815-06-18"
+            },
+            "to": {
+              "date": "1914-07-28"
+            }
+          },
+          "sources": [
+            {
+              "name": "Pax Britannica – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Pax_Britannica"
+              ],
+              "from": {
+                "dateYear": 1815
+              },
+              "to": {
+                "dateYear": 1914
+              },
+              "quoteOriginal": "Pax Britannica (Latin for 'British Peace', modelled after Pax Romana) refers to the relative peace between the great powers in the time period roughly bounded by the Napoleonic Wars and the First World War. Between 1815 and 1914, around 26,000,000 square kilometres of territory and roughly 400 million people were added to the British Empire.",
+              "quote": "Pax Britannica (на латински 'Британски мир', по модела на Pax Romana) се отнася до относителния мир между великите сили в периода, очертан приблизително от Наполеоновите войни и Първата световна война. Между 1815 и 1914 г. около 26 000 000 квадратни километра територия и приблизително 400 милиона души са добавени към Британската империя."
+            },
+            {
+              "name": "Pax Britannica – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/Pax-Britannica"
+              ],
+              "from": {
+                "dateYear": 1815
+              },
+              "to": {
+                "dateYear": 1914
+              },
+              "quoteOriginal": "The Pax Britannica refers to a period of relative peace in regions influenced by the British Empire, roughly from 1815 to 1914. This era was characterized by British naval dominance and global influence, which facilitated trade and stability.",
+              "quote": "Pax Britannica се отнася до период на относителен мир в регионите, повлияни от Британската империя, приблизително от 1815 до 1914 г. Тази ера се характеризира с британско морско господство и глобално влияние, което улеснява търговията и стабилността."
+            }
+          ],
+          "flag": "GB",
+          "style": "pax-britannica"
+        },
+        {
+          "name": "Златен стандарт (лира стерлинг)",
+          "description": "Великобритания обвързва лирата стерлинг със златото, превръщайки я в световна резервна валута. Около 60% от глобалните резерви са в лири към 1900 г. Системата е изоставена окончателно на 21 септември 1931 г.",
+          "comment": "Началната дата 1821 г. е годината на Gold Standard Act, формално установяващ конвертируемостта на лирата в злато (де факто от 1717 г. при Нютон). Краят е 21 септември 1931 г., когато Британия окончателно изоставя златния стандарт след финансова криза. Между 1914 и 1925 г. стандартът е временно суспендиран заради Първата световна война, а след краткото възстановяване (1925–1931) е изоставен завинаги.",
+          "date": {
+            "range": [
+              "1821-01-01",
+              "1931-09-21"
+            ],
+            "from": {
+              "dateYear": 1821
+            },
+            "to": {
+              "date": "1931-09-21"
+            }
+          },
+          "sources": [
+            {
+              "name": "Gold standard – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Gold_standard"
+              ],
+              "from": {
+                "dateYear": 1821
+              },
+              "to": {
+                "dateYear": 1931
+              },
+              "quoteOriginal": "The United Kingdom formally adopted the gold standard in 1821. By the 1870s, many other major nations followed. The UK permanently abandoned the gold standard on 21 September 1931.",
+              "quote": "Обединеното кралство формално приема златния стандарт през 1821 г. До 1870-те години много други големи нации последват примера. Великобритания окончателно изоставя златния стандарт на 21 септември 1931 г."
+            },
+            {
+              "name": "Gold standard – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/gold-standard"
+              ],
+              "from": {
+                "dateYear": 1821
+              },
+              "quoteOriginal": "Britain adopted a de facto gold standard in 1717 and formally adopted the gold standard in 1821.",
+              "quote": "Британия приема де факто златен стандарт през 1717 г. и формално приема златния стандарт през 1821 г."
+            }
+          ],
+          "style": "currency"
+        }
+      ]
+    },
+    {
+      "name": "Съединени щати",
+      "id": "d25e0287-30ba-4aa7-8c04-a36ac5e79400",
+      "code": "US",
+      "periods": [
+        {
+          "name": "Pax Americana (Американски мир)",
+          "description": "Период на относителен мир и стабилност в зоната на американско влияние след края на Втората световна война (1945 г.). САЩ се превръщат в водещата световна икономическа, културна и военна сила, упражняваща основните отговорности за световния ред. След края на Бретън Уудс (1971 г.), петродоларната система от 1974 г. обвързва глобалната търговия с петрол изключително с щатския долар, създавайки нееластично търсене на американска валута.",
+          "comment": "Началната дата 1945 г. е безспорна — краят на Втората световна война (2 септември 1945 г., японска капитулация). Някои учени датират прехода към 1947 г. (Доктрината Труман и планът Маршал). Крайната дата е дискусионна — периодът се счита за продължаващ до днес, макар някои автори да твърдят, че американската хегемония намалява. От 1945 до 1991 г. Pax Americana обхваща само Западния свят.",
+          "date": {
+            "range": [
+              "1945-09-02",
+              null
+            ],
+            "from": {
+              "date": "1945-09-02"
+            }
+          },
+          "sources": [
+            {
+              "name": "Pax Americana – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Pax_Americana"
+              ],
+              "from": {
+                "dateYear": 1945
+              },
+              "quoteOriginal": "Pax Americana (Latin for 'American Peace', modeled after Pax Romana and Pax Britannica), often identified with the 'Long Peace', is a term applied to the concept of relative peace in the Western Hemisphere and later in the world after the end of World War II in 1945, when the United States became the world's foremost economic, cultural, and military power exercising primary responsibilities for world order.",
+              "quote": "Pax Americana (на латински 'Американски мир', по модела на Pax Romana и Pax Britannica), често отъждествяван с 'Дългия мир', е термин, прилаган към концепцията за относителен мир в Западното полукълбо и по-късно в света след края на Втората световна война през 1945 г., когато Съединените щати се превръщат в водещата световна икономическа, културна и военна сила, упражняваща основните отговорности за световния ред."
+            },
+            {
+              "name": "Pax Americana – Political Dictionary",
+              "url": [
+                "https://politicaldictionary.com/words/pax-americana/"
+              ],
+              "from": {
+                "dateYear": 1945
+              },
+              "quoteOriginal": "Pax Americana refers to a period of relative peace and stability that extended throughout the area of American influence, beginning with the end of World War II.",
+              "quote": "Pax Americana се отнася до период на относителен мир и стабилност, простиращ се в цялата зона на американско влияние, започващ с края на Втората световна война."
+            }
+          ],
+          "flag": "US",
+          "style": "pax-americana"
+        },
+        {
+          "name": "Златен стандарт (щатски долар)",
+          "description": "САЩ формално приемат златния стандарт със Закона за златния стандарт от 14 март 1900 г., определяйки долара по тегло в злато и изисквайки Министерството на финансите да изкупува книжни пари само в златни монети. Системата е прекратена на 15 август 1971 г. от президента Никсън.",
+          "comment": "Началната дата 14 март 1900 г. е датата на подписване на Gold Standard Act от президента Маккинли, формализиращ златния стандарт, който де факто съществува от Coinage Act of 1873 (демонетизиращ среброто). Между 1933 и 1934 г. САЩ девалвират долара и забраняват частното притежание на злато (Executive Order 6102), но стандартът за международни разплащания остава. Крайната дата 15 август 1971 г. е денят, в който президентът Никсън обявява суспендирането на конвертируемостта на долара в злато (‘Никсъновият шок’), слагайки край на Бретън Уудската система.",
+          "date": {
+            "range": [
+              "1900-03-14",
+              "1971-08-15"
+            ],
+            "from": {
+              "date": "1900-03-14"
+            },
+            "to": {
+              "date": "1971-08-15"
+            }
+          },
+          "sources": [
+            {
+              "name": "Златен стандарт – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%97%D0%BB%D0%B0%D1%82%D0%B5%D0%BD_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82"
+              ],
+              "from": {
+                "dateYear": 1900
+              },
+              "quote": "през 1900 г. е приет Закон за златния стандарт"
+            },
+            {
+              "name": "Gold Standard Act – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Gold_Standard_Act"
+              ],
+              "from": {
+                "date": "1900-03-14"
+              },
+              "quoteOriginal": "The Gold Standard Act was signed into law by President William McKinley on March 14, 1900, defining the United States dollar by gold weight and requiring the United States Treasury to redeem, on demand and in gold coin only, paper currency the Act specified.",
+              "quote": "Законът за златния стандарт е подписан от президента Уилям Маккинли на 14 март 1900 г., определяйки щатския долар по тегло в злато и изисквайки от Министерството на финансите на САЩ да изкупува при поискване и само в златни монети книжната валута, посочена в закона."
+            },
+            {
+              "name": "Nixon shock – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Nixon_shock"
+              ],
+              "to": {
+                "date": "1971-08-15"
+              },
+              "quoteOriginal": "The Nixon shock was the effect of a series of economic measures taken by United States president Richard Nixon on August 15, 1971. Nixon directed Connally to suspend the convertibility of the dollar into gold or other reserve assets, such that foreign governments could no longer exchange their dollars for gold, thereby ending the Bretton Woods system.",
+              "quote": "Никсъновият шок е ефектът от поредица икономически мерки, предприети от президента на САЩ Ричард Никсън на 15 август 1971 г. Никсън нарежда на Конали да суспендира конвертируемостта на долара в злато или други резервни активи, така че чуждите правителства вече не могат да обменят доларите си за злато, като по този начин слага край на Бретън Уудската система."
+            },
+            {
+              "name": "Gold standard – Encyclopaedia Britannica",
+              "url": [
+                "https://www.britannica.com/topic/gold-standard"
+              ],
+              "to": {
+                "dateYear": 1971
+              },
+              "quoteOriginal": "In 1971 dwindling gold reserves and a mounting deficit in its balance of payments led the United States to suspend the free convertibility of dollars into gold at fixed rates of exchange for use in international payments.",
+              "quote": "През 1971 г. намаляващите златни резерви и нарастващият дефицит по платежния баланс водят до суспендиране от страна на САЩ на свободната конвертируемост на долара в злато при фиксирани обменни курсове за международни плащания."
+            }
+          ],
+          "style": "currency"
+        },
+        {
+          "name": "Петродолар",
+          "description": "След края на Бретън Уудс (1971 г.), през 1974 г. САЩ сключват споразумение със Саудитска Арабия: петролът се търгува изключително в долари, а излишъците се инвестират в американски ДЦК. До 1975 г. всички членове на ОПЕК приемат системата.",
+          "comment": "Началната дата 1974 г. е годината на споразумението между министър Уилям Саймън и Хенри Кисинджър със Саудитска Арабия. Системата продължава до днес, макар от ~2023 г. Саудитска Арабия да сигнализира готовност за приемане на други валути (юан, рупия).",
+          "date": {
+            "range": [
+              "1974-06-08",
+              null
+            ],
+            "from": {
+              "date": "1974-06-08"
+            }
+          },
+          "sources": [
+            {
+              "name": "Petrodollar recycling – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Petrodollar_recycling"
+              ],
+              "from": {
+                "dateYear": 1974
+              },
+              "quoteOriginal": "Petrodollar recycling is the international spending or investment of a country's revenues from petroleum exports. In 1974, the United States and Saudi Arabia struck an agreement whereby Saudi Arabia would price its oil exports exclusively in U.S. dollars and invest surplus revenues in U.S. Treasury bonds.",
+              "quote": "Рециклирането на петродолари е международното харчене или инвестиране на приходите на дадена страна от износ на петрол. През 1974 г. Съединените щати и Саудитска Арабия сключват споразумение, по силата на което Саудитска Арабия ще определя цената на петролния си износ изключително в щатски долари и ще инвестира излишните приходи в американски съкровищни облигации."
+            },
+            {
+              "name": "Nixon shock – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Nixon_shock"
+              ],
+              "quoteOriginal": "The Nixon shock was a series of economic measures undertaken by United States President Richard Nixon in 1971, in response to increasing inflation, the most significant of which was the unilateral cancellation of the direct international convertibility of the United States dollar to gold.",
+              "quote": "Никсъновият шок е поредица от икономически мерки, предприети от президента на САЩ Ричард Никсън през 1971 г., в отговор на нарастващата инфлация, най-значимата от които е едностранната отмяна на пряката международна конвертируемост на щатския долар в злато."
+            }
+          ],
+          "style": "currency"
+        }
+      ]
+    },
+    {
+      "name": "Съветски съюз",
+      "id": "51717a4b-41ba-4e9b-8e75-cab4d811e10e",
+      "code": "SU",
+      "periods": [
+        {
+          "name": "Pax Sovietica (Съветски мир)",
+          "description": "Период на наложена стабилност в зоната на съветско влияние (1945–1991 г.). Източноевропейските държави попадат под съветска хегемония като формално суверенни, но подчинени на Москва сателити.",
+          "comment": "Началната дата 1945 г. съвпада с края на Втората световна война и съветската окупация на Източна Европа. Оксфордският английски речник потвърждава, че терминът Pax Sovietica се появява за пръв път именно през 1945 г. (в писмо на Олдъс Хъксли). Крайната дата е 26 декември 1991 г. — денят на официалното разпадане на СССР. Някои историци използват 9 ноември 1989 г. (падането на Берлинската стена) като алтернативен маркер.",
+          "date": {
+            "range": [
+              "1945-01-01",
+              "1991-12-26"
+            ],
+            "from": {
+              "dateYear": 1945
+            },
+            "to": {
+              "date": "1991-12-26"
+            }
+          },
+          "sources": [
+            {
+              "name": "Съветска империя – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D1%8A%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F"
+              ],
+              "quote": "'Съветска империя' е термин, използван в съветологията за обозначаване на съветското влияние над редица по-малки страни."
+            },
+            {
+              "name": "Soviet empire – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Pax_Sovietica"
+              ],
+              "quoteOriginal": "The term 'Soviet empire' collectively refers to the world's territories that the Soviet Union dominated politically, economically, and militarily.",
+              "quote": "Терминът 'Съветска империя' обобщено се отнася до териториите по света, които Съветският съюз доминира политически, икономически и военно."
+            },
+            {
+              "name": "Soviet Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Soviet_Union"
+              ],
+              "from": {
+                "dateYear": 1922
+              },
+              "to": {
+                "dateYear": 1991
+              },
+              "quoteOriginal": "The Union of Soviet Socialist Republics (USSR), also known as the Soviet Union, was a transcontinental country that spanned much of Eurasia from 1922 until its dissolution in 1991.",
+              "quote": "Съюзът на съветските социалистически републики (СССР), известен още като Съветски съюз, е трансконтинентална държава, обхващаща голяма част от Евразия от 1922 г. до разпадането си през 1991 г."
+            }
+          ],
+          "flag": "SU",
+          "style": "pax-sovietica"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2032 @@
+{
+  "id": "eu",
+  "name": "Европейски съюз",
+  "description": "Членство на държавите в Европейския съюз от основаването му през 1957 г. до днес, заедно с председателите на Европейската комисия.",
+  "knowledge": "eu",
+  "metadata": {
+    "color": "#003399"
+  },
+  "data": [
+    {
+      "name": "Председател на Европейската комисия",
+      "id": "02888e57-59dd-47b3-a9ef-ace7e4444a91",
+      "periods": [
+        {
+          "name": "Валтер Халщайн",
+          "date": {
+            "range": [
+              "1958-01-01",
+              "1967-06-30"
+            ],
+            "from": {
+              "dateYear": 1958
+            },
+            "to": {
+              "date": "1967-06-30"
+            }
+          },
+          "flag": "DE",
+          "description": "1-ви председател на Европейската комисия (1958–1967). Германски политик и юрист.",
+          "comment": "Халщайн е първият председател на Комисията на ЕИО, създадена с Договора от Рим. Мандат: 1 януари 1958 – 30 юни 1967 г.",
+          "sources": [
+            {
+              "name": "Председател на Европейската комисия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D1%8F"
+              ],
+              "from": {
+                "dateYear": 1958
+              },
+              "to": {
+                "date": "1967-06-30"
+              },
+              "quote": "Валтер Халщайн: 1958 – 1967."
+            },
+            {
+              "name": "President of the European Commission – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_the_European_Commission"
+              ],
+              "from": {
+                "dateYear": 1958
+              },
+              "to": {
+                "date": "1967-06-30"
+              },
+              "quoteOriginal": "Walter Hallstein was the first President of the Commission of the European Economic Community, serving from 1958 to 1967.",
+              "quote": "Валтер Халщайн е първият председател на Комисията на Европейската икономическа общност, служил от 1958 до 1967 г."
+            }
+          ]
+        },
+        {
+          "name": "Жан Рей",
+          "date": {
+            "range": [
+              "1967-07-02",
+              "1970-06-30"
+            ],
+            "from": {
+              "date": "1967-07-02"
+            },
+            "to": {
+              "date": "1970-06-30"
+            }
+          },
+          "flag": "BE",
+          "description": "2-ри председател на Европейската комисия (1967–1970). Белгийски политик.",
+          "comment": "Рей ръководи първата обединена Комисия след сливането на институциите на трите европейски общности на 1 юли 1967 г.",
+          "sources": [
+            {
+              "name": "Председател на Европейската комисия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D1%8F"
+              ],
+              "from": {
+                "date": "1967-07-02"
+              },
+              "to": {
+                "date": "1970-06-30"
+              },
+              "quote": "Жан Рей: 1967 – 1970."
+            },
+            {
+              "name": "President of the European Commission – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_the_European_Commission"
+              ],
+              "from": {
+                "date": "1967-07-02"
+              },
+              "to": {
+                "date": "1970-06-30"
+              },
+              "quoteOriginal": "Jean Rey served as President of the European Commission from 2 July 1967 to 30 June 1970.",
+              "quote": "Жан Рей е председател на Европейската комисия от 2 юли 1967 до 30 юни 1970 г."
+            }
+          ]
+        },
+        {
+          "name": "Франко Мария Малфати",
+          "date": {
+            "range": [
+              "1970-07-01",
+              "1972-03-21"
+            ],
+            "from": {
+              "dateYear": 1970,
+              "dateMonth": 7
+            },
+            "to": {
+              "date": "1972-03-21"
+            }
+          },
+          "flag": "IT",
+          "description": "3-ти председател на Европейската комисия (1970–1972). Италиански политик.",
+          "comment": "Малфати подава оставка преди края на мандата си, за да участва в италианските парламентарни избори. Мандат: 1 юли 1970 – 21 март 1972 г.",
+          "sources": [
+            {
+              "name": "Председател на Европейската комисия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D1%8F"
+              ],
+              "from": {
+                "dateYear": 1970,
+                "dateMonth": 7
+              },
+              "to": {
+                "date": "1972-03-21"
+              },
+              "quote": "Франко Мария Малфати: 1970 – 1972."
+            },
+            {
+              "name": "President of the European Commission – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_the_European_Commission"
+              ],
+              "from": {
+                "dateYear": 1970,
+                "dateMonth": 7
+              },
+              "to": {
+                "date": "1972-03-21"
+              },
+              "quoteOriginal": "Franco Maria Malfatti served as President of the European Commission from 1 July 1970 to 21 March 1972.",
+              "quote": "Франко Мария Малфати е председател на Европейската комисия от 1 юли 1970 до 21 март 1972 г."
+            }
+          ]
+        },
+        {
+          "name": "Сико Мансхолт",
+          "date": {
+            "range": [
+              "1972-03-22",
+              "1973-01-05"
+            ],
+            "from": {
+              "date": "1972-03-22"
+            },
+            "to": {
+              "date": "1973-01-05"
+            }
+          },
+          "flag": "NL",
+          "description": "4-ти председател на Европейската комисия (1972–1973). Нидерландски политик.",
+          "comment": "Мансхолт довършва мандата на подалия оставка Малфати. Кратък мандат: 22 март 1972 – 5 януари 1973 г.",
+          "sources": [
+            {
+              "name": "Председател на Европейската комисия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D1%8F"
+              ],
+              "from": {
+                "date": "1972-03-22"
+              },
+              "to": {
+                "date": "1973-01-05"
+              },
+              "quote": "Сико Мансхолт: 1972 – 1973."
+            },
+            {
+              "name": "President of the European Commission – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_the_European_Commission"
+              ],
+              "from": {
+                "date": "1972-03-22"
+              },
+              "to": {
+                "date": "1973-01-05"
+              },
+              "quoteOriginal": "Sicco Mansholt served as President of the European Commission from 22 March 1972 to 5 January 1973.",
+              "quote": "Сико Мансхолт е председател на Европейската комисия от 22 март 1972 до 5 януари 1973 г."
+            }
+          ]
+        },
+        {
+          "name": "Франсоа-Ксавие Ортоли",
+          "date": {
+            "range": [
+              "1973-01-06",
+              "1977-01-05"
+            ],
+            "from": {
+              "date": "1973-01-06"
+            },
+            "to": {
+              "date": "1977-01-05"
+            }
+          },
+          "flag": "FR",
+          "description": "5-и председател на Европейската комисия (1973–1977). Френски политик.",
+          "sources": [
+            {
+              "name": "Председател на Европейската комисия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D1%8F"
+              ],
+              "from": {
+                "date": "1973-01-06"
+              },
+              "to": {
+                "date": "1977-01-05"
+              },
+              "quote": "Франсоа-Ксавие Ортоли: 1973 – 1977."
+            },
+            {
+              "name": "President of the European Commission – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_the_European_Commission"
+              ],
+              "from": {
+                "date": "1973-01-06"
+              },
+              "to": {
+                "date": "1977-01-05"
+              },
+              "quoteOriginal": "François-Xavier Ortoli served as President of the European Commission from 6 January 1973 to 5 January 1977.",
+              "quote": "Франсоа-Ксавие Ортоли е председател на Европейската комисия от 6 януари 1973 до 5 януари 1977 г."
+            }
+          ]
+        },
+        {
+          "name": "Рой Дженкинс",
+          "date": {
+            "range": [
+              "1977-01-06",
+              "1981-01-19"
+            ],
+            "from": {
+              "date": "1977-01-06"
+            },
+            "to": {
+              "date": "1981-01-19"
+            }
+          },
+          "flag": "GB",
+          "description": "6-и председател на Европейската комисия (1977–1981). Британски политик.",
+          "comment": "Дженкинс е ключова фигура в създаването на Европейската валутна система (ЕВС). Мандат: 6 януари 1977 – 19 януари 1981 г.",
+          "sources": [
+            {
+              "name": "Председател на Европейската комисия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D1%8F"
+              ],
+              "from": {
+                "date": "1977-01-06"
+              },
+              "to": {
+                "date": "1981-01-19"
+              },
+              "quote": "Рой Дженкинс: 1977 – 1981."
+            },
+            {
+              "name": "President of the European Commission – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_the_European_Commission"
+              ],
+              "from": {
+                "date": "1977-01-06"
+              },
+              "to": {
+                "date": "1981-01-19"
+              },
+              "quoteOriginal": "Roy Jenkins served as President of the European Commission from 6 January 1977 to 19 January 1981.",
+              "quote": "Рой Дженкинс е председател на Европейската комисия от 6 януари 1977 до 19 януари 1981 г."
+            }
+          ]
+        },
+        {
+          "name": "Гастон Торн",
+          "date": {
+            "range": [
+              "1981-01-20",
+              "1985-01-06"
+            ],
+            "from": {
+              "date": "1981-01-20"
+            },
+            "to": {
+              "date": "1985-01-06"
+            }
+          },
+          "flag": "LU",
+          "description": "7-и председател на Европейската комисия (1981–1985). Люксембургски политик, бивш министър-председател.",
+          "sources": [
+            {
+              "name": "Председател на Европейската комисия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D1%8F"
+              ],
+              "from": {
+                "date": "1981-01-20"
+              },
+              "to": {
+                "date": "1985-01-06"
+              },
+              "quote": "Гастон Торн: 1981 – 1985."
+            },
+            {
+              "name": "President of the European Commission – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_the_European_Commission"
+              ],
+              "from": {
+                "date": "1981-01-20"
+              },
+              "to": {
+                "date": "1985-01-06"
+              },
+              "quoteOriginal": "Gaston Thorn served as President of the European Commission from 20 January 1981 to 6 January 1985.",
+              "quote": "Гастон Торн е председател на Европейската комисия от 20 януари 1981 до 6 януари 1985 г."
+            }
+          ]
+        },
+        {
+          "name": "Жак Делор",
+          "date": {
+            "range": [
+              "1985-01-07",
+              "1995-01-24"
+            ],
+            "from": {
+              "date": "1985-01-07"
+            },
+            "to": {
+              "date": "1995-01-24"
+            }
+          },
+          "flag": "FR",
+          "description": "8-и председател на Европейската комисия (1985–1995). Френски политик. Най-дългият мандат — 10 години.",
+          "comment": "Делор ръководи Комисията три последователни мандата. Ключова роля в създаването на единния пазар и Договора от Маастрихт. Мандат: 7 януари 1985 – 24 януари 1995 г.",
+          "sources": [
+            {
+              "name": "Председател на Европейската комисия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D1%8F"
+              ],
+              "from": {
+                "date": "1985-01-07"
+              },
+              "to": {
+                "date": "1995-01-24"
+              },
+              "quote": "Жак Делор: 1985 – 1995."
+            },
+            {
+              "name": "President of the European Commission – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_the_European_Commission"
+              ],
+              "from": {
+                "date": "1985-01-07"
+              },
+              "to": {
+                "date": "1995-01-24"
+              },
+              "quoteOriginal": "Jacques Delors served as President of the European Commission from 7 January 1985 to 24 January 1995.",
+              "quote": "Жак Делор е председател на Европейската комисия от 7 януари 1985 до 24 януари 1995 г."
+            }
+          ]
+        },
+        {
+          "name": "Жак Сантер",
+          "date": {
+            "range": [
+              "1995-01-25",
+              "1999-03-15"
+            ],
+            "from": {
+              "date": "1995-01-25"
+            },
+            "to": {
+              "date": "1999-03-15"
+            }
+          },
+          "flag": "LU",
+          "description": "9-и председател на Европейската комисия (1995–1999). Люксембургски политик, бивш министър-председател.",
+          "comment": "Комисията на Сантер подава колективна оставка на 15 март 1999 г. след доклад за злоупотреби и лошо управление.",
+          "sources": [
+            {
+              "name": "Председател на Европейската комисия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D1%8F"
+              ],
+              "from": {
+                "date": "1995-01-25"
+              },
+              "to": {
+                "date": "1999-03-15"
+              },
+              "quote": "Жак Сантер: 1995 – 1999."
+            },
+            {
+              "name": "President of the European Commission – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_the_European_Commission"
+              ],
+              "from": {
+                "date": "1995-01-25"
+              },
+              "to": {
+                "date": "1999-03-15"
+              },
+              "quoteOriginal": "Jacques Santer served as President of the European Commission from 25 January 1995 to 15 March 1999.",
+              "quote": "Жак Сантер е председател на Европейската комисия от 25 януари 1995 до 15 март 1999 г."
+            }
+          ]
+        },
+        {
+          "name": "Мануел Марин (и.д.)",
+          "date": {
+            "range": [
+              "1999-03-16",
+              "1999-09-15"
+            ],
+            "from": {
+              "date": "1999-03-16"
+            },
+            "to": {
+              "date": "1999-09-15"
+            }
+          },
+          "flag": "ES",
+          "description": "Изпълняващ длъжността председател на Европейската комисия (март–септември 1999). Испански политик.",
+          "comment": "Марин поема временно ръководството след колективната оставка на Комисията на Сантер. Мандат: 16 март – 15 септември 1999 г.",
+          "sources": [
+            {
+              "name": "Председател на Европейската комисия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D1%8F"
+              ],
+              "from": {
+                "date": "1999-03-16"
+              },
+              "to": {
+                "date": "1999-09-15"
+              },
+              "quote": "Мануел Марин: март – септември 1999."
+            },
+            {
+              "name": "President of the European Commission – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_the_European_Commission"
+              ],
+              "from": {
+                "date": "1999-03-16"
+              },
+              "to": {
+                "date": "1999-09-15"
+              },
+              "quoteOriginal": "Manuel Marín served as acting President of the European Commission from 16 March to 15 September 1999.",
+              "quote": "Мануел Марин е изпълняващ длъжността председател на Европейската комисия от 16 март до 15 септември 1999 г."
+            }
+          ]
+        },
+        {
+          "name": "Романо Проди",
+          "date": {
+            "range": [
+              "1999-09-16",
+              "2004-11-21"
+            ],
+            "from": {
+              "date": "1999-09-16"
+            },
+            "to": {
+              "date": "2004-11-21"
+            }
+          },
+          "flag": "IT",
+          "description": "10-и председател на Европейската комисия (1999–2004). Италиански политик, бивш министър-председател.",
+          "comment": "По време на мандата му ЕС приема 10 нови членки (2004). Мандат: 16 септември 1999 – 21 ноември 2004 г.",
+          "sources": [
+            {
+              "name": "Председател на Европейската комисия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D1%8F"
+              ],
+              "from": {
+                "date": "1999-09-16"
+              },
+              "to": {
+                "date": "2004-11-21"
+              },
+              "quote": "Романо Проди: 1999 – 2004."
+            },
+            {
+              "name": "President of the European Commission – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_the_European_Commission"
+              ],
+              "from": {
+                "date": "1999-09-16"
+              },
+              "to": {
+                "date": "2004-11-21"
+              },
+              "quoteOriginal": "Romano Prodi served as President of the European Commission from 16 September 1999 to 21 November 2004.",
+              "quote": "Романо Проди е председател на Европейската комисия от 16 септември 1999 до 21 ноември 2004 г."
+            }
+          ]
+        },
+        {
+          "name": "Жозе Мануел Барозо",
+          "date": {
+            "range": [
+              "2004-11-22",
+              "2014-10-31"
+            ],
+            "from": {
+              "date": "2004-11-22"
+            },
+            "to": {
+              "date": "2014-10-31"
+            }
+          },
+          "flag": "PT",
+          "description": "11-и председател на Европейската комисия (2004–2014). Португалски политик, бивш министър-председател. Два мандата.",
+          "comment": "Барозо ръководи Комисията два мандата. По негово време ЕС приема България и Румъния (2007) и Хърватия (2013). Мандат: 22 ноември 2004 – 31 октомври 2014 г.",
+          "sources": [
+            {
+              "name": "Председател на Европейската комисия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D1%8F"
+              ],
+              "from": {
+                "date": "2004-11-22"
+              },
+              "to": {
+                "date": "2014-10-31"
+              },
+              "quote": "Жозе Мануел Барозо: 2004 – 2014."
+            },
+            {
+              "name": "President of the European Commission – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_the_European_Commission"
+              ],
+              "from": {
+                "date": "2004-11-22"
+              },
+              "to": {
+                "date": "2014-10-31"
+              },
+              "quoteOriginal": "José Manuel Barroso served as President of the European Commission from 22 November 2004 to 31 October 2014.",
+              "quote": "Жозе Мануел Барозо е председател на Европейската комисия от 22 ноември 2004 до 31 октомври 2014 г."
+            }
+          ]
+        },
+        {
+          "name": "Жан-Клод Юнкер",
+          "date": {
+            "range": [
+              "2014-11-01",
+              "2019-11-30"
+            ],
+            "from": {
+              "dateYear": 2014,
+              "dateMonth": 11
+            },
+            "to": {
+              "date": "2019-11-30"
+            }
+          },
+          "flag": "LU",
+          "description": "12-и председател на Европейската комисия (2014–2019). Люксембургски политик, бивш министър-председател.",
+          "comment": "По негово време Великобритания провежда референдум за Брекзит (2016). Мандат: 1 ноември 2014 – 30 ноември 2019 г.",
+          "sources": [
+            {
+              "name": "Председател на Европейската комисия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D1%8F"
+              ],
+              "from": {
+                "dateYear": 2014,
+                "dateMonth": 11
+              },
+              "to": {
+                "date": "2019-11-30"
+              },
+              "quote": "Жан-Клод Юнкер: 2014 – 2019."
+            },
+            {
+              "name": "President of the European Commission – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_the_European_Commission"
+              ],
+              "from": {
+                "dateYear": 2014,
+                "dateMonth": 11
+              },
+              "to": {
+                "date": "2019-11-30"
+              },
+              "quoteOriginal": "Jean-Claude Juncker served as President of the European Commission from 1 November 2014 to 30 November 2019.",
+              "quote": "Жан-Клод Юнкер е председател на Европейската комисия от 1 ноември 2014 до 30 ноември 2019 г."
+            }
+          ]
+        },
+        {
+          "name": "Урсула фон дер Лайен",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "2019-12-01",
+              "2024-11-30"
+            ],
+            "from": {
+              "dateYear": 2019,
+              "dateMonth": 12
+            },
+            "to": {
+              "date": "2024-11-30"
+            }
+          },
+          "flag": "DE",
+          "comment": "13-а председателка на Европейската комисия и първата жена на този пост. Първи мандат: 1 декември 2019 – 30 ноември 2024 г.",
+          "sources": [
+            {
+              "name": "Председател на Европейската комисия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D1%8F"
+              ],
+              "from": {
+                "dateYear": 2019,
+                "dateMonth": 12
+              },
+              "to": {
+                "date": "2024-11-30"
+              },
+              "quote": "Урсула фон дер Лайен: от 2019 – понастоящем."
+            },
+            {
+              "name": "President of the European Commission – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_the_European_Commission"
+              ],
+              "from": {
+                "dateYear": 2019,
+                "dateMonth": 12
+              },
+              "to": {
+                "date": "2024-11-30"
+              },
+              "quoteOriginal": "Ursula von der Leyen has served as President of the European Commission since 1 December 2019. She was re-elected on 18 July 2024.",
+              "quote": "Урсула фон дер Лайен е председател на Европейската комисия от 1 декември 2019 г. Преизбрана е на 18 юли 2024 г."
+            }
+          ]
+        },
+        {
+          "name": "Урсула фон дер Лайен",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "2024-12-01",
+              "2029-11-30"
+            ],
+            "from": {
+              "dateYear": 2024,
+              "dateMonth": 12
+            },
+            "to": {
+              "date": "2029-11-30"
+            }
+          },
+          "flag": "DE",
+          "sources": [
+            {
+              "name": "Председател на Европейската комисия – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%B5%D0%B4%D0%B0%D1%82%D0%B5%D0%BB_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D0%B8%D1%8F"
+              ],
+              "from": {
+                "dateYear": 2024,
+                "dateMonth": 12
+              },
+              "to": {
+                "date": "2029-11-30"
+              },
+              "quote": "Урсула фон дер Лайен: от 2019 – понастоящем."
+            },
+            {
+              "name": "President of the European Commission – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/President_of_the_European_Commission"
+              ],
+              "from": {
+                "dateYear": 2024,
+                "dateMonth": 12
+              },
+              "to": {
+                "date": "2029-11-30"
+              },
+              "quoteOriginal": "Ursula von der Leyen was re-elected as President of the European Commission on 18 July 2024 for a second term.",
+              "quote": "Урсула фон дер Лайен е преизбрана за председател на Европейската комисия на 18 юли 2024 г. за втори мандат."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Белгия",
+      "id": "c89949e3-24cb-4cbf-b120-5d822a8dc333",
+      "periods": [
+        {
+          "name": "Белгия",
+          "date": {
+            "range": [
+              "1958-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 1958
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 1958
+              },
+              "quote": "Създадени с Договорите от Рим от 1957 г., влезли в сила на 1 януари 1958 г."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 1958
+              },
+              "quoteOriginal": "Belgium was a founding member of the EEC. The Treaty of Rome was signed on 25 March 1957 and entered into force on 1 January 1958.",
+              "quote": "Белгия е държава-учредителка на ЕИО. Договорът от Рим е подписан на 25 март 1957 г. и влиза в сила на 1 януари 1958 г."
+            }
+          ],
+          "flag": "BE",
+          "description": "Държава-учредителка на ЕИО. Подписва Договора от Рим на 25 март 1957 г."
+        }
+      ]
+    },
+    {
+      "name": "Германия",
+      "id": "ec59fcdf-e4f6-4785-9f99-85b88e2640e0",
+      "periods": [
+        {
+          "name": "Западна Германия",
+          "date": {
+            "range": [
+              "1958-01-01",
+              "1990-10-03"
+            ],
+            "from": {
+              "dateYear": 1958
+            },
+            "to": {
+              "date": "1990-10-03"
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 1958
+              },
+              "to": {
+                "date": "1990-10-03"
+              },
+              "quote": "Създадени с Договорите от Рим от 1957 г., влезли в сила на 1 януари 1958 г."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 1958
+              },
+              "to": {
+                "date": "1990-10-03"
+              },
+              "quoteOriginal": "West Germany was a founding member of the EEC from 1 January 1958. With German reunification on 3 October 1990, the former East Germany became part of the Community.",
+              "quote": "Западна Германия е държава-учредителка на ЕИО от 1 януари 1958 г. С обединението на Германия на 3 октомври 1990 г. бившата Източна Германия става част от Общността."
+            }
+          ],
+          "flag": "DE",
+          "description": "Западна Германия е държава-учредителка на ЕИО (1958).",
+          "comment": "Западна Германия е една от шестте учредителки на ЕИО от 1 януари 1958 г. Крайната дата е обединението на Германия на 3 октомври 1990 г."
+        },
+        {
+          "name": "Германия",
+          "date": {
+            "range": [
+              "1990-10-03",
+              null
+            ],
+            "from": {
+              "date": "1990-10-03"
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "date": "1990-10-03"
+              },
+              "quote": "След обединението на Германия на 3 октомври 1990 г. цялата страна е член на ЕС."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "date": "1990-10-03"
+              },
+              "quoteOriginal": "With German reunification on 3 October 1990, the former East Germany became part of the European Community.",
+              "quote": "С обединението на Германия на 3 октомври 1990 г. бившата Източна Германия става част от Европейската общност."
+            }
+          ],
+          "flag": "DE",
+          "description": "След обединението на 3 октомври 1990 г. обединена Германия продължава членството на Западна Германия в ЕС.",
+          "comment": "На 3 октомври 1990 г. бившата ГДР се присъединява към Федералната република и автоматично става част от Европейската общност."
+        }
+      ]
+    },
+    {
+      "name": "Италия",
+      "id": "20373822-55a0-446f-8bfb-bbdf04469232",
+      "periods": [
+        {
+          "name": "Италия",
+          "date": {
+            "range": [
+              "1958-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 1958
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 1958
+              },
+              "quote": "Създадени с Договорите от Рим от 1957 г., влезли в сила на 1 януари 1958 г."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 1958
+              },
+              "quoteOriginal": "Italy was a founding member of the EEC. The Treaty of Rome entered into force on 1 January 1958.",
+              "quote": "Италия е държава-учредителка на ЕИО. Договорът от Рим влиза в сила на 1 януари 1958 г."
+            }
+          ],
+          "flag": "IT",
+          "description": "Държава-учредителка на ЕИО. Подписва Договора от Рим на 25 март 1957 г."
+        }
+      ]
+    },
+    {
+      "name": "Люксембург",
+      "id": "72ed75fe-b6c2-43f0-809a-2c4f3c6ba4a7",
+      "periods": [
+        {
+          "name": "Люксембург",
+          "date": {
+            "range": [
+              "1958-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 1958
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 1958
+              },
+              "quote": "Създадени с Договорите от Рим от 1957 г., влезли в сила на 1 януари 1958 г."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 1958
+              },
+              "quoteOriginal": "Luxembourg was a founding member of the EEC. The Treaty of Rome entered into force on 1 January 1958.",
+              "quote": "Люксембург е държава-учредителка на ЕИО. Договорът от Рим влиза в сила на 1 януари 1958 г."
+            }
+          ],
+          "flag": "LU",
+          "description": "Държава-учредителка на ЕИО. Подписва Договора от Рим на 25 март 1957 г."
+        }
+      ]
+    },
+    {
+      "name": "Нидерландия",
+      "id": "94f63566-58ec-477d-84d6-87a00a69d493",
+      "periods": [
+        {
+          "name": "Нидерландия",
+          "date": {
+            "range": [
+              "1958-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 1958
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 1958
+              },
+              "quote": "Създадени с Договорите от Рим от 1957 г., влезли в сила на 1 януари 1958 г."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 1958
+              },
+              "quoteOriginal": "The Netherlands was a founding member of the EEC. The Treaty of Rome entered into force on 1 January 1958.",
+              "quote": "Нидерландия е държава-учредителка на ЕИО. Договорът от Рим влиза в сила на 1 януари 1958 г."
+            }
+          ],
+          "flag": "NL",
+          "description": "Държава-учредителка на ЕИО. Подписва Договора от Рим на 25 март 1957 г."
+        }
+      ]
+    },
+    {
+      "name": "Франция",
+      "id": "e8afd56b-c299-4d4e-bc06-ac0b31ad39c6",
+      "periods": [
+        {
+          "name": "Франция",
+          "date": {
+            "range": [
+              "1958-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 1958
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 1958
+              },
+              "quote": "Създадени с Договорите от Рим от 1957 г., влезли в сила на 1 януари 1958 г."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 1958
+              },
+              "quoteOriginal": "France was a founding member of the EEC. The Treaty of Rome entered into force on 1 January 1958.",
+              "quote": "Франция е държава-учредителка на ЕИО. Договорът от Рим влиза в сила на 1 януари 1958 г."
+            }
+          ],
+          "flag": "FR",
+          "description": "Държава-учредителка на ЕИО. Подписва Договора от Рим на 25 март 1957 г."
+        }
+      ]
+    },
+    {
+      "name": "Великобритания",
+      "id": "e918a31e-b6f4-4f57-ae77-e6880739b4d4",
+      "periods": [
+        {
+          "name": "Великобритания",
+          "date": {
+            "range": [
+              "1973-01-01",
+              "2020-01-31"
+            ],
+            "from": {
+              "dateYear": 1973
+            },
+            "to": {
+              "date": "2020-01-31"
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 1973
+              },
+              "to": {
+                "date": "2020-01-31"
+              },
+              "quote": "На 31 януари 2020 г. Обединеното кралство напуска Европейския съюз след 47 години членство."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 1973
+              },
+              "to": {
+                "date": "2020-01-31"
+              },
+              "quoteOriginal": "The United Kingdom joined the EEC on 1 January 1973 and withdrew from the European Union on 31 January 2020.",
+              "quote": "Обединеното кралство се присъединява към ЕИО на 1 януари 1973 г. и напуска Европейския съюз на 31 януари 2020 г."
+            }
+          ],
+          "flag": "GB",
+          "description": "Присъединява се към ЕИО на 1 януари 1973 г. Напуска ЕС на 31 януари 2020 г. (Брекзит).",
+          "comment": "Великобритания е член на ЕИО/ЕС от 1 януари 1973 до 31 януари 2020 г. На 23 юни 2016 г. британците гласуват за напускане на референдум. Брекзит влиза в сила на 31 януари 2020 г."
+        }
+      ]
+    },
+    {
+      "name": "Дания",
+      "id": "e398914e-57b7-4351-b0e1-a003d2590ebd",
+      "periods": [
+        {
+          "name": "Дания",
+          "date": {
+            "range": [
+              "1973-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 1973
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 1973
+              },
+              "quote": "през 1973: Обединеното кралство Великобритания и Северна Ирландия, Ирландия и Дания."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 1973
+              },
+              "quoteOriginal": "Denmark joined the EEC on 1 January 1973.",
+              "quote": "Дания се присъединява към ЕИО на 1 януари 1973 г."
+            }
+          ],
+          "flag": "DK",
+          "description": "Присъединява се към ЕИО на 1 януари 1973 г. в първото разширяване."
+        }
+      ]
+    },
+    {
+      "name": "Ирландия",
+      "id": "82574424-a7cd-4584-873c-326a202dcbe6",
+      "periods": [
+        {
+          "name": "Ирландия",
+          "date": {
+            "range": [
+              "1973-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 1973
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 1973
+              },
+              "quote": "през 1973: Обединеното кралство Великобритания и Северна Ирландия, Ирландия и Дания."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 1973
+              },
+              "quoteOriginal": "Ireland joined the EEC on 1 January 1973.",
+              "quote": "Ирландия се присъединява към ЕИО на 1 януари 1973 г."
+            }
+          ],
+          "flag": "IE",
+          "description": "Присъединява се към ЕИО на 1 януари 1973 г. в първото разширяване."
+        }
+      ]
+    },
+    {
+      "name": "Гърция",
+      "id": "60a7370e-bc6c-4d0d-87d7-8e840e905280",
+      "periods": [
+        {
+          "name": "Гърция",
+          "date": {
+            "range": [
+              "1981-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 1981
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 1981
+              },
+              "quote": "през 1981: Гърция."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 1981
+              },
+              "quoteOriginal": "Greece joined the EEC on 1 January 1981.",
+              "quote": "Гърция се присъединява към ЕИО на 1 януари 1981 г."
+            }
+          ],
+          "flag": "GR",
+          "description": "Присъединява се към ЕИО на 1 януари 1981 г.",
+          "comment": "Гърция е първата средиземноморска държава, приета в ЕИО, отбелязвайки т.нар. средиземноморско разширяване."
+        }
+      ]
+    },
+    {
+      "name": "Испания",
+      "id": "3319f8e5-62d8-458f-a8af-e2fd5a2498df",
+      "periods": [
+        {
+          "name": "Испания",
+          "date": {
+            "range": [
+              "1986-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 1986
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 1986
+              },
+              "quote": "през 1986: Испания и Португалия."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 1986
+              },
+              "quoteOriginal": "Spain joined the EEC on 1 January 1986.",
+              "quote": "Испания се присъединява към ЕИО на 1 януари 1986 г."
+            }
+          ],
+          "flag": "ES",
+          "description": "Присъединява се към ЕИО на 1 януари 1986 г., заедно с Португалия.",
+          "comment": "Испания и Португалия се присъединяват след края на диктаторските си режими и демократизацията."
+        }
+      ]
+    },
+    {
+      "name": "Португалия",
+      "id": "394b736c-d8d1-47ff-b9a6-11564e5c1a28",
+      "periods": [
+        {
+          "name": "Португалия",
+          "date": {
+            "range": [
+              "1986-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 1986
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 1986
+              },
+              "quote": "през 1986: Испания и Португалия."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 1986
+              },
+              "quoteOriginal": "Portugal joined the EEC on 1 January 1986.",
+              "quote": "Португалия се присъединява към ЕИО на 1 януари 1986 г."
+            }
+          ],
+          "flag": "PT",
+          "description": "Присъединява се към ЕИО на 1 януари 1986 г., заедно с Испания.",
+          "comment": "Испания и Португалия се присъединяват след края на диктаторските си режими и демократизацията."
+        }
+      ]
+    },
+    {
+      "name": "Австрия",
+      "id": "91454630-406e-4fa4-92b0-2e580e0817b6",
+      "periods": [
+        {
+          "name": "Австрия",
+          "date": {
+            "range": [
+              "1995-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 1995
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 1995
+              },
+              "quote": "през 1995: Австрия, Швеция и Финландия."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 1995
+              },
+              "quoteOriginal": "Austria joined the European Union on 1 January 1995.",
+              "quote": "Австрия се присъединява към Европейския съюз на 1 януари 1995 г."
+            }
+          ],
+          "flag": "AT",
+          "description": "Присъединява се към ЕС на 1 януари 1995 г."
+        }
+      ]
+    },
+    {
+      "name": "Финландия",
+      "id": "57a3704d-dad0-426a-98b5-bf64d097d13c",
+      "periods": [
+        {
+          "name": "Финландия",
+          "date": {
+            "range": [
+              "1995-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 1995
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 1995
+              },
+              "quote": "през 1995: Австрия, Швеция и Финландия."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 1995
+              },
+              "quoteOriginal": "Finland joined the European Union on 1 January 1995.",
+              "quote": "Финландия се присъединява към Европейския съюз на 1 януари 1995 г."
+            }
+          ],
+          "flag": "FI",
+          "description": "Присъединява се към ЕС на 1 януари 1995 г."
+        }
+      ]
+    },
+    {
+      "name": "Швеция",
+      "id": "0771210a-9fba-4fec-ab4f-d1f80bbd9a18",
+      "periods": [
+        {
+          "name": "Швеция",
+          "date": {
+            "range": [
+              "1995-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 1995
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 1995
+              },
+              "quote": "през 1995: Австрия, Швеция и Финландия."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 1995
+              },
+              "quoteOriginal": "Sweden joined the European Union on 1 January 1995.",
+              "quote": "Швеция се присъединява към Европейския съюз на 1 януари 1995 г."
+            }
+          ],
+          "flag": "SE",
+          "description": "Присъединява се към ЕС на 1 януари 1995 г."
+        }
+      ]
+    },
+    {
+      "name": "Естония",
+      "id": "1d1c4a83-54fc-45bc-b3d2-7720df8c4d90",
+      "periods": [
+        {
+          "name": "Естония",
+          "date": {
+            "range": [
+              "2004-05-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2004,
+              "dateMonth": 5
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quote": "през 2004: Естония, Кипър, Латвия, Литва, Малта, Полша, Словакия, Словения, Унгария и Чехия."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quoteOriginal": "Estonia joined the European Union on 1 May 2004.",
+              "quote": "Естония се присъединява към Европейския съюз на 1 май 2004 г."
+            }
+          ],
+          "flag": "EE",
+          "description": "Присъединява се към ЕС на 1 май 2004 г. в най-голямото разширяване (10 страни)."
+        }
+      ]
+    },
+    {
+      "name": "Кипър",
+      "id": "9bb93ca6-6ba9-4176-90e1-9a25a68c1b24",
+      "periods": [
+        {
+          "name": "Кипър",
+          "date": {
+            "range": [
+              "2004-05-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2004,
+              "dateMonth": 5
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quote": "през 2004: Естония, Кипър, Латвия, Литва, Малта, Полша, Словакия, Словения, Унгария и Чехия."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quoteOriginal": "Cyprus joined the European Union on 1 May 2004.",
+              "quote": "Кипър се присъединява към Европейския съюз на 1 май 2004 г."
+            }
+          ],
+          "flag": "CY",
+          "description": "Присъединява се към ЕС на 1 май 2004 г.",
+          "comment": "Кипър се присъединява на 1 май 2004 г. Правото на ЕС се прилага само в Република Кипър (южната част), не в окупираната от Турция северна част."
+        }
+      ]
+    },
+    {
+      "name": "Латвия",
+      "id": "f75e0566-1033-4681-9ba5-856bbde42d85",
+      "periods": [
+        {
+          "name": "Латвия",
+          "date": {
+            "range": [
+              "2004-05-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2004,
+              "dateMonth": 5
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quote": "през 2004: Естония, Кипър, Латвия, Литва, Малта, Полша, Словакия, Словения, Унгария и Чехия."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quoteOriginal": "Latvia joined the European Union on 1 May 2004.",
+              "quote": "Латвия се присъединява към Европейския съюз на 1 май 2004 г."
+            }
+          ],
+          "flag": "LV",
+          "description": "Присъединява се към ЕС на 1 май 2004 г."
+        }
+      ]
+    },
+    {
+      "name": "Литва",
+      "id": "a6a3453b-b588-4ef7-8c11-bfed42abe459",
+      "periods": [
+        {
+          "name": "Литва",
+          "date": {
+            "range": [
+              "2004-05-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2004,
+              "dateMonth": 5
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quote": "през 2004: Естония, Кипър, Латвия, Литва, Малта, Полша, Словакия, Словения, Унгария и Чехия."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quoteOriginal": "Lithuania joined the European Union on 1 May 2004.",
+              "quote": "Литва се присъединява към Европейския съюз на 1 май 2004 г."
+            }
+          ],
+          "flag": "LT",
+          "description": "Присъединява се към ЕС на 1 май 2004 г."
+        }
+      ]
+    },
+    {
+      "name": "Малта",
+      "id": "0d473b69-30e9-4591-8d5e-bc27028d2cdf",
+      "periods": [
+        {
+          "name": "Малта",
+          "date": {
+            "range": [
+              "2004-05-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2004,
+              "dateMonth": 5
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quote": "през 2004: Естония, Кипър, Латвия, Литва, Малта, Полша, Словакия, Словения, Унгария и Чехия."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quoteOriginal": "Malta joined the European Union on 1 May 2004.",
+              "quote": "Малта се присъединява към Европейския съюз на 1 май 2004 г."
+            }
+          ],
+          "flag": "MT",
+          "description": "Присъединява се към ЕС на 1 май 2004 г."
+        }
+      ]
+    },
+    {
+      "name": "Полша",
+      "id": "2f16ccb2-4921-4225-9502-d7f29e0264ac",
+      "periods": [
+        {
+          "name": "Полша",
+          "date": {
+            "range": [
+              "2004-05-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2004,
+              "dateMonth": 5
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quote": "през 2004: Естония, Кипър, Латвия, Литва, Малта, Полша, Словакия, Словения, Унгария и Чехия."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quoteOriginal": "Poland joined the European Union on 1 May 2004.",
+              "quote": "Полша се присъединява към Европейския съюз на 1 май 2004 г."
+            }
+          ],
+          "flag": "PL",
+          "description": "Присъединява се към ЕС на 1 май 2004 г. Най-голямата от десетте нови членки."
+        }
+      ]
+    },
+    {
+      "name": "Словакия",
+      "id": "ba4610ed-dbbb-4df1-ac67-c51b6c917536",
+      "periods": [
+        {
+          "name": "Словакия",
+          "date": {
+            "range": [
+              "2004-05-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2004,
+              "dateMonth": 5
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quote": "през 2004: Естония, Кипър, Латвия, Литва, Малта, Полша, Словакия, Словения, Унгария и Чехия."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quoteOriginal": "Slovakia joined the European Union on 1 May 2004.",
+              "quote": "Словакия се присъединява към Европейския съюз на 1 май 2004 г."
+            }
+          ],
+          "flag": "SK",
+          "description": "Присъединява се към ЕС на 1 май 2004 г."
+        }
+      ]
+    },
+    {
+      "name": "Словения",
+      "id": "b9622c02-539e-47bc-9a61-0893fb373d4f",
+      "periods": [
+        {
+          "name": "Словения",
+          "date": {
+            "range": [
+              "2004-05-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2004,
+              "dateMonth": 5
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quote": "през 2004: Естония, Кипър, Латвия, Литва, Малта, Полша, Словакия, Словения, Унгария и Чехия."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quoteOriginal": "Slovenia joined the European Union on 1 May 2004.",
+              "quote": "Словения се присъединява към Европейския съюз на 1 май 2004 г."
+            }
+          ],
+          "flag": "SI",
+          "description": "Присъединява се към ЕС на 1 май 2004 г."
+        }
+      ]
+    },
+    {
+      "name": "Унгария",
+      "id": "3507170b-72a0-4ac1-92fe-193e813b9fa8",
+      "periods": [
+        {
+          "name": "Унгария",
+          "date": {
+            "range": [
+              "2004-05-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2004,
+              "dateMonth": 5
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quote": "през 2004: Естония, Кипър, Латвия, Литва, Малта, Полша, Словакия, Словения, Унгария и Чехия."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quoteOriginal": "Hungary joined the European Union on 1 May 2004.",
+              "quote": "Унгария се присъединява към Европейския съюз на 1 май 2004 г."
+            }
+          ],
+          "flag": "HU",
+          "description": "Присъединява се към ЕС на 1 май 2004 г."
+        }
+      ]
+    },
+    {
+      "name": "Чехия",
+      "id": "dd222e6d-54f4-4388-891c-d13f77c909ff",
+      "periods": [
+        {
+          "name": "Чехия",
+          "date": {
+            "range": [
+              "2004-05-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2004,
+              "dateMonth": 5
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quote": "през 2004: Естония, Кипър, Латвия, Литва, Малта, Полша, Словакия, Словения, Унгария и Чехия."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 2004,
+                "dateMonth": 5
+              },
+              "quoteOriginal": "The Czech Republic joined the European Union on 1 May 2004.",
+              "quote": "Чехия се присъединява към Европейския съюз на 1 май 2004 г."
+            }
+          ],
+          "flag": "CZ",
+          "description": "Присъединява се към ЕС на 1 май 2004 г."
+        }
+      ]
+    },
+    {
+      "name": "България",
+      "id": "c9667072-0a52-4fe7-bc79-791d94edcf66",
+      "periods": [
+        {
+          "name": "България",
+          "date": {
+            "range": [
+              "2007-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2007
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 2007
+              },
+              "quote": "през 2007: България и Румъния."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 2007
+              },
+              "quoteOriginal": "Bulgaria joined the European Union on 1 January 2007.",
+              "quote": "България се присъединява към Европейския съюз на 1 януари 2007 г."
+            }
+          ],
+          "flag": "BG",
+          "description": "Присъединява се към ЕС на 1 януари 2007 г., заедно с Румъния.",
+          "comment": "България и Румъния се присъединяват на 1 януари 2007 г. Присъединяването е предшествано от продължителен преговорен процес и мониторинг."
+        }
+      ]
+    },
+    {
+      "name": "Румъния",
+      "id": "801d1d9a-feed-45d4-a05e-2abbeade992e",
+      "periods": [
+        {
+          "name": "Румъния",
+          "date": {
+            "range": [
+              "2007-01-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2007
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 2007
+              },
+              "quote": "през 2007: България и Румъния."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 2007
+              },
+              "quoteOriginal": "Romania joined the European Union on 1 January 2007.",
+              "quote": "Румъния се присъединява към Европейския съюз на 1 януари 2007 г."
+            }
+          ],
+          "flag": "RO",
+          "description": "Присъединява се към ЕС на 1 януари 2007 г., заедно с България."
+        }
+      ]
+    },
+    {
+      "name": "Хърватия",
+      "id": "9ab8d871-5053-4be2-9cd8-3963691d730a",
+      "periods": [
+        {
+          "name": "Хърватия",
+          "date": {
+            "range": [
+              "2013-07-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2013,
+              "dateMonth": 7
+            }
+          },
+          "sources": [
+            {
+              "name": "Разширяване на Европейския съюз – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%88%D0%B8%D1%80%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D1%8F_%D1%81%D1%8A%D1%8E%D0%B7"
+              ],
+              "from": {
+                "dateYear": 2013,
+                "dateMonth": 7
+              },
+              "quote": "през 2013: Хърватия."
+            },
+            {
+              "name": "Member state of the European Union – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_state_of_the_European_Union"
+              ],
+              "from": {
+                "dateYear": 2013,
+                "dateMonth": 7
+              },
+              "quoteOriginal": "Croatia joined the European Union on 1 July 2013.",
+              "quote": "Хърватия се присъединява към Европейския съюз на 1 юли 2013 г."
+            }
+          ],
+          "flag": "HR",
+          "description": "Присъединява се към ЕС на 1 юли 2013 г. — последната приета до момента членка.",
+          "comment": "Хърватия е 28-ата (а след Брекзит — 27-ата) членка на ЕС. Присъединява се на 1 юли 2013 г."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+@reference "../../styles.css";
+
+.quotes-carousel {
+  @apply relative bg-slate-900 px-6 py-10 text-center overflow-hidden;
+  background-image:
+    radial-gradient(ellipse 80% 60% at 50% 0%, rgba(100, 116, 139, 0.08), transparent),
+    radial-gradient(ellipse 60% 50% at 50% 100%, rgba(100, 116, 139, 0.05), transparent);
+}
+
+.carousel-ornament {
+  @apply absolute top-4 left-1/2 -translate-x-1/2 select-none pointer-events-none leading-none;
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 7rem;
+  color: rgba(148, 163, 184, 0.08);
+}
+
+.carousel-stage {
+  @apply max-w-3xl mx-auto relative;
+  transition: opacity 0.35s ease;
+}
+
+.carousel-stage.fade-out { opacity: 0; }
+
+.carousel-quote { @apply border-none m-0 p-0; }
+
+.carousel-text {
+  @apply text-xl text-slate-200 italic leading-relaxed mb-5;
+  font-family: 'Sofia Sans', sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.01em;
+}
+
+.carousel-original-row { @apply flex items-start justify-center gap-2 mb-5; }
+
+.carousel-original {
+  @apply text-base text-slate-400 italic leading-relaxed m-0;
+  font-weight: 300;
+}
+
+.translate-btn {
+  @apply shrink-0 px-2 py-0.5 text-xs font-semibold rounded border border-slate-600 text-slate-400
+         bg-transparent cursor-pointer transition-all tracking-wide;
+  margin-top: 2px;
+  &:hover { @apply text-slate-200 border-slate-400; }
+}
+
+.carousel-translation {
+  @apply text-base text-slate-400 leading-relaxed mb-5;
+  font-style: italic;
+}
+
+.carousel-attribution { @apply space-y-2; }
+
+.carousel-from {
+  @apply text-base text-slate-300 not-italic block tracking-wide no-underline;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+a.carousel-from {
+  @apply transition-colors;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-color: rgba(148, 163, 184, 0.3);
+  &:hover { @apply text-slate-100; text-decoration-color: rgba(148, 163, 184, 0.6); }
+}
+
+.carousel-bottom { @apply relative flex items-center justify-center mt-6; }
+
+.carousel-controls { @apply flex items-center gap-5; }
+
+.carousel-edit-link {
+  @apply absolute right-0 inline-flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium rounded-lg
+         text-slate-500 no-underline transition-colors cursor-pointer
+         hover:text-slate-300 hover:bg-slate-800;
+}
+
+.carousel-arrow {
+  @apply flex items-center justify-center w-8 h-8 rounded-full text-slate-500 cursor-pointer
+         transition-all border border-slate-700 bg-transparent;
+  &:hover { @apply text-slate-300 border-slate-500; }
+}
+
+.carousel-dots { @apply flex items-center gap-2; }
+
+.carousel-dot {
+  @apply w-1.5 h-1.5 rounded-full bg-slate-700 border-none cursor-pointer transition-all p-0;
+  &.active { @apply bg-slate-400 scale-125; }
+  &:hover:not(.active) { @apply bg-slate-500; }
+}

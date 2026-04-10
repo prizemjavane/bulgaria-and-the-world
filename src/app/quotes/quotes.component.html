@@ -1,0 +1,57 @@
+@if (current(); as q) {
+  <section class="quotes-carousel" (mouseenter)="onMouseEnter()" (mouseleave)="onMouseLeave()">
+    <div class="carousel-ornament">&ldquo;</div>
+
+    <div class="carousel-stage" [class.fade-out]="transitioning()">
+      <blockquote class="carousel-quote">
+        <p class="carousel-text">{{ q.quote }}</p>
+        @if (q.original) {
+          <div class="carousel-original-row">
+            <p class="carousel-original">&ldquo;{{ q.original }}&rdquo;</p>
+            @if (q.en) {
+              <button class="translate-btn" (click)="toggleTranslation()" [attr.aria-label]="showTranslation() ? 'Скрий превода' : 'Покажи превод'">
+                {{ showTranslation() ? 'EN ✕' : 'EN' }}
+              </button>
+            }
+          </div>
+          @if (q.en && showTranslation()) {
+            <p class="carousel-translation">{{ q.en }}</p>
+          }
+        }
+        <footer class="carousel-attribution">
+          @if (q.sources?.length) {
+            <a class="carousel-from" [href]="q.sources![0]" target="_blank" rel="noopener">— {{ q.from }}</a>
+          } @else {
+            <cite class="carousel-from">— {{ q.from }}</cite>
+          }
+        </footer>
+      </blockquote>
+    </div>
+
+    <div class="carousel-bottom">
+      @if (hasMultiple()) {
+        <div class="carousel-controls">
+          <button class="carousel-arrow" (click)="prev()" aria-label="Предишен цитат">
+            <lucide-icon name="chevron-left" [size]="18" [strokeWidth]="1.5"></lucide-icon>
+          </button>
+          <div class="carousel-dots">
+            @for (dot of quotes(); track dot.quote; let i = $index) {
+              <button class="carousel-dot" [class.active]="i === currentIndex()" (click)="goTo(i)"
+                [attr.aria-label]="'Цитат ' + (i + 1)"></button>
+            }
+          </div>
+          <button class="carousel-arrow" (click)="next()" aria-label="Следващ цитат">
+            <lucide-icon name="chevron-right" [size]="18" [strokeWidth]="1.5"></lucide-icon>
+          </button>
+          <button class="carousel-arrow" (click)="togglePause()" [attr.aria-label]="paused() ? 'Пусни' : 'Пауза'">
+            <lucide-icon [name]="paused() ? 'play' : 'pause'" [size]="16" [strokeWidth]="1.5"></lucide-icon>
+          </button>
+        </div>
+      }
+      <a [href]="editUrl" target="_blank" rel="noopener" class="carousel-edit-link" title="Подобри цитатите">
+        <lucide-icon name="pencil" [size]="14" />
+        Подобри цитатите
+      </a>
+    </div>
+  </section>
+}

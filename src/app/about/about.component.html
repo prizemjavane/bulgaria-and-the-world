@@ -1,0 +1,12 @@
+<div class="min-h-screen bg-slate-50">
+  <div class="max-w-5xl mx-auto px-6 sm:px-10 py-14 sm:py-20">
+    <nav class="mb-12">
+      <a routerLink="/" class="inline-flex items-center gap-1.5 text-sm text-slate-400 hover:text-slate-600 transition-colors no-underline" queryParamsHandling="preserve">
+        <lucide-icon name="arrow-left" [size]="16" />
+        Обратно към хронологията
+      </a>
+    </nav>
+
+    <article class="about-prose" [innerHTML]="html()"></article>
+  </div>
+</div>

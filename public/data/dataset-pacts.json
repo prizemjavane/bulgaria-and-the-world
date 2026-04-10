@@ -1,0 +1,2126 @@
+{
+  "id": "pacts",
+  "name": "Пактове",
+  "description": "Участие на държавите във военни и политически пактове и алианси — Тройният съюз, Антантата, Пактът Молотов-Рибентроп, Тристранният пакт и други ключови съюзи от XIX–XX век.",
+  "knowledge": "pacts",
+  "metadata": {
+    "color": "#8B0000",
+    "resetZoom": true,
+    "styles": {
+      "triple-alliance": {
+        "color": "#854d0e"
+      },
+      "central-powers": {
+        "color": "#991b1b"
+      },
+      "entente-ww1": {
+        "color": "#1e40af"
+      },
+      "little-entente": {
+        "color": "#0e7490"
+      },
+      "balkan-pact": {
+        "color": "#047857"
+      },
+      "anti-comintern": {
+        "color": "#b45309"
+      },
+      "molotov-ribbentrop": {
+        "color": "#4a044e"
+      },
+      "tripartite": {
+        "color": "#dc2626"
+      },
+      "soviet-satellite": {
+        "color": "#b91c1c"
+      },
+      "warsaw-pact": {
+        "color": "#9f1239"
+      }
+    }
+  },
+  "data": [
+    {
+      "name": "Австро-Унгария",
+      "id": "2364ac02-e1fd-448d-8138-4b56481e761d",
+      "periods": [
+        {
+          "name": "Тристранен съюз (учредител)",
+          "date": {
+            "range": [
+              "1882-05-20",
+              "1914-07-28"
+            ],
+            "from": {
+              "date": "1882-05-20"
+            },
+            "to": {
+              "date": "1914-07-28"
+            }
+          },
+          "sources": [
+            {
+              "name": "Triple Alliance (1882) – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Triple_Alliance_(1882)"
+              ],
+              "from": {
+                "date": "1882-05-20"
+              },
+              "quoteOriginal": "The Triple Alliance was formed on 20 May 1882 — a defensive military alliance between Germany, Austria-Hungary, and Italy.",
+              "quote": "Тристранният съюз е сключен на 20 май 1882 г. — отбранителен военен съюз между Германия, Австро-Унгария и Италия."
+            }
+          ],
+          "flag": "AT",
+          "style": "triple-alliance"
+        },
+        {
+          "name": "Централни сили",
+          "date": {
+            "range": [
+              "1914-07-28",
+              "1918-11-04"
+            ],
+            "from": {
+              "date": "1914-07-28"
+            },
+            "to": {
+              "date": "1918-11-04"
+            }
+          },
+          "sources": [
+            {
+              "name": "Central Powers – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Central_Powers"
+              ],
+              "from": {
+                "date": "1914-07-28"
+              },
+              "to": {
+                "date": "1918-11-04"
+              },
+              "quoteOriginal": "On 28 July 1914, Austria-Hungary, supported by Germany, declared war on Serbia. Armistice: 4 November 1918.",
+              "quote": "На 28 юли 1914 г. Австро-Унгария, подкрепена от Германия, обявява война на Сърбия. Примирие: 4 ноември 1918 г."
+            }
+          ],
+          "flag": "AT",
+          "style": "central-powers"
+        }
+      ],
+      "code": "AT"
+    },
+    {
+      "name": "Германия",
+      "id": "3af0a955-7949-4f1b-aa56-5214cfd28b21",
+      "periods": [
+        {
+          "name": "Тристранен съюз (учредител)",
+          "date": {
+            "range": [
+              "1882-05-20",
+              "1914-08-01"
+            ],
+            "from": {
+              "date": "1882-05-20"
+            },
+            "to": {
+              "date": "1914-08-01"
+            }
+          },
+          "sources": [
+            {
+              "name": "Triple Alliance (1882) – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Triple_Alliance_(1882)"
+              ],
+              "from": {
+                "date": "1882-05-20"
+              },
+              "quoteOriginal": "The Triple Alliance was formed on 20 May 1882 — a defensive military alliance between Germany, Austria-Hungary, and Italy.",
+              "quote": "Тристранният съюз е сключен на 20 май 1882 г. — отбранителен военен съюз между Германия, Австро-Унгария и Италия."
+            }
+          ],
+          "flag": "DE",
+          "style": "triple-alliance"
+        },
+        {
+          "name": "Централни сили",
+          "date": {
+            "range": [
+              "1914-08-01",
+              "1918-11-11"
+            ],
+            "from": {
+              "date": "1914-08-01"
+            },
+            "to": {
+              "date": "1918-11-11"
+            }
+          },
+          "sources": [
+            {
+              "name": "Central Powers – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Central_Powers"
+              ],
+              "from": {
+                "date": "1914-08-01"
+              },
+              "to": {
+                "date": "1918-11-11"
+              },
+              "quoteOriginal": "On 1 August, Germany sent an ultimatum to Russia. Armistice: 11 November 1918.",
+              "quote": "На 1 август Германия изпраща ултиматум на Русия. Примирие: 11 ноември 1918 г."
+            }
+          ],
+          "flag": "DE",
+          "style": "central-powers"
+        },
+        {
+          "name": "Антикоминтерновски пакт (учредител)",
+          "date": {
+            "range": [
+              "1936-11-25",
+              "1945-05-08"
+            ],
+            "from": {
+              "date": "1936-11-25"
+            },
+            "to": {
+              "date": "1945-05-08"
+            }
+          },
+          "sources": [
+            {
+              "name": "Anti-Comintern Pact – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Anti-Comintern_Pact"
+              ],
+              "from": {
+                "date": "1936-11-25"
+              },
+              "to": {
+                "date": "1945-05-08"
+              },
+              "quoteOriginal": "The Anti-Comintern Pact was signed on 25 November 1936 by Germany and Japan.",
+              "quote": "Антикоминтерновският пакт е подписан на 25 ноември 1936 г. от Германия и Япония."
+            }
+          ],
+          "flag": "DE",
+          "style": "anti-comintern"
+        },
+        {
+          "name": "Пакт Молотов–Рибентроп",
+          "date": {
+            "range": [
+              "1939-08-23",
+              "1941-06-22"
+            ],
+            "from": {
+              "date": "1939-08-23"
+            },
+            "to": {
+              "date": "1941-06-22"
+            }
+          },
+          "sources": [
+            {
+              "name": "Molotov–Ribbentrop Pact – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact"
+              ],
+              "from": {
+                "date": "1939-08-23"
+              },
+              "to": {
+                "date": "1941-06-22"
+              },
+              "quoteOriginal": "The pact was signed in Moscow on 24 August 1939 (backdated 23 August 1939). The pact was terminated on 22 June 1941, when Germany launched Operation Barbarossa.",
+              "quote": "Пактът е подписан в Москва на 24 август 1939 г. (с дата 23 август 1939 г.). Пактът е прекратен на 22 юни 1941 г., когато Германия започва операция Барбароса."
+            }
+          ],
+          "flag": "DE",
+          "style": "molotov-ribbentrop"
+        },
+        {
+          "name": "Тристранен пакт (Трети райх)",
+          "date": {
+            "range": [
+              "1940-09-27",
+              "1945-05-08"
+            ],
+            "from": {
+              "date": "1940-09-27"
+            },
+            "to": {
+              "date": "1945-05-08"
+            }
+          },
+          "sources": [
+            {
+              "name": "Тристранен пакт – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5%D0%BD_%D0%BF%D0%B0%D0%BA%D1%82"
+              ],
+              "from": {
+                "date": "1940-09-27"
+              },
+              "quote": "Тристранният пакт е подписан на 27 септември 1940 г. в Берлин."
+            },
+            {
+              "name": "German Instrument of Surrender – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/German_Instrument_of_Surrender"
+              ],
+              "to": {
+                "date": "1945-05-08"
+              },
+              "quoteOriginal": "The definitive German Instrument of Surrender was signed on 8 May 1945 in Berlin.",
+              "quote": "Окончателният акт за безусловна капитулация на Германия е подписан на 8 май 1945 г. в Берлин."
+            }
+          ],
+          "flag": "DE",
+          "style": "tripartite"
+        },
+        {
+          "name": "Съветски сателит",
+          "date": {
+            "range": [
+              "1945-05-08",
+              "1955-05-14"
+            ],
+            "from": {
+              "date": "1945-05-08"
+            },
+            "to": {
+              "date": "1955-05-14"
+            }
+          },
+          "sources": [
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eastern_Bloc"
+              ],
+              "from": {
+                "date": "1945-05-08"
+              },
+              "to": {
+                "date": "1955-05-14"
+              },
+              "quoteOriginal": "The Eastern Bloc was the group of socialist states of Central and Eastern Europe under the hegemony of the Soviet Union during the Cold War (1947–1991).",
+              "quote": "Източният блок е групата социалистически държави от Централна и Източна Европа под хегемонията на Съветския съюз по време на Студената война (1947–1991)."
+            }
+          ],
+          "flag": "DE",
+          "style": "soviet-satellite"
+        },
+        {
+          "name": "Варшавски договор (ГДР)",
+          "date": {
+            "range": [
+              "1955-05-14",
+              "1990-09-25"
+            ],
+            "from": {
+              "date": "1955-05-14"
+            },
+            "to": {
+              "date": "1990-09-25"
+            }
+          },
+          "sources": [
+            {
+              "name": "Warsaw Pact – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Warsaw_Pact"
+              ],
+              "from": {
+                "date": "1955-05-14"
+              },
+              "to": {
+                "date": "1990-09-25"
+              },
+              "quoteOriginal": "East Germany was a founding signatory of the Warsaw Pact on 14 May 1955. It withdrew on 25 September 1990, ahead of German reunification on 3 October 1990.",
+              "quote": "Източна Германия е учредител на Варшавския договор. Оттегля се на 25 септември 1990 г."
+            }
+          ],
+          "flag": "DE",
+          "style": "warsaw-pact"
+        }
+      ],
+      "code": "DE"
+    },
+    {
+      "name": "Съветски съюз",
+      "id": "36e14e52-8911-4468-965d-175c5a97479d",
+      "periods": [
+        {
+          "name": "Пакт Молотов–Рибентроп",
+          "date": {
+            "range": [
+              "1939-08-23",
+              "1941-06-22"
+            ],
+            "from": {
+              "date": "1939-08-23"
+            },
+            "to": {
+              "date": "1941-06-22"
+            }
+          },
+          "sources": [
+            {
+              "name": "Molotov–Ribbentrop Pact – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact"
+              ],
+              "from": {
+                "date": "1939-08-23"
+              },
+              "to": {
+                "date": "1941-06-22"
+              },
+              "quoteOriginal": "The pact was signed in Moscow on 24 August 1939 (backdated 23 August 1939). The pact was terminated on 22 June 1941, when Germany launched Operation Barbarossa.",
+              "quote": "Пактът е подписан в Москва на 24 август 1939 г. (с дата 23 август 1939 г.). Пактът е прекратен на 22 юни 1941 г., когато Германия започва операция Барбароса."
+            }
+          ],
+          "flag": "RU",
+          "style": "molotov-ribbentrop"
+        },
+        {
+          "name": "Варшавски договор",
+          "date": {
+            "range": [
+              "1955-05-14",
+              "1991-07-01"
+            ],
+            "from": {
+              "date": "1955-05-14"
+            },
+            "to": {
+              "date": "1991-07-01"
+            }
+          },
+          "sources": [
+            {
+              "name": "Варшавски договор – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D1%88%D0%B0%D0%B2%D1%81%D0%BA%D0%B8_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80"
+              ],
+              "from": {
+                "date": "1955-05-14"
+              },
+              "to": {
+                "date": "1991-07-01"
+              },
+              "quote": "Варшавският договор е подписан на 14 май 1955 г. и разпуснат на 1 юли 1991 г."
+            }
+          ],
+          "flag": "RU",
+          "style": "warsaw-pact"
+        }
+      ],
+      "code": "RU"
+    },
+    {
+      "name": "Италия",
+      "id": "52912ddb-b4d9-480a-ab0c-5bf5aedfa92b",
+      "periods": [
+        {
+          "name": "Тристранен съюз (учредител)",
+          "date": {
+            "range": [
+              "1882-05-20",
+              "1915-05-03"
+            ],
+            "from": {
+              "date": "1882-05-20"
+            },
+            "to": {
+              "date": "1915-05-03"
+            }
+          },
+          "sources": [
+            {
+              "name": "Triple Alliance (1882) – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Triple_Alliance_(1882)"
+              ],
+              "from": {
+                "date": "1882-05-20"
+              },
+              "to": {
+                "date": "1915-05-03"
+              },
+              "quoteOriginal": "The Triple Alliance was formed on 20 May 1882. Italy leaves: 3 May 1915.",
+              "quote": "Тристранният съюз е сключен на 20 май 1882 г. Италия напуска: 3 май 1915 г."
+            }
+          ],
+          "flag": "IT",
+          "style": "triple-alliance"
+        },
+        {
+          "name": "Антанта",
+          "date": {
+            "range": [
+              "1915-05-23",
+              "1918-11-11"
+            ],
+            "from": {
+              "date": "1915-05-23"
+            },
+            "to": {
+              "date": "1918-11-11"
+            }
+          },
+          "sources": [
+            {
+              "name": "Allies of World War I – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Allies_of_World_War_I"
+              ],
+              "from": {
+                "date": "1915-05-23"
+              },
+              "to": {
+                "date": "1918-11-11"
+              },
+              "quoteOriginal": "Italy joined the Entente on 23 May 1915, declaring war on Austria.",
+              "quote": "Италия се присъединява към Антантата на 23 май 1915 г., обявявайки война на Австрия."
+            }
+          ],
+          "flag": "IT",
+          "style": "entente-ww1"
+        },
+        {
+          "name": "Антикоминтерновски пакт",
+          "date": {
+            "range": [
+              "1937-11-06",
+              "1943-09-08"
+            ],
+            "from": {
+              "date": "1937-11-06"
+            },
+            "to": {
+              "date": "1943-09-08"
+            }
+          },
+          "sources": [
+            {
+              "name": "Anti-Comintern Pact – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Anti-Comintern_Pact"
+              ],
+              "from": {
+                "date": "1937-11-06"
+              },
+              "to": {
+                "date": "1943-09-08"
+              },
+              "quoteOriginal": "Italy joined the Anti-Comintern Pact on 6 November 1937.",
+              "quote": "Италия се присъединява към Антикоминтерновския пакт на 6 ноември 1937 г."
+            }
+          ],
+          "flag": "IT",
+          "style": "anti-comintern"
+        },
+        {
+          "name": "Тристранен пакт",
+          "date": {
+            "range": [
+              "1940-09-27",
+              "1943-09-08"
+            ],
+            "from": {
+              "date": "1940-09-27"
+            },
+            "to": {
+              "date": "1943-09-08"
+            }
+          },
+          "sources": [
+            {
+              "name": "Тристранен пакт – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5%D0%BD_%D0%BF%D0%B0%D0%BA%D1%82"
+              ],
+              "from": {
+                "date": "1940-09-27"
+              },
+              "quote": "Италия е един от трите оригинални подписали на 27 септември 1940 г."
+            },
+            {
+              "name": "Armistice of Cassibile – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Armistice_of_Cassibile"
+              ],
+              "to": {
+                "date": "1943-09-08"
+              },
+              "quoteOriginal": "The Armistice of Cassibile was signed on 3 September 1943 and announced to the media on 8 September.",
+              "quote": "Примирието от Касибиле е подписано на 3 септември 1943 г. и обявено на 8 септември."
+            }
+          ],
+          "flag": "IT",
+          "style": "tripartite"
+        }
+      ],
+      "code": "IT"
+    },
+    {
+      "name": "Унгария",
+      "id": "bec25e0a-06ce-42f9-bfdd-2cbb393c36a9",
+      "periods": [
+        {
+          "name": "Тристранен съюз (като Австро-Унгария)",
+          "date": {
+            "range": [
+              "1882-05-20",
+              "1914-07-28"
+            ],
+            "from": {
+              "date": "1882-05-20"
+            },
+            "to": {
+              "date": "1914-07-28"
+            }
+          },
+          "sources": [
+            {
+              "name": "Triple Alliance (1882) – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Triple_Alliance_(1882)"
+              ],
+              "from": {
+                "date": "1882-05-20"
+              },
+              "quoteOriginal": "The Triple Alliance was formed on 20 May 1882.",
+              "quote": "Тристранният съюз е сключен на 20 май 1882 г."
+            }
+          ],
+          "flag": "HU",
+          "style": "triple-alliance"
+        },
+        {
+          "name": "Централни сили (като Австро-Унгария)",
+          "date": {
+            "range": [
+              "1914-07-28",
+              "1918-11-04"
+            ],
+            "from": {
+              "date": "1914-07-28"
+            },
+            "to": {
+              "date": "1918-11-04"
+            }
+          },
+          "sources": [
+            {
+              "name": "Central Powers – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Central_Powers"
+              ],
+              "from": {
+                "date": "1914-07-28"
+              },
+              "to": {
+                "date": "1918-11-04"
+              },
+              "quoteOriginal": "On 28 July 1914, Austria-Hungary declared war on Serbia. Armistice: 4 November 1918.",
+              "quote": "На 28 юли 1914 г. Австро-Унгария обявява война на Сърбия. Примирие: 4 ноември 1918 г."
+            }
+          ],
+          "flag": "HU",
+          "style": "central-powers"
+        },
+        {
+          "name": "Антикоминтерновски пакт",
+          "date": {
+            "range": [
+              "1939-02-24",
+              "1945-01-20"
+            ],
+            "from": {
+              "date": "1939-02-24"
+            },
+            "to": {
+              "date": "1945-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Anti-Comintern Pact – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Anti-Comintern_Pact"
+              ],
+              "from": {
+                "date": "1939-02-24"
+              },
+              "to": {
+                "date": "1945-01-20"
+              },
+              "quoteOriginal": "Hungary joined the Anti-Comintern Pact on 24 February 1939.",
+              "quote": "Унгария се присъединява към Антикоминтерновския пакт на 24 февруари 1939 г."
+            }
+          ],
+          "flag": "HU",
+          "style": "anti-comintern"
+        },
+        {
+          "name": "Тристранен пакт",
+          "date": {
+            "range": [
+              "1940-11-20",
+              "1945-01-20"
+            ],
+            "from": {
+              "date": "1940-11-20"
+            },
+            "to": {
+              "date": "1945-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Tripartite Pact – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Tripartite_Pact"
+              ],
+              "from": {
+                "date": "1940-11-20"
+              },
+              "quoteOriginal": "Hungary signed the Tripartite Pact on 20 November 1940.",
+              "quote": "Унгария подписва Тристранния пакт на 20 ноември 1940 г."
+            },
+            {
+              "name": "Hungary in World War II – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Hungary_in_World_War_II"
+              ],
+              "to": {
+                "date": "1945-01-20"
+              },
+              "quoteOriginal": "On 20 January 1945, representatives of the Miklos provisional government signed an armistice in Moscow.",
+              "quote": "На 20 януари 1945 г. представители на временното правителство на Миклош подписват примирие в Москва."
+            }
+          ],
+          "flag": "HU",
+          "style": "tripartite"
+        },
+        {
+          "name": "Съветски сателит",
+          "date": {
+            "range": [
+              "1945-01-20",
+              "1955-05-14"
+            ],
+            "from": {
+              "date": "1945-01-20"
+            },
+            "to": {
+              "date": "1955-05-14"
+            }
+          },
+          "sources": [
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eastern_Bloc"
+              ],
+              "from": {
+                "date": "1945-01-20"
+              },
+              "to": {
+                "date": "1955-05-14"
+              },
+              "quoteOriginal": "The Eastern Bloc was the group of socialist states of Central and Eastern Europe under the hegemony of the Soviet Union during the Cold War (1947–1991).",
+              "quote": "Източният блок е групата социалистически държави от Централна и Източна Европа под хегемонията на Съветския съюз по време на Студената война (1947–1991)."
+            }
+          ],
+          "flag": "HU",
+          "style": "soviet-satellite"
+        },
+        {
+          "name": "Варшавски договор",
+          "date": {
+            "range": [
+              "1955-05-14",
+              "1991-07-01"
+            ],
+            "from": {
+              "date": "1955-05-14"
+            },
+            "to": {
+              "date": "1991-07-01"
+            }
+          },
+          "sources": [
+            {
+              "name": "Варшавски договор – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D1%88%D0%B0%D0%B2%D1%81%D0%BA%D0%B8_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80"
+              ],
+              "from": {
+                "date": "1955-05-14"
+              },
+              "to": {
+                "date": "1991-07-01"
+              },
+              "quote": "Унгария е учредител на Варшавския договор от 14 май 1955 г."
+            }
+          ],
+          "flag": "HU",
+          "style": "warsaw-pact"
+        }
+      ],
+      "code": "HU"
+    },
+    {
+      "name": "Османска империя",
+      "id": "84005e52-3681-45d4-8a03-9df514788919",
+      "periods": [
+        {
+          "name": "Централни сили",
+          "date": {
+            "range": [
+              "1914-10-29",
+              "1918-10-30"
+            ],
+            "from": {
+              "date": "1914-10-29"
+            },
+            "to": {
+              "date": "1918-10-30"
+            }
+          },
+          "sources": [
+            {
+              "name": "Central Powers – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Central_Powers"
+              ],
+              "from": {
+                "date": "1914-10-29"
+              },
+              "to": {
+                "date": "1918-10-30"
+              },
+              "quoteOriginal": "On 29 October 1914, an action by cruisers sold to the Ottoman Empire prompted the Ottoman Empire's entry into the war alongside the Central Powers.",
+              "quote": "На 29 октомври 1914 г. действия на крайцери, продадени на Османската империя, провокират нейното встъпване във войната на страната на Централните сили."
+            }
+          ],
+          "flag": "TR",
+          "style": "central-powers"
+        }
+      ],
+      "code": "TR"
+    },
+    {
+      "name": "България",
+      "id": "acfb2655-acb6-45af-b2b7-aa824f17cd2f",
+      "periods": [
+        {
+          "name": "Централни сили",
+          "date": {
+            "range": [
+              "1915-09-06",
+              "1918-09-30"
+            ],
+            "from": {
+              "date": "1915-09-06"
+            },
+            "to": {
+              "date": "1918-09-30"
+            }
+          },
+          "sources": [
+            {
+              "name": "Bulgaria during World War I – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Bulgaria_during_World_War_I"
+              ],
+              "from": {
+                "date": "1915-09-06"
+              },
+              "to": {
+                "date": "1918-09-30"
+              },
+              "quoteOriginal": "On 6 September 1915, Bulgaria formalized its affiliation with the Central Powers. Until 30 September 1918, when the Armistice of Salonica came into effect.",
+              "quote": "На 6 септември 1915 г. България формализира присъединяването си към Централните сили. До 30 септември 1918 г., когато Солунското примирие влиза в сила."
+            }
+          ],
+          "flag": "BG",
+          "style": "central-powers"
+        },
+        {
+          "name": "Антикоминтерновски пакт",
+          "date": {
+            "range": [
+              "1941-11-25",
+              "1944-09-09"
+            ],
+            "from": {
+              "date": "1941-11-25"
+            },
+            "to": {
+              "date": "1944-09-09"
+            }
+          },
+          "sources": [
+            {
+              "name": "Anti-Comintern Pact – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Anti-Comintern_Pact"
+              ],
+              "from": {
+                "date": "1941-11-25"
+              },
+              "to": {
+                "date": "1944-09-09"
+              },
+              "quoteOriginal": "Bulgaria acceded to the Anti-Comintern Pact on 25 November 1941.",
+              "quote": "България се присъединява към Антикоминтерновския пакт на 25 ноември 1941 г."
+            }
+          ],
+          "flag": "BG",
+          "style": "anti-comintern"
+        },
+        {
+          "name": "Тристранен пакт",
+          "date": {
+            "range": [
+              "1941-03-01",
+              "1944-09-09"
+            ],
+            "from": {
+              "date": "1941-03-01"
+            },
+            "to": {
+              "date": "1944-09-09"
+            }
+          },
+          "sources": [
+            {
+              "name": "Тристранен пакт – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5%D0%BD_%D0%BF%D0%B0%D0%BA%D1%82"
+              ],
+              "from": {
+                "date": "1941-03-01"
+              },
+              "quote": "България подписва Тристранния пакт на 1 март 1941 г."
+            },
+            {
+              "name": "1944 Bulgarian coup d'état – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/1944_Bulgarian_coup_d%27%C3%A9tat"
+              ],
+              "to": {
+                "date": "1944-09-09"
+              },
+              "quoteOriginal": "By 6:25 AM on 9 September, Kimon Georgiev broadcast the announcement that the Fatherland Front had assumed power.",
+              "quote": "В 6:25 ч. на 9 септември Кимон Георгиев обявява, че Отечественият фронт е поел властта."
+            }
+          ],
+          "flag": "BG",
+          "style": "tripartite"
+        },
+        {
+          "name": "Съветски сателит",
+          "date": {
+            "range": [
+              "1944-09-09",
+              "1955-05-14"
+            ],
+            "from": {
+              "date": "1944-09-09"
+            },
+            "to": {
+              "date": "1955-05-14"
+            }
+          },
+          "sources": [
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eastern_Bloc"
+              ],
+              "from": {
+                "date": "1944-09-09"
+              },
+              "to": {
+                "date": "1955-05-14"
+              },
+              "quoteOriginal": "The Eastern Bloc was the group of socialist states of Central and Eastern Europe under the hegemony of the Soviet Union during the Cold War (1947–1991).",
+              "quote": "Източният блок е групата социалистически държави от Централна и Източна Европа под хегемонията на Съветския съюз по време на Студената война (1947–1991)."
+            }
+          ],
+          "flag": "BG",
+          "style": "soviet-satellite"
+        },
+        {
+          "name": "Варшавски договор",
+          "date": {
+            "range": [
+              "1955-05-14",
+              "1991-07-01"
+            ],
+            "from": {
+              "date": "1955-05-14"
+            },
+            "to": {
+              "date": "1991-07-01"
+            }
+          },
+          "sources": [
+            {
+              "name": "Варшавски договор – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D1%88%D0%B0%D0%B2%D1%81%D0%BA%D0%B8_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80"
+              ],
+              "from": {
+                "date": "1955-05-14"
+              },
+              "to": {
+                "date": "1991-07-01"
+              },
+              "quote": "България е учредител на Варшавския договор от 14 май 1955 г."
+            }
+          ],
+          "flag": "BG",
+          "style": "warsaw-pact"
+        }
+      ],
+      "code": "BG"
+    },
+    {
+      "name": "Франция",
+      "id": "c0477593-b754-4ad0-9706-e768bb9d7e5f",
+      "periods": [
+        {
+          "name": "Антанта",
+          "date": {
+            "range": [
+              "1914-08-03",
+              "1918-11-11"
+            ],
+            "from": {
+              "date": "1914-08-03"
+            },
+            "to": {
+              "date": "1918-11-11"
+            }
+          },
+          "sources": [
+            {
+              "name": "Allies of World War I – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Allies_of_World_War_I"
+              ],
+              "from": {
+                "date": "1914-08-03"
+              },
+              "to": {
+                "date": "1918-11-11"
+              },
+              "quoteOriginal": "On 3 August, Germany also declared war on France.",
+              "quote": "На 3 август Германия обявява война и на Франция."
+            }
+          ],
+          "flag": "FR",
+          "style": "entente-ww1"
+        }
+      ],
+      "code": "FR"
+    },
+    {
+      "name": "Великобритания",
+      "id": "62e64b79-5eaf-4bd1-8fad-d002748aae8e",
+      "periods": [
+        {
+          "name": "Антанта",
+          "date": {
+            "range": [
+              "1914-08-04",
+              "1918-11-11"
+            ],
+            "from": {
+              "date": "1914-08-04"
+            },
+            "to": {
+              "date": "1918-11-11"
+            }
+          },
+          "sources": [
+            {
+              "name": "Allies of World War I – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Allies_of_World_War_I"
+              ],
+              "from": {
+                "date": "1914-08-04"
+              },
+              "to": {
+                "date": "1918-11-11"
+              },
+              "quoteOriginal": "Britain declared war on Germany on 4 August 1914.",
+              "quote": "Великобритания обявява война на Германия на 4 август 1914 г."
+            }
+          ],
+          "flag": "GB",
+          "style": "entente-ww1"
+        }
+      ],
+      "code": "GB"
+    },
+    {
+      "name": "Руска империя",
+      "id": "5582f7eb-d45e-4755-9984-bf61a961cdc9",
+      "periods": [
+        {
+          "name": "Антанта",
+          "date": {
+            "range": [
+              "1914-08-01",
+              "1917-03-15"
+            ],
+            "from": {
+              "date": "1914-08-01"
+            },
+            "to": {
+              "date": "1917-03-15"
+            }
+          },
+          "sources": [
+            {
+              "name": "Allies of World War I – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Allies_of_World_War_I"
+              ],
+              "from": {
+                "date": "1914-08-01"
+              },
+              "to": {
+                "date": "1917-03-15"
+              },
+              "quoteOriginal": "Germany declared war on Russia on 1 August 1914.",
+              "quote": "Германия обявява война на Русия на 1 август 1914 г. Русия излиза от войната след абдикацията на Николай II на 15 март 1917 г."
+            }
+          ],
+          "flag": "RU",
+          "style": "entente-ww1"
+        }
+      ],
+      "code": "RU"
+    },
+    {
+      "name": "САЩ",
+      "id": "e9937696-9e67-4973-a73a-6cfbe5158718",
+      "periods": [
+        {
+          "name": "Антанта (асоциирана сила)",
+          "date": {
+            "range": [
+              "1917-04-06",
+              "1918-11-11"
+            ],
+            "from": {
+              "date": "1917-04-06"
+            },
+            "to": {
+              "date": "1918-11-11"
+            }
+          },
+          "sources": [
+            {
+              "name": "Allies of World War I – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Allies_of_World_War_I"
+              ],
+              "from": {
+                "date": "1917-04-06"
+              },
+              "to": {
+                "date": "1918-11-11"
+              },
+              "quoteOriginal": "On 6 April 1917, the United States entered the war as a co-belligerent.",
+              "quote": "На 6 април 1917 г. Съединените щати влизат във войната като съвоюващ."
+            }
+          ],
+          "flag": "US",
+          "style": "entente-ww1"
+        }
+      ],
+      "code": "US"
+    },
+    {
+      "name": "Сърбия",
+      "id": "8763e3bf-7d84-41d6-9750-8b3572992afa",
+      "periods": [
+        {
+          "name": "Антанта",
+          "date": {
+            "range": [
+              "1914-07-28",
+              "1918-11-11"
+            ],
+            "from": {
+              "date": "1914-07-28"
+            },
+            "to": {
+              "date": "1918-11-11"
+            }
+          },
+          "sources": [
+            {
+              "name": "Allies of World War I – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Allies_of_World_War_I"
+              ],
+              "from": {
+                "date": "1914-07-28"
+              },
+              "to": {
+                "date": "1918-11-11"
+              },
+              "quoteOriginal": "Austria-Hungary declared war on Serbia on 28 July 1914.",
+              "quote": "Австро-Унгария обявява война на Сърбия на 28 юли 1914 г."
+            }
+          ],
+          "flag": "RS",
+          "style": "entente-ww1"
+        }
+      ],
+      "code": "RS"
+    },
+    {
+      "name": "Румъния",
+      "id": "e68566de-4699-4be4-ae25-0d1c5ef28816",
+      "periods": [
+        {
+          "name": "Антанта",
+          "date": {
+            "range": [
+              "1916-08-27",
+              "1918-11-11"
+            ],
+            "from": {
+              "date": "1916-08-27"
+            },
+            "to": {
+              "date": "1918-11-11"
+            }
+          },
+          "sources": [
+            {
+              "name": "Allies of World War I – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Allies_of_World_War_I"
+              ],
+              "from": {
+                "date": "1916-08-27"
+              },
+              "to": {
+                "date": "1918-11-11"
+              },
+              "quoteOriginal": "Romania commenced hostilities against Austria on 27 August 1916.",
+              "quote": "Румъния открива военни действия срещу Австрия на 27 август 1916 г."
+            }
+          ],
+          "flag": "RO",
+          "style": "entente-ww1"
+        },
+        {
+          "name": "Малка Антанта (учредител)",
+          "date": {
+            "range": [
+              "1921-04-23",
+              "1938-12-31"
+            ],
+            "from": {
+              "date": "1921-04-23"
+            },
+            "to": {
+              "dateYear": 1938
+            }
+          },
+          "sources": [
+            {
+              "name": "Little Entente – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Little_Entente"
+              ],
+              "from": {
+                "date": "1921-04-23"
+              },
+              "to": {
+                "dateYear": 1938
+              },
+              "quoteOriginal": "Czechoslovakia and Romania signed their treaty on April 23, 1921, in Bucharest.",
+              "quote": "Чехословакия и Румъния подписват договор на 23 април 1921 г. в Букурещ."
+            }
+          ],
+          "flag": "RO",
+          "style": "little-entente"
+        },
+        {
+          "name": "Балкански пакт",
+          "date": {
+            "range": [
+              "1934-02-09",
+              "1940-09-07"
+            ],
+            "from": {
+              "date": "1934-02-09"
+            },
+            "to": {
+              "date": "1940-09-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "Balkan Pact (1934) – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Balkan_Pact_(1934)"
+              ],
+              "from": {
+                "date": "1934-02-09"
+              },
+              "to": {
+                "date": "1940-09-07"
+              },
+              "quoteOriginal": "The Balkan Pact was signed on 9 February 1934 in Athens by Greece, Romania, Turkey and Yugoslavia.",
+              "quote": "Балканският пакт е подписан на 9 февруари 1934 г. в Атина от Гърция, Румъния, Турция и Югославия."
+            }
+          ],
+          "flag": "RO",
+          "style": "balkan-pact"
+        },
+        {
+          "name": "Антикоминтерновски пакт",
+          "date": {
+            "range": [
+              "1941-11-25",
+              "1944-08-23"
+            ],
+            "from": {
+              "date": "1941-11-25"
+            },
+            "to": {
+              "date": "1944-08-23"
+            }
+          },
+          "sources": [
+            {
+              "name": "Anti-Comintern Pact – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Anti-Comintern_Pact"
+              ],
+              "from": {
+                "date": "1941-11-25"
+              },
+              "to": {
+                "date": "1944-08-23"
+              },
+              "quoteOriginal": "Romania acceded to the Anti-Comintern Pact on 25 November 1941.",
+              "quote": "Румъния се присъединява към Антикоминтерновския пакт на 25 ноември 1941 г."
+            }
+          ],
+          "flag": "RO",
+          "style": "anti-comintern"
+        },
+        {
+          "name": "Тристранен пакт",
+          "date": {
+            "range": [
+              "1940-11-23",
+              "1944-08-23"
+            ],
+            "from": {
+              "date": "1940-11-23"
+            },
+            "to": {
+              "date": "1944-08-23"
+            }
+          },
+          "sources": [
+            {
+              "name": "Tripartite Pact – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Tripartite_Pact"
+              ],
+              "from": {
+                "date": "1940-11-23"
+              },
+              "quoteOriginal": "Romania signed the Tripartite Pact on 23 November 1940.",
+              "quote": "Румъния подписва Тристранния пакт на 23 ноември 1940 г."
+            },
+            {
+              "name": "1944 Romanian coup d'état – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/1944_Romanian_coup_d%27%C3%A9tat"
+              ],
+              "to": {
+                "date": "1944-08-23"
+              },
+              "quoteOriginal": "The coup led by King Michael I on 23 August 1944 overthrew the Antonescu regime.",
+              "quote": "Превратът, ръководен от цар Михаил I на 23 август 1944 г., сваля режима на Антонеску."
+            }
+          ],
+          "flag": "RO",
+          "style": "tripartite"
+        },
+        {
+          "name": "Съветски сателит",
+          "date": {
+            "range": [
+              "1944-08-23",
+              "1955-05-14"
+            ],
+            "from": {
+              "date": "1944-08-23"
+            },
+            "to": {
+              "date": "1955-05-14"
+            }
+          },
+          "sources": [
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eastern_Bloc"
+              ],
+              "from": {
+                "date": "1944-08-23"
+              },
+              "to": {
+                "date": "1955-05-14"
+              },
+              "quoteOriginal": "The Eastern Bloc was the group of socialist states of Central and Eastern Europe under the hegemony of the Soviet Union during the Cold War (1947–1991).",
+              "quote": "Източният блок е групата социалистически държави от Централна и Източна Европа под хегемонията на Съветския съюз по време на Студената война (1947–1991)."
+            }
+          ],
+          "flag": "RO",
+          "style": "soviet-satellite"
+        },
+        {
+          "name": "Варшавски договор",
+          "date": {
+            "range": [
+              "1955-05-14",
+              "1991-07-01"
+            ],
+            "from": {
+              "date": "1955-05-14"
+            },
+            "to": {
+              "date": "1991-07-01"
+            }
+          },
+          "sources": [
+            {
+              "name": "Варшавски договор – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D1%88%D0%B0%D0%B2%D1%81%D0%BA%D0%B8_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80"
+              ],
+              "from": {
+                "date": "1955-05-14"
+              },
+              "to": {
+                "date": "1991-07-01"
+              },
+              "quote": "Румъния е учредител на Варшавския договор от 14 май 1955 г."
+            }
+          ],
+          "flag": "RO",
+          "style": "warsaw-pact"
+        }
+      ],
+      "code": "RO"
+    },
+    {
+      "name": "Чехословакия",
+      "id": "4147fdaa-b76e-434b-9bd7-7f2a08a3d174",
+      "periods": [
+        {
+          "name": "Малка Антанта (учредител)",
+          "date": {
+            "range": [
+              "1920-08-14",
+              "1938-12-31"
+            ],
+            "from": {
+              "date": "1920-08-14"
+            },
+            "to": {
+              "dateYear": 1938
+            }
+          },
+          "sources": [
+            {
+              "name": "Little Entente – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Little_Entente"
+              ],
+              "from": {
+                "date": "1920-08-14"
+              },
+              "to": {
+                "dateYear": 1938
+              },
+              "quoteOriginal": "The Little Entente was an alliance formed in 1920 and 1921 by Czechoslovakia, Romania and the Kingdom of Serbs, Croats and Slovenes. The first treaty was signed in Belgrade on August 14, 1920. The rapid growth of German power caused its collapse in 1938.",
+              "quote": "Малката Антанта е съюз, създаден през 1920–1921 г. от Чехословакия, Румъния и Кралството на сърби, хървати и словенци. Първият договор е подписан в Белград на 14 август 1920 г. Бързият растеж на германската мощ води до разпадането му през 1938 г."
+            }
+          ],
+          "flag": "CZ",
+          "style": "little-entente"
+        },
+        {
+          "name": "Съветски сателит",
+          "date": {
+            "range": [
+              "1945-05-08",
+              "1955-05-14"
+            ],
+            "from": {
+              "date": "1945-05-08"
+            },
+            "to": {
+              "date": "1955-05-14"
+            }
+          },
+          "sources": [
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eastern_Bloc"
+              ],
+              "from": {
+                "date": "1945-05-08"
+              },
+              "to": {
+                "date": "1955-05-14"
+              },
+              "quoteOriginal": "The Eastern Bloc was the group of socialist states of Central and Eastern Europe under the hegemony of the Soviet Union during the Cold War (1947–1991).",
+              "quote": "Източният блок е групата социалистически държави от Централна и Източна Европа под хегемонията на Съветския съюз по време на Студената война (1947–1991)."
+            }
+          ],
+          "flag": "CZ",
+          "style": "soviet-satellite"
+        },
+        {
+          "name": "Варшавски договор",
+          "date": {
+            "range": [
+              "1955-05-14",
+              "1991-07-01"
+            ],
+            "from": {
+              "date": "1955-05-14"
+            },
+            "to": {
+              "date": "1991-07-01"
+            }
+          },
+          "sources": [
+            {
+              "name": "Warsaw Pact – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Warsaw_Pact"
+              ],
+              "from": {
+                "date": "1955-05-14"
+              },
+              "to": {
+                "date": "1991-07-01"
+              },
+              "quoteOriginal": "Czechoslovakia was a founding member. The Warsaw Pact was formally dissolved at a meeting in Prague on 1 July 1991.",
+              "quote": "Чехословакия е учредител. Варшавският договор е разпуснат на среща в Прага на 1 юли 1991 г."
+            }
+          ],
+          "flag": "CZ",
+          "style": "warsaw-pact"
+        }
+      ],
+      "code": "CZ"
+    },
+    {
+      "name": "Югославия",
+      "id": "3f2f4279-6849-4628-9d3e-e641d514798e",
+      "periods": [
+        {
+          "name": "Малка Антанта (учредител)",
+          "date": {
+            "range": [
+              "1920-08-14",
+              "1938-12-31"
+            ],
+            "from": {
+              "date": "1920-08-14"
+            },
+            "to": {
+              "dateYear": 1938
+            }
+          },
+          "sources": [
+            {
+              "name": "Little Entente – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Little_Entente"
+              ],
+              "from": {
+                "date": "1920-08-14"
+              },
+              "to": {
+                "dateYear": 1938
+              },
+              "quoteOriginal": "The first treaty between Czechoslovakia and the Kingdom of Serbs, Croats and Slovenes was signed in Belgrade on August 14, 1920.",
+              "quote": "Първият договор между Чехословакия и Кралството на сърби, хървати и словенци е подписан в Белград на 14 август 1920 г."
+            }
+          ],
+          "flag": "RS",
+          "style": "little-entente"
+        },
+        {
+          "name": "Балкански пакт",
+          "date": {
+            "range": [
+              "1934-02-09",
+              "1941-04-06"
+            ],
+            "from": {
+              "date": "1934-02-09"
+            },
+            "to": {
+              "date": "1941-04-06"
+            }
+          },
+          "sources": [
+            {
+              "name": "Balkan Pact (1934) – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Balkan_Pact_(1934)"
+              ],
+              "from": {
+                "date": "1934-02-09"
+              },
+              "to": {
+                "date": "1941-04-06"
+              },
+              "quoteOriginal": "The Balkan Pact was signed on 9 February 1934 in Athens. It effectively ceased to exist following the 1941 Axis invasions of Yugoslavia and Greece.",
+              "quote": "Балканският пакт е подписан на 9 февруари 1934 г. в Атина. Той на практика престава да съществува след нахлуването на Оста в Югославия и Гърция през 1941 г."
+            }
+          ],
+          "flag": "RS",
+          "style": "balkan-pact"
+        }
+      ],
+      "code": "RS"
+    },
+    {
+      "name": "Гърция",
+      "id": "8c8d8453-675e-4f73-9a62-480245c22edb",
+      "periods": [
+        {
+          "name": "Антанта",
+          "date": {
+            "range": [
+              "1917-06-29",
+              "1918-11-11"
+            ],
+            "from": {
+              "date": "1917-06-29"
+            },
+            "to": {
+              "date": "1918-11-11"
+            }
+          },
+          "sources": [
+            {
+              "name": "Allies of World War I – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Allies_of_World_War_I"
+              ],
+              "from": {
+                "dateYear": 1917,
+                "dateMonth": 6
+              },
+              "to": {
+                "date": "1918-11-11"
+              },
+              "quoteOriginal": "A new national government under Venizelos joined the Entente in June 1917.",
+              "quote": "Ново национално правителство под Венизелос се присъединява към Антантата през юни 1917 г."
+            }
+          ],
+          "flag": "GR",
+          "style": "entente-ww1"
+        },
+        {
+          "name": "Балкански пакт",
+          "date": {
+            "range": [
+              "1934-02-09",
+              "1941-04-06"
+            ],
+            "from": {
+              "date": "1934-02-09"
+            },
+            "to": {
+              "date": "1941-04-06"
+            }
+          },
+          "sources": [
+            {
+              "name": "Balkan Pact (1934) – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Balkan_Pact_(1934)"
+              ],
+              "from": {
+                "date": "1934-02-09"
+              },
+              "to": {
+                "date": "1941-04-06"
+              },
+              "quoteOriginal": "The Balkan Pact was signed on 9 February 1934 in Athens. It effectively ceased to exist following the 1941 Axis invasions of Yugoslavia and Greece.",
+              "quote": "Балканският пакт е подписан на 9 февруари 1934 г. в Атина. На практика престава да съществува след нахлуването на Оста в Югославия и Гърция през 1941 г."
+            }
+          ],
+          "flag": "GR",
+          "style": "balkan-pact"
+        }
+      ],
+      "code": "GR"
+    },
+    {
+      "name": "Турция",
+      "id": "c56de86b-bb77-4797-b002-840deb18b582",
+      "periods": [
+        {
+          "name": "Балкански пакт",
+          "date": {
+            "range": [
+              "1934-02-09",
+              "1941-04-06"
+            ],
+            "from": {
+              "date": "1934-02-09"
+            },
+            "to": {
+              "date": "1941-04-06"
+            }
+          },
+          "sources": [
+            {
+              "name": "Balkan Pact (1934) – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Balkan_Pact_(1934)"
+              ],
+              "from": {
+                "date": "1934-02-09"
+              },
+              "to": {
+                "date": "1941-04-06"
+              },
+              "quoteOriginal": "The Balkan Pact was signed on 9 February 1934 in Athens by Greece, Romania, Turkey and Yugoslavia.",
+              "quote": "Балканският пакт е подписан на 9 февруари 1934 г. в Атина от Гърция, Румъния, Турция и Югославия."
+            }
+          ],
+          "flag": "TR",
+          "style": "balkan-pact"
+        }
+      ],
+      "code": "TR"
+    },
+    {
+      "name": "Япония",
+      "id": "75c0f053-4d06-4e37-b0bc-051464e71c24",
+      "periods": [
+        {
+          "name": "Антикоминтерновски пакт (учредител)",
+          "date": {
+            "range": [
+              "1936-11-25",
+              "1945-09-02"
+            ],
+            "from": {
+              "date": "1936-11-25"
+            },
+            "to": {
+              "date": "1945-09-02"
+            }
+          },
+          "sources": [
+            {
+              "name": "Anti-Comintern Pact – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Anti-Comintern_Pact"
+              ],
+              "from": {
+                "date": "1936-11-25"
+              },
+              "to": {
+                "date": "1945-09-02"
+              },
+              "quoteOriginal": "The Anti-Comintern Pact was signed on 25 November 1936 by Germany and Japan.",
+              "quote": "Антикоминтерновският пакт е подписан на 25 ноември 1936 г. от Германия и Япония."
+            }
+          ],
+          "flag": "JP",
+          "style": "anti-comintern"
+        },
+        {
+          "name": "Тристранен пакт",
+          "date": {
+            "range": [
+              "1940-09-27",
+              "1945-09-02"
+            ],
+            "from": {
+              "date": "1940-09-27"
+            },
+            "to": {
+              "date": "1945-09-02"
+            }
+          },
+          "sources": [
+            {
+              "name": "Тристранен пакт – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5%D0%BD_%D0%BF%D0%B0%D0%BA%D1%82"
+              ],
+              "from": {
+                "date": "1940-09-27"
+              },
+              "quote": "Япония е един от трите оригинални подписали на 27 септември 1940 г."
+            },
+            {
+              "name": "Japanese Instrument of Surrender – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Japanese_Instrument_of_Surrender"
+              ],
+              "to": {
+                "date": "1945-09-02"
+              },
+              "quoteOriginal": "The Japanese Instrument of Surrender was signed on September 2, 1945, aboard the USS Missouri.",
+              "quote": "Японският акт за капитулация е подписан на 2 септември 1945 г. на борда на USS Missouri."
+            }
+          ],
+          "flag": "JP",
+          "style": "tripartite"
+        }
+      ],
+      "code": "JP"
+    },
+    {
+      "name": "Словакия",
+      "id": "572bca4d-e603-410d-b9e2-06ad3c483dad",
+      "periods": [
+        {
+          "name": "Антикоминтерновски пакт",
+          "date": {
+            "range": [
+              "1941-11-25",
+              "1945-04-04"
+            ],
+            "from": {
+              "date": "1941-11-25"
+            },
+            "to": {
+              "date": "1945-04-04"
+            }
+          },
+          "sources": [
+            {
+              "name": "Anti-Comintern Pact – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Anti-Comintern_Pact"
+              ],
+              "from": {
+                "date": "1941-11-25"
+              },
+              "to": {
+                "date": "1945-04-04"
+              },
+              "quoteOriginal": "Slovakia acceded to the Anti-Comintern Pact on 25 November 1941.",
+              "quote": "Словакия се присъединява към Антикоминтерновския пакт на 25 ноември 1941 г."
+            }
+          ],
+          "flag": "SK",
+          "style": "anti-comintern"
+        },
+        {
+          "name": "Тристранен пакт (Словашка република)",
+          "date": {
+            "range": [
+              "1940-11-24",
+              "1945-04-04"
+            ],
+            "from": {
+              "date": "1940-11-24"
+            },
+            "to": {
+              "date": "1945-04-04"
+            }
+          },
+          "sources": [
+            {
+              "name": "Tripartite Pact – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Tripartite_Pact"
+              ],
+              "from": {
+                "date": "1940-11-24"
+              },
+              "quoteOriginal": "Slovakia signed the Tripartite Pact on 24 November 1940.",
+              "quote": "Словакия подписва Тристранния пакт на 24 ноември 1940 г."
+            },
+            {
+              "name": "Slovak Republic (1939–1945) – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Slovak_Republic_(1939%E2%80%931945)"
+              ],
+              "to": {
+                "date": "1945-04-04"
+              },
+              "quoteOriginal": "The First Slovak Republic ceased to exist de facto on 4 April 1945 when the Red Army captured Bratislava.",
+              "quote": "Първата Словашка република престава да съществува де факто на 4 април 1945 г., когато Червената армия завзема Братислава."
+            }
+          ],
+          "flag": "SK",
+          "style": "tripartite"
+        }
+      ],
+      "code": "SK"
+    },
+    {
+      "name": "Хърватия",
+      "id": "04fabbb2-0600-494c-89e4-7682f70aead6",
+      "periods": [
+        {
+          "name": "Антикоминтерновски пакт",
+          "date": {
+            "range": [
+              "1941-11-25",
+              "1945-05-08"
+            ],
+            "from": {
+              "date": "1941-11-25"
+            },
+            "to": {
+              "date": "1945-05-08"
+            }
+          },
+          "sources": [
+            {
+              "name": "Anti-Comintern Pact – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Anti-Comintern_Pact"
+              ],
+              "from": {
+                "date": "1941-11-25"
+              },
+              "to": {
+                "date": "1945-05-08"
+              },
+              "quoteOriginal": "Croatia acceded to the Anti-Comintern Pact on 25 November 1941.",
+              "quote": "Хърватия се присъединява към Антикоминтерновския пакт на 25 ноември 1941 г."
+            }
+          ],
+          "flag": "HR",
+          "style": "anti-comintern"
+        },
+        {
+          "name": "Тристранен пакт (НДХ)",
+          "date": {
+            "range": [
+              "1941-06-15",
+              "1945-05-08"
+            ],
+            "from": {
+              "date": "1941-06-15"
+            },
+            "to": {
+              "date": "1945-05-08"
+            }
+          },
+          "sources": [
+            {
+              "name": "Tripartite Pact – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Tripartite_Pact"
+              ],
+              "from": {
+                "date": "1941-06-15"
+              },
+              "quoteOriginal": "The Independent State of Croatia signed the Tripartite Pact on 15 June 1941.",
+              "quote": "Независимата хърватска държава подписва Тристранния пакт на 15 юни 1941 г."
+            },
+            {
+              "name": "Independent State of Croatia – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Independent_State_of_Croatia"
+              ],
+              "to": {
+                "date": "1945-05-08"
+              },
+              "quoteOriginal": "8 May 1945 — Government dissolved.",
+              "quote": "8 май 1945 г. — правителството е разпуснато."
+            }
+          ],
+          "flag": "HR",
+          "style": "tripartite"
+        }
+      ],
+      "code": "HR"
+    },
+    {
+      "name": "Полша",
+      "id": "79cc2e4d-60c7-4f8d-b5d0-e688a0a4fb4c",
+      "periods": [
+        {
+          "name": "Съветски сателит",
+          "date": {
+            "range": [
+              "1945-05-08",
+              "1955-05-14"
+            ],
+            "from": {
+              "date": "1945-05-08"
+            },
+            "to": {
+              "date": "1955-05-14"
+            }
+          },
+          "sources": [
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eastern_Bloc"
+              ],
+              "from": {
+                "date": "1945-05-08"
+              },
+              "to": {
+                "date": "1955-05-14"
+              },
+              "quoteOriginal": "The Eastern Bloc was the group of socialist states of Central and Eastern Europe under the hegemony of the Soviet Union during the Cold War (1947–1991).",
+              "quote": "Източният блок е групата социалистически държави от Централна и Източна Европа под хегемонията на Съветския съюз по време на Студената война (1947–1991)."
+            }
+          ],
+          "flag": "PL",
+          "style": "soviet-satellite"
+        },
+        {
+          "name": "Варшавски договор",
+          "date": {
+            "range": [
+              "1955-05-14",
+              "1991-07-01"
+            ],
+            "from": {
+              "date": "1955-05-14"
+            },
+            "to": {
+              "date": "1991-07-01"
+            }
+          },
+          "sources": [
+            {
+              "name": "Варшавски договор – Уикипедия",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D1%88%D0%B0%D0%B2%D1%81%D0%BA%D0%B8_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80"
+              ],
+              "from": {
+                "date": "1955-05-14"
+              },
+              "to": {
+                "date": "1991-07-01"
+              },
+              "quote": "Договорът е подписан на 14 май 1955 г. във Варшава, Полша."
+            }
+          ],
+          "flag": "PL",
+          "style": "warsaw-pact"
+        }
+      ],
+      "code": "PL"
+    },
+    {
+      "name": "Албания",
+      "id": "e7b3f795-2fb4-4910-944e-fb34ac0f2311",
+      "periods": [
+        {
+          "name": "Съветски сателит",
+          "date": {
+            "range": [
+              "1944-11-29",
+              "1955-05-14"
+            ],
+            "from": {
+              "date": "1944-11-29"
+            },
+            "to": {
+              "date": "1955-05-14"
+            }
+          },
+          "sources": [
+            {
+              "name": "Post-Soviet states – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Eastern_Bloc"
+              ],
+              "from": {
+                "date": "1944-11-29"
+              },
+              "to": {
+                "date": "1955-05-14"
+              },
+              "quoteOriginal": "The Eastern Bloc was the group of socialist states of Central and Eastern Europe under the hegemony of the Soviet Union during the Cold War (1947–1991).",
+              "quote": "Източният блок е групата социалистически държави от Централна и Източна Европа под хегемонията на Съветския съюз по време на Студената война (1947–1991)."
+            }
+          ],
+          "flag": "AL",
+          "style": "soviet-satellite"
+        },
+        {
+          "name": "Варшавски договор",
+          "date": {
+            "range": [
+              "1955-05-14",
+              "1968-09-13"
+            ],
+            "from": {
+              "date": "1955-05-14"
+            },
+            "to": {
+              "date": "1968-09-13"
+            }
+          },
+          "sources": [
+            {
+              "name": "Warsaw Pact – Wikipedia",
+              "url": [
+                "https://en.wikipedia.org/wiki/Warsaw_Pact"
+              ],
+              "from": {
+                "date": "1955-05-14"
+              },
+              "to": {
+                "date": "1968-09-13"
+              },
+              "quoteOriginal": "Albania was a founding member of the Warsaw Pact in 1955 but formally withdrew on 13 September 1968 after the Warsaw Pact invasion of Czechoslovakia.",
+              "quote": "Албания е учредител на Варшавския договор през 1955 г., но се оттегля официално на 13 септември 1968 г."
+            }
+          ],
+          "flag": "AL",
+          "style": "warsaw-pact"
+        }
+      ],
+      "code": "AL"
+    }
+  ]
+}

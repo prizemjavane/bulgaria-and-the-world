@@ -1,0 +1,150 @@
+<div class="popover-anchor">
+  <button class="toolbar-pill group-toggle" [class.expanded]="expanded" [class.grouped]="grouped" (click)="toggle.emit()">
+    <lucide-icon class="group-chevron" name="chevron-right" [size]="14" />
+    Хроника
+  </button>
+  @if (expanded) {
+    <div class="combined-popover">
+      <div class="tab-bar">
+        @for (tab of tabs; track tab.key) {
+          <button
+            class="tab-btn"
+            [class.active]="currentTab?.key === tab.key && !showSelectedOnly"
+            (click)="showSelectedOnly = false; selectTab(tab.key)"
+          >
+            {{ tab.label }}
+            @if (tab.activeCount) {
+              <span class="tab-badge">{{ tab.activeCount }}</span>
+            }
+          </button>
+        }
+        @if (totalActiveCount) {
+          <button
+            class="tab-btn tab-btn--selected"
+            [class.active]="showSelectedOnly"
+            (click)="showSelectedOnly = !showSelectedOnly"
+          >
+            Избрани
+            <span class="tab-badge">{{ totalActiveCount }}</span>
+          </button>
+        }
+      </div>
+      @if (showSelectedOnly) {
+        @let groups = allSelectedGroups();
+        @let selectedTags = allSelectedTags();
+        @if (groups.length || selectedTags.length) {
+          <div class="selected-toolbar">
+            <div class="items-header">
+              <button class="sort-btn" [class.active]="sortField === 'name'" (click)="toggleSort('name')">
+                Име
+                @if (sortField === 'name') {
+                  <lucide-icon class="sort-arrow" [class.desc]="sortDir === 'desc'" name="chevron-down" [size]="10" />
+                }
+              </button>
+              <button class="sort-btn" [class.active]="sortField === 'date'" (click)="toggleSort('date')">
+                Дата
+                @if (sortField === 'date') {
+                  <lucide-icon class="sort-arrow" [class.desc]="sortDir === 'desc'" name="chevron-down" [size]="10" />
+                }
+              </button>
+            </div>
+            <button class="clear-all-action" (click)="clearAll.emit()">✕ скрий всички</button>
+          </div>
+          <div class="items-list">
+            @for (group of groups; track group.tab.key) {
+              <div class="selected-group-header">{{ group.tab.label }}</div>
+              @for (item of group.items; track item.id) {
+                <div class="item-row active">
+                  <button class="item-focus-area" (click)="itemFocus.emit({ tabKey: group.tab.key, itemId: item.id })">
+                    <span class="item-dot"></span>
+                    <span class="item-name">{{ item.name }}</span>
+                    <span class="item-date">{{ item.date }}</span>
+                  </button>
+                  <button class="item-remove" (click)="itemToggle.emit({ tabKey: group.tab.key, itemId: item.id })">✕</button>
+                </div>
+              }
+            }
+            @if (selectedTags.length) {
+              <div class="selected-group-header">Тагове</div>
+              <div class="selected-tags-row">
+                @for (tag of selectedTags; track tag) {
+                  <button class="selected-tag" (click)="tagToggle.emit(tag)">
+                    #{{ tag }}
+                    <span class="item-remove">✕</span>
+                  </button>
+                }
+              </div>
+            }
+          </div>
+        } @else {
+          <p class="selected-empty">Няма избрани елементи</p>
+        }
+      } @else {
+        <input
+          type="text"
+          [ngModel]="search"
+          (ngModelChange)="searchChange.emit($event)"
+          placeholder="Търси..."
+          class="search-input w-full mb-2"
+        />
+        @if (currentTab; as tab) {
+          @if (tab.tags.length) {
+            <div class="tags-row">
+              <span class="tags-label">Тагове:</span>
+              @for (tag of tab.tags; track tag.name) {
+                <button
+                  class="tag-btn"
+                  [class.active]="tag.active"
+                  (click)="tagToggle.emit(tag.name)"
+                >{{ tag.name }}</button>
+              }
+            </div>
+          }
+          @if (tab.activeTagCount || hasUnselectedItems(tab) || tab.activeCount) {
+            <div class="flex justify-end gap-3 mb-1">
+              @if (tab.activeTagCount) {
+                <button class="clear-all-action" (click)="tagsClear.emit()">✕ скрий тагове</button>
+              }
+              @if (hasUnselectedItems(tab)) {
+                <button class="select-all-action" (click)="emitSelectAll(tab)">✓ покажи всички</button>
+              }
+              @if (tab.activeCount) {
+                <button class="clear-all-action" (click)="clearTab.emit(tab.key)">✕ скрий всички</button>
+              }
+            </div>
+          }
+          <div class="items-list">
+            <div class="items-header">
+              <button class="sort-btn" [class.active]="sortField === 'name'" (click)="toggleSort('name')">
+                Име
+                @if (sortField === 'name') {
+                  <lucide-icon class="sort-arrow" [class.desc]="sortDir === 'desc'" name="chevron-down" [size]="10" />
+                }
+              </button>
+              <button class="sort-btn" [class.active]="sortField === 'date'" (click)="toggleSort('date')">
+                Дата
+                @if (sortField === 'date') {
+                  <lucide-icon class="sort-arrow" [class.desc]="sortDir === 'desc'" name="chevron-down" [size]="10" />
+                }
+              </button>
+            </div>
+            @for (item of displayedItems(tab); track item.id) {
+              <button
+                class="item-row"
+                [class.active]="tab.activeItems[item.id]"
+                (click)="itemToggle.emit({ tabKey: tab.key, itemId: item.id })"
+              >
+                <span class="item-dot"></span>
+                <span class="item-name">{{ item.name }}</span>
+                <span
+                  class="item-date item-date--action"
+                  (click)="$event.stopPropagation(); itemFocus.emit({ tabKey: tab.key, itemId: item.id })"
+                >{{ item.date }}</span>
+              </button>
+            }
+          </div>
+        }
+      }
+    </div>
+  }
+</div>

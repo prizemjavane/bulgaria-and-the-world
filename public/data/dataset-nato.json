@@ -1,0 +1,3715 @@
+{
+  "id": "nato",
+  "name": "НАТО",
+  "description": "Членство на държавите в НАТО от основаването на алианса през 1949 г. до днес, заедно с генералните секретари на организацията.",
+  "knowledge": "nato",
+  "metadata": {
+    "color": "#004990"
+  },
+  "data": [
+    {
+      "name": "Президент на САЩ",
+      "id": "27b9a798-ee4c-48df-9dd2-70515dd331e2",
+      "periods": [
+        {
+          "name": "Удроу Уилсън",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "1913-03-04",
+              "1917-03-04"
+            ],
+            "from": {
+              "date": "1913-03-04"
+            },
+            "to": {
+              "date": "1917-03-04"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1913-03-04"
+              },
+              "to": {
+                "date": "1917-03-04"
+              },
+              "quote": "Удроу Уилсън, 28-и президент на САЩ, 1-ви мандат (4 март 1913 – 4 март 1917)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1913-03-04"
+              },
+              "to": {
+                "date": "1917-03-04"
+              },
+              "quoteOriginal": "Woodrow Wilson (28th president) was inaugurated for his first term on March 4, 1913.",
+              "quote": "Удроу Уилсън (28-и президент) встъпва в длъжност за първия си мандат на 4 март 1913 г."
+            }
+          ]
+        },
+        {
+          "name": "Удроу Уилсън",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "1917-03-04",
+              "1921-03-04"
+            ],
+            "from": {
+              "date": "1917-03-04"
+            },
+            "to": {
+              "date": "1921-03-04"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1917-03-04"
+              },
+              "to": {
+                "date": "1921-03-04"
+              },
+              "quote": "Удроу Уилсън, 28-и президент на САЩ, 2-ри мандат (4 март 1917 – 4 март 1921)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1917-03-04"
+              },
+              "to": {
+                "date": "1921-03-04"
+              },
+              "quoteOriginal": "Woodrow Wilson was inaugurated for his second term on March 4, 1917.",
+              "quote": "Удроу Уилсън встъпва в длъжност за втория си мандат на 4 март 1917 г."
+            }
+          ]
+        },
+        {
+          "name": "Уорън Хардинг",
+          "description": "починал в длъжност",
+          "date": {
+            "range": [
+              "1921-03-04",
+              "1923-08-02"
+            ],
+            "from": {
+              "date": "1921-03-04"
+            },
+            "to": {
+              "date": "1923-08-02"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1921-03-04"
+              },
+              "to": {
+                "date": "1923-08-02"
+              },
+              "quote": "Уорън Хардинг, 29-и президент на САЩ (4 март 1921 – 2 август 1923)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1921-03-04"
+              },
+              "to": {
+                "date": "1923-08-02"
+              },
+              "quoteOriginal": "Warren G. Harding (29th president) served from March 4, 1921 until his death on August 2, 1923.",
+              "quote": "Уорън Хардинг (29-и президент) е на длъжност от 4 март 1921 г. до смъртта си на 2 август 1923 г."
+            }
+          ],
+          "comment": "Началната дата е встъпването в длъжност, крайната — денят на смъртта."
+        },
+        {
+          "name": "Калвин Кулидж",
+          "description": "наследил Хардинг",
+          "date": {
+            "range": [
+              "1923-08-02",
+              "1925-03-04"
+            ],
+            "from": {
+              "date": "1923-08-02"
+            },
+            "to": {
+              "date": "1925-03-04"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1923-08-02"
+              },
+              "to": {
+                "date": "1925-03-04"
+              },
+              "quote": "Калвин Кулидж, 30-и президент на САЩ, встъпва в длъжност на 2 август 1923 г. след смъртта на Хардинг"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1923-08-02"
+              },
+              "to": {
+                "date": "1925-03-04"
+              },
+              "quoteOriginal": "Calvin Coolidge (30th president) assumed office on August 2, 1923 following the death of Warren G. Harding.",
+              "quote": "Калвин Кулидж (30-и президент) встъпва в длъжност на 2 август 1923 г. след смъртта на Уорън Хардинг."
+            }
+          ],
+          "comment": "Началната дата е встъпването в длъжност след смъртта на Хардинг, крайната — инаугурацията за собствения му избран мандат."
+        },
+        {
+          "name": "Калвин Кулидж",
+          "description": "избран мандат",
+          "date": {
+            "range": [
+              "1925-03-04",
+              "1929-03-04"
+            ],
+            "from": {
+              "date": "1925-03-04"
+            },
+            "to": {
+              "date": "1929-03-04"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1925-03-04"
+              },
+              "to": {
+                "date": "1929-03-04"
+              },
+              "quote": "Калвин Кулидж, 30-и президент на САЩ, избран мандат (4 март 1925 – 4 март 1929)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1925-03-04"
+              },
+              "to": {
+                "date": "1929-03-04"
+              },
+              "quoteOriginal": "Calvin Coolidge was inaugurated for his own elected term on March 4, 1925.",
+              "quote": "Калвин Кулидж встъпва в длъжност за собствения си избран мандат на 4 март 1925 г."
+            }
+          ]
+        },
+        {
+          "name": "Хърбърт Хувър",
+          "date": {
+            "range": [
+              "1929-03-04",
+              "1933-03-04"
+            ],
+            "from": {
+              "date": "1929-03-04"
+            },
+            "to": {
+              "date": "1933-03-04"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1929-03-04"
+              },
+              "to": {
+                "date": "1933-03-04"
+              },
+              "quote": "Хърбърт Хувър, 31-ви президент на САЩ (4 март 1929 – 4 март 1933)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1929-03-04"
+              },
+              "to": {
+                "date": "1933-03-04"
+              },
+              "quoteOriginal": "Herbert Hoover (31st president) served from March 4, 1929 to March 4, 1933.",
+              "quote": "Хърбърт Хувър (31-ви президент) е на длъжност от 4 март 1929 г. до 4 март 1933 г."
+            }
+          ]
+        },
+        {
+          "name": "Франклин Рузвелт",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "1933-03-04",
+              "1937-01-20"
+            ],
+            "from": {
+              "date": "1933-03-04"
+            },
+            "to": {
+              "date": "1937-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1933-03-04"
+              },
+              "to": {
+                "date": "1937-01-20"
+              },
+              "quote": "Франклин Рузвелт, 32-ри президент на САЩ, 1-ви мандат (4 март 1933 – 20 януари 1937)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1933-03-04"
+              },
+              "to": {
+                "date": "1937-01-20"
+              },
+              "quoteOriginal": "Franklin D. Roosevelt (32nd president) was inaugurated for his first term on March 4, 1933.",
+              "quote": "Франклин Рузвелт (32-ри президент) встъпва в длъжност за първия си мандат на 4 март 1933 г."
+            }
+          ],
+          "comment": "Началната дата е встъпването в длъжност (4 март 1933), крайната — встъпването за 2-ри мандат (20 януари 1937, първият по 20-ата поправка)."
+        },
+        {
+          "name": "Франклин Рузвелт",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "1937-01-20",
+              "1941-01-20"
+            ],
+            "from": {
+              "date": "1937-01-20"
+            },
+            "to": {
+              "date": "1941-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1937-01-20"
+              },
+              "to": {
+                "date": "1941-01-20"
+              },
+              "quote": "Франклин Рузвелт, 32-ри президент на САЩ, 2-ри мандат (20 януари 1937 – 20 януари 1941)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1937-01-20"
+              },
+              "to": {
+                "date": "1941-01-20"
+              },
+              "quoteOriginal": "Franklin D. Roosevelt was inaugurated for his second term on January 20, 1937 — the first inauguration held on January 20 under the 20th Amendment.",
+              "quote": "Франклин Рузвелт встъпва в длъжност за втория си мандат на 20 януари 1937 г. — първата инаугурация на 20 януари съгласно 20-ата поправка."
+            }
+          ],
+          "comment": "Първата инаугурация, проведена на 20 януари, съгласно 20-ата поправка към Конституцията на САЩ."
+        },
+        {
+          "name": "Франклин Рузвелт",
+          "description": "3-ти мандат",
+          "date": {
+            "range": [
+              "1941-01-20",
+              "1945-01-20"
+            ],
+            "from": {
+              "date": "1941-01-20"
+            },
+            "to": {
+              "date": "1945-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1941-01-20"
+              },
+              "to": {
+                "date": "1945-01-20"
+              },
+              "quote": "Франклин Рузвелт, 32-ри президент на САЩ, 3-ти мандат (20 януари 1941 – 20 януари 1945)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1941-01-20"
+              },
+              "to": {
+                "date": "1945-01-20"
+              },
+              "quoteOriginal": "Franklin D. Roosevelt was inaugurated for an unprecedented third term on January 20, 1941.",
+              "quote": "Франклин Рузвелт встъпва в длъжност за безпрецедентен трети мандат на 20 януари 1941 г."
+            }
+          ],
+          "comment": "Рузвелт е единственият президент на САЩ, избран за повече от два мандата."
+        },
+        {
+          "name": "Франклин Рузвелт",
+          "description": "4-ти мандат, починал в длъжност",
+          "date": {
+            "range": [
+              "1945-01-20",
+              "1945-04-12"
+            ],
+            "from": {
+              "date": "1945-01-20"
+            },
+            "to": {
+              "date": "1945-04-12"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1945-01-20"
+              },
+              "to": {
+                "date": "1945-04-12"
+              },
+              "quote": "Франклин Рузвелт, 32-ри президент на САЩ, 4-ти мандат (20 януари 1945 – 12 април 1945), починал в длъжност"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1945-01-20"
+              },
+              "to": {
+                "date": "1945-04-12"
+              },
+              "quoteOriginal": "Franklin D. Roosevelt was inaugurated for his fourth term on January 20, 1945. He died in office on April 12, 1945.",
+              "quote": "Франклин Рузвелт встъпва в длъжност за четвъртия си мандат на 20 януари 1945 г. Умира на поста на 12 април 1945 г."
+            }
+          ],
+          "comment": "Началната дата е встъпването в длъжност за 4-ти мандат, крайната — денят на смъртта."
+        },
+        {
+          "name": "Хари Труман",
+          "description": "наследил Рузвелт",
+          "date": {
+            "range": [
+              "1945-04-12",
+              "1949-01-20"
+            ],
+            "from": {
+              "date": "1945-04-12"
+            },
+            "to": {
+              "date": "1949-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1945-04-12"
+              },
+              "to": {
+                "date": "1949-01-20"
+              },
+              "quote": "Хари Труман, 33-ти президент на САЩ, встъпва в длъжност на 12 април 1945 г. след смъртта на Рузвелт"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1945-04-12"
+              },
+              "to": {
+                "date": "1949-01-20"
+              },
+              "quoteOriginal": "Harry S. Truman (33rd president) assumed office on April 12, 1945 following the death of Franklin D. Roosevelt.",
+              "quote": "Хари Труман (33-ти президент) встъпва в длъжност на 12 април 1945 г. след смъртта на Франклин Рузвелт."
+            }
+          ],
+          "comment": "Началната дата е встъпването в длъжност след смъртта на Рузвелт, крайната — инаугурацията за собствения му избран мандат."
+        },
+        {
+          "name": "Хари Труман",
+          "description": "избран мандат",
+          "date": {
+            "range": [
+              "1949-01-20",
+              "1953-01-20"
+            ],
+            "from": {
+              "date": "1949-01-20"
+            },
+            "to": {
+              "date": "1953-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1949-01-20"
+              },
+              "to": {
+                "date": "1953-01-20"
+              },
+              "quote": "Хари Труман, 33-ти президент на САЩ, избран мандат (20 януари 1949 – 20 януари 1953)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1949-01-20"
+              },
+              "to": {
+                "date": "1953-01-20"
+              },
+              "quoteOriginal": "Harry S. Truman was inaugurated for his own elected term on January 20, 1949.",
+              "quote": "Хари Труман встъпва в длъжност за собствения си избран мандат на 20 януари 1949 г."
+            }
+          ]
+        },
+        {
+          "name": "Дуайт Айзенхауер",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "1953-01-20",
+              "1957-01-20"
+            ],
+            "from": {
+              "date": "1953-01-20"
+            },
+            "to": {
+              "date": "1957-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1953-01-20"
+              },
+              "to": {
+                "date": "1957-01-20"
+              },
+              "quote": "Дуайт Айзенхауер, 34-ти президент на САЩ, 1-ви мандат (20 януари 1953 – 20 януари 1957)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1953-01-20"
+              },
+              "to": {
+                "date": "1957-01-20"
+              },
+              "quoteOriginal": "Dwight D. Eisenhower (34th president) was inaugurated for his first term on January 20, 1953.",
+              "quote": "Дуайт Айзенхауер (34-ти президент) встъпва в длъжност за първия си мандат на 20 януари 1953 г."
+            }
+          ]
+        },
+        {
+          "name": "Дуайт Айзенхауер",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "1957-01-20",
+              "1961-01-20"
+            ],
+            "from": {
+              "date": "1957-01-20"
+            },
+            "to": {
+              "date": "1961-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1957-01-20"
+              },
+              "to": {
+                "date": "1961-01-20"
+              },
+              "quote": "Дуайт Айзенхауер, 34-ти президент на САЩ, 2-ри мандат (20 януари 1957 – 20 януари 1961)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1957-01-20"
+              },
+              "to": {
+                "date": "1961-01-20"
+              },
+              "quoteOriginal": "Dwight D. Eisenhower was inaugurated for his second term on January 21, 1957 (January 20 fell on a Sunday).",
+              "quote": "Дуайт Айзенхауер встъпва в длъжност за втория си мандат на 21 януари 1957 г. (20 януари е неделя)."
+            }
+          ],
+          "comment": "Конституционното начало на мандата е 20 януари 1957 г., но публичната церемония е на 21 януари, тъй като 20-и е неделя."
+        },
+        {
+          "name": "Джон Кенеди",
+          "description": "убит",
+          "date": {
+            "range": [
+              "1961-01-20",
+              "1963-11-22"
+            ],
+            "from": {
+              "date": "1961-01-20"
+            },
+            "to": {
+              "date": "1963-11-22"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1961-01-20"
+              },
+              "to": {
+                "date": "1963-11-22"
+              },
+              "quote": "Джон Кенеди, 35-и президент на САЩ (20 януари 1961 – 22 ноември 1963)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1961-01-20"
+              },
+              "to": {
+                "date": "1963-11-22"
+              },
+              "quoteOriginal": "John F. Kennedy (35th president) served from January 20, 1961 until his assassination on November 22, 1963.",
+              "quote": "Джон Кенеди (35-и президент) е на длъжност от 20 януари 1961 г. до убийството му на 22 ноември 1963 г."
+            }
+          ],
+          "comment": "Началната дата е встъпването в длъжност, крайната — денят на убийството."
+        },
+        {
+          "name": "Линдън Джонсън",
+          "description": "наследил Кенеди",
+          "date": {
+            "range": [
+              "1963-11-22",
+              "1965-01-20"
+            ],
+            "from": {
+              "date": "1963-11-22"
+            },
+            "to": {
+              "date": "1965-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1963-11-22"
+              },
+              "to": {
+                "date": "1965-01-20"
+              },
+              "quote": "Линдън Джонсън, 36-и президент на САЩ, встъпва в длъжност на 22 ноември 1963 г. след убийството на Кенеди"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1963-11-22"
+              },
+              "to": {
+                "date": "1965-01-20"
+              },
+              "quoteOriginal": "Lyndon B. Johnson (36th president) assumed office on November 22, 1963 following the assassination of John F. Kennedy.",
+              "quote": "Линдън Джонсън (36-и президент) встъпва в длъжност на 22 ноември 1963 г. след убийството на Джон Кенеди."
+            }
+          ],
+          "comment": "Началната дата е встъпването в длъжност след убийството на Кенеди, крайната — инаугурацията за собствения му избран мандат."
+        },
+        {
+          "name": "Линдън Джонсън",
+          "description": "избран мандат",
+          "date": {
+            "range": [
+              "1965-01-20",
+              "1969-01-20"
+            ],
+            "from": {
+              "date": "1965-01-20"
+            },
+            "to": {
+              "date": "1969-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1965-01-20"
+              },
+              "to": {
+                "date": "1969-01-20"
+              },
+              "quote": "Линдън Джонсън, 36-и президент на САЩ, избран мандат (20 януари 1965 – 20 януари 1969)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1965-01-20"
+              },
+              "to": {
+                "date": "1969-01-20"
+              },
+              "quoteOriginal": "Lyndon B. Johnson was inaugurated for his own elected term on January 20, 1965.",
+              "quote": "Линдън Джонсън встъпва в длъжност за собствения си избран мандат на 20 януари 1965 г."
+            }
+          ]
+        },
+        {
+          "name": "Ричард Никсън",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "1969-01-20",
+              "1973-01-20"
+            ],
+            "from": {
+              "date": "1969-01-20"
+            },
+            "to": {
+              "date": "1973-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1969-01-20"
+              },
+              "to": {
+                "date": "1973-01-20"
+              },
+              "quote": "Ричард Никсън, 37-и президент на САЩ, 1-ви мандат (20 януари 1969 – 20 януари 1973)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1969-01-20"
+              },
+              "to": {
+                "date": "1973-01-20"
+              },
+              "quoteOriginal": "Richard Nixon (37th president) was inaugurated for his first term on January 20, 1969.",
+              "quote": "Ричард Никсън (37-и президент) встъпва в длъжност за първия си мандат на 20 януари 1969 г."
+            }
+          ]
+        },
+        {
+          "name": "Ричард Никсън",
+          "description": "2-ри мандат, подал оставка",
+          "date": {
+            "range": [
+              "1973-01-20",
+              "1974-08-09"
+            ],
+            "from": {
+              "date": "1973-01-20"
+            },
+            "to": {
+              "date": "1974-08-09"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1973-01-20"
+              },
+              "to": {
+                "date": "1974-08-09"
+              },
+              "quote": "Ричард Никсън, 37-и президент на САЩ, 2-ри мандат (20 януари 1973 – 9 август 1974), подал оставка"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1973-01-20"
+              },
+              "to": {
+                "date": "1974-08-09"
+              },
+              "quoteOriginal": "Richard Nixon was inaugurated for his second term on January 20, 1973. He resigned on August 9, 1974.",
+              "quote": "Ричард Никсън встъпва в длъжност за втория си мандат на 20 януари 1973 г. Подава оставка на 9 август 1974 г."
+            }
+          ],
+          "comment": "Началната дата е встъпването в длъжност за 2-ри мандат, крайната — денят на оставката."
+        },
+        {
+          "name": "Джералд Форд",
+          "date": {
+            "range": [
+              "1974-08-09",
+              "1977-01-20"
+            ],
+            "from": {
+              "date": "1974-08-09"
+            },
+            "to": {
+              "date": "1977-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1974-08-09"
+              },
+              "to": {
+                "date": "1977-01-20"
+              },
+              "quote": "Джералд Форд, 38-и президент на САЩ (9 август 1974 – 20 януари 1977)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1974-08-09"
+              },
+              "to": {
+                "date": "1977-01-20"
+              },
+              "quoteOriginal": "Gerald Ford (38th president) served from August 9, 1974 to January 20, 1977.",
+              "quote": "Джералд Форд (38-и президент) е на длъжност от 9 август 1974 г. до 20 януари 1977 г."
+            }
+          ],
+          "comment": "Началната дата е встъпването в длъжност след оставката на Никсън. Форд не е избиран за президент.",
+          "description": "наследил Никсън"
+        },
+        {
+          "name": "Джими Картър",
+          "date": {
+            "range": [
+              "1977-01-20",
+              "1981-01-20"
+            ],
+            "from": {
+              "date": "1977-01-20"
+            },
+            "to": {
+              "date": "1981-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1977-01-20"
+              },
+              "to": {
+                "date": "1981-01-20"
+              },
+              "quote": "Джими Картър, 39-и президент на САЩ (20 януари 1977 – 20 януари 1981)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1977-01-20"
+              },
+              "to": {
+                "date": "1981-01-20"
+              },
+              "quoteOriginal": "Jimmy Carter (39th president) served from January 20, 1977 to January 20, 1981.",
+              "quote": "Джими Картър (39-и президент) е на длъжност от 20 януари 1977 г. до 20 януари 1981 г."
+            }
+          ]
+        },
+        {
+          "name": "Роналд Рейгън",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "1981-01-20",
+              "1985-01-20"
+            ],
+            "from": {
+              "date": "1981-01-20"
+            },
+            "to": {
+              "date": "1985-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1981-01-20"
+              },
+              "to": {
+                "date": "1985-01-20"
+              },
+              "quote": "Роналд Рейгън, 40-и президент на САЩ, 1-ви мандат (20 януари 1981 – 20 януари 1985)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1981-01-20"
+              },
+              "to": {
+                "date": "1985-01-20"
+              },
+              "quoteOriginal": "Ronald Reagan (40th president) was inaugurated for his first term on January 20, 1981.",
+              "quote": "Роналд Рейгън (40-и президент) встъпва в длъжност за първия си мандат на 20 януари 1981 г."
+            }
+          ]
+        },
+        {
+          "name": "Роналд Рейгън",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "1985-01-20",
+              "1989-01-20"
+            ],
+            "from": {
+              "date": "1985-01-20"
+            },
+            "to": {
+              "date": "1989-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1985-01-20"
+              },
+              "to": {
+                "date": "1989-01-20"
+              },
+              "quote": "Роналд Рейгън, 40-и президент на САЩ, 2-ри мандат (20 януари 1985 – 20 януари 1989)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1985-01-20"
+              },
+              "to": {
+                "date": "1989-01-20"
+              },
+              "quoteOriginal": "Ronald Reagan was inaugurated for his second term on January 21, 1985 (January 20 fell on a Sunday).",
+              "quote": "Роналд Рейгън встъпва в длъжност за втория си мандат на 21 януари 1985 г. (20 януари е неделя)."
+            }
+          ],
+          "comment": "Конституционното начало на мандата е 20 януари 1985 г., но публичната церемония е на 21 януари, тъй като 20-и е неделя."
+        },
+        {
+          "name": "Джордж Х. У. Буш",
+          "date": {
+            "range": [
+              "1989-01-20",
+              "1993-01-20"
+            ],
+            "from": {
+              "date": "1989-01-20"
+            },
+            "to": {
+              "date": "1993-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1989-01-20"
+              },
+              "to": {
+                "date": "1993-01-20"
+              },
+              "quote": "Джордж Х. У. Буш, 41-ви президент на САЩ (20 януари 1989 – 20 януари 1993)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1989-01-20"
+              },
+              "to": {
+                "date": "1993-01-20"
+              },
+              "quoteOriginal": "George H. W. Bush (41st president) served from January 20, 1989 to January 20, 1993.",
+              "quote": "Джордж Х. У. Буш (41-ви президент) е на длъжност от 20 януари 1989 г. до 20 януари 1993 г."
+            }
+          ]
+        },
+        {
+          "name": "Бил Клинтън",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "1993-01-20",
+              "1997-01-20"
+            ],
+            "from": {
+              "date": "1993-01-20"
+            },
+            "to": {
+              "date": "1997-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1993-01-20"
+              },
+              "to": {
+                "date": "1997-01-20"
+              },
+              "quote": "Бил Клинтън, 42-ри президент на САЩ, 1-ви мандат (20 януари 1993 – 20 януари 1997)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1993-01-20"
+              },
+              "to": {
+                "date": "1997-01-20"
+              },
+              "quoteOriginal": "Bill Clinton (42nd president) was inaugurated for his first term on January 20, 1993.",
+              "quote": "Бил Клинтън (42-ри президент) встъпва в длъжност за първия си мандат на 20 януари 1993 г."
+            }
+          ]
+        },
+        {
+          "name": "Бил Клинтън",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "1997-01-20",
+              "2001-01-20"
+            ],
+            "from": {
+              "date": "1997-01-20"
+            },
+            "to": {
+              "date": "2001-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "1997-01-20"
+              },
+              "to": {
+                "date": "2001-01-20"
+              },
+              "quote": "Бил Клинтън, 42-ри президент на САЩ, 2-ри мандат (20 януари 1997 – 20 януари 2001)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "1997-01-20"
+              },
+              "to": {
+                "date": "2001-01-20"
+              },
+              "quoteOriginal": "Bill Clinton was inaugurated for his second term on January 20, 1997.",
+              "quote": "Бил Клинтън встъпва в длъжност за втория си мандат на 20 януари 1997 г."
+            }
+          ]
+        },
+        {
+          "name": "Джордж У. Буш",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "2001-01-20",
+              "2005-01-20"
+            ],
+            "from": {
+              "date": "2001-01-20"
+            },
+            "to": {
+              "date": "2005-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "2001-01-20"
+              },
+              "to": {
+                "date": "2005-01-20"
+              },
+              "quote": "Джордж У. Буш, 43-ти президент на САЩ, 1-ви мандат (20 януари 2001 – 20 януари 2005)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "2001-01-20"
+              },
+              "to": {
+                "date": "2005-01-20"
+              },
+              "quoteOriginal": "George W. Bush (43rd president) was inaugurated for his first term on January 20, 2001.",
+              "quote": "Джордж У. Буш (43-ти президент) встъпва в длъжност за първия си мандат на 20 януари 2001 г."
+            }
+          ]
+        },
+        {
+          "name": "Джордж У. Буш",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "2005-01-20",
+              "2009-01-20"
+            ],
+            "from": {
+              "date": "2005-01-20"
+            },
+            "to": {
+              "date": "2009-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "2005-01-20"
+              },
+              "to": {
+                "date": "2009-01-20"
+              },
+              "quote": "Джордж У. Буш, 43-ти президент на САЩ, 2-ри мандат (20 януари 2005 – 20 януари 2009)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "2005-01-20"
+              },
+              "to": {
+                "date": "2009-01-20"
+              },
+              "quoteOriginal": "George W. Bush was inaugurated for his second term on January 20, 2005.",
+              "quote": "Джордж У. Буш встъпва в длъжност за втория си мандат на 20 януари 2005 г."
+            }
+          ]
+        },
+        {
+          "name": "Барак Обама",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "2009-01-20",
+              "2013-01-20"
+            ],
+            "from": {
+              "date": "2009-01-20"
+            },
+            "to": {
+              "date": "2013-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "2009-01-20"
+              },
+              "to": {
+                "date": "2013-01-20"
+              },
+              "quote": "Барак Обама, 44-ти президент на САЩ, 1-ви мандат (20 януари 2009 – 20 януари 2013)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "2009-01-20"
+              },
+              "to": {
+                "date": "2013-01-20"
+              },
+              "quoteOriginal": "Barack Obama (44th president) was inaugurated for his first term on January 20, 2009.",
+              "quote": "Барак Обама (44-ти президент) встъпва в длъжност за първия си мандат на 20 януари 2009 г."
+            }
+          ]
+        },
+        {
+          "name": "Барак Обама",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "2013-01-20",
+              "2017-01-20"
+            ],
+            "from": {
+              "date": "2013-01-20"
+            },
+            "to": {
+              "date": "2017-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "2013-01-20"
+              },
+              "to": {
+                "date": "2017-01-20"
+              },
+              "quote": "Барак Обама, 44-ти президент на САЩ, 2-ри мандат (20 януари 2013 – 20 януари 2017)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "2013-01-20"
+              },
+              "to": {
+                "date": "2017-01-20"
+              },
+              "quoteOriginal": "Barack Obama was inaugurated for his second term on January 21, 2013 (January 20 fell on a Sunday).",
+              "quote": "Барак Обама встъпва в длъжност за втория си мандат на 21 януари 2013 г. (20 януари е неделя)."
+            }
+          ],
+          "comment": "Конституционното начало на мандата е 20 януари 2013 г., но публичната церемония е на 21 януари, тъй като 20-и е неделя."
+        },
+        {
+          "name": "Доналд Тръмп",
+          "description": "1-ви мандат",
+          "date": {
+            "range": [
+              "2017-01-20",
+              "2021-01-20"
+            ],
+            "from": {
+              "date": "2017-01-20"
+            },
+            "to": {
+              "date": "2021-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "2017-01-20"
+              },
+              "to": {
+                "date": "2021-01-20"
+              },
+              "quote": "Доналд Тръмп, 45-и президент на САЩ (20 януари 2017 – 20 януари 2021)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "2017-01-20"
+              },
+              "to": {
+                "date": "2021-01-20"
+              },
+              "quoteOriginal": "Donald Trump (45th president) served from January 20, 2017 to January 20, 2021.",
+              "quote": "Доналд Тръмп (45-и президент) е на длъжност от 20 януари 2017 г. до 20 януари 2021 г."
+            }
+          ]
+        },
+        {
+          "name": "Джо Байдън",
+          "date": {
+            "range": [
+              "2021-01-20",
+              "2025-01-20"
+            ],
+            "from": {
+              "date": "2021-01-20"
+            },
+            "to": {
+              "date": "2025-01-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "2021-01-20"
+              },
+              "to": {
+                "date": "2025-01-20"
+              },
+              "quote": "Джо Байдън, 46-и президент на САЩ (20 януари 2021 – 20 януари 2025)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "2021-01-20"
+              },
+              "to": {
+                "date": "2025-01-20"
+              },
+              "quoteOriginal": "Joe Biden (46th president) served from January 20, 2021 to January 20, 2025.",
+              "quote": "Джо Байдън (46-и президент) е на длъжност от 20 януари 2021 г. до 20 януари 2025 г."
+            }
+          ]
+        },
+        {
+          "name": "Доналд Тръмп",
+          "description": "2-ри мандат",
+          "date": {
+            "range": [
+              "2025-01-20",
+              "2029-01-20"
+            ],
+            "from": {
+              "date": "2025-01-20"
+            },
+            "to": {
+              "dateYear": 2029,
+              "dateMonth": 1
+            }
+          },
+          "sources": [
+            {
+              "name": "Списък на президентите на САЩ – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%82%D0%B5_%D0%BD%D0%B0_%D0%A1%D0%90%D0%A9"
+              ],
+              "from": {
+                "date": "2025-01-20"
+              },
+              "quote": "Доналд Тръмп, 47-и президент на САЩ (от 20 януари 2025)"
+            },
+            {
+              "name": "List of presidents of the United States – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States"
+              ],
+              "from": {
+                "date": "2025-01-20"
+              },
+              "quoteOriginal": "Donald Trump (47th president) took office on January 20, 2025.",
+              "quote": "Доналд Тръмп (47-и президент) встъпва в длъжност на 20 януари 2025 г."
+            }
+          ],
+          "comment": "Началната дата е встъпването в длъжност. Мандатът е в ход."
+        }
+      ]
+    },
+    {
+      "name": "Председател",
+      "id": "f95a123e-0ba4-4f4b-8e33-12f6199e9990",
+      "periods": [
+        {
+          "name": "Хастингс Исмей",
+          "date": {
+            "range": [
+              "1952-04-04",
+              "1957-05-16"
+            ],
+            "from": {
+              "date": "1952-04-04"
+            },
+            "to": {
+              "date": "1957-05-16"
+            }
+          },
+          "sources": [
+            {
+              "name": "Генерален секретар на НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B5%D0%BD_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80_%D0%BD%D0%B0_%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1952-04-04"
+              },
+              "to": {
+                "date": "1957-05-16"
+              },
+              "quote": "Хастингс Исмей: 4 април 1952 – 16 май 1957."
+            },
+            {
+              "name": "Secretary General of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Secretary_General_of_NATO"
+              ],
+              "from": {
+                "date": "1952-04-04"
+              },
+              "to": {
+                "date": "1957-05-16"
+              },
+              "quoteOriginal": "Hastings Ismay, 1st Baron Ismay, served as the 1st Secretary General of NATO from 4 April 1952 to 16 May 1957.",
+              "quote": "Хастингс Исмей, 1-ви барон Исмей, е 1-ви генерален секретар на НАТО от 4 април 1952 до 16 май 1957 г."
+            }
+          ],
+          "flag": "GB",
+          "description": "1-ви генерален секретар на НАТО (1952–1957). Британски генерал от Втората световна война.",
+          "comment": "Длъжността генерален секретар е създадена на конференцията в Лисабон през 1952 г. Исмей встъпва в длъжност на 4 април 1952 г."
+        },
+        {
+          "name": "Пол-Анри Спаак",
+          "date": {
+            "range": [
+              "1957-05-16",
+              "1961-04-21"
+            ],
+            "from": {
+              "date": "1957-05-16"
+            },
+            "to": {
+              "date": "1961-04-21"
+            }
+          },
+          "sources": [
+            {
+              "name": "Генерален секретар на НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B5%D0%BD_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80_%D0%BD%D0%B0_%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1957-05-16"
+              },
+              "to": {
+                "date": "1961-04-21"
+              },
+              "quote": "Пол-Анри Спаак: 16 май 1957 – 21 април 1961."
+            },
+            {
+              "name": "Secretary General of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Secretary_General_of_NATO"
+              ],
+              "from": {
+                "date": "1957-05-16"
+              },
+              "to": {
+                "date": "1961-04-21"
+              },
+              "quoteOriginal": "Paul-Henri Spaak served as the 2nd Secretary General of NATO from 16 May 1957 to 21 April 1961.",
+              "quote": "Пол-Анри Спаак е 2-ри генерален секретар на НАТО от 16 май 1957 до 21 април 1961 г."
+            }
+          ],
+          "flag": "BE",
+          "description": "2-ри генерален секретар на НАТО (1957–1961). Белгийски дипломат и бивш министър-председател на Белгия."
+        },
+        {
+          "name": "Дирк Стикер",
+          "date": {
+            "range": [
+              "1961-04-21",
+              "1964-08-01"
+            ],
+            "from": {
+              "date": "1961-04-21"
+            },
+            "to": {
+              "dateYear": 1964,
+              "dateMonth": 8
+            }
+          },
+          "sources": [
+            {
+              "name": "Генерален секретар на НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B5%D0%BD_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80_%D0%BD%D0%B0_%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1961-04-21"
+              },
+              "to": {
+                "dateYear": 1964,
+                "dateMonth": 8
+              },
+              "quote": "Дирк Стикер: 21 април 1961 – 1 август 1964."
+            },
+            {
+              "name": "Secretary General of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Secretary_General_of_NATO"
+              ],
+              "from": {
+                "date": "1961-04-21"
+              },
+              "to": {
+                "dateYear": 1964,
+                "dateMonth": 8
+              },
+              "quoteOriginal": "Dirk Stikker served as the 3rd Secretary General of NATO from 21 April 1961 to 1 August 1964.",
+              "quote": "Дирк Стикер е 3-ти генерален секретар на НАТО от 21 април 1961 до 1 август 1964 г."
+            }
+          ],
+          "flag": "NL",
+          "description": "3-ти генерален секретар на НАТО (1961–1964). Нидерландски дипломат и бивш министър на външните работи."
+        },
+        {
+          "name": "Манлио Брозио",
+          "date": {
+            "range": [
+              "1964-08-01",
+              "1971-10-01"
+            ],
+            "from": {
+              "dateYear": 1964,
+              "dateMonth": 8
+            },
+            "to": {
+              "dateYear": 1971,
+              "dateMonth": 10
+            }
+          },
+          "sources": [
+            {
+              "name": "Генерален секретар на НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B5%D0%BD_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80_%D0%BD%D0%B0_%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "dateYear": 1964,
+                "dateMonth": 8
+              },
+              "to": {
+                "dateYear": 1971,
+                "dateMonth": 10
+              },
+              "quote": "Манлио Брозио: 1 август 1964 – 1 октомври 1971."
+            },
+            {
+              "name": "Secretary General of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Secretary_General_of_NATO"
+              ],
+              "from": {
+                "dateYear": 1964,
+                "dateMonth": 8
+              },
+              "to": {
+                "dateYear": 1971,
+                "dateMonth": 10
+              },
+              "quoteOriginal": "Manlio Brosio served as the 4th Secretary General of NATO from 1 August 1964 to 1 October 1971.",
+              "quote": "Манлио Брозио е 4-ти генерален секретар на НАТО от 1 август 1964 до 1 октомври 1971 г."
+            }
+          ],
+          "flag": "IT",
+          "description": "4-ти генерален секретар на НАТО (1964–1971). Италиански дипломат, бивш посланик във Великобритания."
+        },
+        {
+          "name": "Йозеф Лунс",
+          "date": {
+            "range": [
+              "1971-10-01",
+              "1984-06-25"
+            ],
+            "from": {
+              "dateYear": 1971,
+              "dateMonth": 10
+            },
+            "to": {
+              "date": "1984-06-25"
+            }
+          },
+          "sources": [
+            {
+              "name": "Генерален секретар на НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B5%D0%BD_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80_%D0%BD%D0%B0_%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "dateYear": 1971,
+                "dateMonth": 10
+              },
+              "to": {
+                "date": "1984-06-25"
+              },
+              "quote": "Йозеф Лунс: 1 октомври 1971 – 25 юни 1984."
+            },
+            {
+              "name": "Secretary General of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Secretary_General_of_NATO"
+              ],
+              "from": {
+                "dateYear": 1971,
+                "dateMonth": 10
+              },
+              "to": {
+                "date": "1984-06-25"
+              },
+              "quoteOriginal": "Joseph Luns served as the 5th Secretary General of NATO from 1 October 1971 to 25 June 1984.",
+              "quote": "Йозеф Лунс е 5-и генерален секретар на НАТО от 1 октомври 1971 до 25 юни 1984 г."
+            }
+          ],
+          "flag": "NL",
+          "description": "5-и генерален секретар на НАТО (1971–1984). Нидерландски дипломат и бивш министър на външните работи.",
+          "comment": "Най-дългият мандат сред генералните секретари на НАТО — близо 13 години. Мандат: 1 октомври 1971 – 25 юни 1984 г."
+        },
+        {
+          "name": "Питър Карингтън",
+          "date": {
+            "range": [
+              "1984-06-25",
+              "1988-07-01"
+            ],
+            "from": {
+              "date": "1984-06-25"
+            },
+            "to": {
+              "dateYear": 1988,
+              "dateMonth": 7
+            }
+          },
+          "sources": [
+            {
+              "name": "Генерален секретар на НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B5%D0%BD_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80_%D0%BD%D0%B0_%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1984-06-25"
+              },
+              "to": {
+                "dateYear": 1988,
+                "dateMonth": 7
+              },
+              "quote": "Питър Карингтън: 25 юни 1984 – 1 юли 1988."
+            },
+            {
+              "name": "Secretary General of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Secretary_General_of_NATO"
+              ],
+              "from": {
+                "date": "1984-06-25"
+              },
+              "to": {
+                "dateYear": 1988,
+                "dateMonth": 7
+              },
+              "quoteOriginal": "Peter Carington, 6th Baron Carrington, served as the 6th Secretary General of NATO from 25 June 1984 to 1 July 1988.",
+              "quote": "Питър Карингтън, 6-и барон Карингтън, е 6-и генерален секретар на НАТО от 25 юни 1984 до 1 юли 1988 г."
+            }
+          ],
+          "flag": "GB",
+          "description": "6-и генерален секретар на НАТО (1984–1988). Британски политик, бивш министър на външните работи на Великобритания."
+        },
+        {
+          "name": "Манфред Вьорнер",
+          "date": {
+            "range": [
+              "1988-07-01",
+              "1994-08-13"
+            ],
+            "from": {
+              "dateYear": 1988,
+              "dateMonth": 7
+            },
+            "to": {
+              "date": "1994-08-13"
+            }
+          },
+          "sources": [
+            {
+              "name": "Генерален секретар на НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B5%D0%BD_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80_%D0%BD%D0%B0_%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "dateYear": 1988,
+                "dateMonth": 7
+              },
+              "to": {
+                "date": "1994-08-13"
+              },
+              "quote": "Манфред Вьорнер: 1 юли 1988 – 13 август 1994."
+            },
+            {
+              "name": "Secretary General of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Secretary_General_of_NATO"
+              ],
+              "from": {
+                "dateYear": 1988,
+                "dateMonth": 7
+              },
+              "to": {
+                "date": "1994-08-13"
+              },
+              "quoteOriginal": "Manfred Wörner served as the 7th Secretary General of NATO from 1 July 1988 until his death on 13 August 1994.",
+              "quote": "Манфред Вьорнер е 7-и генерален секретар на НАТО от 1 юли 1988 до смъртта си на 13 август 1994 г."
+            }
+          ],
+          "flag": "DE",
+          "description": "7-и генерален секретар на НАТО (1988–1994). Германски политик, бивш министър на отбраната. Умира по време на мандата си.",
+          "comment": "Вьорнер е единственият генерален секретар на НАТО, починал по време на мандата си. Мандат: 1 юли 1988 – 13 август 1994 г."
+        },
+        {
+          "name": "Вили Клас",
+          "date": {
+            "range": [
+              "1994-10-17",
+              "1995-10-20"
+            ],
+            "from": {
+              "date": "1994-10-17"
+            },
+            "to": {
+              "date": "1995-10-20"
+            }
+          },
+          "sources": [
+            {
+              "name": "Генерален секретар на НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B5%D0%BD_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80_%D0%BD%D0%B0_%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1994-10-17"
+              },
+              "to": {
+                "date": "1995-10-20"
+              },
+              "quote": "Вили Клас: 17 октомври 1994 – 20 октомври 1995."
+            },
+            {
+              "name": "Secretary General of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Secretary_General_of_NATO"
+              ],
+              "from": {
+                "date": "1994-10-17"
+              },
+              "to": {
+                "date": "1995-10-20"
+              },
+              "quoteOriginal": "Willy Claes served as the 8th Secretary General of NATO from 17 October 1994 to 20 October 1995.",
+              "quote": "Вили Клас е 8-и генерален секретар на НАТО от 17 октомври 1994 до 20 октомври 1995 г."
+            }
+          ],
+          "flag": "BE",
+          "description": "8-и генерален секретар на НАТО (1994–1995). Белгийски политик, бивш министър на външните работи. Подава оставка след една година.",
+          "comment": "Най-краткият мандат сред генералните секретари на НАТО. Клас подава оставка заради корупционен скандал. Мандат: 17 октомври 1994 – 20 октомври 1995 г."
+        },
+        {
+          "name": "Хавиер Солана",
+          "date": {
+            "range": [
+              "1995-12-05",
+              "1999-10-06"
+            ],
+            "from": {
+              "date": "1995-12-05"
+            },
+            "to": {
+              "date": "1999-10-06"
+            }
+          },
+          "sources": [
+            {
+              "name": "Генерален секретар на НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B5%D0%BD_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80_%D0%BD%D0%B0_%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1995-12-05"
+              },
+              "to": {
+                "date": "1999-10-06"
+              },
+              "quote": "Хавиер Солана: 5 декември 1995 – 6 октомври 1999."
+            },
+            {
+              "name": "Secretary General of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Secretary_General_of_NATO"
+              ],
+              "from": {
+                "date": "1995-12-05"
+              },
+              "to": {
+                "date": "1999-10-06"
+              },
+              "quoteOriginal": "Javier Solana served as the 9th Secretary General of NATO from 5 December 1995 to 6 October 1999.",
+              "quote": "Хавиер Солана е 9-и генерален секретар на НАТО от 5 декември 1995 до 6 октомври 1999 г."
+            }
+          ],
+          "flag": "ES",
+          "description": "9-и генерален секретар на НАТО (1995–1999). Испански политик, бивш министър на външните работи.",
+          "comment": "Ръководи НАТО по време на операциите в Босна и Косово. Мандат: 5 декември 1995 – 6 октомври 1999 г."
+        },
+        {
+          "name": "Джордж Робъртсън",
+          "date": {
+            "range": [
+              "1999-10-14",
+              "2003-12-17"
+            ],
+            "from": {
+              "date": "1999-10-14"
+            },
+            "to": {
+              "date": "2003-12-17"
+            }
+          },
+          "sources": [
+            {
+              "name": "Генерален секретар на НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B5%D0%BD_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80_%D0%BD%D0%B0_%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1999-10-14"
+              },
+              "to": {
+                "date": "2003-12-17"
+              },
+              "quote": "Джордж Робъртсън: 14 октомври 1999 – 17 декември 2003."
+            },
+            {
+              "name": "Secretary General of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Secretary_General_of_NATO"
+              ],
+              "from": {
+                "date": "1999-10-14"
+              },
+              "to": {
+                "date": "2003-12-17"
+              },
+              "quoteOriginal": "George Robertson, Baron Robertson of Port Ellen, served as the 10th Secretary General of NATO from 14 October 1999 to 17 December 2003.",
+              "quote": "Джордж Робъртсън е 10-и генерален секретар на НАТО от 14 октомври 1999 до 17 декември 2003 г."
+            }
+          ],
+          "flag": "GB",
+          "description": "10-и генерален секретар на НАТО (1999–2003). Британски политик, бивш министър на отбраната.",
+          "comment": "Ръководи НАТО след атаките от 11 септември 2001 г. и при първото задействане на член 5. Мандат: 14 октомври 1999 – 17 декември 2003 г."
+        },
+        {
+          "name": "Яп де Хоп Схефер",
+          "date": {
+            "range": [
+              "2004-01-01",
+              "2009-08-01"
+            ],
+            "from": {
+              "dateYear": 2004
+            },
+            "to": {
+              "dateYear": 2009,
+              "dateMonth": 8
+            }
+          },
+          "sources": [
+            {
+              "name": "Генерален секретар на НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B5%D0%BD_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80_%D0%BD%D0%B0_%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "dateYear": 2004
+              },
+              "to": {
+                "dateYear": 2009,
+                "dateMonth": 8
+              },
+              "quote": "Яп де Хоп Схефер: 1 януари 2004 – 1 август 2009."
+            },
+            {
+              "name": "Secretary General of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Secretary_General_of_NATO"
+              ],
+              "from": {
+                "dateYear": 2004
+              },
+              "to": {
+                "dateYear": 2009,
+                "dateMonth": 8
+              },
+              "quoteOriginal": "Jaap de Hoop Scheffer served as the 11th Secretary General of NATO from 1 January 2004 to 1 August 2009.",
+              "quote": "Яп де Хоп Схефер е 11-и генерален секретар на НАТО от 1 януари 2004 до 1 август 2009 г."
+            }
+          ],
+          "flag": "NL",
+          "description": "11-и генерален секретар на НАТО (2004–2009). Нидерландски политик, бивш министър на външните работи.",
+          "comment": "По време на мандата му НАТО приема 7 нови членки (2004) и 2 нови (2009). Мандат: 1 януари 2004 – 1 август 2009 г."
+        },
+        {
+          "name": "Андерс Фог Расмусен",
+          "date": {
+            "range": [
+              "2009-08-01",
+              "2014-10-01"
+            ],
+            "from": {
+              "dateYear": 2009,
+              "dateMonth": 8
+            },
+            "to": {
+              "dateYear": 2014,
+              "dateMonth": 10
+            }
+          },
+          "sources": [
+            {
+              "name": "Генерален секретар на НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B5%D0%BD_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80_%D0%BD%D0%B0_%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "dateYear": 2009,
+                "dateMonth": 8
+              },
+              "to": {
+                "dateYear": 2014,
+                "dateMonth": 10
+              },
+              "quote": "Андерс Фог Расмусен: 1 август 2009 – 1 октомври 2014."
+            },
+            {
+              "name": "Secretary General of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Secretary_General_of_NATO"
+              ],
+              "from": {
+                "dateYear": 2009,
+                "dateMonth": 8
+              },
+              "to": {
+                "dateYear": 2014,
+                "dateMonth": 10
+              },
+              "quoteOriginal": "Anders Fogh Rasmussen served as the 12th Secretary General of NATO from 1 August 2009 to 1 October 2014.",
+              "quote": "Андерс Фог Расмусен е 12-и генерален секретар на НАТО от 1 август 2009 до 1 октомври 2014 г."
+            }
+          ],
+          "flag": "DK",
+          "description": "12-и генерален секретар на НАТО (2009–2014). Датски политик, бивш министър-председател на Дания."
+        },
+        {
+          "name": "Йенс Столтенберг",
+          "date": {
+            "range": [
+              "2014-10-01",
+              "2024-10-01"
+            ],
+            "from": {
+              "dateYear": 2014,
+              "dateMonth": 10
+            },
+            "to": {
+              "dateYear": 2024,
+              "dateMonth": 10
+            }
+          },
+          "sources": [
+            {
+              "name": "Генерален секретар на НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B5%D0%BD_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80_%D0%BD%D0%B0_%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "dateYear": 2014,
+                "dateMonth": 10
+              },
+              "to": {
+                "dateYear": 2024,
+                "dateMonth": 10
+              },
+              "quote": "Йенс Столтенберг: 1 октомври 2014 – 1 октомври 2024."
+            },
+            {
+              "name": "Secretary General of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Secretary_General_of_NATO"
+              ],
+              "from": {
+                "dateYear": 2014,
+                "dateMonth": 10
+              },
+              "to": {
+                "dateYear": 2024,
+                "dateMonth": 10
+              },
+              "quoteOriginal": "Jens Stoltenberg served as the 13th Secretary General of NATO from 1 October 2014 to 1 October 2024.",
+              "quote": "Йенс Столтенберг е 13-и генерален секретар на НАТО от 1 октомври 2014 до 1 октомври 2024 г."
+            }
+          ],
+          "flag": "NO",
+          "description": "13-и генерален секретар на НАТО (2014–2024). Норвежки политик, бивш министър-председател на Норвегия.",
+          "comment": "Ръководи НАТО по време на руската инвазия в Украйна (2022). Мандатът му е удължаван многократно. Мандат: 1 октомври 2014 – 1 октомври 2024 г."
+        },
+        {
+          "name": "Марк Рюте",
+          "date": {
+            "range": [
+              "2024-10-01",
+              "2028-10-01"
+            ],
+            "from": {
+              "dateYear": 2024,
+              "dateMonth": 10
+            },
+            "to": {
+              "dateYear": 2028,
+              "dateMonth": 10
+            }
+          },
+          "sources": [
+            {
+              "name": "Генерален секретар на НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B5%D0%BD_%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%B0%D1%80_%D0%BD%D0%B0_%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "dateYear": 2024,
+                "dateMonth": 10
+              },
+              "to": {
+                "dateYear": 2028,
+                "dateMonth": 10
+              },
+              "quote": "Марк Рюте: от 1 октомври 2024."
+            },
+            {
+              "name": "Secretary General of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Secretary_General_of_NATO"
+              ],
+              "from": {
+                "dateYear": 2024,
+                "dateMonth": 10
+              },
+              "to": {
+                "dateYear": 2028,
+                "dateMonth": 10
+              },
+              "quoteOriginal": "Mark Rutte took office as the 14th Secretary General of NATO on 1 October 2024.",
+              "quote": "Марк Рюте встъпва в длъжност като 14-и генерален секретар на НАТО на 1 октомври 2024 г."
+            }
+          ],
+          "flag": "NL",
+          "description": "14-и генерален секретар на НАТО (от 2024 г.). Нидерландски политик, бивш министър-председател на Нидерландия."
+        }
+      ]
+    },
+    {
+      "name": "Белгия",
+      "id": "a41cdd7f-9b84-4981-8217-ced4fa4eaa44",
+      "periods": [
+        {
+          "name": "Белгия",
+          "date": {
+            "range": [
+              "1949-08-24",
+              null
+            ],
+            "from": {
+              "date": "1949-08-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quote": "Северноатлантическият договор е подписан на 4 април 1949 г. във Вашингтон."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quoteOriginal": "Belgium was a founding member of NATO. The North Atlantic Treaty was signed on 4 April 1949 and entered into force on 24 August 1949.",
+              "quote": "Белгия е държава-учредителка на НАТО. Северноатлантическият договор е подписан на 4 април 1949 г. и влиза в сила на 24 август 1949 г."
+            }
+          ],
+          "flag": "BE",
+          "description": "Държава-учредителка на НАТО. Подписва Северноатлантическия договор на 4 април 1949 г."
+        }
+      ]
+    },
+    {
+      "name": "Великобритания",
+      "id": "0b980048-810f-42d8-9d17-4e7f25e23112",
+      "periods": [
+        {
+          "name": "Великобритания",
+          "date": {
+            "range": [
+              "1949-08-24",
+              null
+            ],
+            "from": {
+              "date": "1949-08-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quote": "Северноатлантическият договор е подписан на 4 април 1949 г. във Вашингтон."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quoteOriginal": "The United Kingdom was a founding member of NATO. The North Atlantic Treaty entered into force on 24 August 1949.",
+              "quote": "Обединеното кралство е държава-учредителка на НАТО. Северноатлантическият договор влиза в сила на 24 август 1949 г."
+            }
+          ],
+          "flag": "GB",
+          "description": "Държава-учредителка на НАТО. Подписва Северноатлантическия договор на 4 април 1949 г."
+        }
+      ]
+    },
+    {
+      "name": "Дания",
+      "id": "958b95a0-a458-4f54-a81a-d56714459e3b",
+      "periods": [
+        {
+          "name": "Дания",
+          "date": {
+            "range": [
+              "1949-08-24",
+              null
+            ],
+            "from": {
+              "date": "1949-08-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quote": "Северноатлантическият договор е подписан на 4 април 1949 г. във Вашингтон."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quoteOriginal": "Denmark was a founding member of NATO. The North Atlantic Treaty entered into force on 24 August 1949.",
+              "quote": "Дания е държава-учредителка на НАТО. Северноатлантическият договор влиза в сила на 24 август 1949 г."
+            }
+          ],
+          "flag": "DK",
+          "description": "Държава-учредителка на НАТО. Подписва Северноатлантическия договор на 4 април 1949 г."
+        }
+      ]
+    },
+    {
+      "name": "Исландия",
+      "id": "0bfdf21e-1523-44bc-a5df-265143eeaa28",
+      "periods": [
+        {
+          "name": "Исландия",
+          "date": {
+            "range": [
+              "1949-08-24",
+              null
+            ],
+            "from": {
+              "date": "1949-08-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quote": "Северноатлантическият договор е подписан на 4 април 1949 г. във Вашингтон."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quoteOriginal": "Iceland was a founding member of NATO. The North Atlantic Treaty entered into force on 24 August 1949.",
+              "quote": "Исландия е държава-учредителка на НАТО. Северноатлантическият договор влиза в сила на 24 август 1949 г."
+            }
+          ],
+          "flag": "IS",
+          "description": "Държава-учредителка на НАТО. Подписва Северноатлантическия договор на 4 април 1949 г. Единственият член на НАТО без собствена армия."
+        }
+      ]
+    },
+    {
+      "name": "Италия",
+      "id": "932f189b-b972-4970-a3f8-34b26b5a3a9a",
+      "periods": [
+        {
+          "name": "Италия",
+          "date": {
+            "range": [
+              "1949-08-24",
+              null
+            ],
+            "from": {
+              "date": "1949-08-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quote": "Северноатлантическият договор е подписан на 4 април 1949 г. във Вашингтон."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quoteOriginal": "Italy was a founding member of NATO. The North Atlantic Treaty entered into force on 24 August 1949.",
+              "quote": "Италия е държава-учредителка на НАТО. Северноатлантическият договор влиза в сила на 24 август 1949 г."
+            }
+          ],
+          "flag": "IT",
+          "description": "Държава-учредителка на НАТО. Подписва Северноатлантическия договор на 4 април 1949 г."
+        }
+      ]
+    },
+    {
+      "name": "Канада",
+      "id": "b0d0b1be-d049-4e67-ad4f-e4d627e65a6c",
+      "periods": [
+        {
+          "name": "Канада",
+          "date": {
+            "range": [
+              "1949-08-24",
+              null
+            ],
+            "from": {
+              "date": "1949-08-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quote": "Северноатлантическият договор е подписан на 4 април 1949 г. във Вашингтон."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quoteOriginal": "Canada was a founding member of NATO. The North Atlantic Treaty entered into force on 24 August 1949.",
+              "quote": "Канада е държава-учредителка на НАТО. Северноатлантическият договор влиза в сила на 24 август 1949 г."
+            }
+          ],
+          "flag": "CA",
+          "description": "Държава-учредителка на НАТО. Подписва Северноатлантическия договор на 4 април 1949 г."
+        }
+      ]
+    },
+    {
+      "name": "Люксембург",
+      "id": "062e5d27-863b-463c-ac78-3375b8565c8a",
+      "periods": [
+        {
+          "name": "Люксембург",
+          "date": {
+            "range": [
+              "1949-08-24",
+              null
+            ],
+            "from": {
+              "date": "1949-08-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quote": "Северноатлантическият договор е подписан на 4 април 1949 г. във Вашингтон."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quoteOriginal": "Luxembourg was a founding member of NATO. The North Atlantic Treaty entered into force on 24 August 1949.",
+              "quote": "Люксембург е държава-учредителка на НАТО. Северноатлантическият договор влиза в сила на 24 август 1949 г."
+            }
+          ],
+          "flag": "LU",
+          "description": "Държава-учредителка на НАТО. Подписва Северноатлантическия договор на 4 април 1949 г."
+        }
+      ]
+    },
+    {
+      "name": "Нидерландия",
+      "id": "3d1982c9-b288-450f-96dd-9c8193b15a41",
+      "periods": [
+        {
+          "name": "Нидерландия",
+          "date": {
+            "range": [
+              "1949-08-24",
+              null
+            ],
+            "from": {
+              "date": "1949-08-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quote": "Северноатлантическият договор е подписан на 4 април 1949 г. във Вашингтон."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quoteOriginal": "The Netherlands was a founding member of NATO. The North Atlantic Treaty entered into force on 24 August 1949.",
+              "quote": "Нидерландия е държава-учредителка на НАТО. Северноатлантическият договор влиза в сила на 24 август 1949 г."
+            }
+          ],
+          "flag": "NL",
+          "description": "Държава-учредителка на НАТО. Подписва Северноатлантическия договор на 4 април 1949 г."
+        }
+      ]
+    },
+    {
+      "name": "Норвегия",
+      "id": "a7f50024-2bdf-4372-9e88-1e04eb0d4946",
+      "periods": [
+        {
+          "name": "Норвегия",
+          "date": {
+            "range": [
+              "1949-08-24",
+              null
+            ],
+            "from": {
+              "date": "1949-08-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quote": "Северноатлантическият договор е подписан на 4 април 1949 г. във Вашингтон."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quoteOriginal": "Norway was a founding member of NATO. The North Atlantic Treaty entered into force on 24 August 1949.",
+              "quote": "Норвегия е държава-учредителка на НАТО. Северноатлантическият договор влиза в сила на 24 август 1949 г."
+            }
+          ],
+          "flag": "NO",
+          "description": "Държава-учредителка на НАТО. Подписва Северноатлантическия договор на 4 април 1949 г."
+        }
+      ]
+    },
+    {
+      "name": "Португалия",
+      "id": "fbc3db21-cc97-4820-b0ab-55951f07e33e",
+      "periods": [
+        {
+          "name": "Португалия",
+          "date": {
+            "range": [
+              "1949-08-24",
+              null
+            ],
+            "from": {
+              "date": "1949-08-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quote": "Северноатлантическият договор е подписан на 4 април 1949 г. във Вашингтон."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quoteOriginal": "Portugal was a founding member of NATO. The North Atlantic Treaty entered into force on 24 August 1949.",
+              "quote": "Португалия е държава-учредителка на НАТО. Северноатлантическият договор влиза в сила на 24 август 1949 г."
+            }
+          ],
+          "flag": "PT",
+          "description": "Държава-учредителка на НАТО. Подписва Северноатлантическия договор на 4 април 1949 г."
+        }
+      ]
+    },
+    {
+      "name": "САЩ",
+      "id": "df7f646e-d9f6-45ff-9e7c-242fe39fca1f",
+      "periods": [
+        {
+          "name": "САЩ",
+          "date": {
+            "range": [
+              "1949-08-24",
+              null
+            ],
+            "from": {
+              "date": "1949-08-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quote": "Северноатлантическият договор е подписан на 4 април 1949 г. във Вашингтон."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quoteOriginal": "The United States was a founding member of NATO. The North Atlantic Treaty entered into force on 24 August 1949.",
+              "quote": "Съединените щати са държава-учредителка на НАТО. Северноатлантическият договор влиза в сила на 24 август 1949 г."
+            }
+          ],
+          "flag": "US",
+          "description": "Държава-учредителка на НАТО. Подписва Северноатлантическия договор на 4 април 1949 г."
+        }
+      ]
+    },
+    {
+      "name": "Франция",
+      "id": "1bde13d4-40e3-4820-9b0d-dbb30be10a78",
+      "periods": [
+        {
+          "name": "Франция",
+          "date": {
+            "range": [
+              "1949-08-24",
+              null
+            ],
+            "from": {
+              "date": "1949-08-24"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quote": "Северноатлантическият договор е подписан на 4 април 1949 г. във Вашингтон."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1949-08-24"
+              },
+              "quoteOriginal": "France was a founding member of NATO. The North Atlantic Treaty entered into force on 24 August 1949.",
+              "quote": "Франция е държава-учредителка на НАТО. Северноатлантическият договор влиза в сила на 24 август 1949 г."
+            }
+          ],
+          "flag": "FR",
+          "description": "Държава-учредителка на НАТО. Подписва Северноатлантическия договор на 4 април 1949 г.",
+          "comment": "Франция е учредителка на НАТО от 1949 г. През 1966 г. се оттегля от обединеното военно командване (но не от Алианса) по инициатива на Шарл дьо Гол. Завръща се в командната структура през 2009 г."
+        }
+      ]
+    },
+    {
+      "name": "Гърция",
+      "id": "ac54a851-38e6-4d6c-93ab-eb22ca4cc237",
+      "periods": [
+        {
+          "name": "Гърция",
+          "date": {
+            "range": [
+              "1952-02-18",
+              null
+            ],
+            "from": {
+              "date": "1952-02-18"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1952-02-18"
+              },
+              "quote": "Гърция и Турция се присъединяват към НАТО през февруари 1952 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1952-02-18"
+              },
+              "quoteOriginal": "Greece acceded to NATO on 18 February 1952.",
+              "quote": "Гърция се присъединява към НАТО на 18 февруари 1952 г."
+            }
+          ],
+          "flag": "GR",
+          "description": "Присъединява се към НАТО на 18 февруари 1952 г., заедно с Турция.",
+          "comment": "Гърция и Турция се присъединяват в първото разширяване на НАТО, продиктувано от стратегическото им значение в Средиземноморието по време на Студената война."
+        }
+      ]
+    },
+    {
+      "name": "Турция",
+      "id": "0003c0c4-59ba-463a-a395-848373d707a8",
+      "periods": [
+        {
+          "name": "Турция",
+          "date": {
+            "range": [
+              "1952-02-18",
+              null
+            ],
+            "from": {
+              "date": "1952-02-18"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1952-02-18"
+              },
+              "quote": "Гърция и Турция се присъединяват към НАТО през февруари 1952 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1952-02-18"
+              },
+              "quoteOriginal": "Turkey acceded to NATO on 18 February 1952.",
+              "quote": "Турция се присъединява към НАТО на 18 февруари 1952 г."
+            }
+          ],
+          "flag": "TR",
+          "description": "Присъединява се към НАТО на 18 февруари 1952 г., заедно с Гърция.",
+          "comment": "Гърция и Турция се присъединяват в първото разширяване на НАТО, продиктувано от стратегическото им значение в Средиземноморието по време на Студената война."
+        }
+      ]
+    },
+    {
+      "name": "Германия",
+      "id": "ef686b15-433a-48ed-8fd7-e9c1e75dd5d6",
+      "periods": [
+        {
+          "name": "Западна Германия",
+          "date": {
+            "range": [
+              "1955-05-06",
+              "1990-10-03"
+            ],
+            "from": {
+              "date": "1955-05-06"
+            },
+            "to": {
+              "date": "1990-10-03"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1955-05-06"
+              },
+              "to": {
+                "date": "1990-10-03"
+              },
+              "quote": "Включването на Западна Германия в организацията на 9 май 1955 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1955-05-06"
+              },
+              "to": {
+                "date": "1990-10-03"
+              },
+              "quoteOriginal": "West Germany acceded to NATO on 6 May 1955.",
+              "quote": "Западна Германия се присъединява към НАТО на 6 май 1955 г."
+            }
+          ],
+          "flag": "DE",
+          "description": "Западна Германия се присъединява към НАТО на 6 май 1955 г. чрез Парижките споразумения.",
+          "comment": "Членството на Западна Германия в НАТО е пряко следствие от Парижките споразумения (1954). Крайната дата (3 октомври 1990 г.) е Денят на германското обединение."
+        },
+        {
+          "name": "Германия",
+          "date": {
+            "range": [
+              "1990-10-03",
+              null
+            ],
+            "from": {
+              "date": "1990-10-03"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1990-10-03"
+              },
+              "quote": "След обединението на Германия на 3 октомври 1990 г. цялата страна е член на НАТО."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1990-10-03"
+              },
+              "quoteOriginal": "With German reunification on 3 October 1990, the former East German territory became part of NATO.",
+              "quote": "С обединението на Германия на 3 октомври 1990 г. бившата източногерманска територия става част от НАТО."
+            }
+          ],
+          "flag": "DE",
+          "description": "След обединението на 3 октомври 1990 г. обединена Германия продължава членството на Западна Германия в НАТО.",
+          "comment": "На 3 октомври 1990 г. бившата ГДР се присъединява към Федералната република, като обединена Германия автоматично наследява членството в НАТО."
+        }
+      ]
+    },
+    {
+      "name": "Испания",
+      "id": "7b57783c-8322-4fb0-a344-08060deb5726",
+      "periods": [
+        {
+          "name": "Испания",
+          "date": {
+            "range": [
+              "1982-05-30",
+              null
+            ],
+            "from": {
+              "date": "1982-05-30"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1982-05-30"
+              },
+              "quote": "Испания се присъединява към НАТО на 30 май 1982 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1982-05-30"
+              },
+              "quoteOriginal": "Spain acceded to NATO on 30 May 1982.",
+              "quote": "Испания се присъединява към НАТО на 30 май 1982 г."
+            }
+          ],
+          "flag": "ES",
+          "description": "Присъединява се към НАТО на 30 май 1982 г., последната страна, приета по време на Студената война.",
+          "comment": "Испания се присъединява към НАТО след края на франкистката диктатура и демократизацията. На референдум през 1986 г. испанците потвърждават членството, но при условие за неучастие във военната структура."
+        }
+      ]
+    },
+    {
+      "name": "Полша",
+      "id": "10ebca9f-14fa-44a8-981f-88917574b411",
+      "periods": [
+        {
+          "name": "Полша",
+          "date": {
+            "range": [
+              "1999-03-12",
+              null
+            ],
+            "from": {
+              "date": "1999-03-12"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1999-03-12"
+              },
+              "quote": "Полша, Унгария и Чехия се присъединяват към НАТО на 12 март 1999 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1999-03-12"
+              },
+              "quoteOriginal": "Poland acceded to NATO on 12 March 1999.",
+              "quote": "Полша се присъединява към НАТО на 12 март 1999 г."
+            }
+          ],
+          "flag": "PL",
+          "description": "Присъединява се към НАТО на 12 март 1999 г. в първата вълна на разширяване след Студената война.",
+          "comment": "Полша, Чехия и Унгария са приети в НАТО на 12 март 1999 г. — първото разширяване към бивши членки на Варшавския договор."
+        }
+      ]
+    },
+    {
+      "name": "Унгария",
+      "id": "c82bd625-e655-415f-8341-a3c1b29d6fb3",
+      "periods": [
+        {
+          "name": "Унгария",
+          "date": {
+            "range": [
+              "1999-03-12",
+              null
+            ],
+            "from": {
+              "date": "1999-03-12"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1999-03-12"
+              },
+              "quote": "Полша, Унгария и Чехия се присъединяват към НАТО на 12 март 1999 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1999-03-12"
+              },
+              "quoteOriginal": "Hungary acceded to NATO on 12 March 1999.",
+              "quote": "Унгария се присъединява към НАТО на 12 март 1999 г."
+            }
+          ],
+          "flag": "HU",
+          "description": "Присъединява се към НАТО на 12 март 1999 г. в първата вълна на разширяване след Студената война.",
+          "comment": "Полша, Чехия и Унгария са приети в НАТО на 12 март 1999 г. — първото разширяване към бивши членки на Варшавския договор."
+        }
+      ]
+    },
+    {
+      "name": "Чехия",
+      "id": "3d966c82-a046-4a65-b3db-68f4f3b4dfe5",
+      "periods": [
+        {
+          "name": "Чехия",
+          "date": {
+            "range": [
+              "1999-03-12",
+              null
+            ],
+            "from": {
+              "date": "1999-03-12"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "1999-03-12"
+              },
+              "quote": "Полша, Унгария и Чехия се присъединяват към НАТО на 12 март 1999 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "1999-03-12"
+              },
+              "quoteOriginal": "The Czech Republic acceded to NATO on 12 March 1999.",
+              "quote": "Чехия се присъединява към НАТО на 12 март 1999 г."
+            }
+          ],
+          "flag": "CZ",
+          "description": "Присъединява се към НАТО на 12 март 1999 г. в първата вълна на разширяване след Студената война.",
+          "comment": "Полша, Чехия и Унгария са приети в НАТО на 12 март 1999 г. — първото разширяване към бивши членки на Варшавския договор."
+        }
+      ]
+    },
+    {
+      "name": "България",
+      "id": "f9fefaeb-52c2-4d67-9f4c-f09ac67e8418",
+      "periods": [
+        {
+          "name": "България",
+          "date": {
+            "range": [
+              "2004-03-29",
+              null
+            ],
+            "from": {
+              "date": "2004-03-29"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "2004-03-29"
+              },
+              "quote": "България, заедно с шест други държави, се присъединява към НАТО на 29 март 2004 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "2004-03-29"
+              },
+              "quoteOriginal": "Bulgaria acceded to NATO on 29 March 2004.",
+              "quote": "България се присъединява към НАТО на 29 март 2004 г."
+            }
+          ],
+          "flag": "BG",
+          "description": "Присъединява се към НАТО на 29 март 2004 г. в най-голямото разширяване на Алианса (7 страни)."
+        }
+      ]
+    },
+    {
+      "name": "Естония",
+      "id": "e1514e21-fb1f-4054-9e81-3ea0d8261004",
+      "periods": [
+        {
+          "name": "Естония",
+          "date": {
+            "range": [
+              "2004-03-29",
+              null
+            ],
+            "from": {
+              "date": "2004-03-29"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "2004-03-29"
+              },
+              "quote": "Естония, заедно с шест други държави, се присъединява към НАТО на 29 март 2004 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "2004-03-29"
+              },
+              "quoteOriginal": "Estonia acceded to NATO on 29 March 2004.",
+              "quote": "Естония се присъединява към НАТО на 29 март 2004 г."
+            }
+          ],
+          "flag": "EE",
+          "description": "Присъединява се към НАТО на 29 март 2004 г. Първата балтийска държава в НАТО (заедно с Латвия и Литва).",
+          "comment": "Естония, Латвия и Литва се присъединяват в най-голямото разширяване на НАТО на 29 март 2004 г."
+        }
+      ]
+    },
+    {
+      "name": "Латвия",
+      "id": "bd2b6dcd-7304-41dd-a705-01ab33fd10d2",
+      "periods": [
+        {
+          "name": "Латвия",
+          "date": {
+            "range": [
+              "2004-03-29",
+              null
+            ],
+            "from": {
+              "date": "2004-03-29"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "2004-03-29"
+              },
+              "quote": "Латвия, заедно с шест други държави, се присъединява към НАТО на 29 март 2004 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "2004-03-29"
+              },
+              "quoteOriginal": "Latvia acceded to NATO on 29 March 2004.",
+              "quote": "Латвия се присъединява към НАТО на 29 март 2004 г."
+            }
+          ],
+          "flag": "LV",
+          "description": "Присъединява се към НАТО на 29 март 2004 г. заедно с другите балтийски държави."
+        }
+      ]
+    },
+    {
+      "name": "Литва",
+      "id": "ae3d38f0-971d-42f5-bc3d-b460c4c8343e",
+      "periods": [
+        {
+          "name": "Литва",
+          "date": {
+            "range": [
+              "2004-03-29",
+              null
+            ],
+            "from": {
+              "date": "2004-03-29"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "2004-03-29"
+              },
+              "quote": "Литва, заедно с шест други държави, се присъединява към НАТО на 29 март 2004 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "2004-03-29"
+              },
+              "quoteOriginal": "Lithuania acceded to NATO on 29 March 2004.",
+              "quote": "Литва се присъединява към НАТО на 29 март 2004 г."
+            }
+          ],
+          "flag": "LT",
+          "description": "Присъединява се към НАТО на 29 март 2004 г. заедно с другите балтийски държави."
+        }
+      ]
+    },
+    {
+      "name": "Румъния",
+      "id": "898d3c93-ab8d-4662-a155-90dc5c95a831",
+      "periods": [
+        {
+          "name": "Румъния",
+          "date": {
+            "range": [
+              "2004-03-29",
+              null
+            ],
+            "from": {
+              "date": "2004-03-29"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "2004-03-29"
+              },
+              "quote": "Румъния, заедно с шест други държави, се присъединява към НАТО на 29 март 2004 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "2004-03-29"
+              },
+              "quoteOriginal": "Romania acceded to NATO on 29 March 2004.",
+              "quote": "Румъния се присъединява към НАТО на 29 март 2004 г."
+            }
+          ],
+          "flag": "RO",
+          "description": "Присъединява се към НАТО на 29 март 2004 г. в най-голямото разширяване на Алианса."
+        }
+      ]
+    },
+    {
+      "name": "Словакия",
+      "id": "f4be35c5-a63a-44e1-8ef4-5d12099c5259",
+      "periods": [
+        {
+          "name": "Словакия",
+          "date": {
+            "range": [
+              "2004-03-29",
+              null
+            ],
+            "from": {
+              "date": "2004-03-29"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "2004-03-29"
+              },
+              "quote": "Словакия, заедно с шест други държави, се присъединява към НАТО на 29 март 2004 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "2004-03-29"
+              },
+              "quoteOriginal": "Slovakia acceded to NATO on 29 March 2004.",
+              "quote": "Словакия се присъединява към НАТО на 29 март 2004 г."
+            }
+          ],
+          "flag": "SK",
+          "description": "Присъединява се към НАТО на 29 март 2004 г. в най-голямото разширяване на Алианса."
+        }
+      ]
+    },
+    {
+      "name": "Словения",
+      "id": "48fd1647-73c5-488f-b37a-52d00cb372a7",
+      "periods": [
+        {
+          "name": "Словения",
+          "date": {
+            "range": [
+              "2004-03-29",
+              null
+            ],
+            "from": {
+              "date": "2004-03-29"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "2004-03-29"
+              },
+              "quote": "Словения, заедно с шест други държави, се присъединява към НАТО на 29 март 2004 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "2004-03-29"
+              },
+              "quoteOriginal": "Slovenia acceded to NATO on 29 March 2004.",
+              "quote": "Словения се присъединява към НАТО на 29 март 2004 г."
+            }
+          ],
+          "flag": "SI",
+          "description": "Присъединява се към НАТО на 29 март 2004 г. в най-голямото разширяване на Алианса."
+        }
+      ]
+    },
+    {
+      "name": "Албания",
+      "id": "c4b871f8-1605-4717-9b6a-8dea90249363",
+      "periods": [
+        {
+          "name": "Албания",
+          "date": {
+            "range": [
+              "2009-04-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2009,
+              "dateMonth": 4
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "dateYear": 2009,
+                "dateMonth": 4
+              },
+              "quote": "Албания и Хърватия се присъединяват към НАТО на 1 април 2009 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "dateYear": 2009,
+                "dateMonth": 4
+              },
+              "quoteOriginal": "Albania acceded to NATO on 1 April 2009.",
+              "quote": "Албания се присъединява към НАТО на 1 април 2009 г."
+            }
+          ],
+          "flag": "AL",
+          "description": "Присъединява се към НАТО на 1 април 2009 г., заедно с Хърватия.",
+          "comment": "Албания и Хърватия са поканени на срещата на върха в Букурещ (2008) и депозират инструментите за присъединяване на 1 април 2009 г."
+        }
+      ]
+    },
+    {
+      "name": "Хърватия",
+      "id": "9a16d6ae-4ffc-4793-ad9e-96d1d58de063",
+      "periods": [
+        {
+          "name": "Хърватия",
+          "date": {
+            "range": [
+              "2009-04-01",
+              null
+            ],
+            "from": {
+              "dateYear": 2009,
+              "dateMonth": 4
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "dateYear": 2009,
+                "dateMonth": 4
+              },
+              "quote": "Албания и Хърватия се присъединяват към НАТО на 1 април 2009 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "dateYear": 2009,
+                "dateMonth": 4
+              },
+              "quoteOriginal": "Croatia acceded to NATO on 1 April 2009.",
+              "quote": "Хърватия се присъединява към НАТО на 1 април 2009 г."
+            }
+          ],
+          "flag": "HR",
+          "description": "Присъединява се към НАТО на 1 април 2009 г., заедно с Албания.",
+          "comment": "Албания и Хърватия са поканени на срещата на върха в Букурещ (2008) и депозират инструментите за присъединяване на 1 април 2009 г."
+        }
+      ]
+    },
+    {
+      "name": "Черна гора",
+      "id": "0e3ca3b0-1152-488f-9825-53e83f5f51a3",
+      "periods": [
+        {
+          "name": "Черна гора",
+          "date": {
+            "range": [
+              "2017-06-05",
+              null
+            ],
+            "from": {
+              "date": "2017-06-05"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "2017-06-05"
+              },
+              "quote": "Черна гора се присъединява към НАТО на 5 юни 2017 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "2017-06-05"
+              },
+              "quoteOriginal": "Montenegro acceded to NATO on 5 June 2017.",
+              "quote": "Черна гора се присъединява към НАТО на 5 юни 2017 г."
+            }
+          ],
+          "flag": "ME",
+          "description": "Присъединява се към НАТО на 5 юни 2017 г."
+        }
+      ]
+    },
+    {
+      "name": "Северна Македония",
+      "id": "f430078e-b3e9-4db4-98ad-add68481d2db",
+      "periods": [
+        {
+          "name": "Северна Македония",
+          "date": {
+            "range": [
+              "2020-03-27",
+              null
+            ],
+            "from": {
+              "date": "2020-03-27"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "2020-03-27"
+              },
+              "quote": "Северна Македония се присъединява към НАТО на 27 март 2020 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "2020-03-27"
+              },
+              "quoteOriginal": "North Macedonia acceded to NATO on 27 March 2020.",
+              "quote": "Северна Македония се присъединява към НАТО на 27 март 2020 г."
+            }
+          ],
+          "flag": "MK",
+          "description": "Присъединява се към НАТО на 27 март 2020 г. след решаването на спора за името с Гърция.",
+          "comment": "Присъединяването е възможно след Преспанското споразумение (2018), с което страната променя името си от Македония на Северна Македония."
+        }
+      ]
+    },
+    {
+      "name": "Финландия",
+      "id": "e6801257-119a-419c-b811-ed9af6574944",
+      "periods": [
+        {
+          "name": "Финландия",
+          "date": {
+            "range": [
+              "2023-04-04",
+              null
+            ],
+            "from": {
+              "date": "2023-04-04"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "2023-04-04"
+              },
+              "quote": "Финландия се присъединява към НАТО на 4 април 2023 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "2023-04-04"
+              },
+              "quoteOriginal": "Finland acceded to NATO on 4 April 2023.",
+              "quote": "Финландия се присъединява към НАТО на 4 април 2023 г."
+            }
+          ],
+          "flag": "FI",
+          "description": "Присъединява се към НАТО на 4 април 2023 г. след руската инвазия в Украйна.",
+          "comment": "Финландия подава молба за членство на 18 май 2022 г. в отговор на руската инвазия в Украйна. Присъединява се на 4 април 2023 г., преодолявайки десетилетия на военна неутралност."
+        }
+      ]
+    },
+    {
+      "name": "Швеция",
+      "id": "f9e65be8-c7f7-4c05-be5a-77901582fc74",
+      "periods": [
+        {
+          "name": "Швеция",
+          "date": {
+            "range": [
+              "2024-03-07",
+              null
+            ],
+            "from": {
+              "date": "2024-03-07"
+            }
+          },
+          "sources": [
+            {
+              "name": "НАТО – Уикипедия (BG)",
+              "url": [
+                "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+              ],
+              "from": {
+                "date": "2024-03-07"
+              },
+              "quote": "Швеция се присъединява към НАТО на 7 март 2024 г."
+            },
+            {
+              "name": "Member states of NATO – Wikipedia (EN)",
+              "url": [
+                "https://en.wikipedia.org/wiki/Member_states_of_NATO"
+              ],
+              "from": {
+                "date": "2024-03-07"
+              },
+              "quoteOriginal": "Sweden acceded to NATO on 7 March 2024.",
+              "quote": "Швеция се присъединява към НАТО на 7 март 2024 г."
+            }
+          ],
+          "flag": "SE",
+          "description": "Присъединява се към НАТО на 7 март 2024 г. след руската инвазия в Украйна.",
+          "comment": "Швеция подава молба за членство на 18 май 2022 г. заедно с Финландия. Присъединяването е забавено от възражения на Турция и Унгария. Ратификацията приключва на 7 март 2024 г."
+        }
+      ]
+    }
+  ],
+  "lines": [
+    {
+      "id": "a1c2d3e4-5f67-4a89-b012-3c4d5e6f7a8b",
+      "name": "Подписване на Северноатлантическия договор",
+      "description": "На 4 април 1949 г. във Вашингтон дванадесет държави — САЩ, Канада, Великобритания, Франция, Белгия, Нидерландия, Люксембург, Норвегия, Дания, Исландия, Италия и Португалия — подписват Северноатлантическия договор (известен като Вашингтонски договор), с който се създава НАТО. Договорът влиза в сила на 24 август 1949 г.",
+      "date": {
+        "date": "1949-04-04"
+      },
+      "lineStyle": {
+        "color": "#004990",
+        "type": "solid",
+        "width": 2
+      },
+      "sources": [
+        {
+          "name": "НАТО – Уикипедия",
+          "url": [
+            "https://bg.wikipedia.org/wiki/%D0%9D%D0%90%D0%A2%D0%9E"
+          ],
+          "date": "1949-04-04",
+          "quote": "Организацията на Северноатлантическия договор е създадена на 4 април 1949 г. с подписването на Северноатлантическия договор."
+        },
+        {
+          "name": "NATO – Wikipedia",
+          "url": [
+            "https://en.wikipedia.org/wiki/NATO"
+          ],
+          "date": "1949-04-04",
+          "quoteOriginal": "NATO was established by the North Atlantic Treaty (also called the Washington Treaty) of 4 April 1949, which was signed by 12 founding members.",
+          "quote": "НАТО е създадена със Северноатлантическия договор (наричан и Вашингтонски договор) от 4 април 1949 г., подписан от 12 държави основателки."
+        }
+      ]
+    },
+    {
+      "id": "48f22df4-9a1d-4b7c-b770-0d86aac4281b",
+      "name": "Как Европа може да се защити с по-малко Америка",
+      "description": "Доклад на CSIS от Макс Бергман и Ото Свендсен, който анализира военните пропуски, които биха възникнали при значително намаляване на американското военно присъствие в Европа, и очертава пет ключови задачи за европейските държави: създаване на паневропейски сили, интегриране на оръжейните поръчки, разширяване на запасите, намаляване на зависимостта от американски ресурси и изграждане на резервираност в командните структури.",
+      "date": {
+        "date": "2025-10-08"
+      },
+      "lineStyle": {
+        "color": "#004990",
+        "type": "solid",
+        "width": 2
+      },
+      "sources": [
+        {
+          "name": "Как Европа може да се защити с по-малко Америка – Center for Strategic & International Studies – YouTube",
+          "url": [
+            "https://www.youtube.com/watch?v=RhQjiVgQbpI"
+          ],
+          "date": "2025-10-08",
+          "quoteOriginal": "How Europe Can Defend Itself with Less America",
+          "quote": "Как Европа може да се защити с по-малко Америка"
+        },
+        {
+          "name": "How Europe Can Defend Itself with Less America – CSIS",
+          "url": [
+            "https://www.csis.org/analysis/how-europe-can-defend-itself-less-america"
+          ],
+          "date": "2025-10-08",
+          "quoteOriginal": "With the war in Ukraine and a potential reduction of U.S. military presence in Europe on the horizon, there is a renewed imperative for European leaders to strengthen and integrate their defense capabilities.",
+          "quote": "С войната в Украйна и потенциалното намаляване на американското военно присъствие в Европа на хоризонта, има подновен императив европейските лидери да укрепят и интегрират отбранителните си способности."
+        }
+      ]
+    }
+  ]
+}
